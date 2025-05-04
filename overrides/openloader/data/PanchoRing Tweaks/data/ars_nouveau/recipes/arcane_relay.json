@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "gmg",
+    "mcm",
+    "gmg"
+  ],
+  "key": {
+    "g": {
+      "tag": "forge:ingots/gold"
+    },
+    "m": {
+      "tag": "forge:gems/mana"
+    },
+    "c": {
+      "tag": "forge:storage_blocks/redstone"
+    }
+  },
+  "result": {
+    "item": "ars_nouveau:arcane_relay"
+  }
+}

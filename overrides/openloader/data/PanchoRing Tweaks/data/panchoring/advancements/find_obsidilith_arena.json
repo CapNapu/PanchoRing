@@ -1,0 +1,29 @@
+{
+  "criteria": {
+    "obsidilith_arena": {
+      "conditions": {
+        "location": {
+          "feature": "bosses_of_mass_destruction:obsidilith_arena"
+        }
+      },
+      "trigger": "minecraft:location"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.find_obsidilith_arena.description"
+    },
+    "icon": {
+      "item": "bosses_of_mass_destruction:obsidilith_end_frame"
+    },
+    "title": {
+      "translate": "advancements.panchoring.find_obsidilith_arena.title"
+    }
+  },
+  "parent": "minecraft:end/enter_end_gateway",
+  "requirements": [
+    [
+      "obsidilith_arena"
+    ]
+  ]
+}

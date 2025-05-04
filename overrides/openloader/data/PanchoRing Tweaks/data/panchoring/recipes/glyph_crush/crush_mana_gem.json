@@ -1,0 +1,18 @@
+{
+  "type": "ars_nouveau:crush",
+  "input": {
+    "item": "ars_nouveau:arcane_ore"
+  },
+  "output": [
+    {
+      "item": "ars_nouveau:mana_gem",
+      "chance": 1.0,
+      "count": 1
+    },
+    {
+      "item": "ars_nouveau:mana_gem",
+      "chance": 0.75,
+      "count": 1
+    }
+  ]
+}

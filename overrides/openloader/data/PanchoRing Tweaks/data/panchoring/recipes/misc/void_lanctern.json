@@ -1,0 +1,23 @@
+{
+  "key": {
+    "#": {
+      "item": "cataclysm:void_stone"
+    },
+    "0": {
+      "item": "phantasm:stardust"
+    },
+    "1": {
+      "item": "phantasm:fallen_star"
+    }
+  },
+  "pattern": [
+    "#0#",
+    "010",
+    "#0#"
+  ],
+  "result": {
+    "count": 1,
+    "item": "cataclysm:void_lantern_block"
+  },
+  "type": "minecraft:crafting_shaped"
+}

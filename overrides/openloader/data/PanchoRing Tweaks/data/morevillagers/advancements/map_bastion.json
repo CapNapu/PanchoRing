@@ -1,0 +1,39 @@
+{
+  "criteria": {
+    "bastion": {
+      "conditions": {
+        "feature": "bastion_remnant"
+      },
+      "trigger": "minecraft:location"
+    },
+    "hasmap": {
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:filled_map"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.morevillagers.map_bastion.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:polished_blackstone_bricks"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.morevillagers.map_bastion.tittle"
+    }
+  },
+  "parent": "morevillagers:nether_trade",
+  "rewards": {
+    "experience": 200
+  }
+}

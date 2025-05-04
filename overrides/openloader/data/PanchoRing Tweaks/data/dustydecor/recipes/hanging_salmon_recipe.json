@@ -1,0 +1,18 @@
+{
+  "key": {
+    "a": {
+      "item": "supplementaries:rope"
+    },
+    "b": {
+      "item": "minecraft:salmon"
+    }
+  },
+  "pattern": [
+    "aaa",
+    "bbb"
+  ],
+  "result": {
+    "item": "dustydecor:hanging_salmon"
+  },
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OXO",
+    "FXF",
+    "OSO"
+  ],
+  "key": {
+    "S": {
+      "tag": "forge:rods/wooden"
+    },
+    "F": {
+      "item": "iceandfire:amphithere_feather"
+    },
+    "X": {
+      "tag": "minecraft:planks"
+    },
+    "O": {
+      "item": "minecraft:crying_obsidian"
+    }
+  },
+  "result": {
+    "item": "iceandfire:amphithere_macuahuitl"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "group": "wooden_stairs",
+  "key": {
+    "#": {
+      "item": "projectvibrantjourneys:tamarack_planks"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "item": "projectvibrantjourneys:tamarack_stairs"
+  },
+  "type": "minecraft:crafting_shaped"
+}

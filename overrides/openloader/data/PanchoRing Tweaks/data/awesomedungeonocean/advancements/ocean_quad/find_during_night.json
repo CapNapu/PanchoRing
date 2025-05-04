@@ -1,0 +1,22 @@
+{
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "display": {
+        "announce_to_chat": true,
+        "description": " Discover the Ocean quad dungeon during the night",
+        "frame": "challenge",
+        "hidden": false,
+        "icon": {
+            "item": "minecraft:filled_map"
+        },
+        "show_toast": true,
+        "title": "Find: Ocean quad"
+    },
+    "parent": "awesomedungeonocean:ocean_quad/find_normal",
+    "rewards": {
+        "experience": 10
+    }
+}

@@ -1,0 +1,148 @@
+{
+  "scale": 0.5,
+  "effects": {
+    "mood_sound": {
+      "sound": "minecraft:ambient.cave",
+      "tick_delay": 6000,
+      "block_search_extent": 8,
+      "offset": 2.0
+    },
+    "particle": {
+      "options": {
+        "type": "minecraft:ash"
+      },
+      "probability": 0.118093334
+    },
+    "sky_color": 7907327,
+    "fog_color": 13882581,
+    "water_color": 7499128,
+    "water_fog_color": 4341314
+  },
+  "surface_builder": "wythers:blackstone",
+  "carvers": {
+    "air": [
+      "minecraft:cave"
+    ],
+    "liquid": []
+  },
+  "starts": [
+    "minecraft:ruined_portal_nether"
+  ],
+  "features": [
+    [
+      "wythers:caves/volcano_ore_lava_cnb",
+      "wythers:caves/volcano_ore_air_center",
+      "wythers:caves/volcano_ore_air_cnb"
+    ],
+    [
+      "wythers:savanna/lake_volcanic"
+    ],
+    [],
+    [],
+    [
+      "wythers:volcanic/ore_basalt",
+      "wythers:savanna/delta_magma",
+      "wythers:savanna/delta_black_concrete_powder",
+      "wythers:savanna/delta_coarse_dirt",
+      "wythers:savanna/delta_coal_block"
+    ],
+    [],
+    [],
+    [
+      "wythers:generic/ore_base_basalt",
+      "wythers:volcanic/replace_netherrack_to_blackstone",
+      "minecraft:ore_magma",
+      "minecraft:ore_andesite",
+      "minecraft:ore_coal",
+      "minecraft:ore_iron",
+      "minecraft:ore_gold",
+      "minecraft:ore_redstone",
+      "minecraft:ore_diamond",
+      "minecraft:ore_lapis",
+	  "wythers:ores/ore_diamond_kimberlites",
+	  "wythers:savanna/double_squared_black_sand"
+    ],
+    [
+      "minecraft:patch_dead_bush_badlands",
+      "wythers:generic/patch_grass_dense",
+      "wythers:savanna/shattered_plateau_campfire_lava_tall",
+      "wythers:savanna/shattered_plateau_campfire_lava_short",
+      "wythers:volcanic/basalt_spikes",
+      "wythers:volcanic/basalt_spikes_tall"
+    ],
+    [
+      "wythers:caves/volcano_simple_air",
+      "wythers:caves/volcano_simple_magma",
+      "minecraft:freeze_top_layer",
+      "minecraft:spring_lava_double",
+      "minecraft:spring_closed_double"
+    ]
+  ],
+  "starts": [
+    "minecraft:stronghold",
+    "minecraft:ruined_portal_nether"
+  ],
+  "spawners": {
+    "monster": [
+      {
+        "type": "minecraft:spider",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:zombie",
+        "weight": 95,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:zombie_villager",
+        "weight": 5,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "minecraft:skeleton",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:creeper",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:slime",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:enderman",
+        "weight": 10,
+        "minCount": 1,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:witch",
+        "weight": 5,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ],
+    "ambient": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "player_spawn_friendly": false,
+  "precipitation": "none",
+  "temperature": 2.0,
+  "downfall": 0.0,
+  "category": "desert",
+  "depth": 1.0
+}

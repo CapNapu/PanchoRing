@@ -1,0 +1,30 @@
+﻿{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:firework_star",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:\'{\"text\":\"Núcleo de Escarcha\",\"color\":\"aqua\",\"italic\":false}\'},cc.sg.orb:1,Enchantments:[{}],HideFlags:33,AttributeModifiers:[{AttributeName:\"generic.armor_toughness\",Name:\"generic.armor_toughness\",Amount:2,Operation:0,UUID:[I;0,123712,0,108593],Slot:\"offhand\"}],CustomModelData:1}"
+            },
+            {
+              "function": "minecraft:copy_nbt",
+              "source": "this",
+              "ops": [
+                {
+                  "source": "XpP",
+                  "target": "random",
+                  "op": "append"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

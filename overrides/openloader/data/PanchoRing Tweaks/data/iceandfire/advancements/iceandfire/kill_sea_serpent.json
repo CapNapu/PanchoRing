@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "killed_fire_dragon": {
+      "conditions": {
+        "entity": {
+          "type": "iceandfire:sea_serpent"
+        }
+      },
+      "trigger": "minecraft:player_killed_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.iceandfire.kill_sea_serpent.description"
+    },
+    "icon": {
+      "item": "iceandfire:sea_serpent_fang"
+    },
+    "title": {
+      "translate": "advancements.iceandfire.kill_sea_serpent.title"
+    }
+  },
+  "parent": "iceandfire:iceandfire/root"
+}

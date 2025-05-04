@@ -1,0 +1,197 @@
+{
+  "surface_builder": "minecraft:swamp",
+  "depth": 0.6,
+  "scale": 0.4,
+  "temperature": 0.7,
+  "downfall": 0.8,
+  "precipitation": "rain",
+  "category": "forest",
+  "player_spawn_friendly": false,
+  "effects": {
+    "sky_color": 7907327,
+    "fog_color": 6771036,
+    "water_color": 9068663,
+    "water_fog_color": 5582916,
+    "grass_color": 1881499,
+    "foliage_color": 620388,
+    "mood_sound": {
+      "sound": "minecraft:ambient.cave",
+      "tick_delay": 6000,
+      "block_search_extent": 8,
+      "offset": 2
+    }
+  },
+  "starts": [
+    "minecraft:mansion",
+    "minecraft:mineshaft",
+    "minecraft:stronghold",
+    "minecraft:ruined_portal"
+  ],
+  "spawners": {
+    "monster": [
+      {
+        "type": "minecraft:spider",
+        "weight": 50,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:cave_spider",
+        "weight": 50,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:zombie",
+        "weight": 50,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:zombie_villager",
+        "weight": 5,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "minecraft:skeleton",
+        "weight": 50,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:stray",
+        "weight": 50,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:creeper",
+        "weight": 20,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:slime",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:phantom",
+        "weight": 30,
+        "minCount": 2,
+        "maxCount": 2
+      },
+      {
+        "type": "minecraft:vindicator",
+        "weight": 30,
+        "minCount": 1,
+        "maxCount": 2
+      },
+      {
+        "type": "minecraft:ravager",
+        "weight": 15,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "minecraft:witch",
+        "weight": 30,
+        "minCount": 3,
+        "maxCount": 4
+      }
+    ],
+    "creature": [
+      {
+        "type": "minecraft:mooshroom",
+        "weight": 8,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:cow",
+        "weight": 8,
+        "minCount": 2,
+        "maxCount": 4
+      }
+    ],
+    "ambient": [
+      {
+        "type": "minecraft:bat",
+        "weight": 10,
+        "minCount": 8,
+        "maxCount": 8
+      }
+    ],
+    "water_creature": [],
+    "water_ambient": [
+      {
+        "type": "minecraft:pufferfish",
+        "weight": 5,
+        "minCount": 1,
+        "maxCount": 3
+      }
+    ],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "carvers": {
+    "air": [
+      "minecraft:cave"
+    ]
+  },
+  "features": [
+    [],
+    [
+      "minecraft:lake_water"
+    ],
+    [],
+    [
+      "minecraft:monster_room"
+    ],
+    [],
+    [],
+    [
+      "wythers:generic/heightmap_ore_podzol_in_grass",
+      "minecraft:ore_dirt",
+      "minecraft:ore_gravel",
+      "minecraft:ore_granite",
+      "minecraft:ore_diorite",
+      "minecraft:ore_andesite",
+      "minecraft:ore_coal",
+      "minecraft:ore_iron",
+      "minecraft:ore_gold",
+      "minecraft:ore_redstone",
+      "minecraft:ore_diamond",
+      "minecraft:ore_lapis",
+      "minecraft:disk_clay"
+    ],
+    [],
+    [
+      "wythers:dark_forest/vegetation_giant",
+      "wythers:dark_forest/patch_twisting_vines_base",
+      "wythers:dark_forest/patch_twisting_vines_middle",
+      "wythers:dark_forest/patch_twisting_vines_bloom",
+      "wythers:dark_forest/patch_twisting_vines_top",
+      "wythers:dark_forest/simple_block_shroomlight",
+      "wythers:dark_forest/patch_nether_sprouts",
+      "wythers:dark_forest/patch_warped_roots",
+      "wythers:dark_forest/patch_allium",
+      "wythers:mountains/patch_flowers_double",
+      "minecraft:twisting_vines",
+      "minecraft:patch_grass_savanna",
+      "minecraft:patch_dead_bush",
+      "minecraft:patch_waterlilly",
+      "minecraft:brown_mushroom_swamp",
+      "minecraft:red_mushroom_swamp",
+      "minecraft:brown_mushroom_normal",
+      "minecraft:red_mushroom_normal",
+      "minecraft:spring_water",
+      "minecraft:seagrass_swamp"
+    ],
+    [
+      "minecraft:freeze_top_layer"
+    ]
+  ]
+}

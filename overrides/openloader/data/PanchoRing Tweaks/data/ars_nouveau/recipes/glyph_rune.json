@@ -1,0 +1,6 @@
+{
+  "type": "ars_nouveau:glyph_recipe",
+  "tier": "ONE",
+  "input": "ars_nouveau:mana_bloom",
+  "output": "ars_nouveau:glyph_rune"
+}

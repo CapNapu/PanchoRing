@@ -1,0 +1,79 @@
+
+[ArsNouveauLootConfig]
+
+	#Part of ArsNouveau loot data was hard-coded, but now you can tweak them here
+	#TheNumberOfItems = basicCount + aRandomNumberBetweenZeroAndMaxCount
+	#Another example, if you turn 'manaGem' off, this items will not appear in loots anymore.
+	[ArsNouveauLootConfig.BasicLoot]
+		manaGem = true
+		wildenSpike = true
+		#Range: 1 ~ 64
+		wildenSpikeMaxCount = 3
+		#Range: 0 ~ 64
+		wildenSpikeBasicCount = 1
+		#Range: 1 ~ 64
+		wildenHornMaxCount = 3
+		#Range: 1 ~ 64
+		wildenWingMaxCount = 3
+		#Range: 0 ~ 64
+		wildenWingBasicCount = 1
+		wildenWing = true
+		#Range: 1 ~ 64
+		manaGemMaxCount = 5
+		#Range: 1 ~ 64
+		manaBerryBushMaxCount = 3
+		strongManaRegenPotion = true
+		manaBerryBush = true
+		#Range: 0 ~ 64
+		manaGemBasicCount = 1
+		#Range: 0 ~ 64
+		manaBerryBushBasicCount = 1
+		#Range: 0 ~ 64
+		wildenHornBasicCount = 1
+		manaRegenPotion = true
+		wildenHorn = true
+		longManaRegenPotion = true
+
+	[ArsNouveauLootConfig.RareLoot]
+		glowTrap = true
+		theShadowsTemporaryTunnel = true
+		takeoff = true
+		gootasticsTelekineticFishingRod = true
+		baileysBovineRocket = true
+		xacrisTinyHut = true
+		runeOfRenewing = true
+		farfallasFrostyFlames = true
+		warpImpact = true
+		arachnesWeaving = true
+		potentToxin = true
+		fireball = true
+		vault = true
+		knockedOutOfOrbit = true
+
+	[ArsNouveauLootConfig.UncommonLoot]
+		#Range: 0 ~ 64
+		warpScrollBasicCount = 1
+		warpScroll = true
+		sylphShard = true
+		drygmyShard = true
+		#Range: 0 ~ 64
+		pierceArrowBasicCount = 16
+		#Range: 0 ~ 64
+		splitArrowBasicCount = 16
+		#Range: 0 ~ 64
+		amplifyArrowMaxCount = 16
+		wixieShard = true
+		#Range: 1 ~ 64
+		warpScrollMaxCount = 2
+		carbuncleShard = true
+		#Range: 0 ~ 64
+		amplifyArrowBasicCount = 16
+		ritualTablets = true
+		splitArrow = true
+		#Range: 0 ~ 64
+		pierceArrowMaxCount = 16
+		#Range: 0 ~ 64
+		splitArrowMaxCount = 16
+		amplifyArrow = true
+		pierceArrow = true
+

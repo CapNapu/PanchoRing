@@ -1,0 +1,35 @@
+{
+  "criteria": {
+    "ender_backpack": {
+      "conditions": {
+        "items": [
+          {
+            "item": "improvedbackpacks:ender_backpack"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.improvedbackpacks.ender_backpack.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "improvedbackpacks:ender_backpack"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.improvedbackpacks.ender_backpack.title"
+    }
+  },
+  "parent": "improvedbackpacks:backpack",
+  "requirements": [
+    [
+      "ender_backpack"
+    ]
+  ]
+}

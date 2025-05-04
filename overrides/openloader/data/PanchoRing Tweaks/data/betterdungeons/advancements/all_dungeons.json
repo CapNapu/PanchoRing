@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "in_better_monster_room": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "betterdungeons.advancements.all_dungeons.description"
+    },
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:diamond_sword"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "betterdungeons.advancements.all_dungeons.title"
+    }
+  },
+  "parent": "betterdungeons:root",
+  "requirements": [
+    [
+      "in_better_monster_room"
+    ]
+  ]
+}

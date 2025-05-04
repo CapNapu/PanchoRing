@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "flag": "speaker_block",
+      "type": "supplementaries:flag"
+    }
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:planks"
+    },
+    "1": {
+      "tag": "forge:ingots/copper"
+    }
+  },
+  "pattern": [
+    "000",
+    "010",
+    "000"
+  ],
+  "result": {
+    "count": 1,
+    "item": "supplementaries:speaker_block"
+  },
+  "type": "minecraft:crafting_shaped"
+}

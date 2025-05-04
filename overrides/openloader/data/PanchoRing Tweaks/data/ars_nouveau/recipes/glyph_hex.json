@@ -1,0 +1,6 @@
+{
+  "type": "ars_nouveau:glyph_recipe",
+  "tier": "THREE",
+  "input": "bosses_of_mass_destruction:ancient_anima",
+  "output": "ars_nouveau:glyph_hex"
+}

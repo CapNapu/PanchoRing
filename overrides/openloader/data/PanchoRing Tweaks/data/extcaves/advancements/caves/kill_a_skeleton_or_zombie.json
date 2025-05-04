@@ -1,0 +1,29 @@
+{
+	"criteria": {
+		"minecraft:zombie": {
+			"trigger": "minecraft:impossible"
+		}
+	},
+	"display": {
+		"announce_to_chat": false,
+		"description": {
+			"translate": "advancements.caves.kill_a_skeleton_or_zombie.description"
+		},
+		"frame": "task",
+		"hidden": true,
+		"icon": {
+			"item": "minecraft:iron_sword",
+			"nbt": "{Damage:0}"
+		},
+		"show_toast": false,
+		"title": {
+			"translate": "advancements.caves.kill_a_skeleton_or_zombie.title"
+		}
+	},
+	"parent": "extcaves:caves/root",
+	"requirements": [
+		[
+			"minecraft:zombie"
+		]
+	]
+}

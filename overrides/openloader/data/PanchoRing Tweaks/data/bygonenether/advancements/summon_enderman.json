@@ -1,0 +1,39 @@
+{
+  "criteria": {
+    "summoned": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "bygonenether:warped_enderman"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:summoned_entity"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.bygonenether.summon_enderman.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:ender_pearl"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.bygonenether.summon_enderman.title"
+    }
+  },
+  "parent": "panchoring:warped_ender_pearl",
+  "requirements": [
+    [
+      "summoned"
+    ]
+  ]
+}

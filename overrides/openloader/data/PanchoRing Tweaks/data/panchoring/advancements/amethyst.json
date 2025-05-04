@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "amethyst": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:amythest_gem"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.panchoring.amethyst.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "iceandfire:amythest_gem"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.panchoring.amethyst.title"
+    }
+  },
+  "parent": "panchoring:sapphire"
+}

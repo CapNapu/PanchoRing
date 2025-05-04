@@ -1,0 +1,24 @@
+{
+    "criteria": {
+        "tame_rat": {
+            "conditions": {
+                "entity": {
+                    "type": "iceandfire:amphithere"
+                }
+            },
+            "trigger": "minecraft:tame_animal"
+        }
+    },
+    "display": {
+        "description": {
+            "translate": "advancements.iceandfire.tame_amphithere.description"
+        },
+        "icon": {
+            "item": "iceandfire:amphithere_feather"
+        },
+        "title": {
+            "translate": "advancements.iceandfire.tame_amphithere.title"
+        }
+    },
+    "parent": "iceandfire:iceandfire/root"
+}

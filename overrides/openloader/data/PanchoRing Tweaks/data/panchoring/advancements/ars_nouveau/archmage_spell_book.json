@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "archmage_spell_book": {
+      "conditions": {
+        "items": [
+          {
+            "item": "ars_nouveau:archmage_spell_book"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.panchoring.ars.archmage_spell_book.description"
+    },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "ars_nouveau:archmage_spell_book"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.panchoring.ars.archmage_spell_book.title"
+    }
+  },
+  "parent": "panchoring:ars_nouveau/apprentice_spell_book"
+}

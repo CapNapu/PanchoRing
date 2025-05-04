@@ -1,0 +1,56 @@
+{
+  "type": "ars_nouveau:enchanting_apparatus",
+  "item_1": [
+    {
+      "tag": "forge:nuggets/silver"
+    }
+  ],
+  "item_2": [
+    {
+      "tag": "forge:nuggets/silver"
+    }
+  ],
+  "item_3": [
+    {
+      "tag": "forge:nuggets/silver"
+    }
+  ],
+  "item_4": [
+    {
+      "tag": "forge:nuggets/silver"
+    }
+  ],
+  "item_5": [
+    {
+      "tag": "forge:nuggets/silver"
+    }
+  ],
+  "item_6": [
+    {
+      "tag": "forge:gems/mana"
+    }
+  ],
+  "item_7": [
+    {
+      "tag": "forge:gems/mana"
+    }
+  ],
+  "item_8": [
+    {
+      "tag": "forge:gems/mana"
+    }
+  ],
+  "item_9": [
+    {
+      "item": "minecraft:book"
+    }
+  ],
+  "reagent": [
+    {
+      "item": "minecraft:egg"
+    }
+  ],
+  "output": {
+    "item": "ars_nouveau:whelp_charm"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "key": {
+    "0": {
+      "item": "minecraft:purpur_block"
+    },
+    "1": {
+      "item": "minecraft:shroomlight"
+    }
+  },
+  "pattern": [
+    "000",
+    "010",
+    "000"
+  ],
+  "result": {
+    "count": 2,
+    "item": "phantasm:purpur_lamp"
+  },
+  "type": "minecraft:crafting_shaped"
+}

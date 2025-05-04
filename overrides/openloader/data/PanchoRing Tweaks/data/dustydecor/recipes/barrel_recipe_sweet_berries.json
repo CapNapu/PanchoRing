@@ -1,0 +1,19 @@
+{
+  "key": {
+    "a": {
+      "item": "minecraft:sweet_berries"
+    },
+    "b": {
+      "item": "dustydecor:empty_barrel"
+    }
+  },
+  "pattern": [
+    "aaa",
+    "aaa",
+    " b "
+  ],
+  "result": {
+    "item": "dustydecor:sweet_berries_barrel"
+  },
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,0 +1,28 @@
+{
+    "criteria": {
+        "church": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "display": {
+        "announce_to_chat": true,
+        "description": {
+            "translate": "advancements.mostructures.church.description"
+        },
+        "frame": "task",
+        "hidden": false,
+        "icon": {
+            "item": "minecraft:arrow"
+        },
+        "show_toast": true,
+        "title": {
+            "translate": "advancements.mostructures.church.title"
+        }
+    },
+    "parent": "mostructures:root",
+    "requirements": [
+        [
+            "church"
+        ]
+    ]
+}

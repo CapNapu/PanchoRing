@@ -1,0 +1,18 @@
+{
+  "key": {
+    "a": {
+      "item": "minecraft:glass"
+    },
+    "b": {
+      "item": "extcaves:brick_half"
+    }
+  },
+  "pattern": [
+    "ab",
+    "ba"
+  ],
+  "result": {
+    "item": "dustydecor:jars"
+  },
+  "type": "minecraft:crafting_shaped"
+}

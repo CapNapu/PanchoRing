@@ -1,0 +1,16 @@
+{
+  "built_in_enchantments": [
+    {
+      "enchantment": "minecraft:punch",
+      "level": 1
+    },
+    {
+      "enchantment": "dungeons_gear:committed",
+      "level": 1
+    }
+  ],
+  "default_charge_time": 20,
+  "durability": 384,
+  "rarity": "RARE",
+  "unique": true
+}

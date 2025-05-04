@@ -1,0 +1,16 @@
+{
+    "powers": [
+        "rpg_origins_pr:equipment_archer",
+        "rpg_origins_pr:marksman",
+        "rpg_origins_pr:marksman_bomb",
+        "rpg_origins_pr:quiver",
+        "rpg_origins_pr:untrained",
+        "rpg_origins_pr:inexperienced",
+        "rpg_origins_pr:mage_robes_not",
+        "rpg_origins_pr:heavy_weapons_not"
+    ],
+    "icon": {
+        "item": "minecraft:bow"
+    },
+    "impact": 2
+}

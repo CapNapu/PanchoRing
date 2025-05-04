@@ -1,0 +1,18 @@
+{
+  "group": "wooden_stairs",
+  "key": {
+    "#": {
+      "item": "projectvibrantjourneys:cottonwood_planks"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "item": "projectvibrantjourneys:cottonwood_stairs"
+  },
+  "type": "minecraft:crafting_shaped"
+}

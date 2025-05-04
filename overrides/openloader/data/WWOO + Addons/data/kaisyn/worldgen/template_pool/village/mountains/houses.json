@@ -1,0 +1,150 @@
+{
+  "name": "kaisyn:village/mountains/houses",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 2,
+      "element": {
+        "location": "kaisyn:village/mountains/houses/mountains_animal_pen_1",
+        "processors": "kaisyn:mountain_street",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 3,
+      "element": {
+        "location": "kaisyn:village/mountains/houses/mountains_aimal_pen_2",
+        "processors": "kaisyn:mountain_street",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "kaisyn:village/mountains/houses/mountains_armorer_house_1",
+        "processors": "kaisyn:mountain_street",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "kaisyn:village/mountains/houses/mountains_big_house_1",
+        "processors": "kaisyn:mountain_street",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+     "weight": 5,
+     "element": {
+       "location": "kaisyn:village/mountains/streets/houses/mountains_fletcher_house_1",
+       "processors": "kaisyn:mountain_street",
+       "projection": "rigid",
+       "element_type": "minecraft:legacy_single_pool_element"
+     }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "kaisyn:village/mountains/houses/mountains_library_1",
+        "processors": "kaisyn:mountain_street",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "kaisyn:village/mountains/houses/mountains_medium_house_1",
+        "processors": "kaisyn:mountain_street",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "kaisyn:village/mountains/houses/mountains_medium_house_2",
+        "processors": "kaisyn:mountain_street",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "kaisyn:village/mountains/houses/mountains_medium_house_3",
+        "processors": "kaisyn:mountain_street",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 3,
+      "element": {
+        "location": "kaisyn:village/mountains/houses/mountains_medium_house_4",
+        "processors": "kaisyn:mountain_street",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 3,
+      "element": {
+        "location": "kaisyn:village/mountains/houses/mountains_medium_house_5",
+        "processors": "kaisyn:mountain_street",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 3,
+      "element": {
+        "location": "kaisyn:village/mountains/houses/mountains_small_house_1",
+        "processors": "kaisyn:mountain_street",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 3,
+      "element": {
+        "location": "kaisyn:village/mountains/houses/mountains_small_house_2",
+        "processors": "kaisyn:mountain_street",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 3,
+      "element": {
+        "location": "kaisyn:village/mountains/houses/mountains_temple_1",
+        "processors": "kaisyn:mountain_street",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "kaisyn:village/mountains/houses/mountains_temple_2",
+        "processors": "kaisyn:mountain_street",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "kaisyn:village/mountains/houses/mountains_weaponsmith_1",
+        "processors": "kaisyn:mountain_street",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

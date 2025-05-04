@@ -1,0 +1,19 @@
+{
+    "criteria": {
+        "bestiary": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "display": {
+        "description": {
+            "translate": "advancements.iceandfire.lectern.description"
+        },
+        "icon": {
+            "item": "iceandfire:lectern"
+        },
+        "title": {
+            "translate": "advancements.iceandfire.lectern.title"
+        }
+    },
+    "parent": "panchoring:troll_weapon"
+}

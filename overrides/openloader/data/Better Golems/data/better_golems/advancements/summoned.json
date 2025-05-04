@@ -1,0 +1,26 @@
+{
+	"criteria": {
+		"summoned_golem": {
+			"trigger": "minecraft:summoned_entity",
+			"conditions": {
+				"entity": [
+					{
+						"condition": "minecraft:entity_properties",
+						"entity": "this",
+						"predicate": {
+							"type": "minecraft:iron_golem"
+						}
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"summoned_golem"
+		]
+	],
+	"rewards": {
+		"function": "better_golems:advancements/summoned"
+	}
+}

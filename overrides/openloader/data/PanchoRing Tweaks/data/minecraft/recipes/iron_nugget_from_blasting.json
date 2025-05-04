@@ -1,0 +1,188 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": [
+    {
+      "item": "minecraft:iron_pickaxe"
+    },
+    {
+      "item": "minecraft:iron_shovel"
+    },
+    {
+      "item": "minecraft:iron_axe"
+    },
+    {
+      "item": "minecraft:iron_hoe"
+    },
+    {
+      "item": "minecraft:iron_sword"
+    },
+    {
+      "item": "extcaves:rusty_pickaxe"
+    },
+    {
+      "item": "extcaves:rusty_sword"
+    },
+    {
+      "item": "dungeons_gear:sword"
+    },
+    {
+      "item": "dungeons_gear:katana"
+    },
+    {
+      "item": "dungeons_gear:cutlass"
+    },
+    {
+      "item": "dungeons_gear:claymore"
+    },
+    {
+      "item": "dungeons_gear:pickaxe"
+    },
+    {
+      "item": "dungeons_gear:axe"
+    },
+    {
+      "item": "dungeons_gear:double_axe"
+    },
+    {
+      "item": "dungeons_gear:mace"
+    },
+    {
+      "item": "dungeons_gear:sickle"
+    },
+    {
+      "item": "dungeons_gear:spear"
+    },
+    {
+      "item": "dungeons_gear:glaive"
+    },
+    {
+      "item": "dungeons_gear:dagger"
+    },
+    {
+      "item": "dungeons_gear:rapier"
+    },
+    {
+      "item": "mowziesmobs:naga_fang_dagger"
+    },
+    {
+      "item": "minecraft:shield"
+    },
+    {
+      "item": "minecraft:flint_and_steel"
+    },
+    {
+      "item": "minecraft:shears"
+    },
+    {
+      "item": "minecraft:bucket"
+    },
+    {
+      "item": "supplementaries:wrench"
+    },
+    {
+      "item": "minecraft:compass"
+    },
+    {
+      "item": "iceandfire:dragon_flute"
+    },
+    {
+      "item": "comforts:rope_and_nail"
+    },
+    {
+      "item": "minecraft:tripwire_hook"
+    },
+    {
+      "item": "minecraft:chain"
+    },
+    {
+      "item": "iceandfire:chain"
+    },
+    {
+      "item": "iceandfire:chain_sticky"
+    },
+    {
+      "item": "minecraft:iron_bars"
+    },
+    {
+      "item": "supplementaries:iron_gate"
+    },
+    {
+      "item": "minecraft:lantern"
+    },
+    {
+      "item": "minecraft:soul_lantern"
+    },
+    {
+      "item": "infernalexp:glow_lantern"
+    },
+    {
+      "item": "supplementaries:sconce"
+    },
+    {
+      "item": "supplementaries:sconce_soul"
+    },
+    {
+      "item": "supplementaries:sconce_glow"
+    },
+    {
+      "item": "supplementaries:sconce_lever"
+    },
+    {
+      "item": "supplementaries:goblet"
+    },
+    {
+      "item": "dustydecor:wedged_knife"
+    },
+    {
+      "item": "dustydecor:wedged_cleaver"
+    },
+    {
+      "item": "dustydecor:frying_pan"
+    },
+    {
+      "item": "dustydecor:corrugated_metal_block"
+    },
+    {
+      "item": "dustydecor:corrugated_metal_slab"
+    },
+    {
+      "item": "dustydecor:corrugated_metal_stairs"
+    },
+    {
+      "item": "dustydecor:corrugated_door"
+    },
+    {
+      "item": "dustydecor:corrugated_metal_trapdoor"
+    },
+    {
+      "item": "dustydecor:corrugated_metal_button"
+    },
+    {
+      "item": "dustydecor:corrugated_metal_pressure_plate"
+    },
+    {
+      "item": "dustydecor:corrugated_metal_fence"
+    },
+    {
+      "item": "dustydecor:corrugated_metal_roofing"
+    },
+    {
+      "item": "dustydecor:dusty_anchor"
+    },
+    {
+      "item": "minecraft:rail"
+    },
+    {
+      "item": "minecraft:powered_rail"
+    },
+    {
+      "item": "minecraft:detector_rail"
+    },
+    {
+      "item": "minecraft:activator_rail"
+    }
+  ],
+  "result": "minecraft:iron_nugget",
+  "experience": 0.1,
+  "cookingtime": 100
+}

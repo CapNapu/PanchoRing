@@ -1,0 +1,28 @@
+{
+  "criteria": {
+    "in_phantom": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.progressive_difficulty.find_flying_phantom.description"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.progressive_difficulty.find_flying_phantom.title"
+    }
+  },
+  "parent": "majruszs_difficulty:progressive_difficulty/ender_dragon_treasure_bag_16",
+  "requirements": [
+    [
+      "in_phantom"
+    ]
+  ]
+}

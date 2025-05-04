@@ -1,0 +1,44 @@
+{
+  "armorSetName": "Frost",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "dungeons_gear:frost_helmet",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:frost_chestplate",
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:frost_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:frost_boots",
+    "mustBeEmpty": false
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "epicfight:stun_armor",
+      "value": 5.0,
+      "modifierUUID": "14ff369a-1b32-48ba-b8fe-894fe53fb3c8",
+      "attributeOperation": 0,
+      "interactionType": "self",
+      "interactionDuration": 150,
+      "hideBonusDescription": true
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "name": "mowziesmobs:frozen",
+      "value": 0.0,
+      "interactionType": "immunity",
+      "interactionDuration": 150,
+      "hideBonusDescription": true
+    }
+  ],
+  "hideGeneratedTooltip": true
+}

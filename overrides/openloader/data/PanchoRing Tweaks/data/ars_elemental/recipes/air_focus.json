@@ -1,0 +1,31 @@
+{
+  "item_1": [
+    {
+      "item": "minecraft:feather"
+    }
+  ],
+  "item_2": [
+    {
+      "item": "minecraft:feather"
+    }
+  ],
+  "item_3": [
+    {
+      "item": "iceandfire:amphithere_feather"
+    }
+  ],
+  "item_4": [
+    {
+      "item": "iceandfire:amphithere_feather"
+    }
+  ],
+  "output": {
+    "item": "ars_elemental:air_focus"
+  },
+  "reagent": [
+    {
+      "tag": "panchoring:elemental_foci_to_air"
+    }
+  ],
+  "type": "ars_nouveau:enchanting_apparatus"
+}

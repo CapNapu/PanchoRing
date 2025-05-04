@@ -1,0 +1,7 @@
+{
+  "config": {
+    "start_pool": "kaisyn:norge/house",
+    "size": 7
+  },
+  "type": "minecraft:village"
+}

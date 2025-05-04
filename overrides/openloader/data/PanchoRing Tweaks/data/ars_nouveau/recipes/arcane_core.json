@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "yxy",
+    "y y",
+    "yxy"
+  ],
+  "key": {
+    "y": {
+      "tag": "forge:ingots/gold"
+    },
+    "x": {
+      "item": "ars_nouveau:arcane_stone"
+    }
+  },
+  "result": {
+    "item": "ars_nouveau:arcane_core"
+  }
+}

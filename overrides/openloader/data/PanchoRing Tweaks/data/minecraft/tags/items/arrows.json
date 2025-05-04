@@ -1,0 +1,20 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:arrow",
+    "minecraft:spectral_arrow",
+    "minecraft:tipped_arrow",
+    "alexsmobs:shark_tooth_arrow",
+    "ars_nouveau:amplify_arrow",
+    "ars_nouveau:pierce_arrow",
+    "ars_nouveau:split_arrow",
+    "cataclysm:void_scatter_arrow",
+    "iceandfire:amphithere_arrow",
+    "iceandfire:dragonbone_arrow",
+    "iceandfire:hydra_arrow",
+    "iceandfire:sea_serpent_arrow",
+    "iceandfire:stymphalian_arrow",
+    "supplementaries:amethyst_arrow",
+    "supplementaries:rope_arrow"
+  ]
+}

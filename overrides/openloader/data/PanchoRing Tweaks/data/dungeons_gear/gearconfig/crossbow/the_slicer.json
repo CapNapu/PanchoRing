@@ -1,0 +1,12 @@
+{
+  "built_in_enchantments": [
+    {
+      "enchantment": "minecraft:piercing",
+      "level": 1
+    }
+  ],
+  "default_charge_time": 25,
+  "durability": 384,
+  "rarity": "UNCOMMON",
+  "unique": true
+}

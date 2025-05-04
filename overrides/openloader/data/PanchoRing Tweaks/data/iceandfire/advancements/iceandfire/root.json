@@ -1,0 +1,22 @@
+{
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "display": {
+        "announce_to_chat": true,
+        "background": "iceandfire:textures/block/dragonscale_red.png",
+        "description": {
+            "translate": "advancements.iceandfire.root.description"
+        },
+        "hidden": false,
+        "icon": {
+            "item": "iceandfire:dragon_skull_fire"
+        },
+        "show_toast": true,
+        "title": {
+            "translate": "advancements.iceandfire.root.title"
+        }
+    }
+}

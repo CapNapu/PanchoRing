@@ -1,0 +1,17 @@
+{
+    "key": {
+        "#": {
+            "item": "cataclysm:chorus_planks"
+        }
+    },
+    "pattern": [
+        "#  ",
+        "## ",
+        "###"
+    ],
+    "result": {
+        "count": 6,
+        "item": "cataclysm:chorus_stairs"
+    },
+    "type": "minecraft:crafting_shaped"
+}

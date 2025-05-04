@@ -1,0 +1,19 @@
+{
+  "key": {
+    "a": {
+      "item": "minecraft:stick"
+    },
+    "b": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "pattern": [
+    "bb",
+    "bb",
+    " a"
+  ],
+  "result": {
+    "item": "dustydecor:wedged_cleaver"
+  },
+  "type": "minecraft:crafting_shaped"
+}

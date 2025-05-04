@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "killed_fire_dragon": {
+      "conditions": {
+        "entity": {
+          "type": "iceandfire:siren"
+        }
+      },
+      "trigger": "minecraft:player_killed_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.iceandfire.kill_siren.description"
+    },
+    "icon": {
+      "item": "iceandfire:siren_tear"
+    },
+    "title": {
+      "translate": "advancements.iceandfire.kill_siren.title"
+    }
+  },
+  "parent": "iceandfire:iceandfire/root"
+}

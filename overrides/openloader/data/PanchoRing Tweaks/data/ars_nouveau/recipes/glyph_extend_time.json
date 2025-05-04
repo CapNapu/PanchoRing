@@ -1,0 +1,6 @@
+{
+  "type": "ars_nouveau:glyph_recipe",
+  "tier": "TWO",
+  "input": "iceandfire:amythest_gem",
+  "output": "ars_nouveau:glyph_extend_time"
+}

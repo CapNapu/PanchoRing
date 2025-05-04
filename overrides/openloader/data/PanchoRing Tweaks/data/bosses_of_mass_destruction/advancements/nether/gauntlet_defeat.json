@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "bosses_of_mass_destruction:gauntlet": {
+      "conditions": {
+        "entity": {
+          "type": "bosses_of_mass_destruction:gauntlet"
+        }
+      },
+      "trigger": "minecraft:player_killed_entity"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "background": "minecraft:textures/gui/advancements/backgrounds/nether.png",
+    "description": {
+      "translate": "advancements.nether.gauntlet_defeat.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "bosses_of_mass_destruction:blazing_eye"
+    },
+    "show_toast": true,
+    "title": {
+      "color": "white",
+      "translate": "advancements.nether.gauntlet_defeat.title"
+    }
+  },
+  "parent": "panchoring:find_gauntlet_arena"
+}

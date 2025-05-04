@@ -1,0 +1,28 @@
+{
+    "criteria": {
+        "pillager_factory": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "display": {
+        "announce_to_chat": true,
+        "description": {
+            "translate": "advancements.mostructures.pillagerfactory.description"
+        },
+        "frame": "task",
+        "hidden": false,
+        "icon": {
+            "item": "minecraft:crossbow"
+        },
+        "show_toast": true,
+        "title": {
+            "translate": "advancements.mostructures.pillagerfactory.title"
+        }
+    },
+    "parent": "mostructures:root",
+    "requirements": [
+        [
+            "pillager_factory"
+        ]
+    ]
+}

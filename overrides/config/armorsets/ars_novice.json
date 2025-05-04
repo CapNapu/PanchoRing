@@ -1,0 +1,31 @@
+{
+  "armorSetName": "Ars Novice",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "ars_nouveau:novice_hood",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "ars_nouveau:novice_robes",
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "ars_nouveau:novice_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "ars_nouveau:novice_boots",
+    "mustBeEmpty": false
+  },
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "name": "ars_nouveau:mana_regen",
+      "value": 0.0,
+      "interactionType": "self",
+      "interactionDuration": 150,
+      "hideBonusDescription": true
+    }
+  ],
+  "hideGeneratedTooltip": true
+}

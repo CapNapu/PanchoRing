@@ -1,0 +1,12 @@
+{
+  "addition": {
+    "tag": "forge:ingots/dragonsteel_lightning"
+  },
+  "base": {
+    "tag": "panchoring:iron_helmets"
+  },
+  "result": {
+    "item": "iceandfire:dragonsteel_lightning_helmet"
+  },
+  "type": "minecraft:smithing"
+}

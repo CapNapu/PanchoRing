@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "earthdive_spear": {
+      "conditions": {
+        "items": [
+          {
+            "item": "bosses_of_mass_destruction:earthdive_spear"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.panchoring.earthdive_spear.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "bosses_of_mass_destruction:earthdive_spear"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.panchoring.earthdive_spear.title"
+    }
+  },
+  "parent": "bosses_of_mass_destruction:end/obsidilith_defeat"
+}

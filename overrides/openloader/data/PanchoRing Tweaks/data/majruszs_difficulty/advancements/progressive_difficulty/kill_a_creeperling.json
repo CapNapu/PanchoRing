@@ -1,0 +1,28 @@
+{
+  "criteria": {
+    "killed_creeperling": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.progressive_difficulty.kill_a_creeperling.description"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "minecraft:creeper_head"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.progressive_difficulty.kill_a_creeperling.title"
+    }
+  },
+  "parent": "panchoring:mob_ward",
+  "requirements": [
+    [
+      "killed_creeperling"
+    ]
+  ]
+}

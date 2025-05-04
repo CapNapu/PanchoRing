@@ -1,0 +1,35 @@
+{
+  "criteria": {
+    "music_disc": {
+      "conditions": {
+        "items": [
+          {
+            "item": "bygonenether:wither_waltz_music_disc"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.bygonenether.acquire_wither_waltz.desc"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "bygonenether:wither_waltz_music_disc"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.bygonenether.acquire_wither_waltz.title"
+    }
+  },
+  "parent": "bygonenether:rescue_piglin_prisoner",
+  "requirements": [
+    [
+      "music_disc"
+    ]
+  ]
+}

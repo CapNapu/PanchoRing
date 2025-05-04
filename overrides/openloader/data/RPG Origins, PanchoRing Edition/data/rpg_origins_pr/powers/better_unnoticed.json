@@ -1,0 +1,10 @@
+{
+    "type": "origins:modify_damage_dealt",
+    "modifier": {
+        "operation": "multiply_base",
+        "value": -0.75
+    },
+    "condition": {
+        "type": "origins:sneaking"
+    }
+}

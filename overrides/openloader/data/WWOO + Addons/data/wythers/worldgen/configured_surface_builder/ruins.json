@@ -1,0 +1,14 @@
+{
+  "config": {
+    "top_material": {
+      "Name": "minecraft:mossy_stone_bricks"
+    },
+    "under_material": {
+      "Name": "minecraft:stone_bricks"
+    },
+    "underwater_material": {
+      "Name": "minecraft:mossy_cobblestone"
+    }
+  },
+  "type": "minecraft:mountain"
+}

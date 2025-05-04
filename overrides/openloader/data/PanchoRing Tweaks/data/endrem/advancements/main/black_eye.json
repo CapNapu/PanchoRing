@@ -1,0 +1,35 @@
+{
+  "criteria": {
+    "black_eye": {
+      "conditions": {
+        "items": [
+          {
+            "item": "endrem:black_eye"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.main.black_eye.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "endrem:black_eye"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.main.black_eye.title"
+    }
+  },
+  "parent": "endrem:main/witch_eye",
+  "requirements": [
+    [
+      "black_eye"
+    ]
+  ]
+}

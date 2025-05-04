@@ -1,0 +1,16 @@
+{
+  "key": {
+    "x": {
+      "item": "infernalexp:basalt_bricks"
+    }
+  },
+  "pattern": [
+    "xx",
+    "xx"
+  ],
+  "result": {
+    "count": 4,
+    "item": "infernalexp:polished_basalt_tiles"
+  },
+  "type": "minecraft:crafting_shaped"
+}

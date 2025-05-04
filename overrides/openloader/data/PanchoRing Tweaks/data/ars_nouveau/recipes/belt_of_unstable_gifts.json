@@ -1,0 +1,51 @@
+{
+  "type": "ars_nouveau:enchanting_apparatus",
+  "item_1": [
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "item_2": [
+    {
+      "tag": "forge:crops/nether_wart"
+    }
+  ],
+  "item_3": [
+    {
+      "tag": "forge:rods/blaze"
+    }
+  ],
+  "item_4": [
+    {
+      "tag": "forge:dusts/glowstone"
+    }
+  ],
+  "item_5": [
+    {
+      "item": "minecraft:fermented_spider_eye"
+    }
+  ],
+  "item_6": [
+    {
+      "tag": "forge:dusts/redstone"
+    }
+  ],
+  "item_7": [
+    {
+      "item": "endrem:witch_pupil"
+    }
+  ],
+  "item_8": [
+    {
+      "tag": "forge:feathers"
+    }
+  ],
+  "reagent": [
+    {
+      "item": "ars_nouveau:mundane_belt"
+    }
+  ],
+  "output": {
+    "item": "ars_nouveau:belt_of_unstable_gifts"
+  }
+}

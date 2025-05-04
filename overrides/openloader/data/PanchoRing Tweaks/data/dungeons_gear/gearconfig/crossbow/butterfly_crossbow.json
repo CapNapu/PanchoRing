@@ -1,0 +1,16 @@
+{
+  "built_in_enchantments": [
+    {
+      "enchantment": "minecraft:quick_charge",
+      "level": 1
+    },
+    {
+      "enchantment": "dungeons_gear:ricochet",
+      "level": 1
+    }
+  ],
+  "default_charge_time": 25,
+  "durability": 384,
+  "rarity": "RARE",
+  "unique": true
+}

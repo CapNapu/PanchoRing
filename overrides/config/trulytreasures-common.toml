@@ -1,0 +1,30 @@
+
+["Wandering Trader Settings"]
+	#List of enchantments that should have curses added to them. If an enchantment is listed here, it will always have a curse added alongside it when sold by a wandering trader
+	#EXAMPLE: "["minecraft:frost_walker", "momentum:momentum", "leap:leaping"]"
+	"Enchantments with curses added to them" = []
+	#Defines the base integer value used to generate the prices of the books, which is multiplied based on the level of the enchantment. Prices are calculated as follows:
+	#If the enchantment on the book has a maximum level of one (such as Mending), it will use the base price multiplied by 2. Otherwise, it will use the base price multiplied by the level of the enchantment
+	#Note that prices will never go above 64 emeralds
+	#Range: 1 ~ 64
+	"Base book price" = 18
+	#List of enchantments that should not be sold by wandering traders. Any enchantments listed here will not be sold by wandering traders
+	#TIP: If you want an enchantment to be completely ignored by this mod, you can add it to both this option and the "Enchantments villagers will keep"
+	#EXAMPLE: "["minecraft:frost_walker", "momentum:momentum", "leap:leaping"]"
+	"Enchantments not sold by wandering traders" = ["dungeons_gear:critical_hit", "dungeons_gear:echo", "dungeons_gear:refreshment", "dungeons_gear:shockwave", "dungeons_gear:shock_web", "dungeons_gear:swirling", "dungeons_gear:accelerate", "dungeons_gear:cooldown_shot", "dungeons_gear:chain_reaction", "dungeons_gear:gale_shot", "dungeons_gear:replenish", "dungeons_gear:velocity", "dungeons_gear:wild_rage", "dungeons_gear:acrobat", "dungeons_gear:bag_of_souls", "dungeons_gear:beast_boss", "dungeons_gear:beast_burst", "dungeons_gear:electrified", "dungeons_gear:fire_focus", "dungeons_gear:life_boost", "dungeons_gear:lightning_focus", "dungeons_gear:lucky_explorer", "dungeons_gear:multi_roll", "dungeons_gear:opulent_shield", "dungeons_gear:poison_focus", "dungeons_gear:reckless", "dungeons_gear:recycler", "minecraft:mending", "minecraft:infinity", "minecraft:sweeping", "origins:water_protection"]
+	#Defines the maximum number of times you can buy from the same book trade
+	#Range: 1 ~ 100
+	"Max book trades" = 1
+	#Defines whether it is possible for wandering traders to sell curse enchantments or not
+	"Wandering traders should sell curses" = false
+	#Disabling this will completely prevent wandering traders from selling any treasure enchantments
+	"Wandering traders should sell treasure enchantments" = true
+
+["Villager Settings"]
+	#Disabling this will completely disable the removal of any treasure enchantments from villagers
+	"Remove treasure enchantments from villagers" = true
+	#List of enchantments to be kept by villagers. Any enchantments listed here will not be removed from villager trading
+	#TIP: If you want an enchantment to be completely ignored by this mod, you can add it to both this option and the "Enchantments not sold by wandering traders"
+	#EXAMPLE: "["minecraft:frost_walker", "momentum:momentum", "leap:leaping"]"
+	"Enchantments villagers will keep" = []
+

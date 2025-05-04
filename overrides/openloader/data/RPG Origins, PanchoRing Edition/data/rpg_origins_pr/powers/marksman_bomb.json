@@ -1,0 +1,12 @@
+{
+    "hidden": true,
+    "type": "origins:modify_damage_dealt",
+    "modifier": {
+        "operation": "multiply_base",
+        "value": 1.0
+    },
+    "damage_condition": {
+        "type": "origins:name",
+        "name": "explosion.player"
+    }
+}

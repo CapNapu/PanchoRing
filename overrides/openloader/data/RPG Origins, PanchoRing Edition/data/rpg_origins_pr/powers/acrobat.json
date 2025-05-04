@@ -1,0 +1,8 @@
+{
+    "type": "origins:attribute",
+    "modifier": {
+        "attribute": "epicfight:staminar",
+        "operation": "multiply_base",
+        "value": 0.5
+    }
+}

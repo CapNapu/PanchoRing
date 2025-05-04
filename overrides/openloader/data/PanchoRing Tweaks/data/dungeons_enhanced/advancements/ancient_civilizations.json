@@ -1,0 +1,28 @@
+{
+  "criteria": {
+    "entered_jungle_monument": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.dungeons_enhanced.ancient_civilizations.desc"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "minecraft:bamboo"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.dungeons_enhanced.ancient_civilizations"
+    }
+  },
+  "parent": "dungeons_enhanced:root",
+  "requirements": [
+    [
+      "entered_jungle_monument"
+    ]
+  ]
+}

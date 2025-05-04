@@ -1,0 +1,11 @@
+{
+	"attributes": {
+		"common": {
+			"armor_negation": 15,
+			"damage_bonus": 3,
+			"impact": 2.5,
+			"max_strikes": 1
+		}
+	},
+	"type": "axe"
+}

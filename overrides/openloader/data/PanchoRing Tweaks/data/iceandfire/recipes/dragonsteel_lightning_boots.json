@@ -1,0 +1,12 @@
+{
+  "addition": {
+    "tag": "forge:ingots/dragonsteel_lightning"
+  },
+  "base": {
+    "tag": "panchoring:iron_boots"
+  },
+  "result": {
+    "item": "iceandfire:dragonsteel_lightning_boots"
+  },
+  "type": "minecraft:smithing"
+}

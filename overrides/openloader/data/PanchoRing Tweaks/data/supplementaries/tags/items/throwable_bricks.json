@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "extcaves:pebble_stone",
+    "extcaves:pebble_sedimentstone",
+    "extcaves:pebble_lavastone",
+    "extcaves:pebble_andesite",
+    "extcaves:pebble_diorite",
+    "extcaves:pebble_granite"
+  ]
+}

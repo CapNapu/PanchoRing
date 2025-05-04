@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "levitation_block": {
+      "conditions": {
+        "items": [
+          {
+            "item": "bosses_of_mass_destruction:levitation_block"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.panchoring.levitation_block.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "bosses_of_mass_destruction:levitation_block"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.panchoring.levitation_block.title"
+    }
+  },
+  "parent": "panchoring:stardust"
+}

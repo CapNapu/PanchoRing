@@ -1,0 +1,24 @@
+{
+    "criteria": {
+        "tame_rat": {
+            "conditions": {
+                "entity": {
+                    "type": "iceandfire:hippocampus"
+                }
+            },
+            "trigger": "minecraft:tame_animal"
+        }
+    },
+    "display": {
+        "description": {
+            "translate": "advancements.iceandfire.tame_hippocampus.description"
+        },
+        "icon": {
+            "item": "iceandfire:hippocampus_fin"
+        },
+        "title": {
+            "translate": "advancements.iceandfire.tame_hippocampus.title"
+        }
+    },
+    "parent": "iceandfire:iceandfire/root"
+}

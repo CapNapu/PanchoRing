@@ -1,0 +1,20 @@
+{
+  "key": {
+    "0": {
+      "item": "extcaves:lavastone"
+    },
+    "1": {
+      "item": "minecraft:shroomlight"
+    }
+  },
+  "pattern": [
+    "000",
+    "010",
+    "000"
+  ],
+  "result": {
+    "count": 1,
+    "item": "supplementaries:deepslate_lamp"
+  },
+  "type": "minecraft:crafting_shaped"
+}

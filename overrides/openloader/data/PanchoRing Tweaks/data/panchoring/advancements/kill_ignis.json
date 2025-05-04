@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "kill_ignis": {
+      "conditions": {
+        "entity": {
+          "type": "cataclysm:ignis"
+        }
+      },
+      "trigger": "minecraft:player_killed_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.kill_ignis.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "cataclysm:the_incinerator"
+    },
+    "title": {
+      "translate": "advancements.panchoring.kill_ignis.title"
+    }
+  },
+  "parent": "panchoring:kill_ignited_revenant",
+  "requirements": [
+    [
+      "kill_ignis"
+    ]
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "siren_flute": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:siren_flute"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.siren_flute.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "iceandfire:siren_flute"
+    },
+    "title": {
+      "translate": "advancements.panchoring.siren_flute.title"
+    }
+  },
+  "parent": "iceandfire:iceandfire/kill_siren"
+}

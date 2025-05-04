@@ -1,0 +1,70 @@
+[
+    {
+        "remove": "iceandfire:dread_shard",
+        "mob": [
+            "minecraft:zombie",
+            "minecraft:husk",
+            "minecraft:skeleton",
+            "majruszs_difficulty:elite_skeleton",
+            "minecraft:drowned",
+            "minecraft:zombified_piglin",
+            "bygonenether:wraither"
+        ]
+    },
+    {
+        "remove": "minecraft:bone",
+        "mob": [
+            "minecraft:wither_skeleton",
+            "alexsmobs:soul_vulture",
+            "bygonenether:wraither",
+            "bygonenether:corpor",
+            "bygonenether:wither_skeleton_horse"
+        ]
+    },
+    {
+        "item": "iceandfire:witherbone",
+        "mob": [
+            "alexsmobs:soul_vulture",
+            "bygonenether:wraither",
+            "bygonenether:corpor",
+            "bygonenether:wither_skeleton_horse"
+        ]
+    },
+    {
+        "remove": [
+            "epicfight:stray_hat",
+            "epicfight:stray_robe",
+            "epicfight:stray_pants"
+        ],
+        "mob": "minecraft:stray"
+    },
+    {
+        "remove": [
+            "dungeons_gear:guards_boots",
+            "dungeons_gear:guards_chestplate",
+            "dungeons_gear:guards_helmet",
+            "dungeons_gear:guards_leggings"
+        ],
+        "mob": "guardvillagers:guard"
+    },
+    {
+        "remove": "mowziesmobs:wrought_axe",
+        "mob": "mowziesmobs:ferrous_wroughtnaut"
+    },
+    {
+        "item": "minecraft:nether_star",
+        "mob": "minecraft:wither"
+    },
+    {
+        "item": "cataclysm:the_incinerator",
+        "mob": "cataclysm:ignis"
+    },
+    {
+        "item": "cataclysm:monstrous_horn",
+        "mob": "cataclysm:netherite_monstrosity"
+    },
+    {
+        "item": "minecraft:shulker_shell",
+        "mob": "cataclysm:ender_guardian"
+    }
+]

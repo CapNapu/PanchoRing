@@ -1,0 +1,27 @@
+{
+  "item_1": [
+    {
+      "tag": "forge:storage_blocks/mana"
+    }
+  ],
+  "item_2": [
+    {
+      "tag": "forge:storage_blocks/mana"
+    }
+  ],
+  "item_3": [
+    {
+      "item": "ars_nouveau:glyph_amplify"
+    }
+  ],
+  "output": {
+    "count": 16,
+    "item": "ars_nouveau:amplify_arrow"
+  },
+  "reagent": [
+    {
+      "tag": "minecraft:arrows"
+    }
+  ],
+  "type": "ars_nouveau:enchanting_apparatus"
+}

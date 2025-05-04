@@ -1,0 +1,22 @@
+{
+  "key": {
+    "B": {
+      "item": "projectvibrantjourneys:twigs"
+    },
+    "D": {
+      "tag": "forge:gems/amethyst"
+    },
+    "W": {
+      "item": "iceandfire:pixie_wings"
+    }
+  },
+  "pattern": [
+    "D",
+    "W",
+    "B"
+  ],
+  "result": {
+    "item": "iceandfire:pixie_wand"
+  },
+  "type": "minecraft:crafting_shaped"
+}

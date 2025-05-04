@@ -1,0 +1,12 @@
+{
+  "ingredients": [
+    {
+      "item": "dustydecor:small_shelf_block"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "supplementaries:item_shelf"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

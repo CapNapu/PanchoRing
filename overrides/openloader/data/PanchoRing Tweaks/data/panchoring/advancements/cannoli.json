@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "cannoli": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:cannoli"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.panchoring.cannoli.description"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "iceandfire:cannoli"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.panchoring.cannoli.title"
+    }
+  },
+  "parent": "panchoring:manuscript"
+}

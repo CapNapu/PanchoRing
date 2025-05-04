@@ -1,0 +1,12 @@
+{
+  "addition": {
+    "tag": "forge:ingots/dragonsteel_lightning"
+  },
+  "base": {
+    "item": "minecraft:netherite_shovel"
+  },
+  "result": {
+    "item": "iceandfire:dragonsteel_lightning_shovel"
+  },
+  "type": "minecraft:smithing"
+}

@@ -1,0 +1,17 @@
+{
+  "key": {
+    "X": {
+      "item": "extcaves:sedimentstone"
+    }
+  },
+  "pattern": [
+    "X  ",
+    "XX ",
+    "XXX"
+  ],
+  "result": {
+    "count": 6,
+    "item": "extcaves:sedimentstone_stairs"
+  },
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,0 +1,19 @@
+{
+    "criteria": {
+        "bestiary": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "display": {
+        "description": {
+            "translate": "advancements.iceandfire.gorgon_head.description"
+        },
+        "icon": {
+            "item": "iceandfire:gorgon_head"
+        },
+        "title": {
+            "translate": "advancements.iceandfire.gorgon_head.title"
+        }
+    },
+    "parent": "iceandfire:iceandfire/bestiary"
+}

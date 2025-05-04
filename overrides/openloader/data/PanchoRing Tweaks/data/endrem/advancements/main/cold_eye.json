@@ -1,0 +1,35 @@
+{
+  "criteria": {
+    "cold_eye": {
+      "conditions": {
+        "items": [
+          {
+            "item": "endrem:cold_eye"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.main.cold_eye.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "endrem:cold_eye"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.main.cold_eye.title"
+    }
+  },
+  "parent": "endrem:main/rogue_eye",
+  "requirements": [
+    [
+      "cold_eye"
+    ]
+  ]
+}

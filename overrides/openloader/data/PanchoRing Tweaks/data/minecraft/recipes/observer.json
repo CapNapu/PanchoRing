@@ -1,0 +1,25 @@
+{
+  "key": {
+    "#": {
+      "item": "minecraft:cobblestone"
+    },
+    "Q": {
+      "tag": "forge:gems/quartz"
+    },
+    "R": {
+      "tag": "forge:dusts/redstone"
+    },
+    "S": {
+      "tag": "forge:ingots/copper"
+    }
+  },
+  "pattern": [
+    "###",
+    "RSQ",
+    "###"
+  ],
+  "result": {
+    "item": "minecraft:observer"
+  },
+  "type": "minecraft:crafting_shaped"
+}

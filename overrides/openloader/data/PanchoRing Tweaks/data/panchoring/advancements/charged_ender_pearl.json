@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "charged_ender_pearl": {
+      "conditions": {
+        "items": [
+          {
+            "item": "bosses_of_mass_destruction:charged_ender_pearl"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.panchoring.charged_ender_pearl.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "bosses_of_mass_destruction:charged_ender_pearl"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.panchoring.charged_ender_pearl.title"
+    }
+  },
+  "parent": "bosses_of_mass_destruction:adventure/void_blossom_defeat"
+}

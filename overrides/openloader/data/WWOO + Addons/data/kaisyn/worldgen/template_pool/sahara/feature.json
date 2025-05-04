@@ -1,0 +1,24 @@
+{
+  "name": "kaisyn:sahara/feature",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "kaisyn:sahara/tower",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "rigid",
+        "location": "kaisyn:sahara/wagon",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

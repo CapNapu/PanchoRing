@@ -1,0 +1,33 @@
+{
+	"ingredients": [
+		{
+			"item": "ars_nouveau:apprentice_spell_book"
+		},
+		{
+			"item": "ars_nouveau:wilden_tribute"
+		},
+		{
+			"item": "minecraft:nether_star"
+		},
+		{
+			"item": "minecraft:totem_of_undying"
+		},
+		{
+			"item": "phantasm:oblifruit"
+		}
+	],
+	"key": {
+		"y": {
+			"item": "ars_nouveau:spell_book"
+		}
+	},
+	"pattern": [
+		"   ",
+		" y ",
+		"   "
+	],
+	"result": {
+		"item": "ars_nouveau:archmage_spell_book"
+	},
+	"type": "ars_nouveau:book_upgrade"
+}

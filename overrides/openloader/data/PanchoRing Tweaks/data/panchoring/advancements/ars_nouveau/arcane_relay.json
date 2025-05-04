@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "arcane_relay": {
+      "conditions": {
+        "items": [
+          {
+            "item": "ars_nouveau:arcane_relay"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.panchoring.ars.arcane_relay.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "ars_nouveau:arcane_relay"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.panchoring.ars.arcane_relay.title"
+    }
+  },
+  "parent": "panchoring:ars_nouveau/mana_jar"
+}

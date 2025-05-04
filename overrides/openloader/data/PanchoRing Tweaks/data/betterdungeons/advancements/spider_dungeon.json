@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "in_better_spider_dungeon": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "betterdungeons.advancements.spider_dungeon.description"
+    },
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:string"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "betterdungeons.advancements.spider_dungeon.title"
+    }
+  },
+  "parent": "betterdungeons:root",
+  "requirements": [
+    [
+      "in_better_spider_dungeon"
+    ]
+  ]
+}

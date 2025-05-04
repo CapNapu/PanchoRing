@@ -1,0 +1,28 @@
+{
+	"criteria": {
+		"get_item": {
+			"trigger": "minecraft:impossible"
+		}
+	},
+	"display": {
+		"announce_to_chat": false,
+		"description": {
+			"translate": "advancements.caves.skeleton_warrior.description"
+		},
+		"frame": "task",
+		"hidden": true,
+		"icon": {
+			"item": "extcaves:rusty_sword"
+		},
+		"show_toast": false,
+		"title": {
+			"translate": "advancements.caves.skeleton_warrior.title"
+		}
+	},
+	"parent": "extcaves:caves/kill_a_skeleton",
+	"requirements": [
+		[
+			"get_item"
+		]
+	]
+}

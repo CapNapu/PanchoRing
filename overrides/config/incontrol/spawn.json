@@ -1,0 +1,211 @@
+[
+    {
+        "armorboots": [
+            "80=iceandfire:dread_shard",
+            "20=iceandfire:armor_silver_metal_boots"
+        ],
+        "armorchest": [
+            "80=iceandfire:dread_shard",
+            "20=iceandfire:armor_silver_metal_chestplate"
+        ],
+        "armorhelmet": [
+            "80=iceandfire:dread_shard",
+            "20=iceandfire:armor_silver_metal_helmet"
+        ],
+        "armorlegs": [
+            "80=iceandfire:dread_shard",
+            "20=iceandfire:armor_silver_metal_leggings"
+        ],
+        "helditem": [
+            "50=iceandfire:dread_shard",
+            "30=extcaves:rusty_pickaxe",
+            "20=extcaves:rusty_sword"
+        ],
+        "mob": [
+            "minecraft:zombie"
+        ],
+        "onjoin": true,
+        "result": "default"
+    },
+    {
+        "armorboots": [
+            "80=iceandfire:dread_shard",
+            "20=iceandfire:armor_copper_metal_boots"
+        ],
+        "armorchest": [
+            "80=iceandfire:dread_shard",
+            "20=iceandfire:armor_copper_metal_chestplate"
+        ],
+        "armorhelmet": [
+            "80=iceandfire:dread_shard",
+            "20=iceandfire:armor_copper_metal_helmet"
+        ],
+        "armorlegs": [
+            "80=iceandfire:dread_shard",
+            "20=iceandfire:armor_copper_metal_leggings"
+        ],
+        "helditem": [
+            "50=iceandfire:dread_shard",
+            "30=extcaves:rusty_pickaxe",
+            "20=extcaves:rusty_sword"
+        ],
+        "mob": [
+            "minecraft:husk"
+        ],
+        "onjoin": true,
+        "result": "default"
+    },
+    {
+        "armorchest": [
+            "80=iceandfire:dread_shard",
+            "20=dungeons_gear:hunters_chestplate"
+        ],
+        "armorhelmet": [
+            "80=iceandfire:dread_shard",
+            "20=dungeons_gear:hunters_helmet"
+        ],
+        "helditem": [
+            "80=minecraft:bow",
+            "20=dungeons_gear:power_bow"
+        ],
+        "mob": "minecraft:skeleton",
+        "onjoin": true,
+        "result": "default"
+    },
+    {
+        "armorchest": [
+            "60=iceandfire:dread_shard",
+            "40=dungeons_gear:archers_chestplate"
+        ],
+        "armorhelmet": [
+            "60=iceandfire:dread_shard",
+            "40=dungeons_gear:archers_helmet"
+        ],
+        "helditem": [
+            "80=dungeons_gear:power_bow",
+            "20=dungeons_gear:elite_power_bow"
+        ],
+        "mob": "majruszs_difficulty:elite_skeleton",
+        "onjoin": true,
+        "result": "default"
+    },
+    {
+        "armorchest": [
+            "100=epicfight:stray_robe"
+        ],
+        "armorhelmet": [
+            "100=epicfight:stray_hat"
+        ],
+        "armorlegs": [
+            "100=epicfight:stray_pants"
+        ],
+        "helditem": [
+            "80=minecraft:bow",
+            "20=dungeons_gear:snow_bow"
+        ],
+        "mob": "minecraft:stray",
+        "onjoin": true,
+        "result": "default"
+    },
+    {
+        "helditem": [
+            "70=iceandfire:dread_shard",
+            "20=minecraft:trident",
+            "10=dungeons_gear:anchor"
+        ],
+        "mob": "minecraft:drowned",
+        "onjoin": true,
+        "result": "default"
+    },
+    {
+        "helditem": [
+            "70=dungeons_gear:axe",
+            "30=dungeons_gear:double_axe"
+        ],
+        "mob": "minecraft:vindicator",
+        "onjoin": true,
+        "result": "default"
+    },
+    {
+        "armorboots": [
+            "80=iceandfire:dread_shard",
+            "20=minecraft:golden_boots"
+        ],
+        "armorchest": [
+            "80=iceandfire:dread_shard",
+            "20=minecraft:golden_chestplate"
+        ],
+        "armorhelmet": [
+            "80=iceandfire:dread_shard",
+            "20=minecraft:golden_helmet"
+        ],
+        "armorlegs": [
+            "80=iceandfire:dread_shard",
+            "20=minecraft:golden_leggings"
+        ],
+        "helditem": [
+            "50=iceandfire:dread_shard",
+            "20=minecraft:crossbow",
+            "20=dungeons_gear:gold_sword",
+            "5=dungeons_gear:burst_crossbow",
+            "5=dungeons_gear:gold_axe"
+        ],
+        "mob": "minecraft:zombified_piglin",
+        "onjoin": true,
+        "result": "default"
+    },
+    {
+        "helditem": [
+            "50=minecraft:crossbow",
+            "50=dungeons_gear:gold_sword"
+        ],
+        "mob": "minecraft:piglin",
+        "onjoin": true,
+        "result": "default"
+    },
+    {
+        "helditem": [
+            "80=dungeons_gear:gold_axe",
+            "20=dungeons_gear:firebrand"
+        ],
+        "mob": "minecraft:piglin_brute",
+        "onjoin": true,
+        "result": "default"
+    },
+    {
+        "helditem": [
+            "50=dungeons_gear:burst_crossbow",
+            "50=dungeons_gear:gold_axe"
+        ],
+        "mob": "bygonenether:piglin_hunter",
+        "onjoin": true,
+        "result": "default"
+    },
+    {
+        "helditem": "dungeons_gear:stone_sword",
+        "mob": "minecraft:wither_skeleton",
+        "onjoin": true,
+        "result": "default"
+    },
+    {
+        "helditem": "iceandfire:dread_shard",
+        "mob": "bygonenether:wraither",
+        "onjoin": true,
+        "result": "default"
+    },
+    {
+        "helditem": "dungeons_gear:double_axe",
+        "mob": "bygonenether:corpor",
+        "onjoin": true,
+        "result": "default"
+    },
+    {
+        "mob": [
+            "bygonenether:wither_skeleton_knight",
+            "majruszs_difficulty:sky_keeper",
+            "phantasm:crystie"
+        ],
+        "onjoin": true,
+        "result": "deny"
+    }
+]

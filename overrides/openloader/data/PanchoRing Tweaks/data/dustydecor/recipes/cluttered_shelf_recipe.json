@@ -1,0 +1,18 @@
+{
+  "key": {
+    "a": {
+      "item": "dustydecor:jars"
+    },
+    "b": {
+      "item": "dustydecor:small_shelf_block"
+    }
+  },
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "result": {
+    "item": "dustydecor:cluttered_shelf"
+  },
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,0 +1,13 @@
+{
+  "type": "improvedbackpacks:sewing",
+  "spools_count": 1,
+  "first": {
+    "item": "minecraft:crying_obsidian"
+  },
+  "first_count": 8,
+  "second": {
+    "item": "minecraft:ender_eye"
+  },
+  "second_count": 1,
+  "result": "improvedbackpacks:ender_backpack"
+}

@@ -1,0 +1,18 @@
+{
+  "key": {
+    "a": {
+      "item": "minecraft:orange_carpet"
+    },
+    "b": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "result": {
+    "item": "dustydecor:orange_wool_awning"
+  },
+  "type": "minecraft:crafting_shaped"
+}

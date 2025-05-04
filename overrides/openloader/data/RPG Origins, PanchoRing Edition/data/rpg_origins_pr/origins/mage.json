@@ -1,0 +1,17 @@
+{
+    "powers": [
+        "rpg_origins_pr:equipment_mage",
+        "rpg_origins_pr:mage_robes",
+        "origins:slow_falling",
+        "rpg_origins_pr:swim_speed",
+        "rpg_origins_pr:fastcure",
+        "rpg_origins_pr:untrained",
+        "rpg_origins_pr:fragile",
+        "rpg_origins_pr:fragile_stun",
+        "rpg_origins_pr:heavy_weapons_not"
+    ],
+    "icon": {
+        "item": "ars_nouveau:mana_gem"
+    },
+    "impact": 2
+}

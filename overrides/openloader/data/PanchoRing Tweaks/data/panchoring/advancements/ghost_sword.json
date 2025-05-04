@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "ghost_sword": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:ghost_sword"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.ghost_sword.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "iceandfire:ghost_sword"
+    },
+    "title": {
+      "translate": "advancements.panchoring.ghost_sword.title"
+    }
+  },
+  "parent": "iceandfire:iceandfire/kill_ghost"
+}

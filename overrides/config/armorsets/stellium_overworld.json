@@ -1,0 +1,58 @@
+{
+  "armorSetName": "Stellium",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "phantasm:stellium_helmet",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "phantasm:stellium_chestplate",
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "phantasm:stellium_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "phantasm:stellium_boots",
+    "mustBeEmpty": false
+  },
+  "partialBonusRequiredAmount": 1,
+  "partialSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.armor",
+      "value": -15.0,
+      "modifierUUID": "186c3c0b-bcbd-4324-b6d1-a8183336754d",
+      "attributeOperation": 0,
+      "interactionType": "self",
+      "interactionDuration": 150,
+      "hideBonusDescription": true,
+      "conditions": [
+        {
+          "type": "inDimension",
+          "extra": "minecraft:overworld"
+        }
+      ]
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.armor",
+      "value": 0.0,
+      "modifierUUID": "7c075cd2-62c9-4c0b-a74a-c86a4563531c",
+      "attributeOperation": 0,
+      "interactionType": "self",
+      "interactionDuration": 150,
+      "hideBonusDescription": true,
+      "conditions": [
+        {
+          "type": "inDimension",
+          "extra": "minecraft:overworld"
+        }
+      ]
+    }
+  ],
+  "hideGeneratedTooltip": true
+}

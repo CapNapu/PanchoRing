@@ -1,0 +1,22 @@
+{
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "display": {
+        "announce_to_chat": true,
+        "description": " Discover the Ruin vanilla temple dungeon during the night",
+        "frame": "challenge",
+        "hidden": false,
+        "icon": {
+            "item": "minecraft:filled_map"
+        },
+        "show_toast": true,
+        "title": "Find: Ruin vanilla temple"
+    },
+    "parent": "awesomedungeonocean:ocean_ruin_vanilla_temple/find_normal",
+    "rewards": {
+        "experience": 10
+    }
+}

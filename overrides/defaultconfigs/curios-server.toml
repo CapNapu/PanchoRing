@@ -1,0 +1,12 @@
+
+#List of curio slot type settings
+[[curiosSettings]]
+	identifier = "charm"
+	visible = false
+	override = true
+
+[[curiosSettings]]
+	identifier = "ring"
+	size = 1
+	override = true
+

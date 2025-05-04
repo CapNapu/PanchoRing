@@ -1,0 +1,23 @@
+{
+  "criteria": {
+    "ars_nouveau": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "ars_nouveau:textures/blocks/mana16.png",
+    "description": {
+      "translate": "advancements.panchoring.ars.root.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "ars_nouveau:mana_gem"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.panchoring.ars.root.title"
+    }
+  }
+}

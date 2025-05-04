@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " y ",
+    "x x",
+    "bxb"
+  ],
+  "key": {
+    "x": {
+      "tag": "forge:glass"
+    },
+    "b": {
+      "tag": "forge:ingots/gold"
+    },
+    "y": {
+      "item": "ars_nouveau:arcane_stone"
+    }
+  },
+  "result": {
+    "item": "ars_nouveau:potion_jar"
+  }
+}

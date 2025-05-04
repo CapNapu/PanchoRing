@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "killed_fire_dragon": {
+      "conditions": {
+        "entity": {
+          "type": "iceandfire:troll"
+        }
+      },
+      "trigger": "minecraft:player_killed_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.iceandfire.kill_troll.description"
+    },
+    "icon": {
+      "item": "iceandfire:troll_tusk"
+    },
+    "title": {
+      "translate": "advancements.iceandfire.kill_troll.title"
+    }
+  },
+  "parent": "iceandfire:iceandfire/root"
+}

@@ -1,0 +1,31 @@
+{
+  "armorSetName": "Lightning DragonSteel",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "iceandfire:dragonsteel_lightning_helmet",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "iceandfire:dragonsteel_lightning_chestplate",
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "iceandfire:dragonsteel_lightning_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "iceandfire:dragonsteel_lightning_boots",
+    "mustBeEmpty": false
+  },
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "name": "ars_nouveau:shocked",
+      "value": 0.0,
+      "interactionType": "immunity",
+      "interactionDuration": 150,
+      "hideBonusDescription": true
+    }
+  ],
+  "hideGeneratedTooltip": true
+}

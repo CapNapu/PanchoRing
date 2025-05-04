@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "hippogryph_sword": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:hippogryph_sword"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.hippogryph_sword.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "iceandfire:hippogryph_sword"
+    },
+    "title": {
+      "translate": "advancements.panchoring.hippogryph_sword.title"
+    }
+  },
+  "parent": "iceandfire:iceandfire/tame_hippogryph"
+}

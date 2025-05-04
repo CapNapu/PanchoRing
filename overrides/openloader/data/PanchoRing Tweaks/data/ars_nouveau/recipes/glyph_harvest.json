@@ -1,0 +1,6 @@
+{
+  "type": "ars_nouveau:glyph_recipe",
+  "tier": "ONE",
+  "input": "alexsmobs:cockroach_wing",
+  "output": "ars_nouveau:glyph_harvest"
+}

@@ -1,0 +1,18 @@
+{
+    "type": "origins:self_action_on_kill",
+    "entity_action": {
+        "type": "origins:apply_effect",
+        "effect": {
+            "effect": "minecraft:bad_omen",
+            "duration": 120000,
+            "amplifier": 0,
+            "show_particles": true,
+            "show_icon": true
+        }
+    },
+    "target_condition": {
+        "type": "origins:entity_type",
+        "entity_type": "guardvillagers:guard"
+    },
+    "cooldown": 1
+}

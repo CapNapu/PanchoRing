@@ -1,0 +1,35 @@
+{
+  "criteria": {
+    "void_blossom": {
+      "conditions": {
+        "location": {
+          "feature": "bosses_of_mass_destruction:void_blossom",
+          "position": {
+            "y": {
+              "max": 20,
+              "min": 0
+            }
+          }
+        }
+      },
+      "trigger": "minecraft:location"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.find_void_blossom.description"
+    },
+    "icon": {
+      "item": "bosses_of_mass_destruction:void_blossom"
+    },
+    "title": {
+      "translate": "advancements.panchoring.find_void_blossom.title"
+    }
+  },
+  "parent": "minecraft:adventure/kill_a_mob",
+  "requirements": [
+    [
+      "void_blossom"
+    ]
+  ]
+}

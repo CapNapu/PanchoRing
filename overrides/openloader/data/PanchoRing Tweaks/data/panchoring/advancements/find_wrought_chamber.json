@@ -1,0 +1,29 @@
+{
+  "criteria": {
+    "wrought_chamber": {
+      "conditions": {
+        "location": {
+          "feature": "mowziesmobs:wrought_chamber"
+        }
+      },
+      "trigger": "minecraft:location"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.find_wrought_chamber.description"
+    },
+    "icon": {
+      "item": "minecraft:smooth_stone"
+    },
+    "title": {
+      "translate": "advancements.panchoring.find_wrought_chamber.title"
+    }
+  },
+  "parent": "minecraft:adventure/kill_a_mob",
+  "requirements": [
+    [
+      "wrought_chamber"
+    ]
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "get_stellium_full_set": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.get_stellium_full_set.descr"
+    },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "phantasm:stellium_chestplate"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.get_stellium_full_set.title"
+    }
+  },
+  "parent": "panchoring:stellium_nugget",
+  "rewards": {
+    "experience": 200
+  }
+}

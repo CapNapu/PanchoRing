@@ -1,0 +1,79 @@
+{
+  "criteria": {
+    "alchemical_sourcelink": {
+      "conditions": {
+        "items": [
+          {
+            "item": "ars_nouveau:alchemical_sourcelink"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "mana_condenser": {
+      "conditions": {
+        "items": [
+          {
+            "item": "ars_nouveau:mana_condenser"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "mycelial_sourcelink": {
+      "conditions": {
+        "items": [
+          {
+            "item": "ars_nouveau:mycelial_sourcelink"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "vitalic_sourcelink": {
+      "conditions": {
+        "items": [
+          {
+            "item": "ars_nouveau:vitalic_sourcelink"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "volcanic_accumulator": {
+      "conditions": {
+        "items": [
+          {
+            "item": "ars_nouveau:volcanic_accumulator"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.panchoring.sourcelink.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "ars_nouveau:mana_condenser"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.panchoring.sourcelink.title"
+    }
+  },
+  "parent": "panchoring:ars_nouveau/root",
+  "requirements": [
+    [
+      "alchemical_sourcelink",
+      "mana_condenser",
+      "mycelial_sourcelink",
+      "vitalic_sourcelink",
+      "volcanic_accumulator"
+    ]
+  ]
+}

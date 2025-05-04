@@ -1,0 +1,6 @@
+{
+  "type": "ars_nouveau:glyph_recipe",
+  "tier": "ONE",
+  "input": "alexsmobs:bear_fur",
+  "output": "ars_nouveau:glyph_self"
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " x ",
+    "xyx",
+    " x "
+  ],
+  "key": {
+    "x": {
+      "tag": "forge:nuggets/silver"
+    },
+    "y": {
+      "tag": "forge:gems/mana"
+    }
+  },
+  "result": {
+    "item": "ars_nouveau:dull_trinket"
+  }
+}

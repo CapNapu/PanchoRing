@@ -1,0 +1,42 @@
+{
+  "armorSetName": "Gilded Netherite",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "bygonenether:gilded_netherite_helmet",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "bygonenether:gilded_netherite_chestplate",
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "bygonenether:gilded_netherite_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "bygonenether:gilded_netherite_boots",
+    "mustBeEmpty": false
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "effect",
+      "name": "minecraft:haste",
+      "value": 0.0,
+      "interactionType": "self",
+      "interactionDuration": 150,
+      "hideBonusDescription": true
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "name": "minecraft:resistance",
+      "value": 0.0,
+      "interactionType": "self",
+      "interactionDuration": 150,
+      "hideBonusDescription": true
+    }
+  ],
+  "hideGeneratedTooltip": true
+}

@@ -1,0 +1,22 @@
+{
+  "key": {
+    "#": {
+      "item": "iceandfire:dragonbone"
+    },
+    "X": {
+      "item": "iceandfire:wither_shard"
+    },
+    "Y": {
+      "item": "minecraft:feather"
+    }
+  },
+  "pattern": [
+    "X",
+    "#",
+    "Y"
+  ],
+  "result": {
+    "item": "iceandfire:dragonbone_arrow"
+  },
+  "type": "minecraft:crafting_shaped"
+}

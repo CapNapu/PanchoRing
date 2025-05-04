@@ -1,0 +1,16 @@
+{
+  "key": {
+    "a": {
+      "item": "supplementaries:rope"
+    }
+  },
+  "pattern": [
+    "aaa",
+    "a a",
+    "aaa"
+  ],
+  "result": {
+    "item": "dustydecor:rope_coil"
+  },
+  "type": "minecraft:crafting_shaped"
+}

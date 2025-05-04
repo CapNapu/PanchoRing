@@ -1,0 +1,6 @@
+{
+  "type": "ars_nouveau:glyph_recipe",
+  "tier": "TWO",
+  "input": "iceandfire:troll_tusk",
+  "output": "ars_nouveau:glyph_crush"
+}

@@ -1,0 +1,16 @@
+{
+  "key": {
+    "a": {
+      "item": "minecraft:oak_slab"
+    }
+  },
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "result": {
+    "count": 6,
+    "item": "dustydecor:oak_large_shelf"
+  },
+  "type": "minecraft:crafting_shaped"
+}

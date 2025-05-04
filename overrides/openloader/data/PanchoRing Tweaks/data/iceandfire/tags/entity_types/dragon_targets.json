@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "alexsmobs:bald_eagle",
+    "alexsmobs:capuchin_monkey",
+    "alexsmobs:crocodile",
+    "alexsmobs:crow",
+    "alexsmobs:elephant",
+    "alexsmobs:emu",
+    "alexsmobs:gazelle",
+    "alexsmobs:grizzly_bear",
+    "alexsmobs:kangaroo",
+    "alexsmobs:komodo_dragon",
+    "alexsmobs:hummingbird",
+    "alexsmobs:moose",
+    "alexsmobs:platypus",
+    "alexsmobs:raccoon",
+    "alexsmobs:rattlesnake",
+    "alexsmobs:roadrunner",
+    "alexsmobs:seagull",
+    "alexsmobs:shoebill",
+    "alexsmobs:snow_leopard",
+    "alexsmobs:tasmanian_devil",
+    "alexsmobs:tiger"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count_extra",
+      "config": {
+        "count": 3000,
+        "extra_count": 0,
+        "extra_chance": 0
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:square",
+          "config": {}
+        },
+        "feature": {
+          "type": "minecraft:decorated",
+          "config": {
+            "decorator": {
+              "type": "minecraft:heightmap",
+              "config": {}
+            },
+            "feature": {
+              "type": "minecraft:simple_random_selector",
+              "config": {
+                "features": [
+                  {
+                    "type": "minecraft:decorated",
+                    "config": {
+                      "decorator": {
+                        "type": "minecraft:heightmap",
+                        "config": {}
+                      },
+                      "feature": {
+                        "type": "minecraft:netherrack_replace_blobs",
+                        "config": {
+                          "state": {
+                            "Name": "minecraft:dirt"
+                          },
+                          "target": {
+                            "Name": "minecraft:diorite"
+                          },
+                          "radius": {
+                            "base": 10,
+                            "spread": 10
+                          }
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "type": "minecraft:decorated",
+                    "config": {
+                      "decorator": {
+                        "type": "minecraft:heightmap",
+                        "config": {}
+                      },
+                      "feature": {
+                        "type": "minecraft:netherrack_replace_blobs",
+                        "config": {
+                          "state": {
+                            "Name": "minecraft:dirt"
+                          },
+                          "target": {
+                            "Name": "minecraft:granite"
+                          },
+                          "radius": {
+                            "base": 10,
+                            "spread": 10
+                          }
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "potion_jar": {
+      "conditions": {
+        "items": [
+          {
+            "item": "ars_nouveau:potion_jar"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.panchoring.ars.potion_jar.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "ars_nouveau:potion_jar"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.panchoring.ars.potion_jar.title"
+    }
+  },
+  "parent": "panchoring:ars_nouveau/root"
+}

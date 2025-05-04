@@ -1,0 +1,18 @@
+{
+  "key": {
+    "a": {
+      "item": "dustydecor:books"
+    },
+    "b": {
+      "item": "dustydecor:small_shelf_block"
+    }
+  },
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "result": {
+    "item": "dustydecor:small_bookshelf"
+  },
+  "type": "minecraft:crafting_shaped"
+}

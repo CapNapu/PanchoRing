@@ -1,0 +1,18 @@
+{
+  "type": "ars_nouveau:crush",
+  "input": {
+    "item": "minecraft:lapis_ore"
+  },
+  "output": [
+    {
+      "item": "minecraft:lapis_lazuli",
+      "chance": 1.0,
+      "count": 5
+    },
+    {
+      "item": "minecraft:lapis_lazuli",
+      "chance": 0.5,
+      "count": 3
+    }
+  ]
+}

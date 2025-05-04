@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "villagertrade": {
+      "trigger": "minecraft:villager_trade"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.morevillagers.end_trade.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:emerald"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.morevillagers.end_trade.title"
+    }
+  },
+  "parent": "minecraft:husbandry/root",
+  "rewards": {
+    "experience": 20
+  }
+}

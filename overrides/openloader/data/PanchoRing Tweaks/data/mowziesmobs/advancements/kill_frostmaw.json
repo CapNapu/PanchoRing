@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "frostmaw": {
+      "conditions": {
+        "entity": {
+          "type": "mowziesmobs:frostmaw"
+        }
+      },
+      "trigger": "minecraft:player_killed_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.mowziesmobs.kill_frostmaw.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "mowziesmobs:ice_crystal"
+    },
+    "title": {
+      "translate": "advancements.mowziesmobs.kill_frostmaw.title"
+    }
+  },
+  "parent": "minecraft:adventure/kill_a_mob"
+}

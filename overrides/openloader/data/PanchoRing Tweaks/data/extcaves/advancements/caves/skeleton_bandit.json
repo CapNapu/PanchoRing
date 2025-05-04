@@ -1,0 +1,28 @@
+{
+	"criteria": {
+		"get_item": {
+			"trigger": "minecraft:impossible"
+		}
+	},
+	"display": {
+		"announce_to_chat": false,
+		"description": {
+			"translate": "advancements.caves.skeleton_bandit.description"
+		},
+		"frame": "task",
+		"hidden": true,
+		"icon": {
+			"item": "extcaves:iron_dagger"
+		},
+		"show_toast": false,
+		"title": {
+			"translate": "advancements.caves.skeleton_bandit.title"
+		}
+	},
+	"parent": "extcaves:caves/kill_a_skeleton",
+	"requirements": [
+		[
+			"get_item"
+		]
+	]
+}

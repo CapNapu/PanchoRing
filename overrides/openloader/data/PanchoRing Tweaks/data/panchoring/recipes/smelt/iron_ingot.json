@@ -1,0 +1,83 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": [
+    {
+      "item": "minecraft:iron_helmet"
+    },
+    {
+      "item": "minecraft:iron_chestplate"
+    },
+    {
+      "item": "minecraft:iron_leggings"
+    },
+    {
+      "item": "minecraft:iron_boots"
+    },
+    {
+      "item": "minecraft:chainmail_helmet"
+    },
+    {
+      "item": "minecraft:chainmail_chestplate"
+    },
+    {
+      "item": "minecraft:chainmail_leggings"
+    },
+    {
+      "item": "minecraft:chainmail_boots"
+    },
+    {
+      "item": "minecraft:iron_horse_armor"
+    },
+    {
+      "item": "revampedwolf:iron_wolf_armor"
+    },
+    {
+      "item": "iceandfire:iron_hippogryph_armor"
+    },
+    {
+      "item": "minecraft:iron_door"
+    },
+    {
+      "item": "minecraft:iron_trapdoor"
+    },
+    {
+      "item": "minecraft:heavy_weighted_pressure_plate"
+    },
+    {
+      "item": "minecraft:stonecutter"
+    },
+    {
+      "item": "minecraft:smithing_table"
+    },
+    {
+      "item": "minecraft:hopper"
+    },
+    {
+      "item": "supplementaries:faucet"
+    },
+    {
+      "item": "supplementaries:lock_block"
+    },
+    {
+      "item": "supplementaries:wind_vane"
+    },
+    {
+      "item": "minecraft:cauldron"
+    },
+    {
+      "item": "dustydecor:cooking_pot"
+    },
+    {
+      "item": "dustydecor:pots_and_pans"
+    },
+    {
+      "item": "supplementaries:cage"
+    },
+    {
+      "item": "minecraft:minecart"
+    }
+  ],
+  "result": "minecraft:iron_ingot",
+  "experience": 0.1,
+  "cookingtime": 200
+}

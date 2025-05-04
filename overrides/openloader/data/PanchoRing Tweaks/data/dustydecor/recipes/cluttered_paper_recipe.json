@@ -1,0 +1,14 @@
+{
+  "key": {
+    "a": {
+      "item": "iceandfire:manuscript"
+    }
+  },
+  "pattern": [
+    "aaa"
+  ],
+  "result": {
+    "item": "dustydecor:scattered_paper_base"
+  },
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,0 +1,15 @@
+{
+	"pools": [
+		{
+			"entries": [
+				{
+					"name": "dungeons_gear:guards_leggings",
+					"type": "minecraft:item",
+					"weight": 100
+				}
+			],
+			"rolls": 1
+		}
+	],
+	"type": "guardvillagers:slot"
+}

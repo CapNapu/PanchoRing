@@ -1,0 +1,35 @@
+{
+  "criteria": {
+    "nether_eye": {
+      "conditions": {
+        "items": [
+          {
+            "item": "endrem:nether_eye"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.main.nether_eye.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "endrem:nether_eye"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.main.nether_eye.title"
+    }
+  },
+  "parent": "minecraft:story/follow_ender_eye",
+  "requirements": [
+    [
+      "nether_eye"
+    ]
+  ]
+}

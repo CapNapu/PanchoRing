@@ -1,0 +1,51 @@
+{
+  "armorSetName": "Troll Leather",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "iceandfire:forest_troll_leather_helmet",
+    "mixAndMatch": [
+      "iceandfire:forest_troll_leather_helmet",
+      "iceandfire:mountain_troll_leather_helmet",
+      "iceandfire:frost_troll_leather_helmet"
+    ],
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "iceandfire:forest_troll_leather_chestplate",
+    "mixAndMatch": [
+      "iceandfire:forest_troll_leather_chestplate",
+      "iceandfire:mountain_troll_leather_chestplate",
+      "iceandfire:frost_troll_leather_chestplate"
+    ],
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "iceandfire:forest_troll_leather_leggings",
+    "mixAndMatch": [
+      "iceandfire:forest_troll_leather_leggings",
+      "iceandfire:mountain_troll_leather_leggings",
+      "iceandfire:frost_troll_leather_leggings"
+    ],
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "iceandfire:forest_troll_leather_boots",
+    "mixAndMatch": [
+      "iceandfire:forest_troll_leather_boots",
+      "iceandfire:mountain_troll_leather_boots",
+      "iceandfire:frost_troll_leather_boots"
+    ],
+    "mustBeEmpty": false
+  },
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "name": "dungeons_gear:shielding",
+      "value": 0.0,
+      "interactionType": "self",
+      "interactionDuration": 150,
+      "hideBonusDescription": true
+    }
+  ],
+  "hideGeneratedTooltip": true
+}

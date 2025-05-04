@@ -1,0 +1,16 @@
+{
+  "key": {
+    "a": {
+      "item": "minecraft:crimson_slab"
+    }
+  },
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "result": {
+    "count": 6,
+    "item": "dustydecor:crimson_large_shelf"
+  },
+  "type": "minecraft:crafting_shaped"
+}

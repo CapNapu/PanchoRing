@@ -1,0 +1,28 @@
+{
+    "criteria": {
+        "pyramid": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "display": {
+        "announce_to_chat": true,
+        "description": {
+            "translate": "advancements.mostructures.pyramid.description"
+        },
+        "frame": "task",
+        "hidden": false,
+        "icon": {
+            "item": "minecraft:sandstone"
+        },
+        "show_toast": true,
+        "title": {
+            "translate": "advancements.mostructures.pyramid.title"
+        }
+    },
+    "parent": "mostructures:root",
+    "requirements": [
+        [
+            "pyramid"
+        ]
+    ]
+}

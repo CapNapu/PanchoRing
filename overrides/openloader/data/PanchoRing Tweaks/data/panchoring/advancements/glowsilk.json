@@ -1,0 +1,33 @@
+{
+  "criteria": {
+    "glowsilk": {
+      "conditions": {
+        "items": [
+          {
+            "item": "infernalexp:glowsilk"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.panchoring.glowsilk.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "infernalexp:glowsilk"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.panchoring.glowsilk.title"
+    }
+  },
+  "parent": "minecraft:nether/root",
+  "rewards": {
+    "experience": 100
+  }
+}

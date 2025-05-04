@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "warped_ender_pearl": {
+      "conditions": {
+        "items": [
+          {
+            "item": "bygonenether:warped_ender_pearl"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.panchoring.warped_ender_pearl.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "bygonenether:warped_ender_pearl"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.panchoring.warped_ender_pearl.title"
+    }
+  },
+  "parent": "minecraft:nether/root"
+}

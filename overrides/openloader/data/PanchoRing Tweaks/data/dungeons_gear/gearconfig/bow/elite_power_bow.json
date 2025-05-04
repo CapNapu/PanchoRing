@@ -1,0 +1,16 @@
+{
+  "built_in_enchantments": [
+    {
+      "enchantment": "dungeons_gear:supercharge",
+      "level": 1
+    },
+    {
+      "enchantment": "minecraft:power",
+      "level": 1
+    }
+  ],
+  "default_charge_time": 20,
+  "durability": 384,
+  "rarity": "RARE",
+  "unique": true
+}

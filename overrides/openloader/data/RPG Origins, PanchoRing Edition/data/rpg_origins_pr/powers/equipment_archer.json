@@ -1,0 +1,26 @@
+{
+    "hidden": true,
+    "type": "origins:starting_equipment",
+    "stacks": [
+        {
+            "item": "dungeons_gear:hunters_helmet",
+            "tag": "{Damage:51}",
+            "slot": 39
+        },
+        {
+            "item": "dungeons_gear:hunters_chestplate",
+            "tag": "{Damage:94}",
+            "slot": 38
+        },
+        {
+            "item": "minecraft:arrow",
+            "amount": 21,
+            "slot": 27
+        },
+        {
+            "item": "dungeons_gear:longbow",
+            "tag": "{Damage:236}",
+            "slot": 8
+        }
+    ]
+}

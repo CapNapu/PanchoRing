@@ -1,0 +1,19 @@
+{
+  "key": {
+    "a": {
+      "item": "supplementaries:rope"
+    },
+    "b": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "pattern": [
+    " a ",
+    "bbb"
+  ],
+  "result": {
+    "count": 6,
+    "item": "dustydecor:wooden_buoy"
+  },
+  "type": "minecraft:crafting_shaped"
+}

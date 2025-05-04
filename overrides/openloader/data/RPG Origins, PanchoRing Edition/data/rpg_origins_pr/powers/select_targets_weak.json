@@ -1,0 +1,13 @@
+{
+    "type": "origins:modify_damage_dealt",
+    "modifier": {
+        "operation": "multiply_base",
+        "value": -0.75
+    },
+    "target_condition": {
+        "type": "origins:attribute",
+        "attribute": "generic.max_health",
+        "comparison": "<=",
+        "compare_to": 16
+    }
+}

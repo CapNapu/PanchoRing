@@ -1,0 +1,121 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count",
+      "config": {
+        "count": 2
+      }
+    },
+    "feature": {
+      "type": "minecraft:simple_random_selector",
+      "config": {
+        "features": [
+          {
+            "type": "minecraft:tree",
+            "config": {
+              "max_water_depth": 0,
+              "ignore_vines": true,
+              "heightmap": "OCEAN_FLOOR_WG",
+              "minimum_size": {
+                "type": "minecraft:two_layers_feature_size",
+                "limit": 1,
+                "lower_size": 1,
+                "upper_size": 1
+              },
+              "trunk_provider": {
+                "type": "minecraft:simple_state_provider",
+                "state": {
+                  "Name": "minecraft:birch_log",
+                  "Properties": {
+                    "axis": "y"
+                  }
+                }
+              },
+              "leaves_provider": {
+                "type": "minecraft:weighted_state_provider",
+                "entries": [
+                  {
+                    "weight": 1,
+                    "data": {
+                      "Name": "minecraft:air"
+                    }
+                  },
+                  {
+                    "weight": 5,
+                    "data": {
+                      "Name": "minecraft:birch_leaves",
+                      "Properties": {
+                        "distance": "1",
+                        "persistent": "false"
+                      }
+                    }
+                  }
+                ]
+              },
+              "trunk_placer": {
+                "type": "minecraft:straight_trunk_placer",
+                "base_height": 13,
+                "height_rand_a": 0,
+                "height_rand_b": 0
+              },
+              "foliage_placer": {
+                "type": "minecraft:fancy_foliage_placer",
+                "radius": 2,
+                "offset": 0,
+                "height": 10
+              },
+              "decorators": []
+            }
+          },
+          {
+            "type": "minecraft:tree",
+            "config": {
+              "max_water_depth": 0,
+              "ignore_vines": true,
+              "heightmap": "OCEAN_FLOOR_WG",
+              "minimum_size": {
+                "type": "minecraft:two_layers_feature_size",
+                "limit": 1,
+                "lower_size": 1,
+                "upper_size": 1
+              },
+              "trunk_provider": {
+                "type": "minecraft:simple_state_provider",
+                "state": {
+                  "Name": "minecraft:birch_log",
+                  "Properties": {
+                    "axis": "y"
+                  }
+                }
+              },
+              "leaves_provider": {
+                "type": "minecraft:simple_state_provider",
+                "state": {
+                  "Name": "minecraft:birch_leaves",
+                  "Properties": {
+                    "persistent": "false",
+                    "distance": "1"
+                  }
+                }
+              },
+              "trunk_placer": {
+                "type": "minecraft:straight_trunk_placer",
+                "base_height": 15,
+                "height_rand_a": 0,
+                "height_rand_b": 0
+              },
+              "foliage_placer": {
+                "type": "minecraft:fancy_foliage_placer",
+                "radius": 1,
+                "offset": 1,
+                "height": 14
+              },
+              "decorators": []
+            }
+          }
+        ]
+      }
+    }
+  }
+}

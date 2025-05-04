@@ -1,0 +1,10 @@
+{
+	"attributes": {
+		"common": {
+			"armor_negation": 20,
+			"impact": 2.3,
+			"max_strikes": 3
+		}
+	},
+	"type": "spear"
+}

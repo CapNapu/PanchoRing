@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": [
+    {
+      "item": "iceandfire:copper_pickaxe"
+    },
+    {
+      "item": "iceandfire:copper_shovel"
+    },
+    {
+      "item": "iceandfire:copper_axe"
+    },
+    {
+      "item": "iceandfire:copper_hoe"
+    },
+    {
+      "item": "iceandfire:copper_sword"
+    },
+    {
+      "item": "minecraft:crossbow"
+    },
+    {
+      "item": "supplementaries:copper_lantern"
+    },
+    {
+      "item": "supplementaries:cog_block"
+    },
+    {
+      "item": "supplementaries:pulley_block"
+    },
+    {
+      "item": "supplementaries:speaker_block"
+    }
+  ],
+  "result": "iceandfire:copper_nugget",
+  "experience": 0.1,
+  "cookingtime": 100
+}

@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "conditions": {
+        "recipe": "panchoring:bestiary"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "rewards": {
+    "function": "panchoring:bestiary"
+  }
+}

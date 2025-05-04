@@ -1,0 +1,35 @@
+{
+	"criteria": {
+		"get_mushroom": {
+			"conditions": {
+				"items": [
+					{
+						"item": "extcaves:mushroom_sweetshroom"
+					}
+				]
+			},
+			"trigger": "minecraft:inventory_changed"
+		}
+	},
+	"display": {
+		"announce_to_chat": false,
+		"description": {
+			"translate": "advancements.caves.mushroom_sweetshroom.description"
+		},
+		"frame": "task",
+		"hidden": true,
+		"icon": {
+			"item": "extcaves:mushroom_sweetshroom"
+		},
+		"show_toast": false,
+		"title": {
+			"translate": "advancements.caves.mushroom_sweetshroom.title"
+		}
+	},
+	"parent": "minecraft:husbandry/root",
+	"requirements": [
+		[
+			"get_mushroom"
+		]
+	]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "ars_nouveau:enchanting_apparatus",
+  "item_1": [
+    {
+      "tag": "forge:gems/diamond"
+    }
+  ],
+  "item_2": [
+    {
+      "tag": "forge:gems/diamond"
+    }
+  ],
+  "item_3": [
+    {
+      "tag": "forge:ender_pearls"
+    }
+  ],
+  "item_4": [
+    {
+      "tag": "forge:gems/amethyst"
+    }
+  ],
+  "reagent": [
+    {
+      "item": "ars_nouveau:ring_of_potential"
+    }
+  ],
+  "output": {
+    "item": "ars_nouveau:ring_of_lesser_discount"
+  }
+}

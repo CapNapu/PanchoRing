@@ -1,0 +1,23 @@
+{
+  "criteria": {
+    "always": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "minecraft:textures/block/lime_terracotta.png",
+    "description": {
+      "translate": "Your villager journey awaits."
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "minecraft:emerald_block"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "More Villagers Mod"
+    }
+  }
+}

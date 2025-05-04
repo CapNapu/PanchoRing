@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "flag": "pulley_block",
+      "type": "supplementaries:flag"
+    }
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:ingots/copper"
+    },
+    "1": {
+      "tag": "minecraft:planks"
+    },
+    "2": {
+      "tag": "minecraft:wooden_slabs"
+    }
+  },
+  "pattern": [
+    "121",
+    "101",
+    "121"
+  ],
+  "result": {
+    "count": 1,
+    "item": "supplementaries:pulley_block"
+  },
+  "type": "minecraft:crafting_shaped"
+}

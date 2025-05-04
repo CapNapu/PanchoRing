@@ -1,0 +1,11 @@
+
+[respawnable_animals]
+	#Make all mobs (not just animals) automatically persistent when spawned using the "/summon" command, a spawn egg or a dispenser.
+	"Summoned Mob Persistence" = false
+	#Blacklist animals which will never despawn.
+	#Format for every entry is "<namespace>:<path>". Path may use asterisk as wildcard parameter. Tags are not supported.
+	"Animal Blacklist" = []
+	#Constant for determining when to stop spawning animals in a world. Normally set to 10, monster constant is 70 for comparison. 18 is chosen to mimic spawning mechanics of the Beta era.
+	#Range: > -2147483648
+	"Animal Mob Cap" = 18
+

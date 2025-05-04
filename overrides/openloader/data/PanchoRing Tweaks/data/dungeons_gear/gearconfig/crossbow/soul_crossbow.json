@@ -1,0 +1,14 @@
+{
+  "attributes": [
+    {
+      "amount": 1,
+      "attribute": "dungeons_libraries:soul_gathering",
+      "operation": 0
+    }
+  ],
+  "built_in_enchantments": [],
+  "default_charge_time": 25,
+  "durability": 384,
+  "rarity": "UNCOMMON",
+  "unique": false
+}

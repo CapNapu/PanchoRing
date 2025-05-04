@@ -1,0 +1,9 @@
+
+["Dimension Config"]
+	#List of dimension connections for players going below the dimension, aka <= 0. Format: From,To,XCoordDivider, ZCoordDivider, Y-TypeFrom and To are both registry keys, e.g. minecraft:overworldX and Z Coord dividers are values by which the original player coordinates are divided byY-Type is one of these: AIR,GROUND,CAVE AIR spawns the player as high as possible to the dimensions max height within airblocks.GROUND spawns the player on the normal groundlevel,CAVE spawns the player in the first open space going from 0 up.Use [first,second] to list multiple entries.
+	belowDimension = ["minecraft:overworld;minecraft:the_nether;8;8;AIR", "minecraft:the_nether;minecraft:the_nether;1;1;CAVE"]
+	#Requires enableAboveDimensionTP to be enabled! List of dimension connections for players going above the dimension world height.Format: From,To,XCoordDivider, ZCoordDivider, Y-TypeFrom and To are both registry keys, e.g. minecraft:overworldX and Z Coord dividers are values by which the original player coordinates are divided byY-Type is one of these: AIR,GROUND,CAVE AIR spawns the player as high as possible to the dimensions max height within airblocks.GROUND spawns the player on the normal groundlevel,CAVE spawns the player in the first open space going from 0 up.Use [first,second] to list multiple entries.
+	aboveDimension = ["minecraft:the_nether;minecraft:overworld;0.125;0.125;CAVE"]
+	#Turn on teleporting when going above dimension height
+	enableAboveDimensionTP = true
+

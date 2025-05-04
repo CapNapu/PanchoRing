@@ -1,0 +1,17 @@
+{
+  "key": {
+    "#": {
+      "item": "ars_nouveau:archwood_planks"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "item": "ars_nouveau:archwood_stairs"
+  },
+  "type": "minecraft:crafting_shaped"
+}

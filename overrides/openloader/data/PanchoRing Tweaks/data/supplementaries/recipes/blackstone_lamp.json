@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "flag": "blackstone_lamp",
+      "type": "supplementaries:flag"
+    }
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:blackstone"
+    },
+    "1": {
+      "item": "minecraft:shroomlight"
+    }
+  },
+  "pattern": [
+    "000",
+    "010",
+    "000"
+  ],
+  "result": {
+    "count": 2,
+    "item": "supplementaries:blackstone_lamp"
+  },
+  "type": "minecraft:crafting_shaped"
+}

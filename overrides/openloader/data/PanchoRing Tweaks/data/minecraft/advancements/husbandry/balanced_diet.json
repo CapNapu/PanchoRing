@@ -1,0 +1,703 @@
+{
+  "criteria": {
+    "Ambrosia": {
+      "conditions": {
+        "item": {
+          "item": "iceandfire:ambrosia"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Apple": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:apple"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Baked Potato": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:baked_potato"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Banana": {
+      "conditions": {
+        "item": {
+          "item": "alexsmobs:banana"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Beef": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:beef"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Beetroot": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:beetroot"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Beetroot Soup": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:beetroot_soup"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Blindsight Tongue": {
+      "conditions": {
+        "item": {
+          "item": "infernalexp:blindsight_tongue"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Blindsight Tongue Stew": {
+      "conditions": {
+        "item": {
+          "item": "infernalexp:blindsight_tongue_stew"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Blobfish": {
+      "conditions": {
+        "item": {
+          "item": "alexsmobs:blobfish"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Boiled Emu Egg": {
+      "conditions": {
+        "item": {
+          "item": "alexsmobs:boiled_emu_egg"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Bread": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:bread"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Candy": {
+      "conditions": {
+        "item": {
+          "item": "supplementaries:candy"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Cannoli": {
+      "conditions": {
+        "item": {
+          "item": "iceandfire:cannoli"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Carrot": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:carrot"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Chicken": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:chicken"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Chorus Fruit": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:chorus_fruit"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Clam": {
+      "conditions": {
+        "item": {
+          "item": "projectvibrantjourneys:clam"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Clam Chowder": {
+      "conditions": {
+        "item": {
+          "item": "projectvibrantjourneys:clam_chowder"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Coconut Milk": {
+      "conditions": {
+        "item": {
+          "item": "projectvibrantjourneys:coconut_milk"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Cod": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:cod"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Cooked Beef": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:cooked_beef"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Cooked Chicken": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:cooked_chicken"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Cooked Clam": {
+      "conditions": {
+        "item": {
+          "item": "projectvibrantjourneys:cooked_clam"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Cooked Cod": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:cooked_cod"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Cooked Hogchop": {
+      "conditions": {
+        "item": {
+          "item": "infernalexp:cooked_hogchop"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Cooked Kangaroo Meat": {
+      "conditions": {
+        "item": {
+          "item": "alexsmobs:cooked_kangaroo_meat"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Cooked Lobster Tail": {
+      "conditions": {
+        "item": {
+          "item": "alexsmobs:cooked_lobster_tail"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Cooked Moose Ribs": {
+      "conditions": {
+        "item": {
+          "item": "alexsmobs:cooked_moose_ribs"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Cooked Mutton": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:cooked_mutton"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Cooked Porkchop": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:cooked_porkchop"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Cooked Rabbit": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:cooked_rabbit"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Cooked Salmon": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:cooked_salmon"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Cooked Sweetshroom": {
+      "conditions": {
+        "item": {
+          "item": "extcaves:mushroom_sweetshroom_cooked"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Cookie": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:cookie"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Cracked Coconut": {
+      "conditions": {
+        "item": {
+          "item": "projectvibrantjourneys:cracked_coconut"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Crystal Fruit": {
+      "conditions": {
+        "item": {
+          "item": "bosses_of_mass_destruction:crystal_fruit"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Cured Jerky": {
+      "conditions": {
+        "item": {
+          "item": "infernalexp:cured_jerky"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Dried Kelp": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:dried_kelp"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Enchanted Golden Apple": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:enchanted_golden_apple"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Fire Dragon Flesh": {
+      "conditions": {
+        "item": {
+          "item": "iceandfire:fire_dragon_flesh"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Fluorescent Stew": {
+      "conditions": {
+        "item": {
+          "item": "extcaves:stew_fluorescent"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Fluoshroom": {
+      "conditions": {
+        "item": {
+          "item": "extcaves:mushroom_fluoshroom"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Golden Apple": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:golden_apple"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Golden Carrot": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:golden_carrot"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Goldishroom": {
+      "conditions": {
+        "item": {
+          "item": "extcaves:mushroom_goldishroom"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Hard Stew": {
+      "conditions": {
+        "item": {
+          "item": "extcaves:stew_hard"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Honey Bottle": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:honey_bottle"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Ice Dragon Flesh": {
+      "conditions": {
+        "item": {
+          "item": "iceandfire:ice_dragon_flesh"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Juniper Berries": {
+      "conditions": {
+        "item": {
+          "item": "projectvibrantjourneys:juniper_berries"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Kangaroo Burger": {
+      "conditions": {
+        "item": {
+          "item": "alexsmobs:kangaroo_burger"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Kangaroo Meat": {
+      "conditions": {
+        "item": {
+          "item": "alexsmobs:kangaroo_meat"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Lightning Dragon Flesh": {
+      "conditions": {
+        "item": {
+          "item": "iceandfire:lightning_dragon_flesh"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Lobster Tail": {
+      "conditions": {
+        "item": {
+          "item": "alexsmobs:lobster_tail"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Luminous Jelly": {
+      "conditions": {
+        "item": {
+          "item": "mowziesmobs:glowing_jelly"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Lumishroom": {
+      "conditions": {
+        "item": {
+          "item": "extcaves:mushroom_lumishroom"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Maggot": {
+      "conditions": {
+        "item": {
+          "item": "alexsmobs:maggot"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Melon Slice": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:melon_slice"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Moose Ribs": {
+      "conditions": {
+        "item": {
+          "item": "alexsmobs:moose_ribs"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Mushroom Stew": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:mushroom_stew"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Mutton": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:mutton"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Pancake": {
+      "conditions": {
+        "item": {
+          "item": "supplementaries:pancake"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Poisonous Potato": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:poisonous_potato"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Porkchop": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:porkchop"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Potato": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:potato"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Pufferfish": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:pufferfish"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Pumpkin Pie": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:pumpkin_pie"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Rabbit": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:rabbit"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Rabbit Stew": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:rabbit_stew"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Raw Hogchop": {
+      "conditions": {
+        "item": {
+          "item": "infernalexp:raw_hogchop"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Rockshroom": {
+      "conditions": {
+        "item": {
+          "item": "extcaves:mushroom_rockshroom"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Rotten Flesh": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:rotten_flesh"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Salmon": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:salmon"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Shinyshroom": {
+      "conditions": {
+        "item": {
+          "item": "extcaves:mushroom_shinyshroom"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Sopa De Macaco": {
+      "conditions": {
+        "item": {
+          "item": "alexsmobs:sopa_de_macaco"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Source Berry": {
+      "conditions": {
+        "item": {
+          "item": "ars_nouveau:mana_berry"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Source Berry Pie": {
+      "conditions": {
+        "item": {
+          "item": "ars_nouveau:source_berry_pie"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Source Berry Roll": {
+      "conditions": {
+        "item": {
+          "item": "ars_nouveau:source_berry_roll"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Spider Eye": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:spider_eye"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Spirit Eye": {
+      "conditions": {
+        "item": {
+          "item": "infernalexp:spirit_eye"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Sticky Stew": {
+      "conditions": {
+        "item": {
+          "item": "extcaves:stew_sticky"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Suspicious Stew": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:suspicious_stew"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Sweet Berries": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:sweet_berries"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Sweetshroom": {
+      "conditions": {
+        "item": {
+          "item": "extcaves:mushroom_sweetshroom"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "Tropical Fish": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:tropical_fish"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.husbandry.balanced_diet.description"
+    },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:apple"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.husbandry.balanced_diet.title"
+    }
+  },
+  "parent": "minecraft:husbandry/plant_seed",
+  "rewards": {
+    "experience": 200
+  }
+}

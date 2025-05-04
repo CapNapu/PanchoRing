@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "conditions": {
+        "recipe": "panchoring:worn_notebook"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "rewards": {
+    "function": "panchoring:worn_notebook"
+  }
+}

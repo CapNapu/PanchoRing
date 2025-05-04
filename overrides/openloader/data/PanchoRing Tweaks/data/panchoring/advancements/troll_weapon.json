@@ -1,0 +1,98 @@
+{
+  "criteria": {
+    "troll_axe": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:troll_weapon_axe"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "troll_column": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:troll_weapon_column"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "troll_column_forest": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:troll_weapon_column_forest"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "troll_column_frost": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:troll_weapon_column_frost"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "troll_hammer": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:troll_weapon_hammer"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "troll_trunk": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:troll_weapon_trunk"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "troll_trunk_frost": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:troll_weapon_trunk_frost"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.troll_weapon.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "iceandfire:troll_weapon_column"
+    },
+    "title": {
+      "translate": "advancements.panchoring.troll_weapon.title"
+    }
+  },
+  "parent": "iceandfire:iceandfire/kill_troll",
+  "requirements": [
+    [
+      "troll_axe",
+      "troll_column",
+      "troll_column_forest",
+      "troll_column_frost",
+      "troll_hammer",
+      "troll_trunk",
+      "troll_trunk_frost"
+    ]
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count_extra",
+      "config": {
+        "count": 5,
+        "extra_count": 0,
+        "extra_chance": 0
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:square",
+          "config": {}
+        },
+        "feature": {
+          "type": "minecraft:decorated",
+          "config": {
+            "decorator": {
+              "type": "minecraft:range",
+              "config": {
+                "maximum": 1,
+                "bottom_offset": 57,
+                "top_offset": 0
+              }
+            },
+            "feature": {
+              "type": "minecraft:simple_block",
+              "config": {
+                "to_place": {
+                  "Name": "minecraft:campfire",
+                  "Properties": {
+                    "facing": "north",
+                    "lit": "true",
+                    "signal_fire": "false",
+                    "waterlogged": "true"
+                  }
+                },
+                "place_on": [
+                  {
+                    "Name": "minecraft:gray_terracotta"
+                  },
+                  {
+                    "Name": "minecraft:diorite"
+                  }
+                ],
+                "place_in": [
+                  {
+                    "Name": "minecraft:gray_terracotta"
+                  },
+                  {
+                    "Name": "minecraft:diorite"
+                  }
+                ],
+                "place_under": [
+                  {
+                    "Name": "minecraft:gray_terracotta"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

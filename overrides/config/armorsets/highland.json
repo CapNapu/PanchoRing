@@ -1,0 +1,46 @@
+{
+  "armorSetName": "Highland",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "dungeons_gear:highland_helmet",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:highland_chestplate",
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:highland_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:highland_boots",
+    "mustBeEmpty": false
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "epicfight:stun_armor",
+      "value": 5.0,
+      "modifierUUID": "8a7a6627-92f4-4cae-bb51-88430a84a08c",
+      "attributeOperation": 0,
+      "interactionType": "self",
+      "interactionDuration": 150,
+      "hideBonusDescription": true
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "epicfight:staminar",
+      "value": 0.25,
+      "modifierUUID": "1ef0a54c-bd2d-4d62-a4f7-3ec75b9cb0ae",
+      "attributeOperation": 1,
+      "interactionType": "self",
+      "interactionDuration": 150,
+      "hideBonusDescription": true
+    }
+  ],
+  "hideGeneratedTooltip": true
+}

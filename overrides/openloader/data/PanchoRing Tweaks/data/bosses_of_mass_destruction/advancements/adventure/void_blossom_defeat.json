@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "bosses_of_mass_destruction:void_blossom": {
+      "conditions": {
+        "entity": {
+          "type": "bosses_of_mass_destruction:void_blossom"
+        }
+      },
+      "trigger": "minecraft:player_killed_entity"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png",
+    "description": {
+      "translate": "advancements.adventure.void_blossom_defeat.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "bosses_of_mass_destruction:void_thorn"
+    },
+    "show_toast": true,
+    "title": {
+      "color": "white",
+      "translate": "advancements.adventure.void_blossom_defeat.title"
+    }
+  },
+  "parent": "panchoring:find_void_blossom"
+}

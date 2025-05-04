@@ -1,0 +1,13 @@
+{
+  "attributes": [
+    {
+      "amount": 0.075,
+      "attribute": "minecraft:generic.attack_speed",
+      "operation": 1
+    }
+  ],
+  "built_in_enchantments": [],
+  "material": "dungeons_gear:light_plate",
+  "rarity": "UNCOMMON",
+  "unique": false
+}

@@ -1,0 +1,12 @@
+{
+  "ingredients": [
+    {
+      "item": "projectvibrantjourneys:charred_bones"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "minecraft:bone_meal"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

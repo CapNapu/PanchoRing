@@ -1,0 +1,20 @@
+{
+  "key": {
+    "H": {
+      "item": "alexsmobs:bear_fur"
+    },
+    "L": {
+      "item": "improvedbackpacks:bound_leather"
+    }
+  },
+  "pattern": [
+    " L ",
+    "LLL",
+    " H "
+  ],
+  "result": {
+    "count": 1,
+    "item": "alexsmobs:falconry_glove"
+  },
+  "type": "minecraft:crafting_shaped"
+}

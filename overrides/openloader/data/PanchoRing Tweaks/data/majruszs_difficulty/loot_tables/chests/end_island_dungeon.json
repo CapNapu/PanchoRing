@@ -1,0 +1,38 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "minecraft:chests/simple_dungeon",
+          "type": "minecraft:loot_table"
+        }
+      ],
+      "rolls": 1
+    },
+    {
+      "entries": [
+        {
+          "name": "minecraft:ender_pearl",
+          "type": "minecraft:item",
+          "weight": 80
+        },
+        {
+          "name": "minecraft:shulker_shell",
+          "type": "minecraft:item",
+          "weight": 15
+        },
+        {
+          "name": "phantasm:stellium_ingot",
+          "type": "minecraft:item",
+          "weight": 3
+        }
+      ],
+      "rolls": {
+        "max": 6.0,
+        "min": 3.0,
+        "type": "minecraft:uniform"
+      }
+    }
+  ],
+  "type": "minecraft:chest"
+}

@@ -1,0 +1,34 @@
+{
+  "criteria": {
+    "killedbabyvillager": {
+      "conditions": {
+        "entity": {
+          "flags": {
+            "is_baby": true
+          },
+          "type": "minecraft:villager"
+        }
+      },
+      "trigger": "minecraft:player_killed_entity"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.morevillagers.kill_babyvillager.description"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "minecraft:iron_axe"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.morevillagers.kill_babyvillager.tittle"
+    }
+  },
+  "parent": "morevillagers:kill_villager",
+  "rewards": {
+    "experience": 10
+  }
+}

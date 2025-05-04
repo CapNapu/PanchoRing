@@ -1,0 +1,12 @@
+{
+  "addition": {
+    "tag": "forge:ingots/dragonsteel_fire"
+  },
+  "base": {
+    "tag": "panchoring:iron_chestplates"
+  },
+  "result": {
+    "item": "iceandfire:dragonsteel_fire_chestplate"
+  },
+  "type": "minecraft:smithing"
+}

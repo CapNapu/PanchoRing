@@ -1,0 +1,12 @@
+{
+	"attributes": {
+		"common": {
+			"armor_negation": 10,
+			"damage_bonus": -2,
+			"impact": 1.7,
+			"max_strikes": 1,
+			"speed_bonus": 0.5
+		}
+	},
+	"type": "tachi"
+}

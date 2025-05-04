@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "stymphalian_bird_dagger": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:stymphalian_bird_dagger"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.stymphalian_bird_dagger.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "iceandfire:stymphalian_bird_dagger"
+    },
+    "title": {
+      "translate": "advancements.panchoring.stymphalian_bird_dagger.title"
+    }
+  },
+  "parent": "iceandfire:iceandfire/kill_stymphalian_bird"
+}

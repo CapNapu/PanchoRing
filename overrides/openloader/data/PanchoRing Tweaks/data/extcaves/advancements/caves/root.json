@@ -1,0 +1,28 @@
+{
+	"criteria": {
+		"item_to_find": {
+			"trigger": "minecraft:impossible"
+		}
+	},
+	"display": {
+		"announce_to_chat": false,
+		"background": "extcaves:textures/block/lavastone.png",
+		"description": {
+			"translate": "advancements.caves.root.description"
+		},
+		"frame": "task",
+		"hidden": true,
+		"icon": {
+			"item": "extcaves:pebble_stone"
+		},
+		"show_toast": false,
+		"title": {
+			"translate": "advancements.caves.root.title"
+		}
+	},
+	"requirements": [
+		[
+			"item_to_find"
+		]
+	]
+}

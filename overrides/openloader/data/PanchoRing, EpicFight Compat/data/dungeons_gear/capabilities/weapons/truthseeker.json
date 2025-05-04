@@ -1,0 +1,11 @@
+{
+	"attributes": {
+		"common": {
+			"armor_negation": 30,
+			"damage_bonus": 2,
+			"impact": 2.9,
+			"max_strikes": 2
+		}
+	},
+	"type": "longsword"
+}

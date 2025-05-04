@@ -1,0 +1,28 @@
+{
+  "criteria": {
+    "crafting_table": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "improvedbackpacks:textures/gui/advancements/background.png",
+    "description": {
+      "translate": "advancements.improvedbackpacks.root.description"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "improvedbackpacks:orange_backpack"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.improvedbackpacks.root.title"
+    }
+  },
+  "requirements": [
+    [
+      "crafting_table"
+    ]
+  ]
+}

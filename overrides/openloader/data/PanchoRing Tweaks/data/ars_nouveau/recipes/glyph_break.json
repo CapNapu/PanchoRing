@@ -1,0 +1,6 @@
+{
+  "type": "ars_nouveau:glyph_recipe",
+  "tier": "ONE",
+  "input": "alexsmobs:moose_antler",
+  "output": "ars_nouveau:glyph_break"
+}

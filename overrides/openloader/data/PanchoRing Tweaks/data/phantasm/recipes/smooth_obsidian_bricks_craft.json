@@ -1,0 +1,8 @@
+{
+  "count": 1,
+  "ingredient": {
+    "item": "phantasm:smooth_obsidian"
+  },
+  "result": "phantasm:smooth_obsidian_bricks",
+  "type": "minecraft:stonecutting"
+}

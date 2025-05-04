@@ -1,0 +1,26 @@
+{
+    "hidden": true,
+    "type": "origins:starting_equipment",
+    "stacks": [
+        {
+            "item": "iceandfire:armor_silver_metal_helmet",
+            "tag": "{Damage:76}",
+            "slot": 39
+        },
+        {
+            "item": "iceandfire:armor_silver_metal_chestplate",
+            "tag": "{Damage:136}",
+            "slot": 38
+        },
+        {
+            "item": "iceandfire:armor_silver_metal_leggings",
+            "tag": "{Damage:113}",
+            "slot": 37
+        },
+        {
+            "item": "iceandfire:silver_sword",
+            "tag": "{Damage:276}",
+            "slot": 8
+        }
+    ]
+}

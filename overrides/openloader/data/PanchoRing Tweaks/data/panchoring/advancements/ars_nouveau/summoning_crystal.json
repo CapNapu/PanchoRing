@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "summoning_crystal": {
+      "conditions": {
+        "items": [
+          {
+            "item": "ars_nouveau:summoning_crystal"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.panchoring.ars.summoning_crystal.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "ars_nouveau:summoning_crystal"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.panchoring.ars.summoning_crystal.title"
+    }
+  },
+  "parent": "panchoring:ars_nouveau/enchanting_apparatus"
+}

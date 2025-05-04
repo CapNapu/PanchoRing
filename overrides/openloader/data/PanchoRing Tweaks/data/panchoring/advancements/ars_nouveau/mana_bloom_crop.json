@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "mana_bloom_crop": {
+      "conditions": {
+        "items": [
+          {
+            "item": "ars_nouveau:mana_bloom_crop"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.panchoring.ars.mana_bloom_crop.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "ars_nouveau:mana_bloom_crop"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.panchoring.ars.mana_bloom_crop.title"
+    }
+  },
+  "parent": "panchoring:ars_nouveau/enchanting_apparatus"
+}

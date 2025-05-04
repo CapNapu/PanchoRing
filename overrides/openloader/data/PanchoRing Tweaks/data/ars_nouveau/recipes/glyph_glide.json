@@ -1,0 +1,6 @@
+{
+  "type": "ars_nouveau:glyph_recipe",
+  "tier": "THREE",
+  "input": "alexsmobs:tarantula_hawk_wing",
+  "output": "ars_nouveau:glyph_glide"
+}

@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "hippocampus_slapper": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:hippocampus_slapper"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.hippocampus_slapper.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "iceandfire:hippocampus_slapper"
+    },
+    "title": {
+      "translate": "advancements.panchoring.hippocampus_slapper.title"
+    }
+  },
+  "parent": "iceandfire:iceandfire/tame_hippocampus"
+}

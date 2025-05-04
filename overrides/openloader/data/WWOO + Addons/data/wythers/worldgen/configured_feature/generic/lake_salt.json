@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:chance",
+      "config": {
+        "chance": 40
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:heightmap",
+          "config": {}
+        },
+        "feature": {
+          "type": "minecraft:lake",
+          "config": {
+            "state": {
+              "Name": "minecraft:white_concrete_powder"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "key": {
+    "a": {
+      "item": "minecraft:pink_carpet"
+    },
+    "b": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "result": {
+    "item": "dustydecor:pink_wool_awning"
+  },
+  "type": "minecraft:crafting_shaped"
+}

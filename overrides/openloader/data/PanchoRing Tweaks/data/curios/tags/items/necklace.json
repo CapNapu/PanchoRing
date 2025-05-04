@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "values": [
+    "ars_nouveau:dull_trinket",
+    "ars_nouveau:amulet_of_mana_boost",
+    "ars_nouveau:amulet_of_mana_regen"
+  ]
+}

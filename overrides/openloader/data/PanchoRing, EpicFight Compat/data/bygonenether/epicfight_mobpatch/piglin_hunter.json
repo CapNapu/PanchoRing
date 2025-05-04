@@ -1,0 +1,68 @@
+{
+	"attributes": {
+		"armor_negation": 0,
+		"impact": 1.0,
+		"max_strikes": 1
+	},
+	"combat_behavior": [
+		{
+			"behavior_series": [
+				{
+					"behaviors": [
+						{
+							"animation": "epicfight:illager/swing_axe1",
+							"conditions": [
+								{
+									"predicate": "within_eye_height"
+								},
+								{
+									"max": 7.0,
+									"min": 0.0,
+									"predicate": "within_distance"
+								}
+							]
+						},
+						{
+							"animation": "epicfight:illager/swing_axe2",
+							"conditions": [
+								{
+									"predicate": "within_eye_height"
+								},
+								{
+									"max": 7.0,
+									"min": 0.0,
+									"predicate": "within_distance"
+								}
+							]
+						}
+					],
+					"canBeInterrupted": true,
+					"looping": true,
+					"weight": 1.0
+				}
+			],
+			"style": "common",
+			"weapon_categories": [
+				"axe"
+			]
+		}
+	],
+	"default_livingmotions": {
+		"chase": "epicfight:piglin/walk",
+		"death": "epicfight:piglin/death",
+		"idle": "epicfight:piglin/idle",
+		"fall": "epicfight:biped/living/fall",
+		"mount": "epicfight:biped/living/mount",
+		"walk": "epicfight:piglin/walk"
+	},
+	"faction": "piglins",
+	"isHumanoid": true,
+	"model": "epicfight:entity/piglin",
+	"renderer": "piglin",
+	"stun_animations": {
+		"fall": "epicfight:biped/living/landing",
+		"knockdown": "epicfight:biped/combat/knockdown",
+		"long": "epicfight:biped/combat/hit_long",
+		"short": "epicfight:biped/combat/hit_short"
+	}
+}

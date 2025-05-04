@@ -1,0 +1,212 @@
+{
+  "criteria": {
+    "Black": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "catType": "minecraft:textures/entity/cat/all_black.png"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:tame_animal"
+    },
+    "British Shorthair": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "catType": "minecraft:textures/entity/cat/british_shorthair.png"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:tame_animal"
+    },
+    "Calico": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "catType": "minecraft:textures/entity/cat/calico.png"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:tame_animal"
+    },
+    "Jellie": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "catType": "minecraft:textures/entity/cat/jellie.png"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:tame_animal"
+    },
+    "Orange": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "catType": "minecraft:textures/entity/cat/red.png"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:tame_animal"
+    },
+    "Persian": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "catType": "minecraft:textures/entity/cat/persian.png"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:tame_animal"
+    },
+    "Ragdoll": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "catType": "minecraft:textures/entity/cat/ragdoll.png"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:tame_animal"
+    },
+    "Siamese": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "catType": "minecraft:textures/entity/cat/siamese.png"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:tame_animal"
+    },
+    "Tabby": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "catType": "minecraft:textures/entity/cat/tabby.png"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:tame_animal"
+    },
+    "Tuxedo": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "catType": "minecraft:textures/entity/cat/black.png"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:tame_animal"
+    },
+    "White": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "catType": "minecraft:textures/entity/cat/white.png"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:tame_animal"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.husbandry.complete_catalogue.description"
+    },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:cod"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.husbandry.complete_catalogue.title"
+    }
+  },
+  "parent": "morevillagers:tame_cat",
+  "requirements": [
+    [
+      "Black"
+    ],
+    [
+      "British Shorthair"
+    ],
+    [
+      "Calico"
+    ],
+    [
+      "Jellie"
+    ],
+    [
+      "Orange"
+    ],
+    [
+      "Persian"
+    ],
+    [
+      "Ragdoll"
+    ],
+    [
+      "Siamese"
+    ],
+    [
+      "Tabby"
+    ],
+    [
+      "Tuxedo"
+    ],
+    [
+      "White"
+    ]
+  ],
+  "rewards": {
+    "experience": 50
+  }
+}

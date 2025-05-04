@@ -1,0 +1,23 @@
+{
+  "criteria": {
+    "naga": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.mowziesmobs.kill_naga.description"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "mowziesmobs:naga_fang"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.mowziesmobs.kill_naga.title"
+    }
+  },
+  "parent": "mowziesmobs:root"
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": [
+    {
+      "item": "minecraft:golden_pickaxe"
+    },
+    {
+      "item": "minecraft:golden_shovel"
+    },
+    {
+      "item": "minecraft:golden_axe"
+    },
+    {
+      "item": "minecraft:golden_hoe"
+    },
+    {
+      "item": "minecraft:golden_sword"
+    },
+    {
+      "item": "epicfight:knuckle"
+    },
+    {
+      "item": "dungeons_gear:gauntlet"
+    },
+    {
+      "item": "minecraft:clock"
+    },
+    {
+      "item": "majruszs_difficulty:golden_bandage"
+    },
+    {
+      "item": "supplementaries:key"
+    },
+    {
+      "item": "supplementaries:crimson_lantern"
+    }
+  ],
+  "result": "minecraft:gold_nugget",
+  "experience": 0.1,
+  "cookingtime": 100
+}

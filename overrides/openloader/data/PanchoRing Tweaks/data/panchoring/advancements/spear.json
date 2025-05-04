@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "spear": {
+      "conditions": {
+        "items": [
+          {
+            "item": "mowziesmobs:spear"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.panchoring.spear.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "mowziesmobs:spear"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.panchoring.spear.title"
+    }
+  },
+  "parent": "mowziesmobs:sneak_village"
+}

@@ -1,0 +1,12 @@
+{
+  "addition": {
+    "tag": "forge:ingots/dragonsteel_ice"
+  },
+  "base": {
+    "tag": "panchoring:iron_leggings"
+  },
+  "result": {
+    "item": "iceandfire:dragonsteel_ice_leggings"
+  },
+  "type": "minecraft:smithing"
+}
