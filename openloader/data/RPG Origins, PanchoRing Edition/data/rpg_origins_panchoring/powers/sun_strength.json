@@ -1,0 +1,36 @@
+{
+  "type": "origins:modify_damage_dealt",
+  "modifier": {
+    "operation": "multiply_base",
+    "value": 0.334
+  },
+  "conditions": [
+    {
+      "type": "origins:daytime"
+    },
+    {      
+      "type": "origins:dimension",
+      "dimension": "overworld"
+    }
+  ],
+  "damage_condition": {
+    "type": "origins:and",
+    "conditions": [
+      {            
+        "inverted": true,
+        "type": "origins:name",
+        "name": "explosion.player"
+      },
+      {            
+        "inverted": true,
+        "type": "origins:name",
+        "name": "magic"
+      },
+      {
+        "inverted": true,
+        "type": "origins:name",
+        "name": "indirectMagic"
+      }
+    ]
+  }
+}

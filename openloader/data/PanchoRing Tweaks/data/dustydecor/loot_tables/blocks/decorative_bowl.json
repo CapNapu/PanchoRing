@@ -1,0 +1,43 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "children": [
+            {
+              "conditions": [
+                {
+                  "condition": "match_tool",
+                  "predicate": {
+                    "enchantments": [
+                      {
+                        "enchantment": "silk_touch",
+                        "levels": {
+                          "min": 1
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "name": "dustydecor:decorative_bowl",
+              "type": "item"
+            },
+            {
+              "conditions": [
+                {
+                  "condition": "survives_explosion"
+                }
+              ],
+              "name": "bowl",
+              "type": "item"
+            }
+          ],
+          "type": "alternatives"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "block"
+}

@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "game_state": {
+      "conditions": {
+        "state_id": 1
+      },
+      "trigger": "majruszs_difficulty:game_state"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "majruszs_difficulty.on_expert_mode_start"
+    },
+    "icon": {
+      "item": "majruszs_difficulty:advancement_expert"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.progressive_difficulty.expert_mode.title"
+    }
+  },
+  "parent": "story/form_obsidian"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 18,
+  "theme": {
+    "button": {
+      "block": "projectvibrantjourneys:baobab_button",
+      "type": "block"
+    },
+    "door": {
+      "block": "projectvibrantjourneys:baobab_door",
+      "type": "block"
+    },
+    "fence": {
+      "block": "projectvibrantjourneys:baobab_fence",
+      "type": "block"
+    },
+    "fence_gate": {
+      "block": "projectvibrantjourneys:baobab_fence_gate",
+      "type": "block"
+    },
+    "material": {
+      "block": "projectvibrantjourneys:baobab_planks",
+      "type": "block"
+    },
+    "pillar": {
+      "block": "projectvibrantjourneys:baobab_log",
+      "type": "block"
+    },
+    "pressure_plate": {
+      "block": "projectvibrantjourneys:baobab_pressure_plate",
+      "type": "block"
+    },
+    "slab": {
+      "block": "projectvibrantjourneys:baobab_slab",
+      "type": "block"
+    },
+    "stairs": {
+      "block": "projectvibrantjourneys:baobab_stairs",
+      "type": "block"
+    },
+    "trapdoor": {
+      "block": "projectvibrantjourneys:baobab_trapdoor",
+      "type": "block"
+    }
+  }
+}

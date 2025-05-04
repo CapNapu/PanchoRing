@@ -1,0 +1,17 @@
+{
+  "key": {
+    "#": {
+      "item": "warped_planks"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "item": "warped_stairs"
+  },
+  "type": "crafting_shaped"
+}

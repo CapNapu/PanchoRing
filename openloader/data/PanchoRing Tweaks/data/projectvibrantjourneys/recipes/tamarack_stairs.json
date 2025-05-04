@@ -1,0 +1,17 @@
+{
+  "key": {
+    "#": {
+      "item": "projectvibrantjourneys:tamarack_planks"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "item": "projectvibrantjourneys:tamarack_stairs"
+  },
+  "type": "crafting_shaped"
+}

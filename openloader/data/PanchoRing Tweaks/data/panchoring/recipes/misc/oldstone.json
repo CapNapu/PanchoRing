@@ -1,0 +1,23 @@
+{
+  "key": {
+    "0": {
+      "item": "extcaves:clay_lump"
+    },
+    "1": {
+      "item": "dirt"
+    },
+    "2": {
+      "item": "water_bucket"
+    }
+  },
+  "pattern": [
+    " 2 ",
+    "000",
+    "111"
+  ],
+  "result": {
+    "count": 4,
+    "item": "extcaves:oldstone"
+  },
+  "type": "crafting_shaped"
+}

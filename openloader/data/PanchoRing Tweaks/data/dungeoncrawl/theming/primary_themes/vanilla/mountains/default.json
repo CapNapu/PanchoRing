@@ -1,0 +1,131 @@
+{
+  "theme": {
+    "fencing": {
+      "block": "iron_bars",
+      "type": "block"
+    },
+    "floor": {
+      "block": "supplementaries:stone_tile",
+      "type": "block"
+    },
+    "fluid": {
+      "block": "water",
+      "type": "block"
+    },
+    "generic": {
+      "blocks": [
+        {
+          "block": "mossy_stone_bricks"
+        },
+        {
+          "block": "cracked_stone_bricks",
+          "weight": 2
+        },
+        {
+          "block": "stone_bricks",
+          "weight": 4
+        }
+      ],
+      "type": "random_block"
+    },
+    "material": {
+      "blocks": [
+        {
+          "block": "mossy_stone_bricks"
+        },
+        {
+          "block": "cracked_stone_bricks",
+          "weight": 2
+        },
+        {
+          "block": "stone_bricks",
+          "weight": 4
+        }
+      ],
+      "type": "random_block"
+    },
+    "pillar": {
+      "block": "smooth_stone",
+      "type": "block"
+    },
+    "slab": {
+      "blocks": [
+        {
+          "block": "mossy_stone_brick_slab"
+        },
+        {
+          "block": "stone_brick_slab",
+          "weight": 3
+        }
+      ],
+      "type": "random_block"
+    },
+    "solid": {
+      "blocks": [
+        {
+          "block": "mossy_stone_bricks"
+        },
+        {
+          "block": "cracked_stone_bricks"
+        },
+        {
+          "block": "chiseled_stone_bricks"
+        },
+        {
+          "block": "stone_bricks",
+          "weight": 4
+        }
+      ],
+      "type": "random_block"
+    },
+    "solid_slab": {
+      "blocks": [
+        {
+          "block": "mossy_stone_brick_slab"
+        },
+        {
+          "block": "stone_brick_slab",
+          "weight": 3
+        }
+      ],
+      "type": "random_block"
+    },
+    "solid_stairs": {
+      "blocks": [
+        {
+          "block": "mossy_stone_brick_stairs"
+        },
+        {
+          "block": "stone_brick_stairs",
+          "weight": 3
+        }
+      ],
+      "type": "random_block"
+    },
+    "stairs": {
+      "blocks": [
+        {
+          "block": "mossy_stone_brick_stairs"
+        },
+        {
+          "block": "stone_brick_stairs",
+          "weight": 3
+        }
+      ],
+      "type": "random_block"
+    },
+    "wall": {
+      "blocks": [
+        {
+          "block": "mossy_stone_brick_wall",
+          "weight": 2
+        },
+        {
+          "block": "stone_brick_wall",
+          "weight": 3
+        }
+      ],
+      "type": "random_block"
+    }
+  }
+}

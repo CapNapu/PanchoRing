@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count",
+      "config": {
+        "count": 5
+      }
+    },
+    "feature": {
+      "type": "minecraft:simple_random_selector",
+      "config": {
+        "features": [
+          "wythers:dark_forest/tree_component/giant_tree_branches_high",
+          "wythers:dark_forest/tree_component/giant_tree_branches_high",
+          "wythers:dark_forest/tree_component/giant_tree_branches",
+          "wythers:dark_forest/tree_component/giant_tree_trunk",
+          "wythers:dark_forest/tree_component/giant_tree_trunk"
+        ]
+      }
+    }
+  }
+}

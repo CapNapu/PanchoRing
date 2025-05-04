@@ -1,0 +1,11 @@
+{
+  "attack_damage": 0,
+  "attack_speed": 0,
+  "durability": 256,
+  "enchantability": 14,
+  "equip_sound": "",
+  "level": 0,
+  "name": "dungeons_gear:iron",
+  "repair_item": "iron",
+  "type": "dungeons_libraries:dungeons_weapon_material"
+}

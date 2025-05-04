@@ -1,0 +1,25 @@
+{
+  "key": {
+    "#": {
+      "item": "redstone_torch"
+    },
+    "I": {
+      "item": "stone_slab"
+    },
+    "R": {
+      "item": "redstone"
+    },
+    "X": {
+      "item": "quartz"
+    }
+  },
+  "pattern": [
+    "R#R",
+    "#X#",
+    " I "
+  ],
+  "result": {
+    "item": "comparator"
+  },
+  "type": "crafting_shaped"
+}

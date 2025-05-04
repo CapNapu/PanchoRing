@@ -1,0 +1,62 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "dungeons_gear:the_last_laugh",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:suns_grace",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:grave_bane",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:haunted_bow",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:nocturnal_bow",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:battle_robes_helmet",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:battle_robes_chestplate",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:battle_robes_leggings",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:battle_robes_boots",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:spider_helmet",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:spider_chestplate",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:spider_leggings",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:spider_boots",
+          "type": "item"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "chest"
+}

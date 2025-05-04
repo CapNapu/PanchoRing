@@ -1,0 +1,42 @@
+{
+  "name": "wythers:village/desert_lakes/town_centers",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 60,
+      "element": {
+        "location": "wythers:village/desert_lakes/town_centers/campfire_1",
+        "processors": "wythers:desert_lakes_huts",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 20,
+      "element": {
+        "location": "wythers:village/desert_lakes/town_centers/trader_camp_1",
+        "processors": "wythers:desert_lakes_trader_camp",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 20,
+      "element": {
+        "location": "wythers:village/desert_lakes/town_centers/trader_camp_2",
+        "processors": "wythers:desert_lakes_trader_camp",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 20,
+      "element": {
+        "location": "wythers:village/desert_lakes/town_centers/trader_camp_3",
+        "processors": "wythers:desert_lakes_trader_camp",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

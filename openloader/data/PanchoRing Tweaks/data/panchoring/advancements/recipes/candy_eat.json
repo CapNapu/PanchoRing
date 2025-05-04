@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "candy": {
+      "conditions": {
+        "item": {
+          "item": "supplementaries:candy"
+        }
+      },
+      "trigger": "consume_item"
+    }
+  },
+  "rewards": {
+    "function": "panchoring:candy_eat"
+  }
+}

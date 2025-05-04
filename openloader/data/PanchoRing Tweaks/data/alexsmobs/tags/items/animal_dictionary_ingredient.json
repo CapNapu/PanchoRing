@@ -1,0 +1,33 @@
+{
+  "replace": true,
+  "values": [
+    "pufferfish",
+    "rabbit_foot",
+    "scute",
+    "alexsmobs:bear_fur",
+    "alexsmobs:blobfish",
+    "alexsmobs:cachalot_whale_tooth",
+    "alexsmobs:centipede_leg",
+    "alexsmobs:cockroach_wing",
+    "alexsmobs:crocodile_scute",
+    "alexsmobs:emu_feather",
+    "alexsmobs:gazelle_horn",
+    "alexsmobs:komodo_spit",
+    "alexsmobs:maggot",
+    "alexsmobs:moose_antler",
+    "alexsmobs:raccoon_tail",
+    "alexsmobs:rattlesnake_rattle",
+    "alexsmobs:roadrunner_feather",
+    "alexsmobs:serrated_shark_tooth",
+    "alexsmobs:shark_tooth",
+    "alexsmobs:spiked_scute",
+    "alexsmobs:tarantula_hawk_wing",
+    "iceandfire:amphithere_feather",
+    "iceandfire:pixie_dust",
+    "infernalexp:ascus_bomb",
+    "infernalexp:glowcoal",
+    "infernalexp:moth_dust",
+    "mowziesmobs:glowing_jelly",
+    "projectvibrantjourneys:pearl"
+  ]
+}

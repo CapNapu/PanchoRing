@@ -1,0 +1,36 @@
+{
+  "armorSetName": "dragonsteel_ice",
+  "head": {
+    "itemKey": "iceandfire:dragonsteel_ice_helmet"
+  },
+  "chest": {
+    "itemKey": "iceandfire:dragonsteel_ice_chestplate"
+  },
+  "legs": {
+    "itemKey": "iceandfire:dragonsteel_ice_leggings"
+  },
+  "boots": {
+    "itemKey": "iceandfire:dragonsteel_ice_boots"
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "effect",
+      "description": "effect.ars_nouveau.snared",
+      "name": "ars_nouveau:snared",
+      "value": 0.0,
+      "interactionType": "immunity",
+      "interactionDuration": 120
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "description": "panchoring.attribute.armor_5",
+      "name": "minecraft:generic.armor",
+      "value": 0.0,
+      "modifierUUID": "2eed9ff4-0586-49e7-8a88-bb0db831dcdc",
+      "attributeOperation": 0
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 2,
+                "min": 0
+              },
+              "function": "set_count"
+            },
+            {
+              "count": {
+                "max": 1,
+                "min": 0
+              },
+              "function": "looting_enchant"
+            }
+          ],
+          "name": "iceandfire:witherbone",
+          "type": "item",
+          "weight": 1
+        }
+      ],
+      "rolls": 1
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 1,
+                "min": 0
+              },
+              "function": "set_count"
+            },
+            {
+              "count": {
+                "max": 1,
+                "min": 0
+              },
+              "function": "looting_enchant"
+            }
+          ],
+          "name": "coal",
+          "type": "item",
+          "weight": 1
+        }
+      ],
+      "rolls": 1
+    }
+  ]
+}

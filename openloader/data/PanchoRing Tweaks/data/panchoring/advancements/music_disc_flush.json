@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "music_disc_flush": {
+      "conditions": {
+        "item": {
+          "item": "infernalexp:music_disc_flush"
+        },
+        "location": {
+          "block": {
+            "block": "jukebox"
+          }
+        }
+      },
+      "trigger": "item_used_on_block"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.music_disc_flush.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "infernalexp:music_disc_flush"
+    },
+    "title": {
+      "translate": "advancements.panchoring.music_disc_flush.title"
+    }
+  },
+  "parent": "panchoring:music_disc_petiole"
+}

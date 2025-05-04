@@ -1,0 +1,22 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "cataclysm:gauntlet_of_guard",
+          "type": "item"
+        }
+      ],
+      "rolls": 1
+    },
+    {
+      "entries": [
+        {
+          "name": "cataclysm:void_core",
+          "type": "item"
+        }
+      ],
+      "rolls": 2
+    }
+  ]
+}

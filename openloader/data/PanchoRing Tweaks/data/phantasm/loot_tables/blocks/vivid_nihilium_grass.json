@@ -1,0 +1,22 @@
+{
+  "pools": [
+    {
+      "conditions": [
+        {
+          "condition": "match_tool",
+          "predicate": {
+            "tag": "forge:shears"
+          }
+        }
+      ],
+      "entries": [
+        {
+          "name": "phantasm:vivid_nihilium_grass",
+          "type": "item"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "block"
+}

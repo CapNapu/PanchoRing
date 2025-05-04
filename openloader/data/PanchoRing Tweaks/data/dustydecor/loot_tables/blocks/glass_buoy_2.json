@@ -1,0 +1,30 @@
+{
+  "pools": [
+    {
+      "conditions": [
+        {
+          "condition": "match_tool",
+          "predicate": {
+            "enchantments": [
+              {
+                "enchantment": "silk_touch",
+                "levels": {
+                  "min": 1
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "entries": [
+        {
+          "name": "dustydecor:glass_buoy",
+          "type": "item"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "dustydecor:blocks/glass_buoy_2",
+  "type": "block"
+}

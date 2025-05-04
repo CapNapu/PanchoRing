@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "conditions": [
+        {
+          "condition": "survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "name": "infernalexp:glowdust_stone",
+          "type": "item"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "block"
+}

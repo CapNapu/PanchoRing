@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "bosses_of_mass_destruction:gauntlet": {
+      "conditions": {
+        "entity": {
+          "type": "bosses_of_mass_destruction:gauntlet"
+        }
+      },
+      "trigger": "player_killed_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.nether.gauntlet_defeat.description"
+    },
+    "frame": "goal",
+    "hidden": true,
+    "icon": {
+      "item": "bosses_of_mass_destruction:blazing_eye"
+    },
+    "title": {
+      "translate": "advancements.nether.gauntlet_defeat.title"
+    }
+  },
+  "parent": "panchoring:find_gauntlet_arena"
+}

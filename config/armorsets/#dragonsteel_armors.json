@@ -1,0 +1,41 @@
+{
+  "armorSetName": "dragonsteel.armors",
+  "head": {
+    "itemKey": "iceandfire:dragonsteel_fire_helmet",
+    "mixAndMatch": [
+      "iceandfire:dragonsteel_ice_helmet",
+      "iceandfire:dragonsteel_lightning_helmet"
+    ]
+  },
+  "chest": {
+    "itemKey": "iceandfire:dragonsteel_fire_chestplate",
+    "mixAndMatch": [
+      "iceandfire:dragonsteel_ice_chestplate",
+      "iceandfire:dragonsteel_lightning_chestplate"
+    ]
+  },
+  "legs": {
+    "itemKey": "iceandfire:dragonsteel_fire_leggings",
+    "mixAndMatch": [
+      "iceandfire:dragonsteel_ice_leggings",
+      "iceandfire:dragonsteel_lightning_leggings"
+    ]
+  },
+  "boots": {
+    "itemKey": "iceandfire:dragonsteel_fire_boots",
+    "mixAndMatch": [
+      "iceandfire:dragonsteel_ice_boots",
+      "iceandfire:dragonsteel_lightning_boots"
+    ]
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.armor",
+      "value": 5.0,
+      "modifierUUID": "98d8b41c-9cc0-43cb-a1e0-64323c37c3fa",
+      "attributeOperation": 0
+    }
+  ],
+  "hideGeneratedTooltip": true
+}

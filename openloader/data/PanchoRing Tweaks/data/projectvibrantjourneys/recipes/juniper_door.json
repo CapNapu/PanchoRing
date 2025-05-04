@@ -1,0 +1,17 @@
+{
+  "key": {
+    "#": {
+      "item": "projectvibrantjourneys:juniper_planks"
+    }
+  },
+  "pattern": [
+    "##",
+    "##",
+    "##"
+  ],
+  "result": {
+    "count": 2,
+    "item": "projectvibrantjourneys:juniper_door"
+  },
+  "type": "crafting_shaped"
+}

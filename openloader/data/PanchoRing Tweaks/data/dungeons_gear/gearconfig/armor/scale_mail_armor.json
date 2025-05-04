@@ -1,0 +1,18 @@
+{
+  "attributes": [
+    {
+      "amount": 0.025,
+      "attribute": "generic.attack_speed",
+      "operation": 1
+    }
+  ],
+  "built_in_enchantments": [
+    {
+      "enchantment": "dungeons_gear:fortune_of_the_sea",
+      "level": 1
+    }
+  ],
+  "material": "dungeons_gear:metal",
+  "rarity": "UNCOMMON",
+  "unique": false
+}

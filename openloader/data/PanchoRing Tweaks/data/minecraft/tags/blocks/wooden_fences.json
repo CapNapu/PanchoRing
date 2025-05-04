@@ -1,0 +1,27 @@
+{
+  "replace": true,
+  "values": [
+    "acacia_fence",
+    "birch_fence",
+    "crimson_fence",
+    "dark_oak_fence",
+    "jungle_fence",
+    "oak_fence",
+    "spruce_fence",
+    "warped_fence",
+    "ars_nouveau:archwood_fence",
+    "cataclysm:chorus_fence",
+    "phantasm:ebony_fence",
+    "phantasm:pream_fence",
+    "projectvibrantjourneys:aspen_fence",
+    "projectvibrantjourneys:baobab_fence",
+    "projectvibrantjourneys:fir_fence",
+    "projectvibrantjourneys:joshua_fence",
+    "projectvibrantjourneys:juniper_fence",
+    "projectvibrantjourneys:maple_fence",
+    "projectvibrantjourneys:pine_fence",
+    "projectvibrantjourneys:redwood_fence",
+    "projectvibrantjourneys:sakura_fence",
+    "projectvibrantjourneys:tamarack_fence"
+  ]
+}

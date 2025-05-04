@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "slabgen:coarse_dirt_slab"
+    },
+    {
+      "item": "slabgen:coarse_dirt_slab"
+    }
+  ],
+  "result": {
+    "item": "coarse_dirt"
+  },
+  "type": "crafting_shapeless"
+}

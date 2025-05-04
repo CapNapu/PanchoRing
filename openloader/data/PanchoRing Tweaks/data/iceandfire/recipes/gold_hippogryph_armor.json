@@ -1,0 +1,17 @@
+{
+  "ingredients": [
+    {
+      "item": "golden_horse_armor"
+    },
+    {
+      "item": "feather"
+    },
+    {
+      "item": "feather"
+    }
+  ],
+  "result": {
+    "item": "iceandfire:gold_hippogryph_armor"
+  },
+  "type": "crafting_shapeless"
+}

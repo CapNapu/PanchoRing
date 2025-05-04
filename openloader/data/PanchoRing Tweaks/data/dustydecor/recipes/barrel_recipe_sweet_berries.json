@@ -1,0 +1,35 @@
+{
+  "ingredients": [
+    {
+      "item": "sweet_berries"
+    },
+    {
+      "item": "sweet_berries"
+    },
+    {
+      "item": "sweet_berries"
+    },
+    {
+      "item": "sweet_berries"
+    },
+    {
+      "item": "sweet_berries"
+    },
+    {
+      "item": "sweet_berries"
+    },
+    {
+      "item": "sweet_berries"
+    },
+    {
+      "item": "sweet_berries"
+    },
+    {
+      "item": "dustydecor:empty_barrel"
+    }
+  ],
+  "result": {
+    "item": "dustydecor:sweet_berries_barrel"
+  },
+  "type": "crafting_shapeless"
+}

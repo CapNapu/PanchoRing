@@ -1,0 +1,9 @@
+{
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "red_concrete_powder"
+  },
+  "result": "red_stained_glass",
+  "type": "smelting"
+}

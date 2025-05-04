@@ -1,0 +1,12 @@
+{
+  "addition": {
+    "item": "iceandfire:dragonsteel_lightning_ingot"
+  },
+  "base": {
+    "item": "iron_sword"
+  },
+  "result": {
+    "item": "iceandfire:dragonsteel_lightning_sword"
+  },
+  "type": "smithing"
+}

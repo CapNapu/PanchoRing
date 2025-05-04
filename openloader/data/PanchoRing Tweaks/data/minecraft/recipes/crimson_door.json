@@ -1,0 +1,17 @@
+{
+  "key": {
+    "#": {
+      "item": "crimson_planks"
+    }
+  },
+  "pattern": [
+    "##",
+    "##",
+    "##"
+  ],
+  "result": {
+    "count": 2,
+    "item": "crimson_door"
+  },
+  "type": "crafting_shaped"
+}

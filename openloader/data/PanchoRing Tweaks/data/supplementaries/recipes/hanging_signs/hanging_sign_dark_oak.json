@@ -1,0 +1,23 @@
+{
+  "key": {
+    "0": {
+      "item": "iron_nugget"
+    },
+    "1": {
+      "item": "stick"
+    },
+    "2": {
+      "item": "dark_oak_slab"
+    }
+  },
+  "pattern": [
+    "010",
+    "222",
+    "222"
+  ],
+  "result": {
+    "count": 4,
+    "item": "supplementaries:hanging_sign_dark_oak"
+  },
+  "type": "crafting_shaped"
+}

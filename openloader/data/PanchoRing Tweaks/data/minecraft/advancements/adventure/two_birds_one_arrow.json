@@ -1,0 +1,45 @@
+{
+  "criteria": {
+    "two_birds": {
+      "conditions": {
+        "victims": [
+          [
+            {
+              "condition": "entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type": "majruszs_difficulty:sky_keeper"
+              }
+            }
+          ],
+          [
+            {
+              "condition": "entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type": "majruszs_difficulty:sky_keeper"
+              }
+            }
+          ]
+        ]
+      },
+      "trigger": "killed_by_crossbow"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.adventure.two_birds_one_arrow.description"
+    },
+    "frame": "challenge",
+    "icon": {
+      "item": "spectral_arrow"
+    },
+    "title": {
+      "translate": "advancements.adventure.two_birds_one_arrow.title"
+    }
+  },
+  "parent": "end/elytra",
+  "rewards": {
+    "experience": 500
+  }
+}

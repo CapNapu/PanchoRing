@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "paper"
+    },
+    {
+      "item": "iceandfire:amphithere_feather"
+    }
+  ],
+  "result": {
+    "item": "iceandfire:banner_pattern_amphithere"
+  },
+  "type": "crafting_shapeless"
+}

@@ -1,0 +1,13 @@
+{
+  "count": 2,
+  "ingredient": [
+    {
+      "item": "extcaves:lavastone"
+    },
+    {
+      "item": "extcaves:polished_lavastone"
+    }
+  ],
+  "result": "extcaves:polished_lavastone_slab",
+  "type": "stonecutting"
+}

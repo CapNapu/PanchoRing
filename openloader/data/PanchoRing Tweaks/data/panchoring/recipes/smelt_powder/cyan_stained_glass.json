@@ -1,0 +1,9 @@
+{
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "cyan_concrete_powder"
+  },
+  "result": "cyan_stained_glass",
+  "type": "smelting"
+}

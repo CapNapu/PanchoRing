@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "cobblestone"
+    },
+    {
+      "item": "vine"
+    }
+  ],
+  "result": {
+    "item": "mossy_cobblestone"
+  },
+  "type": "crafting_shapeless"
+}

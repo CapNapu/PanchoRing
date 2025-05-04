@@ -1,0 +1,22 @@
+{
+  "key": {
+    "c": {
+      "item": "lapis_block"
+    },
+    "g": {
+      "item": "gold_ingot"
+    },
+    "m": {
+      "item": "ars_nouveau:mana_gem"
+    }
+  },
+  "pattern": [
+    "gmg",
+    "mcm",
+    "gmg"
+  ],
+  "result": {
+    "item": "ars_nouveau:arcane_relay"
+  },
+  "type": "crafting_shaped"
+}

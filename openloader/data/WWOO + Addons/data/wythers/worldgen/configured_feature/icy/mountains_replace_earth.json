@@ -1,0 +1,113 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count_extra",
+      "config": {
+        "count": 1000,
+        "extra_count": 0,
+        "extra_chance": 0
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:square",
+          "config": {}
+        },
+        "feature": {
+          "type": "minecraft:decorated",
+          "config": {
+            "decorator": {
+              "type": "minecraft:heightmap",
+              "config": {}
+            },
+            "feature": {
+              "type": "minecraft:simple_random_selector",
+              "config": {
+                "features": [
+                  {
+                    "type": "minecraft:decorated",
+                    "config": {
+                      "decorator": {
+                        "type": "minecraft:heightmap",
+                        "config": {}
+                      },
+                      "feature": {
+                        "type": "minecraft:netherrack_replace_blobs",
+                        "config": {
+                          "state": {
+                            "Name": "minecraft:snow_block"
+                          },
+                          "target": {
+                            "Name": "minecraft:grass_block",
+                            "Properties": {
+                              "snowy": "true"
+                            }
+                          },
+                          "radius": {
+                            "base": 5,
+                            "spread": 5
+                          }
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "type": "minecraft:decorated",
+                    "config": {
+                      "decorator": {
+                        "type": "minecraft:heightmap",
+                        "config": {}
+                      },
+                      "feature": {
+                        "type": "minecraft:netherrack_replace_blobs",
+                        "config": {
+                          "state": {
+                            "Name": "minecraft:snow_block"
+                          },
+                          "target": {
+                            "Name": "minecraft:coarse_dirt"
+                          },
+                          "radius": {
+                            "base": 5,
+                            "spread": 5
+                          }
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "type": "minecraft:decorated",
+                    "config": {
+                      "decorator": {
+                        "type": "minecraft:heightmap",
+                        "config": {}
+                      },
+                      "feature": {
+                        "type": "minecraft:netherrack_replace_blobs",
+                        "config": {
+                          "state": {
+                            "Name": "minecraft:snow_block"
+                          },
+                          "target": {
+                            "Name": "minecraft:dirt"
+                          },
+                          "radius": {
+                            "base": 5,
+                            "spread": 5
+                          }
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

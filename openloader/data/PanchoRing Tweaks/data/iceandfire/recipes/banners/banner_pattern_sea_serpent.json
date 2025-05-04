@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "paper"
+    },
+    {
+      "item": "iceandfire:sea_serpent_fang"
+    }
+  ],
+  "result": {
+    "item": "iceandfire:banner_pattern_sea_serpent"
+  },
+  "type": "crafting_shapeless"
+}

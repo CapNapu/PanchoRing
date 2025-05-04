@@ -1,0 +1,19 @@
+{
+  "ingredients": [
+    [
+      {
+        "item": "slabgen:dirt_slab"
+      },
+      {
+        "item": "slabgen:grass_slab"
+      }
+    ],
+    {
+      "item": "slabgen:grass_slab"
+    }
+  ],
+  "result": {
+    "item": "grass_block"
+  },
+  "type": "crafting_shapeless"
+}

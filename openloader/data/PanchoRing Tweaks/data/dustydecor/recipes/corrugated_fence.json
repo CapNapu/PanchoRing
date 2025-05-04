@@ -1,0 +1,10 @@
+{
+  "count": 2,
+  "ingredient": [
+    {
+      "item": "dustydecor:corrugated_metal_block"
+    }
+  ],
+  "result": "dustydecor:corrugated_metal_fence",
+  "type": "stonecutting"
+}

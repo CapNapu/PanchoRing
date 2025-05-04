@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "piston"
+    },
+    {
+      "tag": "mapatlases:sticky_crafting_items"
+    }
+  ],
+  "result": {
+    "item": "sticky_piston"
+  },
+  "type": "crafting_shapeless"
+}

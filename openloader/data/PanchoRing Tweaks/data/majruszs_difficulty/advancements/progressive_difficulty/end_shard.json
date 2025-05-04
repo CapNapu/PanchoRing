@@ -1,0 +1,28 @@
+{
+  "criteria": {
+    "picked_up_shard": {
+      "conditions": {
+        "items": [
+          {
+            "item": "majruszs_difficulty:end_shard"
+          }
+        ]
+      },
+      "trigger": "inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.progressive_difficulty.end_shard.description"
+    },
+    "frame": "goal",
+    "hidden": true,
+    "icon": {
+      "item": "majruszs_difficulty:end_shard"
+    },
+    "title": {
+      "translate": "advancements.progressive_difficulty.end_shard.title"
+    }
+  },
+  "parent": "end/enter_end_gateway"
+}

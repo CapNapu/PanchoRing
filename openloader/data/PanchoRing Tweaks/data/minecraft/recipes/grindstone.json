@@ -1,0 +1,21 @@
+{
+  "key": {
+    "-": {
+      "item": "smooth_stone_slab"
+    },
+    "#": {
+      "tag": "wooden_slabs"
+    },
+    "I": {
+      "item": "stick"
+    }
+  },
+  "pattern": [
+    "I-I",
+    "# #"
+  ],
+  "result": {
+    "item": "grindstone"
+  },
+  "type": "crafting_shaped"
+}

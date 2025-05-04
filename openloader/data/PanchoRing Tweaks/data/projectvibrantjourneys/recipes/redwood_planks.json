@@ -1,0 +1,12 @@
+{
+  "ingredients": [
+    {
+      "tag": "projectvibrantjourneys:redwood_logs"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "projectvibrantjourneys:redwood_planks"
+  },
+  "type": "crafting_shapeless"
+}

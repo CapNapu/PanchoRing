@@ -1,0 +1,142 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "gold_nugget",
+          "type": "item"
+        },
+        {
+          "name": "grass",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "name": "tall_grass",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 2.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "cooked_porkchop",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 2,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "cocoa_beans",
+          "type": "item",
+          "weight": 8
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 2.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "acacia_sapling",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 2.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "bone",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "name": "mowziesmobs:barakoa_mask_fury",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "name": "mowziesmobs:barakoa_mask_bliss",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "name": "mowziesmobs:barakoa_mask_misery",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "name": "mowziesmobs:barakoa_mask_fear",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "name": "mowziesmobs:barakoa_mask_rage",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "name": "mowziesmobs:barakoa_mask_faith",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 2.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "torch",
+          "type": "item"
+        }
+      ],
+      "rolls": {
+        "max": 8.0,
+        "min": 3.0,
+        "type": "uniform"
+      }
+    }
+  ],
+  "type": "chest"
+}

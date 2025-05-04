@@ -1,0 +1,321 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "wither_skeleton_skull",
+          "type": "item"
+        }
+      ],
+      "rolls": 1
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "damage": {
+                "max": 0.5,
+                "min": 0.1
+              },
+              "function": "set_damage"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": {
+                "max": 10.0,
+                "min": 5.0,
+                "type": "uniform"
+              },
+              "treasure": true
+            }
+          ],
+          "name": "crossbow",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 28.0,
+                "min": 10.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "spectral_arrow",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"fire_resistance\"}"
+            }
+          ],
+          "name": "potion",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"water\"}"
+            }
+          ],
+          "name": "potion",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 8.0,
+                "min": 3.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "crying_obsidian",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "gold_block",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 9.0,
+                "min": 4.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "gold_ingot",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 9.0,
+                "min": 4.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "iceandfire:copper_ingot",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "dungeons_gear:gold_sword",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": {
+                "max": 15.0,
+                "min": 10.0,
+                "type": "uniform"
+              },
+              "treasure": true
+            }
+          ],
+          "name": "golden_chestplate",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": {
+                "max": 15.0,
+                "min": 10.0,
+                "type": "uniform"
+              },
+              "treasure": true
+            }
+          ],
+          "name": "golden_helmet",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": {
+                "max": 15.0,
+                "min": 10.0,
+                "type": "uniform"
+              },
+              "treasure": true
+            }
+          ],
+          "name": "golden_leggings",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": {
+                "max": 15.0,
+                "min": 10.0,
+                "type": "uniform"
+              },
+              "treasure": true
+            }
+          ],
+          "name": "golden_boots",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": {
+                "max": 15.0,
+                "min": 10.0,
+                "type": "uniform"
+              },
+              "treasure": true
+            }
+          ],
+          "name": "dungeons_gear:gold_axe",
+          "type": "item"
+        }
+      ],
+      "rolls": {
+        "max": 2.0,
+        "min": 1.0,
+        "type": "uniform"
+      }
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "string",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "leather",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 17.0,
+                "min": 5.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "arrow",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "iceandfire:copper_nugget",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "gold_nugget",
+          "type": "item"
+        }
+      ],
+      "rolls": {
+        "max": 4.0,
+        "min": 2.0,
+        "type": "uniform"
+      }
+    }
+  ],
+  "type": "chest"
+}

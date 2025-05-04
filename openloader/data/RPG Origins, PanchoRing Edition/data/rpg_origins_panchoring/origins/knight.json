@@ -1,0 +1,18 @@
+{
+  "powers": [
+    "rpg_origins_panchoring:equipment_knight",
+    "rpg_origins_panchoring:durable",
+    "rpg_origins_panchoring:determined",
+    "rpg_origins_panchoring:more_exhaustion",
+    "rpg_origins_panchoring:.armor_tweaks",
+    "rpg_origins_panchoring:.sleeping_tweaks",
+    "rpg_origins_panchoring:.projectile_tweaks",
+    "rpg_origins_panchoring:.mage_robes_not",
+    "rpg_origins_panchoring:.heavy_weapons_not",
+    "rpg_origins_panchoring:.break_speed_not"
+  ],
+  "icon": {
+    "item": "dungeons_gear:sword"
+  },
+  "impact": 1
+}

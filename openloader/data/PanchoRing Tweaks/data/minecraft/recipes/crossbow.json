@@ -1,0 +1,25 @@
+{
+  "key": {
+    "#": {
+      "item": "stick"
+    },
+    "~": {
+      "item": "bow"
+    },
+    "$": {
+      "item": "tripwire_hook"
+    },
+    "A": {
+      "item": "iceandfire:copper_ingot"
+    }
+  },
+  "pattern": [
+    " $ ",
+    "#~#",
+    "#A#"
+  ],
+  "result": {
+    "item": "crossbow"
+  },
+  "type": "crafting_shaped"
+}

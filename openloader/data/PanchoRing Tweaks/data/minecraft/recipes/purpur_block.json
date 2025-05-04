@@ -1,0 +1,9 @@
+{
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "phantasm:raw_purpur"
+  },
+  "result": "purpur_block",
+  "type": "smelting"
+}

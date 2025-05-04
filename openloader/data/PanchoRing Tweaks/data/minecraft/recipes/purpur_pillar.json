@@ -1,0 +1,15 @@
+{
+  "key": {
+    "#": {
+      "item": "purpur_block"
+    }
+  },
+  "pattern": [
+    "#",
+    "#"
+  ],
+  "result": {
+    "item": "purpur_pillar"
+  },
+  "type": "crafting_shaped"
+}

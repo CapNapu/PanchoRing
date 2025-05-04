@@ -1,0 +1,34 @@
+{
+  "armorSetName": "gilded_glory",
+  "head": {
+    "itemKey": "dungeons_gear:gilded_glory_helmet"
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:gilded_glory_chestplate"
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:gilded_glory_leggings"
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:gilded_glory_boots"
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "effect",
+      "description": "effect.minecraft.luck",
+      "name": "minecraft:luck",
+      "value": 0.0,
+      "interactionDuration": 120
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "description": "effect.epicfight.stun_immunity",
+      "name": "epicfight:stun_immunity",
+      "value": 0.0,
+      "interactionDuration": 120
+    }
+  ]
+}

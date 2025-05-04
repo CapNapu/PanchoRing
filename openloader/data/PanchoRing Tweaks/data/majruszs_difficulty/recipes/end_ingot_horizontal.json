@@ -1,0 +1,35 @@
+{
+	"ingredients": [
+		{
+			"item": "majruszs_difficulty:end_shard"
+		},
+		{
+			"item": "majruszs_difficulty:end_shard"
+		},
+		{
+			"item": "majruszs_difficulty:end_shard"
+		},
+		{
+			"item": "majruszs_difficulty:end_shard"
+		},
+		{
+			"item": "ender_eye"
+		},
+		{
+			"item": "iceandfire:silver_ingot"
+		},
+		{
+			"item": "iceandfire:silver_ingot"
+		},
+		{
+			"item": "iceandfire:silver_ingot"
+		},
+		{
+			"item": "iceandfire:silver_ingot"
+		}
+	],
+	"result": {
+		"item": "majruszs_difficulty:end_ingot"
+	},
+	"type": "crafting_shapeless"
+}

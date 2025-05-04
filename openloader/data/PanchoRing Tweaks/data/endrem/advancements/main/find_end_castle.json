@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "in_end_castle": {
+      "conditions": {
+        "location": {
+          "feature": "endrem:end_castle"
+        }
+      },
+      "trigger": "location"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.main.find_end_castle.description"
+    },
+    "frame": "goal",
+    "hidden": true,
+    "icon": {
+      "item": "writable_book"
+    },
+    "title": {
+      "translate": "advancements.main.find_end_castle.title"
+    }
+  },
+  "parent": "story/follow_ender_eye"
+}

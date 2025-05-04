@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "dropper"
+    },
+    {
+      "item": "crossbow"
+    }
+  ],
+  "result": {
+    "item": "dispenser"
+  },
+  "type": "crafting_shapeless"
+}

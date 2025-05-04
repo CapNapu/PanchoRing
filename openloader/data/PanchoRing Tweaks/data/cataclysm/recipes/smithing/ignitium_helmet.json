@@ -1,0 +1,12 @@
+{
+  "addition": {
+    "item": "cataclysm:ignitium_ingot"
+  },
+  "base": {
+    "item": "majruszs_difficulty:end_helmet"
+  },
+  "result": {
+    "item": "cataclysm:ignitium_helmet"
+  },
+  "type": "smithing"
+}

@@ -1,0 +1,15 @@
+{
+  "key": {
+    "#": {
+      "item": "ars_nouveau:archwood_planks"
+    }
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": {
+    "count": 2,
+    "item": "ars_nouveau:archwood_pressure_plate"
+  },
+  "type": "crafting_shaped"
+}

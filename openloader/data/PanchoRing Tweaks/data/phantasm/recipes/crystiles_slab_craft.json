@@ -1,0 +1,8 @@
+{
+  "count": 2,
+  "ingredient": {
+    "item": "phantasm:crystal_block"
+  },
+  "result": "phantasm:crystiles_slab",
+  "type": "stonecutting"
+}

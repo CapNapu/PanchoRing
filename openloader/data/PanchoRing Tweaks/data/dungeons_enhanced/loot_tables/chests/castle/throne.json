@@ -1,0 +1,169 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "gold_nugget",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "gold_ingot",
+          "type": "item",
+          "weight": 15
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "gold_block",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "diamond",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "iron_ingot",
+          "type": "item",
+          "weight": 20
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "iron_nugget",
+          "type": "item",
+          "weight": 15
+        }
+      ],
+      "rolls": {
+        "max": 12.0,
+        "min": 10.0,
+        "type": "uniform"
+      }
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": {
+                "max": 10.0,
+                "min": 0.0,
+                "type": "uniform"
+              },
+              "treasure": false
+            }
+          ],
+          "name": "diamond_helmet",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": {
+                "max": 10.0,
+                "min": 0.0,
+                "type": "uniform"
+              },
+              "treasure": false
+            }
+          ],
+          "name": "diamond_chestplate",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": {
+                "max": 10.0,
+                "min": 0.0,
+                "type": "uniform"
+              },
+              "treasure": false
+            }
+          ],
+          "name": "diamond_leggings",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": {
+                "max": 10.0,
+                "min": 0.0,
+                "type": "uniform"
+              },
+              "treasure": false
+            }
+          ],
+          "name": "diamond_boots",
+          "type": "item",
+          "weight": 2
+        }
+      ],
+      "rolls": {
+        "max": 1.0,
+        "min": 0.0,
+        "type": "uniform"
+      }
+    }
+  ],
+  "type": "chest"
+}

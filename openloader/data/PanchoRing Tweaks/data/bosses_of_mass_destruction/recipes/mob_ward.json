@@ -1,0 +1,12 @@
+{
+  "addition": {
+    "item": "bosses_of_mass_destruction:ancient_anima"
+  },
+  "base": {
+    "item": "ars_nouveau:dominion_wand"
+  },
+  "result": {
+    "item": "bosses_of_mass_destruction:mob_ward"
+  },
+  "type": "smithing"
+}

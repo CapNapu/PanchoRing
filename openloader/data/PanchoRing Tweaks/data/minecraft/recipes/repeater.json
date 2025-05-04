@@ -1,0 +1,21 @@
+{
+  "key": {
+    "#": {
+      "item": "redstone_torch"
+    },
+    "I": {
+      "item": "stone_slab"
+    },
+    "X": {
+      "item": "redstone"
+    }
+  },
+  "pattern": [
+    "#X#",
+    " I "
+  ],
+  "result": {
+    "item": "repeater"
+  },
+  "type": "crafting_shaped"
+}

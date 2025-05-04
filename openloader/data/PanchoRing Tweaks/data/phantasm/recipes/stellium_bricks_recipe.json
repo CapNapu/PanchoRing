@@ -1,0 +1,20 @@
+{
+  "key": {
+    "0": {
+      "item": "bricks"
+    },
+    "1": {
+      "item": "phantasm:stellium_ingot"
+    }
+  },
+  "pattern": [
+    "000",
+    "010",
+    "000"
+  ],
+  "result": {
+    "count": 8,
+    "item": "phantasm:stellium_bricks"
+  },
+  "type": "crafting_shaped"
+}

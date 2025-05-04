@@ -1,0 +1,253 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": {
+        "max": 2,
+        "min": 1
+      },
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 1,
+                "min": 1
+              },
+              "function": "set_count"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": {
+                "max": 2,
+                "min": 0
+              },
+              "treasure": true
+            }
+          ],
+          "name": "chainmail_helmet",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 1,
+                "min": 1
+              },
+              "function": "set_count"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": {
+                "max": 2,
+                "min": 0
+              },
+              "treasure": true
+            }
+          ],
+          "name": "chainmail_chestplate",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 1,
+                "min": 1
+              },
+              "function": "set_count"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": {
+                "max": 2,
+                "min": 0
+              },
+              "treasure": true
+            }
+          ],
+          "name": "chainmail_leggings",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 1,
+                "min": 1
+              },
+              "function": "set_count"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": {
+                "max": 2,
+                "min": 0
+              },
+              "treasure": true
+            }
+          ],
+          "name": "chainmail_boots",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 12,
+                "min": 6
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "arrow",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 4,
+                "min": 2
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "iron_ingot",
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 7,
+                "min": 3
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "leather",
+          "type": "item",
+          "weight": 6
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 1,
+                "min": 1
+              },
+              "function": "set_count"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": {
+                "max": 5,
+                "min": 0
+              },
+              "treasure": true
+            }
+          ],
+          "name": "dungeons_gear:sword",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 1,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "golden_apple",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 9,
+                "min": 4
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "iron_nugget",
+          "type": "item",
+          "weight": 7
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 1,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "iron_horse_armor",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 1,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "bow",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "string",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 1,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "shield",
+          "type": "item",
+          "weight": 3
+        }
+      ],
+      "rolls": {
+        "max": 7,
+        "min": 6
+      }
+    }
+  ],
+  "type": "chest"
+}

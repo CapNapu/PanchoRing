@@ -1,0 +1,12 @@
+{
+  "addition": {
+    "item": "iceandfire:dragonsteel_fire_ingot"
+  },
+  "base": {
+    "item": "iron_shovel"
+  },
+  "result": {
+    "item": "iceandfire:dragonsteel_fire_shovel"
+  },
+  "type": "smithing"
+}

@@ -1,0 +1,15 @@
+{
+  "key": {
+    "#": {
+      "item": "warped_nylium"
+    }
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": {
+    "count": 2,
+    "item": "infernalexp:warped_nylium_carpet"
+  },
+  "type": "crafting_shaped"
+}

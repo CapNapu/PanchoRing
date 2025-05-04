@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "paper"
+    },
+    {
+      "item": "iceandfire:cyclops_eye"
+    }
+  ],
+  "result": {
+    "item": "iceandfire:banner_pattern_eye"
+  },
+  "type": "crafting_shapeless"
+}

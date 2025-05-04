@@ -1,0 +1,16 @@
+{
+  "key": {
+    "0": {
+      "item": "iceandfire:sapphire_gem"
+    }
+  },
+  "pattern": [
+    "000",
+    "000",
+    "000"
+  ],
+  "result": {
+    "item": "iceandfire:sapphire_block"
+  },
+  "type": "crafting_shaped"
+}

@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "fishing_rod"
+    },
+    {
+      "item": "carrot"
+    }
+  ],
+  "result": {
+    "item": "carrot_on_a_stick"
+  },
+  "type": "crafting_shapeless"
+}

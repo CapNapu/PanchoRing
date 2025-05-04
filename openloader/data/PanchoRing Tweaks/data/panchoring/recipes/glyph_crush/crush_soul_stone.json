@@ -1,0 +1,12 @@
+{
+  "input": {
+    "item": "infernalexp:soul_stone"
+  },
+  "output": [
+    {
+      "chance": 1.0,
+      "item": "soul_sand"
+    }
+  ],
+  "type": "ars_nouveau:crush"
+}

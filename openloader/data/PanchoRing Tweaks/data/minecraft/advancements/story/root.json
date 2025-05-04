@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "impossible": {
+      "trigger": "tick"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "textures/gui/advancements/backgrounds/stone.png",
+    "description": {
+      "translate": "advancements.story.root.description"
+    },
+    "icon": {
+      "item": "grass_block"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.story.root.title"
+    }
+  }
+}

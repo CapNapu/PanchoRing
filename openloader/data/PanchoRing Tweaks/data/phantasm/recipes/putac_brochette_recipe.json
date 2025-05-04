@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "phantasm:putac_shroom"
+    },
+    {
+      "item": "stick"
+    }
+  ],
+  "result": {
+    "item": "phantasm:putac_brochette"
+  },
+  "type": "crafting_shapeless"
+}

@@ -1,0 +1,15 @@
+{
+  "key": {
+    "#": {
+      "item": "phantasm:pream_leaves"
+    }
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": {
+    "count": 8,
+    "item": "phantasm:fallen_pream_leaves"
+  },
+  "type": "crafting_shaped"
+}

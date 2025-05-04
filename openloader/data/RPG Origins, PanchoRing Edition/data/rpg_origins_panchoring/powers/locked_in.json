@@ -1,0 +1,18 @@
+{
+  "type": "origins:conditioned_attribute",
+  "modifier": {
+    "attribute": "generic.movement_speed",
+    "operation": "multiply_base",
+    "value": 2.5
+  },
+  "tick_rate": 2,
+  "condition": {
+    "type": "origins:using_item",
+    "item_condition": {
+      "type": "origins:ingredient",
+      "ingredient": {
+        "tag": "origins:ranged_weapons"
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "music_disc_weird_realm": {
+      "conditions": {
+        "item": {
+          "item": "ostoverhaul:weird_realm_disc"
+        },
+        "location": {
+          "block": {
+            "block": "jukebox"
+          }
+        }
+      },
+      "trigger": "item_used_on_block"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.music_disc_weird_realm.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "ostoverhaul:weird_realm_disc"
+    },
+    "title": {
+      "translate": "advancements.panchoring.music_disc_weird_realm.title"
+    }
+  },
+  "parent": "bygonenether:acquire_wither_waltz"
+}

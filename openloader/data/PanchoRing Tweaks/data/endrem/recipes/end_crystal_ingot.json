@@ -1,0 +1,23 @@
+{
+  "ingredients": [
+    {
+      "item": "endrem:end_crystal_fragment"
+    },
+    {
+      "item": "endrem:end_crystal_fragment"
+    },
+    {
+      "item": "iceandfire:silver_ingot"
+    },
+    {
+      "item": "iceandfire:silver_ingot"
+    },
+    {
+      "item": "ghast_tear"
+    }
+  ],
+  "result": {
+    "item": "endrem:end_crystal_ingot"
+  },
+  "type": "crafting_shapeless"
+}

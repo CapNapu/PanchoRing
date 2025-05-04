@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "mysterious_worm": {
+      "conditions": {
+        "items": [
+          {
+            "item": "alexsmobs:mysterious_worm"
+          }
+        ]
+      },
+      "trigger": "inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.alexsmobs.mysterious_worm.desc"
+    },
+    "hidden": true,
+    "icon": {
+      "item": "alexsmobs:mysterious_worm"
+    },
+    "title": {
+      "translate": "advancements.alexsmobs.mysterious_worm.title"
+    }
+  },
+  "parent": "end/enter_end_gateway"
+}

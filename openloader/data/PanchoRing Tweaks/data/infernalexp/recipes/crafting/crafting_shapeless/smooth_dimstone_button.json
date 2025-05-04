@@ -1,0 +1,8 @@
+{
+  "count": 1,
+  "ingredient": {
+    "item": "infernalexp:smooth_dimstone"
+  },
+  "result": "infernalexp:smooth_dimstone_button",
+  "type": "stonecutting"
+}

@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "black_eye": {
+      "conditions": {
+        "items": [
+          {
+            "item": "endrem:black_eye"
+          }
+        ]
+      },
+      "trigger": "inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.main.black_eye.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "endrem:black_eye"
+    },
+    "title": {
+      "translate": "advancements.main.black_eye.title"
+    }
+  },
+  "parent": "endrem:main/corrupted_eye"
+}

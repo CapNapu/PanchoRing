@@ -1,0 +1,28 @@
+{
+  "criteria": {
+    "stellium_nugget": {
+      "conditions": {
+        "items": [
+          {
+            "item": "phantasm:stellium_nugget"
+          }
+        ]
+      },
+      "trigger": "inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.get_stellium_nugget.description"
+    },
+    "frame": "goal",
+    "hidden": true,
+    "icon": {
+      "item": "phantasm:stellium_nugget"
+    },
+    "title": {
+      "translate": "advancements.panchoring.get_stellium_nugget.title"
+    }
+  },
+  "parent": "end/enter_end_gateway"
+}

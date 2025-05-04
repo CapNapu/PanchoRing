@@ -1,0 +1,16 @@
+{
+  "key": {
+    "#": {
+      "item": "projectvibrantjourneys:maple_planks"
+    }
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "item": "projectvibrantjourneys:maple_trapdoor"
+  },
+  "type": "crafting_shaped"
+}

@@ -1,0 +1,29 @@
+{
+  "pools": [
+    {
+      "conditions": [
+        {
+          "condition": "match_tool",
+          "predicate": {
+            "enchantments": [
+              {
+                "enchantment": "silk_touch",
+                "levels": {
+                  "min": 1
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "entries": [
+        {
+          "name": "infernalexp:glowdust",
+          "type": "item"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "block"
+}

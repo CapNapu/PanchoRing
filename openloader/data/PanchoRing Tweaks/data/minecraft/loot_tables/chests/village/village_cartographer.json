@@ -1,0 +1,121 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 3,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "map",
+          "quality": -1,
+          "type": "item",
+          "weight": 15
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 5,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "iceandfire:manuscript",
+          "quality": -1,
+          "type": "item",
+          "weight": 20
+        },
+        {
+          "name": "compass",
+          "quality": -1,
+          "type": "item",
+          "weight": 9
+        },
+        {
+          "name": "lodestone",
+          "quality": 2,
+          "type": "item",
+          "weight": 1
+        }
+      ],
+      "rolls": {
+        "max": 5,
+        "min": 3,
+        "type": "uniform"
+      }
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 4,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "bread",
+          "type": "item",
+          "weight": 15
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 2,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "iceandfire:manuscript",
+          "type": "item",
+          "weight": 10
+        }
+      ],
+      "rolls": {
+        "max": 4,
+        "min": 2,
+        "type": "uniform"
+      }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "functions": [
+            {
+              "decoration": "banner_lime",
+              "destination": "village",
+              "function": "exploration_map",
+              "skip_existing_chunks": false,
+              "zoom": 3
+            }
+          ],
+          "name": "map",
+          "type": "item"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "chest"
+}

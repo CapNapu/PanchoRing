@@ -1,0 +1,31 @@
+{
+  "item_1": [
+    {
+      "item": "wither_rose"
+    }
+  ],
+  "item_2": [
+    {
+      "item": "majruszs_difficulty:wither_sword"
+    }
+  ],
+  "item_3": [
+    {
+      "item": "wither_skeleton_skull"
+    }
+  ],
+  "item_4": [
+    {
+      "item": "iceandfire:cockatrice_eye"
+    }
+  ],
+  "output": {
+    "item": "ars_elemental:necrotic_focus"
+  },
+  "reagent": [
+    {
+      "tag": "panchoring:elemental_foci_to_necrotic"
+    }
+  ],
+  "type": "ars_nouveau:enchanting_apparatus"
+}

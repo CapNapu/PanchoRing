@@ -1,0 +1,51 @@
+{
+  "item_1": [
+    {
+      "item": "iron_nugget"
+    }
+  ],
+  "item_2": [
+    {
+      "item": "iron_nugget"
+    }
+  ],
+  "item_3": [
+    {
+      "item": "iron_nugget"
+    }
+  ],
+  "item_4": [
+    {
+      "item": "infernalexp:glowcoal"
+    }
+  ],
+  "item_5": [
+    {
+      "item": "infernalexp:glowcoal"
+    }
+  ],
+  "item_6": [
+    {
+      "item": "ars_nouveau:mana_gem"
+    }
+  ],
+  "item_7": [
+    {
+      "item": "ars_nouveau:mana_gem"
+    }
+  ],
+  "item_8": [
+    {
+      "item": "ars_nouveau:mana_gem"
+    }
+  ],
+  "output": {
+    "item": "ars_nouveau:jar_of_light"
+  },
+  "reagent": [
+    {
+      "item": "alexsmobs:lava_bottle"
+    }
+  ],
+  "type": "ars_nouveau:enchanting_apparatus"
+}

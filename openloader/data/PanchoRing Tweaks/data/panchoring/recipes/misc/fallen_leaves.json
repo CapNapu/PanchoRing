@@ -1,0 +1,56 @@
+{
+  "key": {
+    "#": [
+      {
+        "item": "acacia_leaves"
+      },
+      {
+        "item": "birch_leaves"
+      },
+      {
+        "item": "dark_oak_leaves"
+      },
+      {
+        "item": "jungle_leaves"
+      },
+      {
+        "item": "oak_leaves"
+      },
+      {
+        "item": "spruce_leaves"
+      },
+      {
+        "item": "projectvibrantjourneys:baobab_leaves"
+      },
+      {
+        "item": "projectvibrantjourneys:berried_juniper_leaves"
+      },
+      {
+        "item": "projectvibrantjourneys:fir_leaves"
+      },
+      {
+        "item": "projectvibrantjourneys:joshua_leaves"
+      },
+      {
+        "item": "projectvibrantjourneys:juniper_leaves"
+      },
+      {
+        "item": "projectvibrantjourneys:pine_leaves"
+      },
+      {
+        "item": "projectvibrantjourneys:redwood_leaves"
+      },
+      {
+        "item": "projectvibrantjourneys:tamarack_leaves"
+      }
+    ]
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": {
+    "count": 8,
+    "item": "projectvibrantjourneys:fallen_leaves"
+  },
+  "type": "crafting_shaped"
+}

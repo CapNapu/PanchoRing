@@ -1,0 +1,9 @@
+{
+  "attributes": {
+    "common": {
+      "armor_negation": 15,
+      "impact": 0.9
+    }
+  },
+  "type": "katana"
+}

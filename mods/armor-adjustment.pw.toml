@@ -1,0 +1,13 @@
+name = "Armor Adjustment"
+filename = "armoradjustment-1.16-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bfa37cf351c6244e69160bb8df130017f616fffc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4394465
+project-id = 811690

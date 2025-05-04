@@ -1,0 +1,16 @@
+{
+  "key": {
+    "0": {
+      "tag": "iceandfire:crackled_block"
+    }
+  },
+  "pattern": [
+    "000",
+    "000",
+    "000"
+  ],
+  "result": {
+    "item": "gravel"
+  },
+  "type": "crafting_shaped"
+}

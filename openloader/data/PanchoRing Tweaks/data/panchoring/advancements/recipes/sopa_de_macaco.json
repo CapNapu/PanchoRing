@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "sopa_de_macaco": {
+      "conditions": {
+        "item": {
+          "item": "alexsmobs:sopa_de_macaco"
+        }
+      },
+      "trigger": "consume_item"
+    }
+  },
+  "rewards": {
+    "function": "panchoring:sopa_de_macaco"
+  }
+}

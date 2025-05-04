@@ -1,0 +1,31 @@
+{
+  "item_1": [
+    {
+      "item": "ars_nouveau:experience_gem"
+    }
+  ],
+  "item_2": [
+    {
+      "item": "ars_nouveau:experience_gem"
+    }
+  ],
+  "item_3": [
+    {
+      "item": "ars_nouveau:experience_gem"
+    }
+  ],
+  "item_4": [
+    {
+      "item": "ars_nouveau:experience_gem"
+    }
+  ],
+  "output": {
+    "item": "experience_bottle"
+  },
+  "reagent": [
+    {
+      "item": "alexsmobs:lava_bottle"
+    }
+  ],
+  "type": "ars_nouveau:enchanting_apparatus"
+}

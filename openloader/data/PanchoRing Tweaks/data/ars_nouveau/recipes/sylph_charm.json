@@ -1,0 +1,51 @@
+{
+  "item_1": [
+    {
+      "item": "wheat_seeds"
+    }
+  ],
+  "item_2": [
+    {
+      "item": "pumpkin_seeds"
+    }
+  ],
+  "item_3": [
+    {
+      "item": "melon_seeds"
+    }
+  ],
+  "item_4": [
+    {
+      "item": "beetroot_seeds"
+    }
+  ],
+  "item_5": [
+    {
+      "item": "supplementaries:flax_seeds"
+    }
+  ],
+  "item_6": [
+    {
+      "item": "ars_nouveau:mana_gem"
+    }
+  ],
+  "item_7": [
+    {
+      "item": "ars_nouveau:mana_gem"
+    }
+  ],
+  "item_8": [
+    {
+      "item": "ars_nouveau:mana_gem"
+    }
+  ],
+  "output": {
+    "item": "ars_nouveau:sylph_charm"
+  },
+  "reagent": [
+    {
+      "item": "ars_nouveau:sylph_shards"
+    }
+  ],
+  "type": "ars_nouveau:enchanting_apparatus"
+}

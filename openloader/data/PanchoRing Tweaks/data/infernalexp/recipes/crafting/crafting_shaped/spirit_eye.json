@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    {
+      "item": "infernalexp:soul_salt_clump"
+    },
+    {
+      "item": "spider_eye"
+    },
+    {
+      "item": "spider_eye"
+    },
+    {
+      "item": "spider_eye"
+    },
+    {
+      "item": "spider_eye"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "infernalexp:spirit_eye"
+  },
+  "type": "crafting_shapeless"
+}

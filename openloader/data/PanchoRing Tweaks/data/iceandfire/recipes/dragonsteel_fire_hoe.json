@@ -1,0 +1,12 @@
+{
+  "addition": {
+    "item": "iceandfire:dragonsteel_fire_ingot"
+  },
+  "base": {
+    "item": "iron_hoe"
+  },
+  "result": {
+    "item": "iceandfire:dragonsteel_fire_hoe"
+  },
+  "type": "smithing"
+}

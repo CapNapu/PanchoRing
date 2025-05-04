@@ -1,0 +1,1066 @@
+{
+  "criteria": {
+    "alexsmobs:bone_serpent": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "alexsmobs:bone_serpent"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "alexsmobs:crimson_mosquito": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "alexsmobs:crimson_mosquito"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "alexsmobs:dropbear": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "alexsmobs:dropbear"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "alexsmobs:guster": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "alexsmobs:guster"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "alexsmobs:mimicube": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "alexsmobs:mimicube"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "alexsmobs:straddler": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "alexsmobs:straddler"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "alexsmobs:void_worm": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "alexsmobs:void_worm"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "alexsmobs:warped_mosco": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "alexsmobs:warped_mosco"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "ars_nouveau:wilden_boss": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "ars_nouveau:wilden_boss"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "blaze": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "blaze"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "bosses_of_mass_destruction:gauntlet": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "bosses_of_mass_destruction:gauntlet"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "bosses_of_mass_destruction:lich": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "bosses_of_mass_destruction:lich"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "bosses_of_mass_destruction:obsidilith": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "bosses_of_mass_destruction:obsidilith"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "bosses_of_mass_destruction:void_blossom": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "bosses_of_mass_destruction:void_blossom"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "bygonenether:corpor": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "bygonenether:corpor"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "bygonenether:warped_enderman": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "bygonenether:warped_enderman"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "bygonenether:wex": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "bygonenether:wex"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "bygonenether:wraither": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "bygonenether:wraither"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "cataclysm:ender_golem": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "cataclysm:ender_golem"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "cataclysm:ender_guardian": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "cataclysm:ender_guardian"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "cataclysm:endermaptera": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "cataclysm:endermaptera"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "cataclysm:ignis": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "cataclysm:ignis"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "cataclysm:ignited_revenant": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "cataclysm:ignited_revenant"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "cataclysm:netherite_monstrosity": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "cataclysm:netherite_monstrosity"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "cave_spider": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "cave_spider"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "creeper": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "creeper"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "drowned": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "drowned"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "elder_guardian": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "elder_guardian"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "ender_dragon": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "ender_dragon"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "enderiophage": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "alexsmobs:enderiophage"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "enderman": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "enderman"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "endermite": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "endermite"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "ghast": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "ghast"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "guardian": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "guardian"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "hoglin": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "hoglin"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "husk": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "husk"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "iceandfire:cockatrice": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "iceandfire:cockatrice"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "iceandfire:cyclops": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "iceandfire:cyclops"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "iceandfire:fire_dragon": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "iceandfire:fire_dragon"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "iceandfire:ghost": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "iceandfire:ghost"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "iceandfire:hydra": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "iceandfire:hydra"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "iceandfire:ice_dragon": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "iceandfire:ice_dragon"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "iceandfire:lightning_dragon": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "iceandfire:lightning_dragon"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "iceandfire:sea_serpent": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "iceandfire:sea_serpent"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "iceandfire:siren": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "iceandfire:siren"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "iceandfire:stymphalian_bird": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "iceandfire:stymphalian_bird"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "iceandfire:troll": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "iceandfire:troll"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "infernalexp:blindsight": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "infernalexp:blindsight"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "infernalexp:embody": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "infernalexp:embody"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "infernalexp:voline": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "infernalexp:voline"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "magma_cube": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "magma_cube"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "majruszs_difficulty:creeperling": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "majruszs_difficulty:creeperling"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "majruszs_difficulty:elite_skeleton": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "majruszs_difficulty:elite_skeleton"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "majruszs_difficulty:sky_keeper": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "majruszs_difficulty:sky_keeper"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "mowziesmobs:barako": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "mowziesmobs:barako"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "mowziesmobs:barakoana": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "mowziesmobs:barakoana"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "mowziesmobs:barakoaya": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "mowziesmobs:barakoaya"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "mowziesmobs:ferrous_wroughtnaut": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "mowziesmobs:ferrous_wroughtnaut"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "mowziesmobs:foliaath": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "mowziesmobs:foliaath"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "mowziesmobs:frostmaw": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "mowziesmobs:frostmaw"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "mowziesmobs:naga": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "mowziesmobs:naga"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "ravager": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "ravager"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "shulker": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "shulker"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "silverfish": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "silverfish"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "skeleton": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "skeleton"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "slime": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "slime"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "spider": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "spider"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "stray": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "stray"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "vex": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "vex"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "wither": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "wither"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "wither_skeleton": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "wither_skeleton"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "zoglin": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "zoglin"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "zombie": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "zombie"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "zombie_villager": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "zombie_villager"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "zombified_piglin": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "zombified_piglin"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.adventure.kill_a_mob.description"
+    },
+    "icon": {
+      "item": "stone_sword"
+    },
+    "title": {
+      "translate": "advancements.adventure.kill_a_mob.title"
+    }
+  },
+  "parent": "adventure/root"
+}

@@ -1,0 +1,20 @@
+{
+  "key": {
+    "0": {
+      "item": "blackstone"
+    },
+    "1": {
+      "item": "shroomlight"
+    }
+  },
+  "pattern": [
+    " 0 ",
+    "010",
+    " 0 "
+  ],
+  "result": {
+    "count": 4,
+    "item": "supplementaries:blackstone_lamp"
+  },
+  "type": "crafting_shaped"
+}

@@ -1,0 +1,12 @@
+{
+  "addition": {
+    "item": "iron_ingot"
+  },
+  "base": {
+    "item": "dungeons_gear:spear"
+  },
+  "result": {
+    "item": "dungeons_gear:glaive"
+  },
+  "type": "smithing"
+}

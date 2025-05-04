@@ -1,0 +1,20 @@
+{
+  "ingredients": [
+    {
+      "item": "ars_nouveau:purple_archwood_log"
+    },
+    {
+      "item": "diamond"
+    },
+    {
+      "item": "diamond"
+    },
+    {
+      "item": "diamond"
+    }
+  ],
+  "result": {
+    "item": "ars_nouveau:ritual_scrying"
+  },
+  "type": "crafting_shapeless"
+}

@@ -1,0 +1,12 @@
+{
+  "input": {
+    "item": "infernalexp:soul_slate"
+  },
+  "output": [
+    {
+      "chance": 1.0,
+      "item": "soul_soil"
+    }
+  ],
+  "type": "ars_nouveau:crush"
+}

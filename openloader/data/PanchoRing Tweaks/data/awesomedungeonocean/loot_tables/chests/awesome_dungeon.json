@@ -1,0 +1,262 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "name": "golden_apple",
+          "type": "item",
+          "weight": 9
+        },
+        {
+          "name": "enchanted_golden_apple",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "name": "antiqueatlas:empty_antique_atlas",
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "name": "diamond",
+          "type": "item",
+          "weight": 12
+        },
+        {
+          "name": "emerald",
+          "type": "item",
+          "weight": 12
+        },
+        {
+          "name": "iceandfire:gold_hippogryph_armor",
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "name": "iceandfire:iron_hippogryph_armor",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "name": "iceandfire:diamond_hippogryph_armor",
+          "type": "item",
+          "weight": 3
+        }
+      ],
+      "rolls": {
+        "max": 3,
+        "min": 1,
+        "type": "uniform"
+      }
+    },
+    {
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 4,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "iceandfire:silver_ingot",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 4,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "gold_ingot",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "name": "nautilus_shell",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "name": "trident",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "name": "majruszs_difficulty:ocean_shield",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 4,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "projectvibrantjourneys:clam",
+          "type": "item",
+          "weight": 15
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 4,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "prismarine_shard",
+          "type": "item",
+          "weight": 15
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 4,
+                "min": 2,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "melon_seeds",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 4,
+                "min": 2,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "supplementaries:flax_seeds",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 4,
+                "min": 2,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "beetroot_seeds",
+          "type": "item",
+          "weight": 10
+        }
+      ],
+      "rolls": {
+        "max": 4,
+        "min": 1,
+        "type": "uniform"
+      }
+    },
+    {
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 8,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "prismarine",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 8,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "dark_prismarine",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 8,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "prismarine_crystals",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 8,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "projectvibrantjourneys:clam",
+          "type": "item",
+          "weight": 10
+        }
+      ],
+      "rolls": 3
+    }
+  ],
+  "type": "chest"
+}

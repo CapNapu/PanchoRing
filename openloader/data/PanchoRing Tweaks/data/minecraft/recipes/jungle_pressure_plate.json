@@ -1,0 +1,15 @@
+{
+  "key": {
+    "#": {
+      "item": "jungle_planks"
+    }
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": {
+    "count": 2,
+    "item": "jungle_pressure_plate"
+  },
+  "type": "crafting_shaped"
+}

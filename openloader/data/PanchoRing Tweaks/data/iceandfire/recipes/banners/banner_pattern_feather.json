@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "paper"
+    },
+    {
+      "item": "alexsmobs:roadrunner_feather"
+    }
+  ],
+  "result": {
+    "item": "iceandfire:banner_pattern_feather"
+  },
+  "type": "crafting_shapeless"
+}

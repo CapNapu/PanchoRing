@@ -1,0 +1,15 @@
+{
+  "key": {
+    "x": {
+      "item": "infernalexp:glowdust_sand"
+    }
+  },
+  "pattern": [
+    "xxx"
+  ],
+  "result": {
+    "count": 12,
+    "item": "infernalexp:glowdust"
+  },
+  "type": "crafting_shaped"
+}

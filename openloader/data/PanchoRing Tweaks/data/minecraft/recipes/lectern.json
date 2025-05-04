@@ -1,0 +1,19 @@
+{
+  "key": {
+    "B": {
+      "item": "bookshelf"
+    },
+    "S": {
+      "tag": "wooden_slabs"
+    }
+  },
+  "pattern": [
+    "S",
+    "B",
+    "S"
+  ],
+  "result": {
+    "item": "lectern"
+  },
+  "type": "crafting_shaped"
+}

@@ -1,0 +1,17 @@
+{
+  "ingredients": [
+    {
+      "item": "spider_eye"
+    },
+    {
+      "tag": "mushrooms"
+    },
+    {
+      "item": "sugar"
+    }
+  ],
+  "result": {
+    "item": "fermented_spider_eye"
+  },
+  "type": "crafting_shapeless"
+}

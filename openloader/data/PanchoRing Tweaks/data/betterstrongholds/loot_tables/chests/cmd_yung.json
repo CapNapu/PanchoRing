@@ -1,0 +1,29 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 50,
+              "treasure": true
+            },
+            {
+              "function": "set_name"
+            }
+          ],
+          "name": "dungeons_gear:diamond_sword",
+          "type": "item",
+          "weight": 1
+        }
+      ],
+      "rolls": {
+        "max": 1.0,
+        "min": 1.0,
+        "type": "uniform"
+      }
+    }
+  ],
+  "type": "chest"
+}

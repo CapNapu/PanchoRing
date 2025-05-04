@@ -1,0 +1,17 @@
+{
+  "ingredients": [
+    {
+      "item": "infernalexp:glowdust_stone"
+    },
+    {
+      "item": "glowstone_dust"
+    },
+    {
+      "item": "glowstone_dust"
+    }
+  ],
+  "result": {
+    "item": "glowstone"
+  },
+  "type": "crafting_shapeless"
+}

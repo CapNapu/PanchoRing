@@ -1,0 +1,17 @@
+{
+  "key": {
+    "#": {
+      "item": "prismarine"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "item": "prismarine_stairs"
+  },
+  "type": "crafting_shaped"
+}

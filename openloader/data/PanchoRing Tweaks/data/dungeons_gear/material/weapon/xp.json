@@ -1,0 +1,11 @@
+{
+  "attack_damage": 0,
+  "attack_speed": 0,
+  "durability": 512,
+  "enchantability": 10,
+  "equip_sound": "",
+  "level": 0,
+  "name": "dungeons_gear:xp",
+  "repair_item": "experience_bottle",
+  "type": "dungeons_libraries:dungeons_weapon_material"
+}

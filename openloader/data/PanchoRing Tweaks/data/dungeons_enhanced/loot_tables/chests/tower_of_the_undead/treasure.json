@@ -1,0 +1,273 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 2.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "gold_nugget",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "gold_ingot",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "experience_bottle",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 2.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "iron_nugget",
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "iron_ingot",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "golden_carrot",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "wheat_seeds",
+          "type": "item",
+          "weight": 8
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "wheat",
+          "type": "item",
+          "weight": 6
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "string",
+          "type": "item",
+          "weight": 6
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "bone",
+          "type": "item",
+          "weight": 7
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "rotten_flesh",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "crossbow",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "map",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "cobweb",
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "golden_apple",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "arrow",
+          "type": "item",
+          "weight": 6
+        }
+      ],
+      "rolls": {
+        "max": 18.0,
+        "min": 10.0,
+        "type": "uniform"
+      }
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "iceandfire:armor_copper_metal_helmet",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "iceandfire:armor_copper_metal_chestplate",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "iceandfire:armor_copper_metal_leggings",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "iceandfire:armor_copper_metal_boots",
+          "type": "item",
+          "weight": 3
+        }
+      ],
+      "rolls": {
+        "max": 3.0,
+        "min": 1.0,
+        "type": "uniform"
+      }
+    }
+  ],
+  "type": "chest"
+}

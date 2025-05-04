@@ -1,0 +1,9 @@
+{
+  "attributes": {
+    "common": {
+      "damage_bonus": -2,
+      "impact": 0.9
+    }
+  },
+  "type": "sword"
+}

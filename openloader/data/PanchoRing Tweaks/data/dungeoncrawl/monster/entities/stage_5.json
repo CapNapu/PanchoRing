@@ -1,0 +1,25 @@
+{
+  "common": [
+    {
+      "entity": "zombie"
+    },
+    {
+      "entity": "skeleton"
+    },
+    {
+      "entity": "cave_spider"
+    },
+    {
+      "entity": "wither_skeleton",
+      "weight": 3
+    }
+  ],
+  "rare": [
+    {
+      "entity": "creeper"
+    },
+    {
+      "entity": "majruszs_difficulty:elite_skeleton"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+name = "Ars Nouveau"
+filename = "ars_nouveau-1.16.5-1.25.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f708cc6f3952eb8beb60e9f6f1994c75eed02427"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4300733
+project-id = 401955

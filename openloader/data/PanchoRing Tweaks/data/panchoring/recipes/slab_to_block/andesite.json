@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "andesite_slab"
+    },
+    {
+      "item": "andesite_slab"
+    }
+  ],
+  "result": {
+    "item": "andesite"
+  },
+  "type": "crafting_shapeless"
+}

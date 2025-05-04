@@ -1,0 +1,22 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "dungeons_gear:golem_kit",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:totem_of_regeneration",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:totem_of_shielding",
+          "type": "item"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "chest"
+}

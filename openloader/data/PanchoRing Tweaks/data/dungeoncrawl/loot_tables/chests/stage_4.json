@@ -1,0 +1,440 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 10.0,
+                "min": 6.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "coal",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 10.0,
+                "min": 6.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "iron_ingot",
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 9.0,
+                "min": 5.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "iceandfire:silver_ingot",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 9.0,
+                "min": 3.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "gold_ingot",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "name": "dungeons_gear:arrow_bundle",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 2.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "diamond",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "cobweb",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 10.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "bone",
+          "type": "item",
+          "weight": 8
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 10.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "rotten_flesh",
+          "type": "item",
+          "weight": 8
+        },
+        {
+          "name": "saddle",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "golden_apple",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "name": "endrem:end_crystal_fragment",
+          "type": "item"
+        },
+        {
+          "name": "wither_skeleton_skull",
+          "type": "item"
+        },
+        {
+          "name": "name_tag",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 4.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "extcaves:plant_fiber",
+          "type": "item",
+          "weight": 6
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": {
+                "max": 25.0,
+                "min": 18.0,
+                "type": "uniform"
+              },
+              "treasure": true
+            }
+          ],
+          "name": "book",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 5.0,
+                "min": 3.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "book",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 5.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "torch",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 8.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "lapis_lazuli",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "name": "clock",
+          "type": "item"
+        },
+        {
+          "name": "compass",
+          "type": "item"
+        },
+        {
+          "name": "lead",
+          "type": "item"
+        },
+        {
+          "name": "fermented_spider_eye",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 7.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "spider_eye",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "extcaves:rock_flint",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "string",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "iceandfire:manuscript",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 10.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "gunpowder",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "tnt",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 5.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "glass_bottle",
+          "type": "item",
+          "weight": 6
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 4.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "slime_ball",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "name": "minecart",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "phantom_membrane",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "name": "majruszs_difficulty:golden_bandage",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 2.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "ender_pearl",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "function": "dungeoncrawl:random_potion",
+              "loot_level": 3
+            }
+          ],
+          "name": "potion",
+          "type": "item",
+          "weight": 8
+        },
+        {
+          "functions": [
+            {
+              "function": "dungeoncrawl:material_blocks"
+            }
+          ],
+          "name": "air",
+          "type": "item",
+          "weight": 4
+        }
+      ],
+      "rolls": {
+        "max": 10.0,
+        "min": 7.0,
+        "type": "uniform"
+      }
+    }
+  ],
+  "type": "chest"
+}

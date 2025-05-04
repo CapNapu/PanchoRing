@@ -1,0 +1,83 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "children": [
+            {
+              "conditions": [
+                {
+                  "condition": "match_tool",
+                  "predicate": {
+                    "enchantments": [
+                      {
+                        "enchantment": "silk_touch",
+                        "levels": {
+                          "min": 1
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "name": "extcaves:marlstone",
+              "type": "item"
+            },
+            {
+              "conditions": [
+                {
+                  "condition": "survives_explosion"
+                }
+              ],
+              "name": "extcaves:marlstone_powder",
+              "type": "item"
+            }
+          ],
+          "type": "alternatives"
+        }
+      ],
+      "rolls": 1
+    },
+    {
+      "entries": [
+        {
+          "conditions": [
+            {
+              "condition": "inverted",
+              "term": {
+                "condition": "match_tool",
+                "predicate": {
+                  "enchantments": [
+                    {
+                      "enchantment": "silk_touch",
+                      "levels": {
+                        "min": 1
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          ],
+          "functions": [
+            {
+              "count": {
+                "max": 3,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            },
+            {
+              "function": "explosion_decay"
+            }
+          ],
+          "name": "gold_nugget",
+          "type": "item"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "block"
+}

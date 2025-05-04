@@ -1,0 +1,29 @@
+{
+  "criteria": {
+    "diamond_hoe": {
+      "conditions": {
+        "durability": 0,
+        "item": {
+          "item": "diamond_hoe"
+        }
+      },
+      "trigger": "item_durability_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.break_diamond_hoe.description"
+    },
+    "frame": "challenge",
+    "icon": {
+      "item": "diamond_hoe"
+    },
+    "title": {
+      "translate": "advancements.panchoring.break_diamond_hoe.title"
+    }
+  },
+  "parent": "husbandry/plant_seed",
+  "rewards": {
+    "experience": 250
+  }
+}

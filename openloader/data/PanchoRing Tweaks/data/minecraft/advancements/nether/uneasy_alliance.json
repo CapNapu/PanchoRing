@@ -1,0 +1,37 @@
+{
+  "criteria": {
+    "killed_ghast": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "dimension": "overworld"
+              },
+              "type": "ghast"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.nether.uneasy_alliance.description"
+    },
+    "frame": "challenge",
+    "icon": {
+      "item": "ghast_tear"
+    },
+    "title": {
+      "translate": "advancements.nether.uneasy_alliance.title"
+    }
+  },
+  "parent": "nether/return_to_sender",
+  "rewards": {
+    "experience": 500
+  }
+}

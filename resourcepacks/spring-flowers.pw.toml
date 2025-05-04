@@ -1,0 +1,13 @@
+name = "Spring Flowers"
+filename = "Spring_Flowers_(1.16.2-1.16.5).zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "e302eb8beeacd1551928869e48d23545a18aac55"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3267993
+project-id = 468564

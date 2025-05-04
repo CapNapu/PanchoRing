@@ -1,0 +1,51 @@
+{
+  "criteria": {
+    "all_effects": {
+      "conditions": {
+        "effects": {
+          "alexsmobs:bug_pheromones": {},
+          "alexsmobs:clinging": {},
+          "alexsmobs:knockback_resistance": {},
+          "alexsmobs:lava_vision": {},
+          "alexsmobs:poison_resistance": {},
+          "alexsmobs:soulsteal": {},
+          "ars_nouveau:mana_regen": {},
+          "ars_nouveau:spell_damage": {},
+          "infernalexp:infection": {},
+          "infernalexp:luminous": {},
+          "fire_resistance": {},
+          "invisibility": {},
+          "jump_boost": {},
+          "night_vision": {},
+          "poison": {},
+          "regeneration": {},
+          "resistance": {},
+          "slow_falling": {},
+          "slowness": {},
+          "speed": {},
+          "strength": {},
+          "water_breathing": {},
+          "weakness": {},
+          "mowziesmobs:poison_resist": {}
+        }
+      },
+      "trigger": "effects_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.nether.all_potions.description"
+    },
+    "frame": "challenge",
+    "icon": {
+      "item": "milk_bucket"
+    },
+    "title": {
+      "translate": "advancements.nether.all_potions.title"
+    }
+  },
+  "parent": "nether/brew_potion",
+  "rewards": {
+    "experience": 1000
+  }
+}

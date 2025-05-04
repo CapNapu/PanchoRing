@@ -1,0 +1,20 @@
+{
+  "ingredients": [
+    {
+      "item": "ars_nouveau:purple_archwood_log"
+    },
+    {
+      "item": "emerald"
+    },
+    {
+      "item": "emerald"
+    },
+    {
+      "item": "emerald"
+    }
+  ],
+  "result": {
+    "item": "ars_nouveau:ritual_challenge"
+  },
+  "type": "crafting_shapeless"
+}

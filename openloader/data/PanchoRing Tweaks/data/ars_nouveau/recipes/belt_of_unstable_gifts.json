@@ -1,0 +1,51 @@
+{
+  "item_1": [
+    {
+      "item": "sugar"
+    }
+  ],
+  "item_2": [
+    {
+      "item": "gunpowder"
+    }
+  ],
+  "item_3": [
+    {
+      "item": "redstone"
+    }
+  ],
+  "item_4": [
+    {
+      "item": "glowstone_dust"
+    }
+  ],
+  "item_5": [
+    {
+      "item": "fermented_spider_eye"
+    }
+  ],
+  "item_6": [
+    {
+      "item": "nether_wart"
+    }
+  ],
+  "item_7": [
+    {
+      "item": "blaze_powder"
+    }
+  ],
+  "item_8": [
+    {
+      "item": "endrem:witch_pupil"
+    }
+  ],
+  "output": {
+    "item": "ars_nouveau:belt_of_unstable_gifts"
+  },
+  "reagent": [
+    {
+      "item": "ars_nouveau:mundane_belt"
+    }
+  ],
+  "type": "ars_nouveau:enchanting_apparatus"
+}

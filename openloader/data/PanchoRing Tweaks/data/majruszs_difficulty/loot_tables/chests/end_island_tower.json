@@ -1,0 +1,133 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 4,
+                "min": 2
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "ender_pearl",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "diamond",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 10,
+                "min": 5
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "experience_bottle",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 30,
+              "treasure": true
+            }
+          ],
+          "name": "book",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "name": "majruszs_difficulty:end_shard",
+          "type": "item",
+          "weight": 1
+        }
+      ],
+      "rolls": {
+        "max": 4.0,
+        "min": 2.0,
+        "type": "uniform"
+      }
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 4,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "phantasm:stellium_nugget",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6,
+                "min": 2
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "gold_ingot",
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "name": "phantasm:crystalline_sword",
+          "type": "item",
+          "weight": 5
+        }
+      ],
+      "rolls": {
+        "max": 3.0,
+        "min": 2.0,
+        "type": "uniform"
+      }
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "enchantments": [
+                "mending"
+              ],
+              "function": "enchant_randomly"
+            }
+          ],
+          "name": "book",
+          "type": "item"
+        }
+      ],
+      "rolls": 1,
+      "bonus_rolls": 1
+    }
+  ],
+  "type": "chest"
+}

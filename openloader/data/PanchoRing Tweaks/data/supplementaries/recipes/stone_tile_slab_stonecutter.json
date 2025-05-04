@@ -1,0 +1,16 @@
+{
+  "count": 2,
+  "ingredient": [
+    {
+      "item": "stone"
+    },
+    {
+      "item": "stone_bricks"
+    },
+    {
+      "item": "supplementaries:stone_tile"
+    }
+  ],
+  "result": "supplementaries:stone_tile_slab",
+  "type": "stonecutting"
+}

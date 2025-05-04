@@ -1,0 +1,286 @@
+{
+  "criteria": {
+    "music_disc_11": {
+      "conditions": {
+        "item": {
+          "item": "music_disc_11"
+        },
+        "location": {
+          "block": {
+            "block": "jukebox"
+          }
+        }
+      },
+      "trigger": "item_used_on_block"
+    },
+    "music_disc_blocks": {
+      "conditions": {
+        "item": {
+          "item": "music_disc_blocks"
+        },
+        "location": {
+          "block": {
+            "block": "jukebox"
+          }
+        }
+      },
+      "trigger": "item_used_on_block"
+    },
+    "music_disc_cat": {
+      "conditions": {
+        "item": {
+          "item": "music_disc_cat"
+        },
+        "location": {
+          "block": {
+            "block": "jukebox"
+          }
+        }
+      },
+      "trigger": "item_used_on_block"
+    },
+    "music_disc_chirp": {
+      "conditions": {
+        "item": {
+          "item": "music_disc_chirp"
+        },
+        "location": {
+          "block": {
+            "block": "jukebox"
+          }
+        }
+      },
+      "trigger": "item_used_on_block"
+    },
+    "music_disc_daze": {
+      "conditions": {
+        "item": {
+          "item": "alexsmobs:music_disc_daze"
+        },
+        "location": {
+          "block": {
+            "block": "jukebox"
+          }
+        }
+      },
+      "trigger": "item_used_on_block"
+    },
+    "music_disc_far": {
+      "conditions": {
+        "item": {
+          "item": "music_disc_far"
+        },
+        "location": {
+          "block": {
+            "block": "jukebox"
+          }
+        }
+      },
+      "trigger": "item_used_on_block"
+    },
+    "music_disc_flush": {
+      "conditions": {
+        "item": {
+          "item": "infernalexp:music_disc_flush"
+        },
+        "location": {
+          "block": {
+            "block": "jukebox"
+          }
+        }
+      },
+      "trigger": "item_used_on_block"
+    },
+    "music_disc_mall": {
+      "conditions": {
+        "item": {
+          "item": "music_disc_mall"
+        },
+        "location": {
+          "block": {
+            "block": "jukebox"
+          }
+        }
+      },
+      "trigger": "item_used_on_block"
+    },
+    "music_disc_mellohi": {
+      "conditions": {
+        "item": {
+          "item": "music_disc_mellohi"
+        },
+        "location": {
+          "block": {
+            "block": "jukebox"
+          }
+        }
+      },
+      "trigger": "item_used_on_block"
+    },
+    "music_disc_petiole": {
+      "conditions": {
+        "item": {
+          "item": "mowziesmobs:music_disc_petiole"
+        },
+        "location": {
+          "block": {
+            "block": "jukebox"
+          }
+        }
+      },
+      "trigger": "item_used_on_block"
+    },
+    "music_disc_shock": {
+      "conditions": {
+        "item": {
+          "item": "ostoverhaul:shock_disc"
+        },
+        "location": {
+          "block": {
+            "block": "jukebox"
+          }
+        }
+      },
+      "trigger": "item_used_on_block"
+    },
+    "music_disc_soul_spunk": {
+      "conditions": {
+        "item": {
+          "item": "infernalexp:music_disc_soul_spunk"
+        },
+        "location": {
+          "block": {
+            "block": "jukebox"
+          }
+        }
+      },
+      "trigger": "item_used_on_block"
+    },
+    "music_disc_stal": {
+      "conditions": {
+        "item": {
+          "item": "music_disc_stal"
+        },
+        "location": {
+          "block": {
+            "block": "jukebox"
+          }
+        }
+      },
+      "trigger": "item_used_on_block"
+    },
+    "music_disc_strad": {
+      "conditions": {
+        "item": {
+          "item": "music_disc_strad"
+        },
+        "location": {
+          "block": {
+            "block": "jukebox"
+          }
+        }
+      },
+      "trigger": "item_used_on_block"
+    },
+    "music_disc_thime": {
+      "conditions": {
+        "item": {
+          "item": "alexsmobs:music_disc_thime"
+        },
+        "location": {
+          "block": {
+            "block": "jukebox"
+          }
+        }
+      },
+      "trigger": "item_used_on_block"
+    },
+    "music_disc_wait": {
+      "conditions": {
+        "item": {
+          "item": "music_disc_wait"
+        },
+        "location": {
+          "block": {
+            "block": "jukebox"
+          }
+        }
+      },
+      "trigger": "item_used_on_block"
+    },
+    "music_disc_ward": {
+      "conditions": {
+        "item": {
+          "item": "music_disc_ward"
+        },
+        "location": {
+          "block": {
+            "block": "jukebox"
+          }
+        }
+      },
+      "trigger": "item_used_on_block"
+    },
+    "music_disc_weird_realm": {
+      "conditions": {
+        "item": {
+          "item": "ostoverhaul:weird_realm_disc"
+        },
+        "location": {
+          "block": {
+            "block": "jukebox"
+          }
+        }
+      },
+      "trigger": "item_used_on_block"
+    },
+    "music_disc_wither_waltz": {
+      "conditions": {
+        "item": {
+          "item": "bygonenether:wither_waltz_music_disc"
+        },
+        "location": {
+          "block": {
+            "block": "jukebox"
+          }
+        }
+      },
+      "trigger": "item_used_on_block"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.music_disc_any.description"
+    },
+    "icon": {
+      "item": "music_disc_cat"
+    },
+    "title": {
+      "translate": "advancements.panchoring.music_disc_any.title"
+    }
+  },
+  "parent": "adventure/root",
+  "requirements": [
+    [
+      "music_disc_11",
+      "music_disc_blocks",
+      "music_disc_cat",
+      "music_disc_chirp",
+      "music_disc_daze",
+      "music_disc_far",
+      "music_disc_flush",
+      "music_disc_mall",
+      "music_disc_mellohi",
+      "music_disc_petiole",
+      "music_disc_shock",
+      "music_disc_soul_spunk",
+      "music_disc_stal",
+      "music_disc_strad",
+      "music_disc_thime",
+      "music_disc_wait",
+      "music_disc_ward",
+      "music_disc_weird_realm",
+      "music_disc_wither_waltz"
+    ]
+  ]
+}

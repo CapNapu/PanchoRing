@@ -1,0 +1,22 @@
+{
+  "key": {
+    "g": {
+      "item": "gold_ingot"
+    },
+    "i": {
+      "item": "nether_wart"
+    },
+    "s": {
+      "item": "ars_nouveau:mana_gem"
+    }
+  },
+  "pattern": [
+    " s ",
+    "gig",
+    " s "
+  ],
+  "result": {
+    "item": "ars_nouveau:alchemical_sourcelink"
+  },
+  "type": "crafting_shaped"
+}

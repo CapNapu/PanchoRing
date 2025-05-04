@@ -1,0 +1,382 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "functions": [
+            {
+              "damage": {
+                "max": 0.6,
+                "min": 0.2,
+                "type": "uniform"
+              },
+              "function": "set_damage"
+            }
+          ],
+          "name": "dungeons_gear:sword",
+          "type": "item"
+        }
+      ],
+      "rolls": {
+        "max": 3,
+        "min": 0,
+        "type": "uniform"
+      }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 5,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "gunpowder",
+          "type": "item"
+        }
+      ],
+      "rolls": {
+        "max": 3,
+        "min": 1,
+        "type": "uniform"
+      }
+    },
+    {
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 12,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "paper",
+          "type": "item",
+          "weight": 8
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 6,
+                "min": 2,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "potato",
+          "type": "item",
+          "weight": 7
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 4,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "projectvibrantjourneys:pearl",
+          "type": "item",
+          "weight": 7
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 6,
+                "min": 2,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "poisonous_potato",
+          "type": "item",
+          "weight": 7
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 8,
+                "min": 4,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "carrot",
+          "type": "item",
+          "weight": 7
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 8,
+                "min": 4,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "wheat",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "effects": [
+                {
+                  "duration": {
+                    "max": 10,
+                    "min": 7,
+                    "type": "uniform"
+                  },
+                  "type": "saturation"
+                },
+                {
+                  "duration": {
+                    "max": 10,
+                    "min": 7,
+                    "type": "uniform"
+                  },
+                  "type": "night_vision"
+                },
+                {
+                  "duration": {
+                    "max": 20,
+                    "min": 10,
+                    "type": "uniform"
+                  },
+                  "type": "poison"
+                },
+                {
+                  "duration": {
+                    "max": 20,
+                    "min": 10,
+                    "type": "uniform"
+                  },
+                  "type": "hunger"
+                },
+                {
+                  "duration": {
+                    "max": 8,
+                    "min": 6,
+                    "type": "uniform"
+                  },
+                  "type": "weakness"
+                },
+                {
+                  "duration": {
+                    "max": 7,
+                    "min": 5,
+                    "type": "uniform"
+                  },
+                  "type": "blindness"
+                },
+                {
+                  "duration": {
+                    "max": 10,
+                    "min": 7,
+                    "type": "uniform"
+                  },
+                  "type": "jump_boost"
+                }
+              ],
+              "function": "set_stew_effect"
+            }
+          ],
+          "name": "suspicious_stew",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 8,
+                "min": 2,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "coal",
+          "type": "item",
+          "weight": 6
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 24,
+                "min": 5,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "rotten_flesh",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 3,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "pumpkin",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 3,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "bamboo",
+          "type": "item",
+          "weight": 2
+        }
+      ],
+      "rolls": {
+        "max": 6,
+        "min": 3,
+        "type": "uniform"
+      }
+    },
+    {
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 21,
+                "min": 8,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "wheat",
+          "type": "item",
+          "weight": 7
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 2,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "tnt",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 10,
+              "treasure": true
+            }
+          ],
+          "name": "leather_helmet",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 10,
+              "treasure": true
+            }
+          ],
+          "name": "leather_chestplate",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 10,
+              "treasure": true
+            }
+          ],
+          "name": "leather_leggings",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 10,
+              "treasure": true
+            }
+          ],
+          "name": "leather_boots",
+          "type": "item",
+          "weight": 3
+        }
+      ],
+      "rolls": {
+        "max": 4,
+        "min": 2,
+        "type": "uniform"
+      }
+    }
+  ],
+  "type": "chest"
+}

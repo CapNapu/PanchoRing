@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "bosses_of_mass_destruction:void_blossom": {
+      "conditions": {
+        "entity": {
+          "type": "bosses_of_mass_destruction:void_blossom"
+        }
+      },
+      "trigger": "player_killed_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.adventure.void_blossom_defeat.description"
+    },
+    "frame": "goal",
+    "hidden": true,
+    "icon": {
+      "item": "bosses_of_mass_destruction:void_thorn"
+    },
+    "title": {
+      "translate": "advancements.adventure.void_blossom_defeat.title"
+    }
+  },
+  "parent": "panchoring:find_void_blossom"
+}

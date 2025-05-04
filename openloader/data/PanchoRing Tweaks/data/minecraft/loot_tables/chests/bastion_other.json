@@ -1,0 +1,474 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": {
+                "max": 15.0,
+                "min": 10.0,
+                "type": "uniform"
+              },
+              "treasure": true
+            }
+          ],
+          "name": "diamond_pickaxe",
+          "type": "item",
+          "weight": 6
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "diamond_shovel",
+          "type": "item",
+          "weight": 6
+        },
+        {
+          "functions": [
+            {
+              "damage": {
+                "max": 0.9,
+                "min": 0.1
+              },
+              "function": "set_damage"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": {
+                "max": 15.0,
+                "min": 10.0,
+                "type": "uniform"
+              },
+              "treasure": true
+            }
+          ],
+          "name": "crossbow",
+          "type": "item",
+          "weight": 6
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "endrem:end_crystal_fragment",
+          "type": "item",
+          "weight": 12
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "netherite_scrap",
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 22.0,
+                "min": 10.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "spectral_arrow",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "piglin_banner_pattern",
+          "type": "item",
+          "weight": 9
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 17.0,
+                "min": 6.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "golden_carrot",
+          "type": "item",
+          "weight": 12
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "golden_apple",
+          "type": "item",
+          "weight": 9
+        },
+        {
+          "functions": [
+            {
+              "enchantments": [
+                "soul_speed"
+              ],
+              "function": "enchant_randomly"
+            }
+          ],
+          "name": "book",
+          "type": "item",
+          "weight": 10
+        }
+      ],
+      "rolls": 1
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "damage": {
+                "max": 0.9,
+                "min": 0.1
+              },
+              "function": "set_damage"
+            },
+            {
+              "count": 1,
+              "function": "set_count"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": {
+                "max": 15.0,
+                "min": 10.0,
+                "type": "uniform"
+              },
+              "treasure": true
+            }
+          ],
+          "name": "majruszs_difficulty:wither_sword",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            },
+            {
+              "enchantments": [
+                "soul_speed"
+              ],
+              "function": "enchant_randomly"
+            }
+          ],
+          "name": "golden_boots",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": {
+                "max": 15.0,
+                "min": 10.0,
+                "type": "uniform"
+              },
+              "treasure": true
+            }
+          ],
+          "name": "dungeons_gear:gold_axe",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "gold_block",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "crossbow",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "gold_ingot",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "iceandfire:copper_ingot",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "dungeons_gear:gold_sword",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "golden_chestplate",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "golden_helmet",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "golden_leggings",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "golden_boots",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 5.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "crying_obsidian",
+          "type": "item",
+          "weight": 2
+        }
+      ],
+      "rolls": 2
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"fire_resistance\"}"
+            }
+          ],
+          "name": "potion",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 10.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "chain",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"water\"}"
+            }
+          ],
+          "name": "potion",
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 3.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "bone_block",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 8.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "iceandfire:copper_nugget",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 4.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "obsidian",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 8.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "gold_nugget",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 4.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "string",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 17.0,
+                "min": 5.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "arrow",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "infernalexp:cooked_hogchop",
+          "type": "item"
+        }
+      ],
+      "rolls": {
+        "max": 4.0,
+        "min": 3.0,
+        "type": "uniform"
+      }
+    }
+  ],
+  "type": "chest"
+}

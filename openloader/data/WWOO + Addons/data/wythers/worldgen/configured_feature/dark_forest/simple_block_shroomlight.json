@@ -1,0 +1,108 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count_extra",
+      "config": {
+        "count": 100,
+        "extra_count": 0,
+        "extra_chance": 0
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:square",
+          "config": {}
+        },
+        "feature": {
+          "type": "minecraft:decorated",
+          "config": {
+            "decorator": {
+              "type": "minecraft:range",
+              "config": {
+                "maximum": 50,
+                "bottom_offset": 68,
+                "top_offset": 0
+              }
+            },
+            "feature": {
+              "type": "minecraft:simple_block",
+              "config": {
+                "to_place": {
+                  "Name": "minecraft:shroomlight"
+                },
+                "place_on": [
+                  {
+                    "Name": "minecraft:air"
+                  }
+                ],
+                "place_in": [
+                  {
+                    "Name": "minecraft:dark_oak_leaves",
+                    "Properties": {
+                      "distance": "1",
+                      "persistent": "false"
+                    }
+                  },
+                  {
+                    "Name": "minecraft:dark_oak_leaves",
+                    "Properties": {
+                      "distance": "2",
+                      "persistent": "false"
+                    }
+                  },
+                  {
+                    "Name": "minecraft:dark_oak_leaves",
+                    "Properties": {
+                      "distance": "3",
+                      "persistent": "false"
+                    }
+                  },
+                  {
+                    "Name": "minecraft:dark_oak_leaves",
+                    "Properties": {
+                      "distance": "4",
+                      "persistent": "false"
+                    }
+                  }
+                ],
+                "place_under": [
+                  {
+                    "Name": "minecraft:dark_oak_leaves",
+                    "Properties": {
+                      "distance": "1",
+                      "persistent": "false"
+                    }
+                  },
+                  {
+                    "Name": "minecraft:dark_oak_leaves",
+                    "Properties": {
+                      "distance": "2",
+                      "persistent": "false"
+                    }
+                  },
+                  {
+                    "Name": "minecraft:dark_oak_leaves",
+                    "Properties": {
+                      "distance": "3",
+                      "persistent": "false"
+                    }
+                  },
+                  {
+                    "Name": "minecraft:dark_oak_leaves",
+                    "Properties": {
+                      "distance": "4",
+                      "persistent": "false"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "key": {
+    "#": {
+      "item": "stick"
+    },
+    "W": {
+      "item": "dark_oak_planks"
+    }
+  },
+  "pattern": [
+    "W#W",
+    "W#W"
+  ],
+  "result": {
+    "count": 4,
+    "item": "dark_oak_fence"
+  },
+  "type": "crafting_shaped"
+}

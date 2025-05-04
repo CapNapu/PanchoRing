@@ -1,0 +1,19 @@
+{
+  "key": {
+    "0": {
+      "item": "blackstone"
+    },
+    "1": {
+      "item": "quartz_block"
+    }
+  },
+  "pattern": [
+    "10",
+    "01"
+  ],
+  "result": {
+    "count": 4,
+    "item": "supplementaries:checker_block"
+  },
+  "type": "crafting_shaped"
+}

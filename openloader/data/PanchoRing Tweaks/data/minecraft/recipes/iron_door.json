@@ -1,0 +1,17 @@
+{
+  "key": {
+    "#": {
+      "item": "iron_ingot"
+    }
+  },
+  "pattern": [
+    "##",
+    "##",
+    "##"
+  ],
+  "result": {
+    "count": 2,
+    "item": "iron_door"
+  },
+  "type": "crafting_shaped"
+}

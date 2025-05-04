@@ -1,0 +1,8 @@
+{
+  "count": 1,
+  "ingredient": {
+    "item": "stone"
+  },
+  "result": "stone_pressure_plate",
+  "type": "stonecutting"
+}

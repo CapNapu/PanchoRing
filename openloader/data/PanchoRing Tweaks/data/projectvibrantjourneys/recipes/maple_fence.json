@@ -1,0 +1,19 @@
+{
+  "key": {
+    "#": {
+      "item": "stick"
+    },
+    "W": {
+      "item": "projectvibrantjourneys:maple_planks"
+    }
+  },
+  "pattern": [
+    "W#W",
+    "W#W"
+  ],
+  "result": {
+    "count": 4,
+    "item": "projectvibrantjourneys:maple_fence"
+  },
+  "type": "crafting_shaped"
+}

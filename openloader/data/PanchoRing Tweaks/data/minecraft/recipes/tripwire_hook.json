@@ -1,0 +1,23 @@
+{
+  "key": {
+    "#": {
+      "tag": "wooden_slabs"
+    },
+    "I": {
+      "item": "iron_ingot"
+    },
+    "S": {
+      "item": "stick"
+    }
+  },
+  "pattern": [
+    "I",
+    "S",
+    "#"
+  ],
+  "result": {
+    "count": 2,
+    "item": "tripwire_hook"
+  },
+  "type": "crafting_shaped"
+}

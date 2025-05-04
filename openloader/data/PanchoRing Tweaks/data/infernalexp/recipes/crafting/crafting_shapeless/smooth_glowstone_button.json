@@ -1,0 +1,8 @@
+{
+  "count": 1,
+  "ingredient": {
+    "item": "infernalexp:smooth_glowstone"
+  },
+  "result": "infernalexp:smooth_glowstone_button",
+  "type": "stonecutting"
+}

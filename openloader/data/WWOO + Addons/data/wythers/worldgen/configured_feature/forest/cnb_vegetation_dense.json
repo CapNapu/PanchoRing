@@ -1,0 +1,43 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "feature": {
+          "config": {
+            "features": [
+              {
+                "feature": "wythers:forest/feature_tree_big_oak",
+                "chance": 0.5
+              }
+            ],
+            "default": "wythers:forest/feature_tree_oak"
+          },
+          "type": "minecraft:random_selector"
+        },
+        "decorator": {
+          "config": {
+            "outer": {
+              "config": {},
+              "type": "minecraft:square"
+            },
+            "inner": {
+              "config": {},
+              "type": "minecraft:heightmap"
+            }
+          },
+          "type": "minecraft:decorated"
+        }
+      },
+      "type": "minecraft:decorated"
+    },
+    "decorator": {
+      "type": "minecraft:count_noise_biased",
+      "config": {
+        "noise_to_count_ratio": 15,
+        "noise_factor": 200,
+        "noise_offset": -0.5
+      }
+    }
+  },
+  "type": "minecraft:decorated"
+}

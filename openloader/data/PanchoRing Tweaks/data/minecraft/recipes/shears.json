@@ -1,0 +1,18 @@
+{
+  "key": {
+    "0": {
+      "tag": "planks"
+    },
+    "1": {
+      "item": "iron_ingot"
+    }
+  },
+  "pattern": [
+    "1 ",
+    "01"
+  ],
+  "result": {
+    "item": "shears"
+  },
+  "type": "crafting_shaped"
+}

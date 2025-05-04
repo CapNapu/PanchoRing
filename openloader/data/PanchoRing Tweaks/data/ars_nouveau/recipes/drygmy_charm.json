@@ -1,0 +1,51 @@
+{
+  "item_1": [
+    {
+      "item": "apple"
+    }
+  ],
+  "item_2": [
+    {
+      "item": "potato"
+    }
+  ],
+  "item_3": [
+    {
+      "item": "carrot"
+    }
+  ],
+  "item_4": [
+    {
+      "item": "sweet_berries"
+    }
+  ],
+  "item_5": [
+    {
+      "item": "projectvibrantjourneys:juniper_berries"
+    }
+  ],
+  "item_6": [
+    {
+      "item": "ars_nouveau:mana_gem"
+    }
+  ],
+  "item_7": [
+    {
+      "item": "ars_nouveau:mana_gem"
+    }
+  ],
+  "item_8": [
+    {
+      "item": "ars_nouveau:mana_gem"
+    }
+  ],
+  "output": {
+    "item": "ars_nouveau:drygmy_charm"
+  },
+  "reagent": [
+    {
+      "item": "ars_nouveau:drygmy_shard"
+    }
+  ],
+  "type": "ars_nouveau:enchanting_apparatus"
+}

@@ -1,0 +1,59 @@
+{
+  "profession": "minecraft:fisherman",
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "alexsmobs:lobster_tail",
+        "amount": 8
+      },
+      "tradeExp": 20,
+      "maxUses": 16,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:prismarine_crystals",
+        "amount": 3
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 20,
+      "maxUses": 16,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "majruszs_difficulty:fishing_treasure_bag",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 7
+      },
+      "tradeExp": 20,
+      "maxUses": 12,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "antiqueatlas:empty_antique_atlas",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 21,
+        "amountRange": 26
+      },
+      "tradeExp": 30,
+      "maxUses": 3,
+      "priceMultiplier": 0.2,
+      "tradeLevel": 5
+    }
+  ]
+}

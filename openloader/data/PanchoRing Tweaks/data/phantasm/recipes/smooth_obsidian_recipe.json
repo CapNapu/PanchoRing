@@ -1,0 +1,9 @@
+{
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "obsidian"
+  },
+  "result": "phantasm:smooth_obsidian",
+  "type": "smelting"
+}

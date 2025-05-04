@@ -1,0 +1,80 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "children": [
+            {
+              "conditions": [
+                {
+                  "condition": "match_tool",
+                  "predicate": {
+                    "enchantments": [
+                      {
+                        "enchantment": "silk_touch",
+                        "levels": {
+                          "min": 1
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "name": "dustydecor:small_bookshelf",
+              "type": "item"
+            },
+            {
+              "conditions": [
+                {
+                  "condition": "survives_explosion"
+                }
+              ],
+              "name": "dustydecor:small_shelf_block",
+              "type": "item"
+            }
+          ],
+          "type": "alternatives"
+        }
+      ],
+      "rolls": 1
+    },
+    {
+      "entries": [
+        {
+          "conditions": [
+            {
+              "condition": "inverted",
+              "term": {
+                "condition": "match_tool",
+                "predicate": {
+                  "enchantments": [
+                    {
+                      "enchantment": "silk_touch",
+                      "levels": {
+                        "min": 1
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          ],
+              "functions": [
+                {
+                  "count": 4,
+                  "function": "set_count"
+                },
+                {
+                  "function": "explosion_decay"
+                }
+              ],
+              "name": "book",
+              "type": "item"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "dustydecor:blocks/small_bookshelf",
+  "type": "block"
+}

@@ -1,0 +1,18 @@
+{
+  "key": {
+    "B": {
+      "item": "iceandfire:copper_nugget"
+    },
+    "S": {
+      "item": "gold_ingot"
+    }
+  },
+  "pattern": [
+    "BBB",
+    " S "
+  ],
+  "result": {
+    "item": "epicfight:knuckle"
+  },
+  "type": "crafting_shaped"
+}

@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "glass_bottle"
+    },
+    {
+      "item": "alexsmobs:komodo_spit"
+    }
+  ],
+  "result": {
+    "item": "alexsmobs:komodo_spit_bottle"
+  },
+  "type": "crafting_shapeless"
+}

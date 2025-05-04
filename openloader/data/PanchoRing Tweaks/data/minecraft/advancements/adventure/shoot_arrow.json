@@ -1,0 +1,29 @@
+{
+  "criteria": {
+    "shot_arrow": {
+      "conditions": {
+        "damage": {
+          "type": {
+            "direct_entity": {
+              "type": "#arrows"
+            },
+            "is_projectile": true
+          }
+        }
+      },
+      "trigger": "player_hurt_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.adventure.shoot_arrow.description"
+    },
+    "icon": {
+      "item": "bow"
+    },
+    "title": {
+      "translate": "advancements.adventure.shoot_arrow.title"
+    }
+  },
+  "parent": "adventure/root"
+}

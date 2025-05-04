@@ -1,0 +1,22 @@
+{
+  "key": {
+    "P": {
+      "tag": "wooden_slabs"
+    },
+    "R": {
+      "item": "alexsmobs:rattlesnake_rattle"
+    },
+    "S": {
+      "item": "stick"
+    }
+  },
+  "pattern": [
+    " P ",
+    "PRP",
+    " S "
+  ],
+  "result": {
+    "item": "alexsmobs:maraca"
+  },
+  "type": "crafting_shaped"
+}

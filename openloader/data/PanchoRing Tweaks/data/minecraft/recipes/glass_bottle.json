@@ -1,0 +1,16 @@
+{
+  "key": {
+    "#": {
+      "tag": "forge:glass"
+    }
+  },
+  "pattern": [
+    "# #",
+    " # "
+  ],
+  "result": {
+    "count": 3,
+    "item": "glass_bottle"
+  },
+  "type": "crafting_shaped"
+}

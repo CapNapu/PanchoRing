@@ -1,0 +1,35 @@
+{
+  "ingredients": [
+    {
+      "item": "paper"
+    },
+    {
+      "item": "paper"
+    },
+    {
+      "item": "paper"
+    },
+    {
+      "item": "paper"
+    },
+    {
+      "item": "paper"
+    },
+    {
+      "item": "paper"
+    },
+    {
+      "item": "paper"
+    },
+    {
+      "item": "paper"
+    },
+    {
+      "item": "leather"
+    }
+  ],
+  "result": {
+    "item": "book"
+  },
+  "type": "crafting_shapeless"
+}

@@ -1,0 +1,100 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "gameplay/fishing/junk",
+          "type": "loot_table",
+          "weight": 30
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 5.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "projectvibrantjourneys:seashells",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 2.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "wet_sponge",
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 2.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "scute",
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 2.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "prismarine_crystals",
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "name": "alexsmobs:shark_tooth",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "name": "alexsmobs:serrated_shark_tooth",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "name": "projectvibrantjourneys:pearl",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "name": "nautilus_shell",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "name": "alexsmobs:music_disc_thime",
+          "type": "item",
+          "weight": 1
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "barter"
+}

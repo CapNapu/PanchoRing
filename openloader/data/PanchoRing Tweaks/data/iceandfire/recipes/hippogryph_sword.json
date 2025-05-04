@@ -1,0 +1,25 @@
+{
+  "key": {
+    "F": {
+      "item": "feather"
+    },
+    "I": {
+      "item": "iceandfire:copper_ingot"
+    },
+    "S": {
+      "item": "stick"
+    },
+    "T": {
+      "item": "iceandfire:hippogryph_talon"
+    }
+  },
+  "pattern": [
+    " T ",
+    "FIF",
+    " S "
+  ],
+  "result": {
+    "item": "iceandfire:hippogryph_sword"
+  },
+  "type": "crafting_shaped"
+}

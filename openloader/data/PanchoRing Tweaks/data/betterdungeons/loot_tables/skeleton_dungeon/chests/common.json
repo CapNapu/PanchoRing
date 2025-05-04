@@ -1,0 +1,297 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "golden_apple",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "name": "enchanted_golden_apple",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            }
+          ],
+          "name": "book",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 15,
+              "treasure": false
+            }
+          ],
+          "name": "bow",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Potion: \"slowness\"}"
+            }
+          ],
+          "name": "tipped_arrow",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Potion: \"leaping\"}"
+            }
+          ],
+          "name": "tipped_arrow",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Potion: \"fire_resistance\"}"
+            }
+          ],
+          "name": "tipped_arrow",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Potion: \"swiftness\"}"
+            }
+          ],
+          "name": "tipped_arrow",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Potion: \"long_swiftness\"}"
+            }
+          ],
+          "name": "tipped_arrow",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Potion: \"harming\"}"
+            }
+          ],
+          "name": "tipped_arrow",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Potion: \"poison\"}"
+            }
+          ],
+          "name": "tipped_arrow",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Potion: \"weakness\"}"
+            }
+          ],
+          "name": "tipped_arrow",
+          "type": "item",
+          "weight": 1
+        }
+      ],
+      "rolls": {
+        "max": 4.0,
+        "min": 2.0,
+        "type": "uniform"
+      }
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "iron_ingot",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "iceandfire:copper_ingot",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 4.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "redstone",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "name": "name_tag",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "name": "lead",
+          "type": "item",
+          "weight": 1
+        }
+      ],
+      "rolls": {
+        "max": 3.0,
+        "min": 1.0,
+        "type": "uniform"
+      }
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 8.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "bone",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 8.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "bone_meal",
+          "type": "item",
+          "weight": 10
+        }
+      ],
+      "rolls": 2
+    }
+  ],
+  "type": "chest"
+}

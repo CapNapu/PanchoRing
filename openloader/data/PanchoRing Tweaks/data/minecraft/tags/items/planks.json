@@ -1,0 +1,27 @@
+{
+  "replace": true,
+  "values": [
+    "acacia_planks",
+    "birch_planks",
+    "crimson_planks",
+    "dark_oak_planks",
+    "jungle_planks",
+    "oak_planks",
+    "spruce_planks",
+    "warped_planks",
+    "ars_nouveau:archwood_planks",
+    "cataclysm:chorus_planks",
+    "phantasm:ebony_planks",
+    "phantasm:pream_planks",
+    "projectvibrantjourneys:aspen_planks",
+    "projectvibrantjourneys:baobab_planks",
+    "projectvibrantjourneys:fir_planks",
+    "projectvibrantjourneys:joshua_planks",
+    "projectvibrantjourneys:juniper_planks",
+    "projectvibrantjourneys:maple_planks",
+    "projectvibrantjourneys:pine_planks",
+    "projectvibrantjourneys:redwood_planks",
+    "projectvibrantjourneys:sakura_planks",
+    "projectvibrantjourneys:tamarack_planks"
+  ]
+}

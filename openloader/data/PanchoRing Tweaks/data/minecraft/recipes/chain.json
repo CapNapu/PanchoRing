@@ -1,0 +1,20 @@
+{
+  "key": {
+    "I": {
+      "item": "iron_ingot"
+    },
+    "N": {
+      "item": "iron_nugget"
+    }
+  },
+  "pattern": [
+    "N",
+    "I",
+    "N"
+  ],
+  "result": {
+    "count": 3,
+    "item": "chain"
+  },
+  "type": "crafting_shaped"
+}

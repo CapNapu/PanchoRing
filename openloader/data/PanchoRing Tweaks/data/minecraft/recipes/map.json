@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "paper"
+    },
+    {
+      "item": "compass"
+    }
+  ],
+  "result": {
+    "item": "map"
+  },
+  "type": "crafting_shapeless"
+}

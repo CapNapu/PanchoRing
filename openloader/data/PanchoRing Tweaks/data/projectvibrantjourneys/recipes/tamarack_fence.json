@@ -1,0 +1,19 @@
+{
+  "key": {
+    "#": {
+      "item": "stick"
+    },
+    "W": {
+      "item": "projectvibrantjourneys:tamarack_planks"
+    }
+  },
+  "pattern": [
+    "W#W",
+    "W#W"
+  ],
+  "result": {
+    "count": 4,
+    "item": "projectvibrantjourneys:tamarack_fence"
+  },
+  "type": "crafting_shaped"
+}

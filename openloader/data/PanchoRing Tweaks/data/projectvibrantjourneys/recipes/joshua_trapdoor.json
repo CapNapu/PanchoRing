@@ -1,0 +1,16 @@
+{
+  "key": {
+    "#": {
+      "item": "projectvibrantjourneys:joshua_planks"
+    }
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "item": "projectvibrantjourneys:joshua_trapdoor"
+  },
+  "type": "crafting_shaped"
+}

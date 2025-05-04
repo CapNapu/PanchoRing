@@ -1,0 +1,16 @@
+{
+  "key": {
+    "0": {
+      "item": "iceandfire:copper_ingot"
+    }
+  },
+  "pattern": [
+    "000",
+    "000",
+    "000"
+  ],
+  "result": {
+    "item": "iceandfire:copper_block"
+  },
+  "type": "crafting_shaped"
+}

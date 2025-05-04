@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "pink_carpet"
+    },
+    {
+      "item": "stick"
+    }
+  ],
+  "result": {
+    "item": "dustydecor:pink_wool_awning"
+  },
+  "type": "crafting_shapeless"
+}

@@ -1,0 +1,18 @@
+{
+  "key": {
+    "S": {
+      "item": "stick"
+    },
+    "T": {
+      "item": "iceandfire:hippocampus_fin"
+    }
+  },
+  "pattern": [
+    "T",
+    "S"
+  ],
+  "result": {
+    "item": "iceandfire:hippocampus_slapper"
+  },
+  "type": "crafting_shaped"
+}

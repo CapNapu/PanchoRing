@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "backpack_max_upgraded": {
+      "trigger": "improvedbackpacks:backpack_max_upgraded"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.improvedbackpacks.max_upgrade.description"
+    },
+    "frame": "goal",
+    "hidden": true,
+    "icon": {
+      "item": "improvedbackpacks:light_blue_backpack"
+    },
+    "title": {
+      "translate": "advancements.improvedbackpacks.max_upgrade.title"
+    }
+  },
+  "parent": "improvedbackpacks:backpack"
+}

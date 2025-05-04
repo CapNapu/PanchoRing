@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "alexsmobs:komodo_spit"
+    },
+    {
+      "item": "alexsmobs:komodo_spit"
+    }
+  ],
+  "result": {
+    "item": "slime_ball"
+  },
+  "type": "crafting_shapeless"
+}

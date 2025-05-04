@@ -1,0 +1,25 @@
+{
+  "key": {
+    "0": {
+      "tag": "mapatlases:sticky_crafting_items"
+    },
+    "1": {
+      "item": "stick"
+    },
+    "2": {
+      "item": "rabbit_hide"
+    },
+    "3": {
+      "item": "string"
+    }
+  },
+  "pattern": [
+    "323",
+    "101",
+    " 1 "
+  ],
+  "result": {
+    "item": "supplementaries:slingshot"
+  },
+  "type": "crafting_shaped"
+}

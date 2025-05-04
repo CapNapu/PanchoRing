@@ -1,0 +1,48 @@
+{
+  "armorSetName": "heavy.armors.2",
+  "head": {
+    "itemKey": "minecraft:netherite_helmet",
+    "mixAndMatch": [
+      "bygonenether:gilded_netherite_helmet",
+      "cataclysm:ignitium_helmet",
+      "majruszs_difficulty:end_helmet",
+      "phantasm:stellium_helmet"
+    ]
+  },
+  "chest": {
+    "itemKey": "minecraft:netherite_chestplate",
+    "mixAndMatch": [
+      "bygonenether:gilded_netherite_chestplate",
+      "cataclysm:ignitium_chestplate",
+      "majruszs_difficulty:end_chestplate",
+      "phantasm:stellium_chestplate"
+    ]
+  },
+  "legs": {
+    "itemKey": "minecraft:netherite_leggings",
+    "mixAndMatch": [
+      "bygonenether:gilded_netherite_leggings",
+      "cataclysm:ignitium_leggings",
+      "majruszs_difficulty:end_leggings",
+      "phantasm:stellium_leggings"
+    ]
+  },
+  "boots": {
+    "itemKey": "minecraft:netherite_boots",
+    "mixAndMatch": [
+      "bygonenether:gilded_netherite_boots",
+      "cataclysm:ignitium_boots",
+      "majruszs_difficulty:end_boots",
+      "phantasm:stellium_boots"
+    ]
+  },
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "name": "minecraft:resistance",
+      "value": 0.0,
+      "interactionDuration": 120
+    }
+  ],
+  "hideGeneratedTooltip": true
+}

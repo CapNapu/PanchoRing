@@ -1,0 +1,13 @@
+name = "PanchoRing"
+author = "CapNapu"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7007bf171dadd5e95d3d0ec48154cb5e3af042046fa6633b72aaa79f8056203e"
+
+[versions]
+forge = "36.2.42"
+minecraft = "1.16.5"

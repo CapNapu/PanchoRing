@@ -1,0 +1,19 @@
+{
+  "key": {
+    "L": {
+      "item": "leather_leggings"
+    },
+    "S": {
+      "item": "alexsmobs:centipede_leg"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "SLS",
+    "S S"
+  ],
+  "result": {
+    "item": "alexsmobs:centipede_leggings"
+  },
+  "type": "crafting_shaped"
+}

@@ -1,0 +1,15 @@
+{
+  "key": {
+    "#": {
+      "item": "projectvibrantjourneys:aspen_leaves"
+    }
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": {
+    "count": 8,
+    "item": "projectvibrantjourneys:aspen_fallen_leaves"
+  },
+  "type": "crafting_shaped"
+}

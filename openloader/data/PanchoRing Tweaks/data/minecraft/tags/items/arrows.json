@@ -1,0 +1,15 @@
+{
+  "replace": true,
+  "values": [
+    "arrow",
+    "spectral_arrow",
+    "tipped_arrow",
+    "cataclysm:void_scatter_arrow",
+    "iceandfire:amphithere_arrow",
+    "iceandfire:dragonbone_arrow",
+    "iceandfire:hydra_arrow",
+    "iceandfire:sea_serpent_arrow",
+    "iceandfire:stymphalian_arrow",
+    "supplementaries:rope_arrow"
+  ]
+}

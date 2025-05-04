@@ -1,0 +1,13 @@
+name = "DoesPotatoTick?"
+filename = "doespotatotick-1.16.5-5.6.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d015f3709eec15510b1619a95b5bf3fbc2e17ada"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7953837
+project-id = 825355

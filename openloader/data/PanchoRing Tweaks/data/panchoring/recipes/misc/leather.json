@@ -1,0 +1,26 @@
+{
+  "ingredients": [
+    [
+      {
+        "item": "leather_helmet"
+      },
+      {
+        "item": "leather_chestplate"
+      },
+      {
+        "item": "leather_leggings"
+      },
+      {
+        "item": "leather_boots"
+      },
+      {
+        "item": "saddle"
+      }
+    ]
+  ],
+  "result": {
+    "count": 2,
+    "item": "leather"
+  },
+  "type": "crafting_shapeless"
+}

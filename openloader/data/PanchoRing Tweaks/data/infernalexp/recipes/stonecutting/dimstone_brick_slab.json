@@ -1,0 +1,13 @@
+{
+  "count": 2,
+  "ingredient": [
+    {
+      "item": "infernalexp:dimstone"
+    },
+    {
+      "item": "infernalexp:dimstone_bricks"
+    }
+  ],
+  "result": "infernalexp:dimstone_brick_slab",
+  "type": "stonecutting"
+}

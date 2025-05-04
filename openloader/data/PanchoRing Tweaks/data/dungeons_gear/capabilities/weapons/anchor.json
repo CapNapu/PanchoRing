@@ -1,0 +1,10 @@
+{
+  "attributes": {
+    "common": {
+      "armor_negation": 30,
+      "impact": 4.5,
+      "max_strikes": 4
+    }
+  },
+  "type": "greatsword"
+}

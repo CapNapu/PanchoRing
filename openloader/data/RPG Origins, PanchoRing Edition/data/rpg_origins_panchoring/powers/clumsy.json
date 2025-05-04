@@ -1,0 +1,53 @@
+{
+  "type": "origins:multiple",
+  "movement.speed": {
+    "type": "origins:attribute",
+    "modifier": {
+      "attribute": "generic.movement_speed",
+      "operation": "multiply_base",
+      "value": -0.2
+    }
+  },
+  "attack.speed": {
+    "type": "origins:attribute",
+    "modifier": {
+      "attribute": "generic.attack_speed",
+      "operation": "multiply_base",
+      "value": -0.25
+    }
+  },
+  "attack.speed.heavy": {
+    "type": "origins:conditioned_attribute",
+    "modifier": {
+      "attribute": "generic.attack_speed",
+      "operation": "multiply_base",
+      "value": 0.334
+    },
+    "tick_rate": 5,
+    "condition": {
+      "type": "origins:or",
+      "conditions": [
+        {
+          "type": "origins:equipped_item",
+          "equipment_slot": "mainhand",
+          "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+              "tag": "panchoring:heavy_weapons"
+            }
+          }
+        },
+        {
+          "type": "origins:equipped_item",
+          "equipment_slot": "offhand",
+          "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+              "tag": "panchoring:heavy_weapons"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "bread"
+    },
+    {
+      "item": "alexsmobs:cooked_kangaroo_meat"
+    }
+  ],
+  "result": {
+    "item": "alexsmobs:kangaroo_burger"
+  },
+  "type": "crafting_shapeless"
+}

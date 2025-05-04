@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "manuscript": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:manuscript"
+          }
+        ]
+      },
+      "trigger": "inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.get_manuscript.description"
+    },
+    "icon": {
+      "item": "iceandfire:manuscript"
+    },
+    "title": {
+      "translate": "advancements.panchoring.get_manuscript.title"
+    }
+  },
+  "parent": "husbandry/root"
+}

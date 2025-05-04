@@ -1,0 +1,174 @@
+{
+  "criteria": {
+    "Black": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "catType": "textures/entity/cat/all_black.png"
+            }
+          }
+        ]
+      },
+      "trigger": "tame_animal"
+    },
+    "British Shorthair": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "catType": "textures/entity/cat/british_shorthair.png"
+            }
+          }
+        ]
+      },
+      "trigger": "tame_animal"
+    },
+    "Calico": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "catType": "textures/entity/cat/calico.png"
+            }
+          }
+        ]
+      },
+      "trigger": "tame_animal"
+    },
+    "Jellie": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "catType": "textures/entity/cat/jellie.png"
+            }
+          }
+        ]
+      },
+      "trigger": "tame_animal"
+    },
+    "Orange": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "catType": "textures/entity/cat/red.png"
+            }
+          }
+        ]
+      },
+      "trigger": "tame_animal"
+    },
+    "Persian": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "catType": "textures/entity/cat/persian.png"
+            }
+          }
+        ]
+      },
+      "trigger": "tame_animal"
+    },
+    "Ragdoll": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "catType": "textures/entity/cat/ragdoll.png"
+            }
+          }
+        ]
+      },
+      "trigger": "tame_animal"
+    },
+    "Siamese": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "catType": "textures/entity/cat/siamese.png"
+            }
+          }
+        ]
+      },
+      "trigger": "tame_animal"
+    },
+    "Tabby": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "catType": "textures/entity/cat/tabby.png"
+            }
+          }
+        ]
+      },
+      "trigger": "tame_animal"
+    },
+    "Tuxedo": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "catType": "textures/entity/cat/black.png"
+            }
+          }
+        ]
+      },
+      "trigger": "tame_animal"
+    },
+    "White": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "catType": "textures/entity/cat/white.png"
+            }
+          }
+        ]
+      },
+      "trigger": "tame_animal"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.husbandry.complete_catalogue.description"
+    },
+    "frame": "challenge",
+    "icon": {
+      "item": "cod"
+    },
+    "title": {
+      "translate": "advancements.husbandry.complete_catalogue.title"
+    }
+  },
+  "parent": "panchoring:tame_all_wolfs",
+  "rewards": {
+    "experience": 500
+  }
+}

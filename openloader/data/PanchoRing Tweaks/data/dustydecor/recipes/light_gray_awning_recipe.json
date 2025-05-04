@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "light_gray_carpet"
+    },
+    {
+      "item": "stick"
+    }
+  ],
+  "result": {
+    "item": "dustydecor:light_gray_wool_awning"
+  },
+  "type": "crafting_shapeless"
+}

@@ -1,0 +1,19 @@
+{
+  "key": {
+    "x": {
+      "item": "iceandfire:silver_nugget"
+    },
+    "y": {
+      "item": "ars_nouveau:mana_gem"
+    }
+  },
+  "pattern": [
+    "xxx",
+    "xyx",
+    "xxx"
+  ],
+  "result": {
+    "item": "ars_nouveau:ring_of_potential"
+  },
+  "type": "crafting_shaped"
+}

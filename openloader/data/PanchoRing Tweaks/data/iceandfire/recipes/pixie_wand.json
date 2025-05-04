@@ -1,0 +1,22 @@
+{
+  "key": {
+    "B": {
+      "item": "projectvibrantjourneys:twigs"
+    },
+    "D": {
+      "item": "iceandfire:sapphire_gem"
+    },
+    "W": {
+      "item": "iceandfire:pixie_wings"
+    }
+  },
+  "pattern": [
+    "D",
+    "W",
+    "B"
+  ],
+  "result": {
+    "item": "iceandfire:pixie_wand"
+  },
+  "type": "crafting_shaped"
+}

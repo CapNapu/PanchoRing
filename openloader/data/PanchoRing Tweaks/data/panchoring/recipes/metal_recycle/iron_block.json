@@ -1,0 +1,29 @@
+{
+  "cookingtime": 400,
+  "experience": 0.5,
+  "ingredient": [
+    {
+      "item": "anvil"
+    },
+    {
+      "item": "chipped_anvil"
+    },
+    {
+      "item": "damaged_anvil"
+    },
+    {
+      "item": "iceandfire:dragonarmor_iron_head"
+    },
+    {
+      "item": "iceandfire:dragonarmor_iron_neck"
+    },
+    {
+      "item": "iceandfire:dragonarmor_iron_body"
+    },
+    {
+      "item": "iceandfire:dragonarmor_iron_tail"
+    }
+  ],
+  "result": "iron_block",
+  "type": "blasting"
+}

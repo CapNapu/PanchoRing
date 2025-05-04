@@ -1,0 +1,45 @@
+{
+  "id": 15,
+  "theme": {
+    "button": {
+      "block": "projectvibrantjourneys:redwood_button",
+      "type": "block"
+    },
+    "door": {
+      "block": "projectvibrantjourneys:redwood_door",
+      "type": "block"
+    },
+    "fence": {
+      "block": "projectvibrantjourneys:redwood_fence",
+      "type": "block"
+    },
+    "fence_gate": {
+      "block": "projectvibrantjourneys:redwood_fence_gate",
+      "type": "block"
+    },
+    "material": {
+      "block": "projectvibrantjourneys:redwood_planks",
+      "type": "block"
+    },
+    "pillar": {
+      "block": "projectvibrantjourneys:redwood_log",
+      "type": "block"
+    },
+    "pressure_plate": {
+      "block": "projectvibrantjourneys:redwood_pressure_plate",
+      "type": "block"
+    },
+    "slab": {
+      "block": "projectvibrantjourneys:redwood_slab",
+      "type": "block"
+    },
+    "stairs": {
+      "block": "projectvibrantjourneys:redwood_stairs",
+      "type": "block"
+    },
+    "trapdoor": {
+      "block": "projectvibrantjourneys:redwood_trapdoor",
+      "type": "block"
+    }
+  }
+}

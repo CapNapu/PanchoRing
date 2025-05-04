@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "blast_furnace": {
+      "conditions": {
+        "block": "blast_furnace"
+      },
+      "trigger": "placed_block"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.place_blast_furnace.description"
+    },
+    "icon": {
+      "item": "blast_furnace"
+    },
+    "title": {
+      "translate": "advancements.panchoring.place_blast_furnace.title"
+    }
+  },
+  "parent": "story/smelt_iron"
+}

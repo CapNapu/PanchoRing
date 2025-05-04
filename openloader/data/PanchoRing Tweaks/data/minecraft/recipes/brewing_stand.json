@@ -1,0 +1,22 @@
+{
+  "key": {
+    "#": {
+      "item": "stone_slab"
+    },
+    "B": {
+      "item": "iron_ingot"
+    },
+    "I": {
+      "item": "blaze_rod"
+    }
+  },
+  "pattern": [
+    "I",
+    "B",
+    "#"
+  ],
+  "result": {
+    "item": "brewing_stand"
+  },
+  "type": "crafting_shaped"
+}

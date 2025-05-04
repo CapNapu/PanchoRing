@@ -1,0 +1,19 @@
+{
+  "key": {
+    "1": {
+      "item": "stone_brick_slab"
+    },
+    "2": {
+      "item": "chiseled_stone_bricks"
+    }
+  },
+  "pattern": [
+    "1",
+    "2",
+    "1"
+  ],
+  "result": {
+    "item": "supplementaries:pedestal"
+  },
+  "type": "crafting_shaped"
+}

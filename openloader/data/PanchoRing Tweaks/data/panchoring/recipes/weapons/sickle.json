@@ -1,0 +1,12 @@
+{
+  "addition": {
+    "item": "iron_ingot"
+  },
+  "base": {
+    "item": "iron_hoe"
+  },
+  "result": {
+    "item": "dungeons_gear:sickle"
+  },
+  "type": "smithing"
+}

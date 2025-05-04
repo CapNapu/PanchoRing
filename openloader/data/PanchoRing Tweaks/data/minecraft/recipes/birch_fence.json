@@ -1,0 +1,19 @@
+{
+  "key": {
+    "#": {
+      "item": "stick"
+    },
+    "W": {
+      "item": "birch_planks"
+    }
+  },
+  "pattern": [
+    "W#W",
+    "W#W"
+  ],
+  "result": {
+    "count": 4,
+    "item": "birch_fence"
+  },
+  "type": "crafting_shaped"
+}

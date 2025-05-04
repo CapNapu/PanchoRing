@@ -1,0 +1,15 @@
+{
+  "key": {
+    "#": {
+      "item": "projectvibrantjourneys:orange_maple_leaves"
+    }
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": {
+    "count": 8,
+    "item": "projectvibrantjourneys:orange_maple_fallen_leaves"
+  },
+  "type": "crafting_shaped"
+}

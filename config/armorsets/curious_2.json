@@ -1,0 +1,35 @@
+{
+  "armorSetName": "curious.2",
+  "head": {
+    "itemKey": "dungeons_gear:curious_helmet"
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:curious_chestplate"
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:curious_leggings"
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:curious_boots"
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "epicfight:offhand_max_strikes",
+      "value": 1.0,
+      "modifierUUID": "2643dd73-5c28-477e-a908-0992d444fa7f",
+      "attributeOperation": 0
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.armor",
+      "value": 0.0,
+      "modifierUUID": "5b22c737-4dfb-4a95-914f-57443a5cbd0b",
+      "attributeOperation": 0
+    }
+  ],
+  "hideGeneratedTooltip": true
+}

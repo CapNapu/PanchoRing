@@ -1,0 +1,12 @@
+{
+  "addition": {
+    "item": "iron_ingot"
+  },
+  "base": {
+    "item": "iron_pickaxe"
+  },
+  "result": {
+    "item": "dungeons_gear:pickaxe"
+  },
+  "type": "smithing"
+}

@@ -1,0 +1,17 @@
+{
+  "key": {
+    "#": {
+      "item": "jungle_planks"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "item": "jungle_stairs"
+  },
+  "type": "crafting_shaped"
+}

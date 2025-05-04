@@ -1,0 +1,119 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 16.0,
+                "min": 8.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"harming\"}"
+            }
+          ],
+          "name": "tipped_arrow",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 16.0,
+                "min": 8.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"poison\"}"
+            }
+          ],
+          "name": "tipped_arrow",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 16.0,
+                "min": 8.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"slowness\"}"
+            }
+          ],
+          "name": "tipped_arrow",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 16.0,
+                "min": 8.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"weakness\"}"
+            }
+          ],
+          "name": "tipped_arrow",
+          "type": "item"
+        }
+      ],
+      "rolls": 1
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 32.0,
+                "min": 16.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "cataclysm:void_scatter_arrow",
+          "type": "item"
+        }
+      ],
+      "rolls": 1
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "enchantments": [
+                "mending"
+              ],
+              "function": "enchant_randomly"
+            }
+          ],
+          "name": "book",
+          "type": "item"
+        }
+      ],
+      "rolls": 1,
+      "bonus_rolls": 1
+    }
+  ],
+  "type": "chest"
+}

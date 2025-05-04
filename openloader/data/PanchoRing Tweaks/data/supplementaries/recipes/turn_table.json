@@ -1,0 +1,25 @@
+{
+  "key": {
+    "0": {
+      "tag": "planks"
+    },
+    "3": {
+      "tag": "stone_crafting_materials"
+    },
+    "4": {
+      "item": "supplementaries:crank"
+    },
+    "7": {
+      "item": "iceandfire:copper_ingot"
+    }
+  },
+  "pattern": [
+    "000",
+    "343",
+    "373"
+  ],
+  "result": {
+    "item": "supplementaries:turn_table"
+  },
+  "type": "crafting_shaped"
+}

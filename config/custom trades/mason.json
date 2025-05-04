@@ -1,0 +1,48 @@
+{
+  "profession": "minecraft:mason",
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "extcaves:oldstone",
+        "amount": 12
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "supplementaries:daub",
+        "amount": 8
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 5,
+      "maxUses": 16,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "bygonenether:withered_blackstone",
+        "amount": 4
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 4
+      },
+      "additionalRequest": {
+        "itemKey": "bygonenether:soul_stone",
+        "amount": 16
+      },
+      "tradeExp": 30,
+      "maxUses": 16,
+      "tradeLevel": 5
+    }
+  ]
+}

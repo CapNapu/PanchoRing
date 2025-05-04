@@ -1,0 +1,19 @@
+{
+  "ingredients": [
+    [
+      {
+        "item": "slabgen:dirt_slab"
+      },
+      {
+        "item": "slabgen:podzol_slab"
+      }
+    ],
+    {
+      "item": "slabgen:podzol_slab"
+    }
+  ],
+  "result": {
+    "item": "podzol"
+  },
+  "type": "crafting_shapeless"
+}

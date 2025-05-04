@@ -1,0 +1,623 @@
+{
+  "profession": "wanderer",
+  "removeOtherTrades": true,
+  "maxRareTrades": 2,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "multiRequest": [
+        {
+          "itemKey": "minecraft:packed_ice",
+          "amount": 9
+        },
+        {
+          "itemKey": "minecraft:podzol",
+          "amount": 9
+        },
+        {
+          "itemKey": "minecraft:mycelium",
+          "amount": 9
+        },
+        {
+          "itemKey": "extcaves:oldstone",
+          "amount": 9
+        },
+        {
+          "itemKey": "minecraft:cactus",
+          "amount": 4
+        },
+        {
+          "itemKey": "minecraft:honeycomb_block",
+          "amount": 4
+        },
+        {
+          "itemKey": "minecraft:melon",
+          "amount": 4
+        },
+        {
+          "itemKey": "minecraft:pumpkin",
+          "amount": 4
+        },
+        {
+          "itemKey": "minecraft:hay_block",
+          "amount": 2
+        },
+        {
+          "itemKey": "supplementaries:feather_block",
+          "amount": 2
+        },
+        {
+          "itemKey": "supplementaries:flax_block",
+          "amount": 2
+        },
+        {
+          "itemKey": "supplementaries:flint_block",
+          "amount": 2
+        }
+      ],
+      "maxUses": 3,
+      "isRare": false
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "minecraft:acacia_sapling",
+          "amount": 3
+        },
+        {
+          "itemKey": "minecraft:birch_sapling",
+          "amount": 3
+        },
+        {
+          "itemKey": "minecraft:dark_oak_sapling",
+          "amount": 3
+        },
+        {
+          "itemKey": "minecraft:jungle_sapling",
+          "amount": 3
+        },
+        {
+          "itemKey": "minecraft:oak_sapling",
+          "amount": 3
+        },
+        {
+          "itemKey": "minecraft:spruce_sapling",
+          "amount": 3
+        },
+        {
+          "itemKey": "projectvibrantjourneys:aspen_sapling",
+          "amount": 3
+        },
+        {
+          "itemKey": "projectvibrantjourneys:baobab_sapling",
+          "amount": 3
+        },
+        {
+          "itemKey": "projectvibrantjourneys:fir_sapling",
+          "amount": 3
+        },
+        {
+          "itemKey": "projectvibrantjourneys:joshua_sapling",
+          "amount": 3
+        },
+        {
+          "itemKey": "projectvibrantjourneys:juniper_sapling",
+          "amount": 3
+        },
+        {
+          "itemKey": "projectvibrantjourneys:orange_maple_sapling",
+          "amount": 3
+        },
+        {
+          "itemKey": "projectvibrantjourneys:pine_sapling",
+          "amount": 3
+        },
+        {
+          "itemKey": "projectvibrantjourneys:pink_sakura_sapling",
+          "amount": 3
+        },
+        {
+          "itemKey": "projectvibrantjourneys:purple_maple_sapling",
+          "amount": 3
+        },
+        {
+          "itemKey": "projectvibrantjourneys:red_maple_sapling",
+          "amount": 3
+        },
+        {
+          "itemKey": "projectvibrantjourneys:redwood_sapling",
+          "amount": 3
+        },
+        {
+          "itemKey": "projectvibrantjourneys:tamarack_sapling",
+          "amount": 3
+        },
+        {
+          "itemKey": "projectvibrantjourneys:white_sakura_sapling",
+          "amount": 3
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "maxUses": 3,
+      "isRare": false
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "minecraft:bamboo",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:honey_bottle",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:pufferfish",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:nautilus_shell",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:rabbit_foot",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:scute",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:slime_ball",
+          "amount": 1
+        },
+        {
+          "itemKey": "alexsmobs:bear_fur",
+          "amount": 1
+        },
+        {
+          "itemKey": "alexsmobs:maggot",
+          "amount": 1
+        },
+        {
+          "itemKey": "alexsmobs:raccoon_tail",
+          "amount": 1
+        },
+        {
+          "itemKey": "ars_nouveau:mana_berry",
+          "amount": 1
+        },
+        {
+          "itemKey": "majruszs_difficulty:tattered_cloth",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "maxUses": 3,
+      "isRare": false
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "alexsmobs:blobfish",
+          "amount": 1
+        },
+        {
+          "itemKey": "alexsmobs:cachalot_whale_tooth",
+          "amount": 1
+        },
+        {
+          "itemKey": "alexsmobs:centipede_leg",
+          "amount": 1
+        },
+        {
+          "itemKey": "alexsmobs:cockroach_wing_fragment",
+          "amount": 1
+        },
+        {
+          "itemKey": "alexsmobs:crocodile_scute",
+          "amount": 1
+        },
+        {
+          "itemKey": "alexsmobs:emu_feather",
+          "amount": 1
+        },
+        {
+          "itemKey": "alexsmobs:gazelle_horn",
+          "amount": 1
+        },
+        {
+          "itemKey": "alexsmobs:guster_eye",
+          "amount": 1
+        },
+        {
+          "itemKey": "alexsmobs:kangaroo_hide",
+          "amount": 1
+        },
+        {
+          "itemKey": "alexsmobs:komodo_spit",
+          "amount": 1
+        },
+        {
+          "itemKey": "alexsmobs:moose_antler",
+          "amount": 1
+        },
+        {
+          "itemKey": "alexsmobs:rattlesnake_rattle",
+          "amount": 1
+        },
+        {
+          "itemKey": "alexsmobs:roadrunner_feather",
+          "amount": 1
+        },
+        {
+          "itemKey": "alexsmobs:serrated_shark_tooth",
+          "amount": 1
+        },
+        {
+          "itemKey": "alexsmobs:shark_tooth",
+          "amount": 1
+        },        
+        {
+          "itemKey": "alexsmobs:spiked_scute",
+          "amount": 1
+        },        
+        {
+          "itemKey": "alexsmobs:tarantula_hawk_wing_fragment",
+          "amount": 1
+        },        
+        {
+          "itemKey": "mowziesmobs:foliaath_seed",
+          "amount": 1
+        },        
+        {
+          "itemKey": "mowziesmobs:glowing_jelly",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3
+      },
+      "maxUses": 3,
+      "isRare": false
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "minecraft:music_disc_11",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:music_disc_13",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:music_disc_blocks",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:music_disc_cat",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:music_disc_chirp",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:music_disc_far",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:music_disc_mall",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:music_disc_mellohi",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:music_disc_stal",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:music_disc_strad",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:music_disc_wait",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:music_disc_ward",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 6
+      },
+      "maxUses": 3,
+      "isRare": false
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:enchanted_book",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 1,
+            "maxEnchantmentLevel": 1
+          }
+        ],
+        "blacklistedEnchantments": [
+          "alexsmobs:board_return",
+          "alexsmobs:lavawax",
+          "alexsmobs:serpentfriend",
+          "alexsmobs:straddle_jump",
+          "ars_nouveau:mana_boost",
+          "ars_nouveau:mana_regen",
+          "ars_nouveau:reactive",
+          "cursed:blindness",
+          "cursed:curtail",
+          "cursed:delicacy",
+          "cursed:dullness",
+          "cursed:echo",
+          "cursed:encumbrance",
+          "cursed:fading",
+          "cursed:fragility",
+          "cursed:ignorance",
+          "cursed:insomnia",
+          "cursed:midas",
+          "cursed:misfortune",
+          "cursed:obedience",
+          "cursed:radiance",
+          "cursed:ruin",
+          "cursed:silence",
+          "cursed:sinking",
+          "dungeons_gear:accelerate",
+          "dungeons_gear:acrobat",
+          "dungeons_gear:arrow_hoarder",
+          "dungeons_gear:artifact_synergy",
+          "dungeons_gear:bag_of_souls",
+          "dungeons_gear:beast_boss",
+          "dungeons_gear:beast_burst",
+          "dungeons_gear:beast_surge",
+          "dungeons_gear:bonus_shot",
+          "dungeons_gear:burst_bowstring",
+          "dungeons_gear:chains",
+          "dungeons_gear:committed",
+          "dungeons_gear:cooldown_shot",
+          "dungeons_gear:cooldown",
+          "dungeons_gear:cowardice",
+          "dungeons_gear:critical_hit",
+          "dungeons_gear:dynamo",
+          "dungeons_gear:echo",
+          "dungeons_gear:electrified",
+          "dungeons_gear:enigma_resonator",
+          "dungeons_gear:explorer",
+          "dungeons_gear:final_shout",
+          "dungeons_gear:fire_focus",
+          "dungeons_gear:fire_trail",
+          "dungeons_gear:food_reserves",
+          "dungeons_gear:fortune_of_the_sea",
+          "dungeons_gear:freezing_shot",
+          "dungeons_gear:freezing",
+          "dungeons_gear:frenzied",
+          "dungeons_gear:fuse_shot",
+          "dungeons_gear:gale_shot",
+          "dungeons_gear:growing",
+          "dungeons_gear:health_synergy",
+          "dungeons_gear:leeching",
+          "dungeons_gear:life_boost",
+          "dungeons_gear:lightning_focus",
+          "dungeons_gear:lucky_explorer",
+          "dungeons_gear:masters_call",
+          "dungeons_gear:multi_roll",
+          "dungeons_gear:overcharge",
+          "dungeons_gear:pain_cycle",
+          "dungeons_gear:poison_cloud",
+          "dungeons_gear:poison_focus",
+          "dungeons_gear:potion_aura",
+          "dungeons_gear:prospector",
+          "dungeons_gear:rampaging",
+          "dungeons_gear:reckless",
+          "dungeons_gear:recycler",
+          "dungeons_gear:refreshment",
+          "dungeons_gear:replenish",
+          "dungeons_gear:ricochet",
+          "dungeons_gear:roll_charge",
+          "dungeons_gear:rush",
+          "dungeons_gear:rushdown",
+          "dungeons_gear:shock_web",
+          "dungeons_gear:shockwave",
+          "dungeons_gear:snowball",
+          "dungeons_gear:speed_synergy",
+          "dungeons_gear:stunning",
+          "dungeons_gear:supercharge",
+          "dungeons_gear:surprise_gift",
+          "dungeons_gear:swiftfooted",
+          "dungeons_gear:swirling",
+          "dungeons_gear:tempo_theft",
+          "dungeons_gear:velocity",
+          "dungeons_gear:void_dodge",
+          "dungeons_gear:weakening",
+          "dungeons_gear:wild_rage",
+          "enchantmenttweak:magic_protection",
+          "minecraft:aqua_affinity",
+          "minecraft:bane_of_arthropods",
+          "minecraft:binding_curse",
+          "minecraft:blast_protection",
+          "minecraft:channeling",
+          "minecraft:depth_strider",
+          "minecraft:efficiency",
+          "minecraft:feather_falling",
+          "minecraft:fire_aspect",
+          "minecraft:fire_protection",
+          "minecraft:flame",
+          "minecraft:fortune",
+          "minecraft:impaling",
+          "minecraft:infinity",
+          "minecraft:knockback",
+          "minecraft:looting",
+          "minecraft:loyalty",
+          "minecraft:luck_of_the_sea",
+          "minecraft:lure",
+          "minecraft:mending",
+          "minecraft:multishot",
+          "minecraft:piercing",
+          "minecraft:power",
+          "minecraft:projectile_protection",
+          "minecraft:protection",
+          "minecraft:punch",
+          "minecraft:quick_charge",
+          "minecraft:respiration",
+          "minecraft:riptide",
+          "minecraft:sharpness",
+          "minecraft:silk_touch",
+          "minecraft:smite",
+          "minecraft:soul_speed",
+          "minecraft:sweeping",
+          "minecraft:thorns",
+          "minecraft:unbreaking",
+          "minecraft:vanishing_curse",
+          "origins:water_protection",
+          "sneakymagic:plundering"
+        ]
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 16
+      },
+      "maxUses": 3,
+      "isRare": true
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "dungeons_gear:boots_of_swiftness",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:buzzy_nest",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:corrupted_pumpkin",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:corrupted_seeds",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:death_cap_mushroom",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:eye_of_the_guardian",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:fireworks_display",
+          "amount": 1
+        },        
+        {
+          "itemKey": "dungeons_gear:flaming_quiver",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:ghost_cloak",
+          "amount": 1
+        },        
+        {
+          "itemKey": "dungeons_gear:golem_kit",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:gong_of_weakening",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:harpoon_quiver",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:ice_wand",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:iron_hide_amulet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:light_feather",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:love_medallion",
+          "amount": 1
+        },        {
+          "itemKey": "dungeons_gear:powershaker",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:satchel_of_elements",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:satchel_of_snacks",
+          "amount": 1
+        },        
+        {
+          "itemKey": "dungeons_gear:soul_healer",
+          "amount": 1
+        },        
+        {
+          "itemKey": "dungeons_gear:tasty_bone",
+          "amount": 1
+        },        
+        {
+          "itemKey": "dungeons_gear:torment_quiver",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:totem_of_regeneration",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:totem_of_shielding",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:updraft_tome",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:wind_horn",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:wonderful_wheat",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 24
+      },
+      "maxUses": 3,
+      "isRare": true
+    }
+  ]
+}

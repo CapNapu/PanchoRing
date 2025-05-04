@@ -1,0 +1,45 @@
+{
+  "id": 20,
+  "theme": {
+    "button": {
+      "block": "ars_nouveau:archwood_button",
+      "type": "block"
+    },
+    "door": {
+      "block": "ars_nouveau:archwood_door",
+      "type": "block"
+    },
+    "fence": {
+      "block": "ars_nouveau:archwood_fence",
+      "type": "block"
+    },
+    "fence_gate": {
+      "block": "ars_nouveau:archwood_fence_gate",
+      "type": "block"
+    },
+    "material": {
+      "block": "ars_nouveau:archwood_planks",
+      "type": "block"
+    },
+    "pillar": {
+      "block": "ars_nouveau:archwood_log",
+      "type": "block"
+    },
+    "pressure_plate": {
+      "block": "ars_nouveau:archwood_pressure_plate",
+      "type": "block"
+    },
+    "slab": {
+      "block": "ars_nouveau:archwood_slab",
+      "type": "block"
+    },
+    "stairs": {
+      "block": "ars_nouveau:archwood_stairs",
+      "type": "block"
+    },
+    "trapdoor": {
+      "block": "ars_nouveau:archwood_trapdoor",
+      "type": "block"
+    }
+  }
+}

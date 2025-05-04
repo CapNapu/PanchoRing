@@ -1,0 +1,17 @@
+{
+  "ingredients": [
+    {
+      "item": "iron_horse_armor"
+    },
+    {
+      "item": "feather"
+    },
+    {
+      "item": "feather"
+    }
+  ],
+  "result": {
+    "item": "iceandfire:iron_hippogryph_armor"
+  },
+  "type": "crafting_shapeless"
+}

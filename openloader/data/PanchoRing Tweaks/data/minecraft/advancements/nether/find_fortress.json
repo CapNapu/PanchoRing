@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "fortress": {
+      "conditions": {
+        "feature": "bygonefortress:fortress"
+      },
+      "trigger": "yungsapi:structure_location"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.nether.find_fortress.description"
+    },
+    "icon": {
+      "item": "nether_bricks"
+    },
+    "title": {
+      "translate": "advancements.nether.find_fortress.title"
+    }
+  },
+  "parent": "nether/root"
+}

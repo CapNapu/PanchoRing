@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "cobblestone_slab"
+    },
+    {
+      "item": "cobblestone_slab"
+    }
+  ],
+  "result": {
+    "item": "cobblestone"
+  },
+  "type": "crafting_shapeless"
+}

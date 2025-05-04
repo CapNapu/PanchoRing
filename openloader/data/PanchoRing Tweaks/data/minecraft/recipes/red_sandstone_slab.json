@@ -1,0 +1,15 @@
+{
+  "key": {
+    "#": {
+      "item": "red_sandstone"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "item": "red_sandstone_slab"
+  },
+  "type": "crafting_shaped"
+}

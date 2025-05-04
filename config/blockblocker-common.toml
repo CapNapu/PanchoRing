@@ -1,0 +1,4 @@
+
+[BlockBlocker]
+	BlockedBlocks = ["extcaves:mushroom_fluoshroom", "extcaves:mushroom_goldishroom", "extcaves:mushroom_lumishroom", "extcaves:mushroom_rockshroom", "extcaves:mushroom_shinyshroom", "projectvibrantjourneys:coconut", "projectvibrantjourneys:palm_leaves", "projectvibrantjourneys:palm_log", "projectvibrantjourneys:palm_wood"]
+

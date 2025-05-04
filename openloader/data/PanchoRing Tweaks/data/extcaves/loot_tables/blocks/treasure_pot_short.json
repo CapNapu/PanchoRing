@@ -1,0 +1,60 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "extcaves:mushroom_fluoshroom",
+          "type": "item"
+        },
+        {
+          "name": "extcaves:mushroom_goldishroom",
+          "type": "item"
+        },
+        {
+          "name": "extcaves:mushroom_lumishroom",
+          "type": "item"
+        },
+        {
+          "name": "extcaves:mushroom_rockshroom",
+          "type": "item"
+        },
+        {
+          "name": "extcaves:mushroom_shinyshroom",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "string",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "leather",
+          "type": "item",
+          "weight": 2
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "block"
+}

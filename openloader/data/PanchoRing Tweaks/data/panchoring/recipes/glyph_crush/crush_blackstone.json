@@ -1,0 +1,12 @@
+{
+  "input": {
+    "item": "blackstone"
+  },
+  "output": [
+    {
+      "chance": 1.0,
+      "item": "bygonenether:cobbled_blackstone"
+    }
+  ],
+  "type": "ars_nouveau:crush"
+}

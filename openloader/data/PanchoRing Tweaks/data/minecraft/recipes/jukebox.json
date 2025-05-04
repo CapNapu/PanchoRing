@@ -1,0 +1,19 @@
+{
+  "key": {
+    "#": {
+      "tag": "planks"
+    },
+    "X": {
+      "item": "diamond"
+    }
+  },
+  "pattern": [
+    " # ",
+    "#X#",
+    " # "
+  ],
+  "result": {
+    "item": "jukebox"
+  },
+  "type": "crafting_shaped"
+}

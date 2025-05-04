@@ -1,0 +1,12 @@
+{
+  "ingredients": [
+    {
+      "tag": "projectvibrantjourneys:tamarack_logs"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "projectvibrantjourneys:tamarack_planks"
+  },
+  "type": "crafting_shapeless"
+}

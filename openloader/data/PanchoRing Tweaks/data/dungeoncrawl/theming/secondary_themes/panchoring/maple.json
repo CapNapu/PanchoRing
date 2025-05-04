@@ -1,0 +1,45 @@
+{
+  "id": 14,
+  "theme": {
+    "button": {
+      "block": "projectvibrantjourneys:maple_button",
+      "type": "block"
+    },
+    "door": {
+      "block": "projectvibrantjourneys:maple_door",
+      "type": "block"
+    },
+    "fence": {
+      "block": "projectvibrantjourneys:maple_fence",
+      "type": "block"
+    },
+    "fence_gate": {
+      "block": "projectvibrantjourneys:maple_fence_gate",
+      "type": "block"
+    },
+    "material": {
+      "block": "projectvibrantjourneys:maple_planks",
+      "type": "block"
+    },
+    "pillar": {
+      "block": "projectvibrantjourneys:maple_log",
+      "type": "block"
+    },
+    "pressure_plate": {
+      "block": "projectvibrantjourneys:maple_pressure_plate",
+      "type": "block"
+    },
+    "slab": {
+      "block": "projectvibrantjourneys:maple_slab",
+      "type": "block"
+    },
+    "stairs": {
+      "block": "projectvibrantjourneys:maple_stairs",
+      "type": "block"
+    },
+    "trapdoor": {
+      "block": "projectvibrantjourneys:maple_trapdoor",
+      "type": "block"
+    }
+  }
+}

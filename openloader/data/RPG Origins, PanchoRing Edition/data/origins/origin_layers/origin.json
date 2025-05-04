@@ -1,0 +1,12 @@
+{
+  "origins": [
+    "rpg_origins_panchoring:knight",
+    "rpg_origins_panchoring:archer",
+    "rpg_origins_panchoring:cleric",
+    "rpg_origins_panchoring:mage",
+    "rpg_origins_panchoring:thief",
+    "rpg_origins_panchoring:brute"
+  ],
+  "enabled": true,
+  "allow_random": true
+}

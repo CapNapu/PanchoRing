@@ -1,0 +1,25 @@
+{
+  "key": {
+    "#": {
+      "tag": "stone_crafting_materials"
+    },
+    "Q": {
+      "item": "quartz"
+    },
+    "R": {
+      "item": "redstone"
+    },
+    "S": {
+      "item": "iceandfire:copper_ingot"
+    }
+  },
+  "pattern": [
+    "###",
+    "RSQ",
+    "###"
+  ],
+  "result": {
+    "item": "observer"
+  },
+  "type": "crafting_shaped"
+}

@@ -1,0 +1,16 @@
+{
+  "key": {
+    "#": {
+      "item": "phantasm:ebony_planks"
+    }
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "item": "phantasm:ebony_trapdoor"
+  },
+  "type": "crafting_shaped"
+}

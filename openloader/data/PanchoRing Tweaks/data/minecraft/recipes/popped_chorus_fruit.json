@@ -1,0 +1,9 @@
+{
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "chorus_fruit"
+  },
+  "result": "popped_chorus_fruit",
+  "type": "smoking"
+}

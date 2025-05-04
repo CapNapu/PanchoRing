@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "infernalexp:glowdust_stone_slab"
+    },
+    {
+      "item": "infernalexp:glowdust_stone_slab"
+    }
+  ],
+  "result": {
+    "item": "infernalexp:glowdust_stone"
+  },
+  "type": "crafting_shapeless"
+}

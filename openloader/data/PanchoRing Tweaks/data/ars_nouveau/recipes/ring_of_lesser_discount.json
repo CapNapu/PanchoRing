@@ -1,0 +1,31 @@
+{
+  "item_1": [
+    {
+      "item": "diamond"
+    }
+  ],
+  "item_2": [
+    {
+      "item": "diamond"
+    }
+  ],
+  "item_3": [
+    {
+      "item": "lapis_lazuli"
+    }
+  ],
+  "item_4": [
+    {
+      "item": "iceandfire:amythest_gem"
+    }
+  ],
+  "output": {
+    "item": "ars_nouveau:ring_of_lesser_discount"
+  },
+  "reagent": [
+    {
+      "item": "ars_nouveau:ring_of_potential"
+    }
+  ],
+  "type": "ars_nouveau:enchanting_apparatus"
+}

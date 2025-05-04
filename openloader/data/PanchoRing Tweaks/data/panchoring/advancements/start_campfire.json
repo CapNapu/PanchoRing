@@ -1,0 +1,62 @@
+{
+  "criteria": {
+    "campfire": {
+      "conditions": {
+        "item": {
+          "item": "flint_and_steel"
+        },
+        "location": {
+          "block": {
+            "block": "campfire"
+          }
+        }
+      },
+      "trigger": "item_used_on_block"
+    },
+    "glow_campfire": {
+      "conditions": {
+        "item": {
+          "item": "flint_and_steel"
+        },
+        "location": {
+          "block": {
+            "block": "infernalexp:glow_campfire"
+          }
+        }
+      },
+      "trigger": "item_used_on_block"
+    },
+    "soul_campfire": {
+      "conditions": {
+        "item": {
+          "item": "flint_and_steel"
+        },
+        "location": {
+          "block": {
+            "block": "soul_campfire"
+          }
+        }
+      },
+      "trigger": "item_used_on_block"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.start_campfire.description"
+    },
+    "icon": {
+      "item": "campfire"
+    },
+    "title": {
+      "translate": "advancements.panchoring.start_campfire.title"
+    }
+  },
+  "parent": "panchoring:place_smoker",
+  "requirements": [
+    [
+      "campfire",
+      "glow_campfire",
+      "soul_campfire"
+    ]
+  ]
+}

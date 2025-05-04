@@ -1,0 +1,25 @@
+{
+  "key": {
+    "B": {
+      "item": "iceandfire:dragonbone"
+    },
+    "D": {
+      "item": "iceandfire:sapphire_gem"
+    },
+    "S": {
+      "tag": "forge:scales/sea_serpent"
+    },
+    "T": {
+      "item": "iceandfire:sea_serpent_fang"
+    }
+  },
+  "pattern": [
+    " TT",
+    "SDT",
+    "BS "
+  ],
+  "result": {
+    "item": "iceandfire:tide_trident"
+  },
+  "type": "crafting_shaped"
+}

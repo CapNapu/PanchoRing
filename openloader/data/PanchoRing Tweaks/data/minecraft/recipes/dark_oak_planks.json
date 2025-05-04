@@ -1,0 +1,12 @@
+{
+  "ingredients": [
+    {
+      "tag": "dark_oak_logs"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "dark_oak_planks"
+  },
+  "type": "crafting_shapeless"
+}

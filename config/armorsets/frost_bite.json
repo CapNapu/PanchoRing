@@ -1,0 +1,35 @@
+{
+  "armorSetName": "frost_bite",
+  "head": {
+    "itemKey": "dungeons_gear:frost_bite_helmet"
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:frost_bite_chestplate"
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:frost_bite_leggings"
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:frost_bite_boots"
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "effect",
+      "description": "effect.minecraft.slow_falling",
+      "name": "minecraft:slow_falling",
+      "value": 0.0,
+      "interactionDuration": 120
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "description": "effect.cataclysm.blazing_brand",
+      "name": "cataclysm:blazing_brand",
+      "value": 0.0,
+      "interactionType": "immunity",
+      "interactionDuration": 120
+    }
+  ]
+}

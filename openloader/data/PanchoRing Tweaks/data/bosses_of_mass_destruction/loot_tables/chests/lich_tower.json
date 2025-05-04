@@ -1,0 +1,273 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "ars_nouveau:mana_gem_block",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "name": "ars_nouveau:apprentice_spell_book",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "name": "golden_apple",
+          "type": "item",
+          "weight": 15
+        },
+        {
+          "name": "enchanted_golden_apple",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "name": "mowziesmobs:music_disc_petiole",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "name": "ars_nouveau:mundane_belt",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "name": "ars_nouveau:dull_trinket",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "name": "ars_nouveau:ring_of_potential",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            }
+          ],
+          "name": "book",
+          "type": "item",
+          "weight": 10
+        }
+      ],
+      "rolls": {
+        "max": 3,
+        "min": 1,
+        "type": "uniform"
+      }
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 8,
+                "min": 4
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "ars_nouveau:mana_gem",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3,
+                "min": 2
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "majruszs_difficulty:tattered_cloth",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 4,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "iron_ingot",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 4,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "iceandfire:copper_ingot",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "name": "bosses_of_mass_destruction:soul_star",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 4,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "redstone",
+          "type": "item",
+          "weight": 15
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 4,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "coal",
+          "type": "item",
+          "weight": 15
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 4,
+                "min": 2,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "beetroot_seeds",
+          "type": "item",
+          "weight": 10
+        }
+      ],
+      "rolls": {
+        "max": 4,
+        "min": 1,
+        "type": "uniform"
+      }
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 8,
+                "min": 4
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "basalt",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3,
+                "min": 2
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "phantom_membrane",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 8,
+                "min": 4
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "ice",
+          "type": "item",
+          "weight": 20
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 8,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "bone",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 8,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "gunpowder",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 8,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "glowstone_dust",
+          "type": "item",
+          "weight": 10
+        }
+      ],
+      "rolls": 3
+    }
+  ],
+  "type": "chest"
+}

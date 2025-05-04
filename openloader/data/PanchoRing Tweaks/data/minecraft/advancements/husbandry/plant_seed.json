@@ -1,0 +1,76 @@
+{
+  "criteria": {
+    "beetroots": {
+      "conditions": {
+        "block": "beetroots"
+      },
+      "trigger": "placed_block"
+    },
+    "cocoa": {
+      "conditions": {
+        "block": "cocoa"
+      },
+      "trigger": "placed_block"
+    },
+    "flax": {
+      "conditions": {
+        "block": "supplementaries:flax"
+      },
+      "trigger": "placed_block"
+    },
+    "magebloom": {
+      "conditions": {
+        "block": "ars_nouveau:mana_bloom_crop"
+      },
+      "trigger": "placed_block"
+    },
+    "melon_stem": {
+      "conditions": {
+        "block": "melon_stem"
+      },
+      "trigger": "placed_block"
+    },
+    "nether_wart": {
+      "conditions": {
+        "block": "nether_wart"
+      },
+      "trigger": "placed_block"
+    },
+    "pumpkin_stem": {
+      "conditions": {
+        "block": "pumpkin_stem"
+      },
+      "trigger": "placed_block"
+    },
+    "wheat": {
+      "conditions": {
+        "block": "wheat"
+      },
+      "trigger": "placed_block"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.husbandry.plant_seed.description"
+    },
+    "icon": {
+      "item": "wheat_seeds"
+    },
+    "title": {
+      "translate": "advancements.husbandry.plant_seed.title"
+    }
+  },
+  "parent": "husbandry/root",
+  "requirements": [
+    [
+      "wheat",
+      "pumpkin_stem",
+      "melon_stem",
+      "beetroots",
+      "cocoa",
+      "nether_wart",
+      "magebloom",
+      "flax"
+    ]
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "pools": [
+    {
+      "conditions": [
+        {
+          "condition": "killed_by_player"
+        }
+      ],
+      "entries": [
+        {
+          "name": "mowziesmobs:ice_crystal",
+          "type": "item",
+          "weight": 1
+        }
+      ],
+      "name": "frostmaw_has_crystal",
+      "rolls": 1
+    }
+  ]
+}

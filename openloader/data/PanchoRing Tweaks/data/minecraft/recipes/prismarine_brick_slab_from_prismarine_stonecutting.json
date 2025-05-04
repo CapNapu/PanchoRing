@@ -1,0 +1,13 @@
+{
+  "count": 2,
+  "ingredient": [
+    {
+      "item": "prismarine"
+    },
+    {
+      "item": "prismarine_bricks"
+    }
+  ],
+  "result": "prismarine_brick_slab",
+  "type": "stonecutting"
+}

@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "bosses_of_mass_destruction:obsidilith": {
+      "conditions": {
+        "entity": {
+          "type": "bosses_of_mass_destruction:obsidilith"
+        }
+      },
+      "trigger": "player_killed_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.end.obsidilith_defeat.description"
+    },
+    "frame": "goal",
+    "hidden": true,
+    "icon": {
+      "item": "bosses_of_mass_destruction:obsidian_heart"
+    },
+    "title": {
+      "translate": "advancements.end.obsidilith_defeat.title"
+    }
+  },
+  "parent": "panchoring:find_obsidilith_arena"
+}

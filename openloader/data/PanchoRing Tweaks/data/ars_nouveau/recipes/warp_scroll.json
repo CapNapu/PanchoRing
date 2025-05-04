@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    {
+      "item": "lapis_lazuli"
+    },
+    {
+      "item": "lapis_lazuli"
+    },
+    {
+      "item": "lapis_lazuli"
+    },
+    {
+      "item": "iceandfire:sapphire_gem"
+    },
+    {
+      "item": "ars_nouveau:blank_parchment"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "ars_nouveau:warp_scroll"
+  },
+  "type": "crafting_shapeless"
+}

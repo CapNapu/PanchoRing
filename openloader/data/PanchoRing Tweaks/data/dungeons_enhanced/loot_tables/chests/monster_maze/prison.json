@@ -1,0 +1,259 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "paper",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "chain",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "rotten_flesh",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "potato",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "poisonous_potato",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "string",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "bone",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "map",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "lead",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "mushroom_stew",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            },
+            {
+              "effects": [
+                {
+                  "duration": {
+                    "max": 20.0,
+                    "min": 10.0
+                  },
+                  "type": "poison"
+                },
+                {
+                  "duration": {
+                    "max": 10.0,
+                    "min": 7.0
+                  },
+                  "type": "night_vision"
+                },
+                {
+                  "duration": {
+                    "max": 7.0,
+                    "min": 5.0
+                  },
+                  "type": "blindness"
+                },
+                {
+                  "duration": {
+                    "max": 10.0,
+                    "min": 7.0
+                  },
+                  "type": "jump_boost"
+                },
+                {
+                  "duration": {
+                    "max": 8.0,
+                    "min": 6.0
+                  },
+                  "type": "weakness"
+                },
+                {
+                  "duration": {
+                    "max": 10.0,
+                    "min": 7.0
+                  },
+                  "type": "saturation"
+                }
+              ],
+              "function": "set_stew_effect"
+            }
+          ],
+          "name": "suspicious_stew",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "bowl",
+          "type": "item",
+          "weight": 2
+        }
+      ],
+      "rolls": {
+        "max": 16.0,
+        "min": 10.0,
+        "type": "uniform"
+      }
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": {
+                "max": 10.0,
+                "min": 5.0,
+                "type": "uniform"
+              },
+              "treasure": false
+            }
+          ],
+          "name": "stone_pickaxe",
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": {
+                "max": 9.0,
+                "min": 4.0,
+                "type": "uniform"
+              },
+              "treasure": false
+            }
+          ],
+          "name": "extcaves:picker_flint",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": {
+                "max": 8.0,
+                "min": 3.0,
+                "type": "uniform"
+              },
+              "treasure": false
+            }
+          ],
+          "name": "dungeons_gear:pickaxe",
+          "type": "item",
+          "weight": 2
+        }
+      ],
+      "rolls": {
+        "max": 1.0,
+        "min": 0.0,
+        "type": "uniform"
+      }
+    }
+  ],
+  "type": "chest"
+}

@@ -1,0 +1,56 @@
+{
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": [
+    {
+      "item": "iceandfire:copper_pickaxe"
+    },
+    {
+      "item": "iceandfire:copper_shovel"
+    },
+    {
+      "item": "iceandfire:copper_axe"
+    },
+    {
+      "item": "iceandfire:copper_hoe"
+    },
+    {
+      "item": "iceandfire:copper_sword"
+    },
+    {
+      "item": "crossbow"
+    },
+    {
+      "item": "iceandfire:hippogryph_sword"
+    },
+    {
+      "item": "piston"
+    },
+    {
+      "item": "sticky_piston"
+    },
+    {
+      "item": "dispenser"
+    },
+    {
+      "item": "dropper"
+    },
+    {
+      "item": "observer"
+    },
+    {
+      "item": "alexsmobs:gustmaker"
+    },
+    {
+      "item": "supplementaries:copper_lantern"
+    },
+    {
+      "item": "supplementaries:speaker_block"
+    },
+    {
+      "item": "supplementaries:turn_table"
+    }
+  ],
+  "result": "iceandfire:copper_nugget",
+  "type": "blasting"
+}

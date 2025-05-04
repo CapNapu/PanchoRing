@@ -1,0 +1,16 @@
+{
+  "key": {
+    "#": {
+      "item": "projectvibrantjourneys:baobab_planks"
+    }
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "item": "projectvibrantjourneys:baobab_trapdoor"
+  },
+  "type": "crafting_shaped"
+}

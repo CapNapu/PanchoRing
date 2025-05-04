@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "minecart"
+    },
+    {
+      "item": "chest"
+    }
+  ],
+  "result": {
+    "item": "chest_minecart"
+  },
+  "type": "crafting_shapeless"
+}

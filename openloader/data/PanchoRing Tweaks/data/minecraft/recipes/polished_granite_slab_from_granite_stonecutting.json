@@ -1,0 +1,13 @@
+{
+  "count": 2,
+  "ingredient": [
+    {
+      "item": "granite"
+    },
+    {
+      "item": "polished_granite"
+    }
+  ],
+  "result": "polished_granite_slab",
+  "type": "stonecutting"
+}

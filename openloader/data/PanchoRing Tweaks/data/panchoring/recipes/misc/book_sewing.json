@@ -1,0 +1,13 @@
+{
+  "first": {
+    "item": "improvedbackpacks:bound_leather"
+  },
+  "first_count": 1,
+  "result": "book",
+  "second": {
+    "item": "iceandfire:manuscript"
+  },
+  "second_count": 2,
+  "spools_count": 1,
+  "type": "improvedbackpacks:sewing"
+}

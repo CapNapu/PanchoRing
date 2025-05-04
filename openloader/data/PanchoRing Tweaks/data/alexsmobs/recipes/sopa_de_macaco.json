@@ -1,0 +1,20 @@
+{
+  "ingredients": [
+    {
+      "item": "alexsmobs:banana_peel"
+    },
+    {
+      "item": "cocoa_beans"
+    },
+    {
+      "item": "bowl"
+    },
+    {
+      "item": "bone"
+    }
+  ],
+  "result": {
+    "item": "alexsmobs:sopa_de_macaco"
+  },
+  "type": "crafting_shapeless"
+}

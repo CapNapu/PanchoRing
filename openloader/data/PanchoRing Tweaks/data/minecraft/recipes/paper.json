@@ -1,0 +1,17 @@
+{
+  "ingredients": [
+    {
+      "item": "sugar_cane"
+    },
+    {
+      "item": "sugar_cane"
+    },
+    {
+      "item": "sugar_cane"
+    }
+  ],
+  "result": {
+    "item": "paper"
+  },
+  "type": "crafting_shapeless"
+}

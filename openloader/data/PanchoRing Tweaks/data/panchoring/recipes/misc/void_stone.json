@@ -1,0 +1,16 @@
+{
+  "key": {
+    "0": {
+      "item": "phantasm:oblivion"
+    }
+  },
+  "pattern": [
+    "000",
+    "000",
+    "000"
+  ],
+  "result": {
+    "item": "cataclysm:void_stone"
+  },
+  "type": "crafting_shaped"
+}

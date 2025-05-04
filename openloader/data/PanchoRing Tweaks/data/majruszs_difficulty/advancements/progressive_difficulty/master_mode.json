@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "game_state": {
+      "conditions": {
+        "state_id": 2
+      },
+      "trigger": "majruszs_difficulty:game_state"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "majruszs_difficulty.on_master_mode_start"
+    },
+    "hidden": true,
+    "icon": {
+      "item": "majruszs_difficulty:advancement_master"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.progressive_difficulty.master_mode.title"
+    }
+  },
+  "parent": "end/kill_dragon"
+}

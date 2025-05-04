@@ -1,0 +1,310 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "name": "piglin_banner_pattern",
+          "quality": 1,
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "name": "music_disc_pigstep",
+          "quality": 1,
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "name": "endrem:end_crystal_fragment",
+          "quality": 1,
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "name": "golden_apple",
+          "quality": 1,
+          "type": "item",
+          "weight": 6
+        },
+        {
+          "functions": [
+            {
+              "enchantments": [
+                "soul_speed"
+              ],
+              "function": "enchant_randomly"
+            }
+          ],
+          "name": "book",
+          "quality": 1,
+          "type": "item",
+          "weight": 6
+        },
+        {
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"fire_resistance\"}"
+            }
+          ],
+          "name": "potion",
+          "type": "item",
+          "weight": 8
+        },
+        {
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"fire_resistance\"}"
+            }
+          ],
+          "name": "splash_potion",
+          "type": "item",
+          "weight": 8
+        },
+        {
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"water\"}"
+            }
+          ],
+          "name": "potion",
+          "type": "item",
+          "weight": 12
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 12.0,
+                "min": 6.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "iron_nugget",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 2.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "ender_pearl",
+          "quality": 1,
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 9.0,
+                "min": 3.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "string",
+          "type": "item",
+          "weight": 20
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 12.0,
+                "min": 5.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "quartz",
+          "type": "item",
+          "weight": 20
+        },
+        {
+          "name": "warped_fungus",
+          "type": "item",
+          "weight": 20
+        },
+        {
+          "name": "crimson_fungus",
+          "type": "item",
+          "weight": 30
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 4.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "obsidian",
+          "type": "item",
+          "weight": 35
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "crying_obsidian",
+          "type": "item",
+          "weight": 25
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "fire_charge",
+          "type": "item",
+          "weight": 40
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 4.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "leather",
+          "type": "item",
+          "weight": 40
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 8.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "soul_sand",
+          "type": "item",
+          "weight": 40
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 8.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "nether_brick",
+          "type": "item",
+          "weight": 40
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 8.0,
+                "min": 4.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "spectral_arrow",
+          "type": "item",
+          "weight": 40
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 10.0,
+                "min": 4.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "gravel",
+          "type": "item",
+          "weight": 40
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 10.0,
+                "min": 4.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "blackstone",
+          "type": "item",
+          "weight": 40
+        },
+        {
+          "name": "gold_ingot",
+          "quality": 1,
+          "type": "item",
+          "weight": 20
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 4.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "gold_ingot",
+          "quality": 1,
+          "type": "item",
+          "weight": 10
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "type": "barter"
+}

@@ -1,0 +1,12 @@
+{
+  "ingredients": [
+    {
+      "tag": "projectvibrantjourneys:baobab_logs"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "projectvibrantjourneys:baobab_planks"
+  },
+  "type": "crafting_shapeless"
+}

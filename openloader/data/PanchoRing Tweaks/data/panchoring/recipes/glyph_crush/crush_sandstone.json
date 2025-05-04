@@ -1,0 +1,12 @@
+{
+  "input": {
+    "item": "sandstone"
+  },
+  "output": [
+    {
+      "chance": 1.0,
+      "item": "sand"
+    }
+  ],
+  "type": "ars_nouveau:crush"
+}

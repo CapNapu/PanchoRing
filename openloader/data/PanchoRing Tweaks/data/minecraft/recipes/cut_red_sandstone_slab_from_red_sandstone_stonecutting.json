@@ -1,0 +1,13 @@
+{
+  "count": 2,
+  "ingredient": [
+    {
+      "item": "red_sandstone"
+    },
+    {
+      "item": "cut_red_sandstone"
+    }
+  ],
+  "result": "cut_red_sandstone_slab",
+  "type": "stonecutting"
+}

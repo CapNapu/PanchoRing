@@ -1,0 +1,54 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "children": [
+            {
+              "conditions": [
+                {
+                  "condition": "match_tool",
+                  "predicate": {
+                    "item": "shears"
+                  }
+                }
+              ],
+              "functions": [
+                {
+                  "count": {
+                    "max": 3.0,
+                    "min": 1.0,
+                    "type": "uniform"
+                  },
+                  "function": "set_count"
+                }
+              ],
+              "name": "extcaves:plant_fiber",
+              "type": "item"
+            },
+            {
+              "functions": [
+                {
+                  "function": "explosion_decay"
+                },
+                {
+                  "count": {
+                    "max": 3.0,
+                    "min": 1.0,
+                    "type": "uniform"
+                  },
+                  "function": "set_count"
+                }
+              ],
+              "name": "extcaves:plant_fiber",
+              "type": "item"
+            }
+          ],
+          "type": "alternatives"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "block"
+}

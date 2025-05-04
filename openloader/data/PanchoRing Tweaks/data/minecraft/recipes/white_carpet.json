@@ -1,0 +1,15 @@
+{
+  "key": {
+    "#": {
+      "item": "white_wool"
+    }
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": {
+    "count": 8,
+    "item": "white_carpet"
+  },
+  "type": "crafting_shaped"
+}

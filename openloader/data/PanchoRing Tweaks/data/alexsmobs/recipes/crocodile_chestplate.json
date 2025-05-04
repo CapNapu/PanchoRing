@@ -1,0 +1,19 @@
+{
+  "key": {
+    "C": {
+      "item": "leather_chestplate"
+    },
+    "S": {
+      "item": "alexsmobs:crocodile_scute"
+    }
+  },
+  "pattern": [
+    "SCS",
+    "SSS",
+    "SSS"
+  ],
+  "result": {
+    "item": "alexsmobs:crocodile_chestplate"
+  },
+  "type": "crafting_shaped"
+}

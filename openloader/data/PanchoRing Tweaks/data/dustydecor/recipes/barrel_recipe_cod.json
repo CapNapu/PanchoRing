@@ -1,0 +1,35 @@
+{
+  "ingredients": [
+    {
+      "item": "cod"
+    },
+    {
+      "item": "cod"
+    },
+    {
+      "item": "cod"
+    },
+    {
+      "item": "cod"
+    },
+    {
+      "item": "cod"
+    },
+    {
+      "item": "cod"
+    },
+    {
+      "item": "cod"
+    },
+    {
+      "item": "cod"
+    },
+    {
+      "item": "dustydecor:empty_barrel"
+    }
+  ],
+  "result": {
+    "item": "dustydecor:cod_barrel"
+  },
+  "type": "crafting_shapeless"
+}

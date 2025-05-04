@@ -1,0 +1,19 @@
+{
+  "key": {
+    "0": {
+      "item": "dirt"
+    },
+    "1": {
+      "tag": "wooden_slabs"
+    }
+  },
+  "pattern": [
+    "101",
+    " 1 "
+  ],
+  "result": {
+    "count": 3,
+    "item": "supplementaries:flower_box"
+  },
+  "type": "crafting_shaped"
+}

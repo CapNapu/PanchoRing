@@ -1,0 +1,12 @@
+{
+  "addition": {
+    "item": "bosses_of_mass_destruction:obsidian_heart"
+  },
+  "base": {
+    "item": "mowziesmobs:spear"
+  },
+  "result": {
+    "item": "bosses_of_mass_destruction:earthdive_spear"
+  },
+  "type": "smithing"
+}

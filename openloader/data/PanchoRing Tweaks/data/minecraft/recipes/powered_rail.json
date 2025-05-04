@@ -1,0 +1,26 @@
+{
+  "key": {
+    "#": {
+      "item": "stick"
+    },
+    "R": {
+      "item": "redstone"
+    },
+    "S": {
+      "item": "gold_ingot"
+    },
+    "X": {
+      "item": "iron_ingot"
+    }
+  },
+  "pattern": [
+    "X#X",
+    "SRS",
+    "X#X"
+  ],
+  "result": {
+    "count": 8,
+    "item": "powered_rail"
+  },
+  "type": "crafting_shaped"
+}

@@ -1,0 +1,19 @@
+{
+  "key": {
+    "x": {
+      "item": "ars_nouveau:arcane_stone"
+    },
+    "y": {
+      "item": "gold_ingot"
+    }
+  },
+  "pattern": [
+    " x ",
+    "yxy",
+    " x "
+  ],
+  "result": {
+    "item": "ars_nouveau:arcane_pedestal"
+  },
+  "type": "crafting_shaped"
+}

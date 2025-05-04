@@ -1,0 +1,17 @@
+{
+  "key": {
+    "#": {
+      "item": "projectvibrantjourneys:pine_planks"
+    }
+  },
+  "pattern": [
+    "##",
+    "##",
+    "##"
+  ],
+  "result": {
+    "count": 2,
+    "item": "projectvibrantjourneys:pine_door"
+  },
+  "type": "crafting_shaped"
+}

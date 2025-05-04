@@ -1,0 +1,19 @@
+{
+  "key": {
+    "0": {
+      "tag": "planks"
+    },
+    "1": {
+      "item": "clock"
+    }
+  },
+  "pattern": [
+    " 0 ",
+    "010",
+    " 0 "
+  ],
+  "result": {
+    "item": "supplementaries:clock_block"
+  },
+  "type": "crafting_shaped"
+}

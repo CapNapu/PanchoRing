@@ -1,0 +1,295 @@
+{
+  "profession": "minecraft:fletcher",
+  "removeOtherTrades": true,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "supplementaries:rope_arrow",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 12,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:arrow",
+        "amount": 16
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "tradeExp": 1,
+      "maxUses": 12,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "extcaves:rock_flint",
+        "amount": 10
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "additionalRequest": {
+        "itemKey": "minecraft:gravel",
+        "amount": 10
+      },
+      "tradeExp": 1,
+      "maxUses": 12,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:bow",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:string",
+        "amount": 14
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "supplementaries:slingshot",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 4
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:feather",
+        "amount": 24
+      },
+      "tradeExp": 20,
+      "maxUses": 16,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:crossbow",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:tripwire_hook",
+        "amount": 8
+      },
+      "tradeExp": 20,
+      "maxUses": 12,
+      "tradeLevel": 3
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "dungeons_gear:soul_bow",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:power_bow",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:red_snake",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:hunting_bow",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:mechanical_shortbow",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:purple_storm",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:trickbow",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:snow_bow",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:wind_bow",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 8,
+        "amountRange": 11
+      },
+      "tradeExp": 20,
+      "maxUses": 12,
+      "tradeLevel": 4
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "dungeons_gear:rapid_crossbow",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:azure_seeker",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:the_slicer",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:heavy_crossbow",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:soul_crossbow",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:scatter_crossbow",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:exploding_crossbow",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:harpoon_crossbow",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 8,
+        "amountRange": 11
+      },
+      "tradeExp": 20,
+      "maxUses": 12,
+      "tradeLevel": 4
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "dungeons_gear:bow_of_lost_souls",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:shivering_bow",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:hunters_promise",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:ancient_bow",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:the_pink_scoundrel",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:sugar_rush",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:burst_gale_bow",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 14,
+        "amountRange": 19
+      },
+      "tradeExp": 30,
+      "maxUses": 12,
+      "tradeLevel": 5
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "dungeons_gear:butterfly_crossbow",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:auto_crossbow",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:doom_crossbow",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:harp_crossbow",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:firebolt_thrower",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:imploding_crossbow",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 14,
+        "amountRange": 19
+      },
+      "tradeExp": 30,
+      "maxUses": 12,
+      "tradeLevel": 5
+    }
+  ]
+}

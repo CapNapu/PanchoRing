@@ -1,0 +1,13 @@
+name = "Kai Fixes Andesite"
+filename = "Kai Fixes Andesite - 1.20.1.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "43133aef65f2932735505049db5e14e62cff3702"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6423053
+project-id = 1242985

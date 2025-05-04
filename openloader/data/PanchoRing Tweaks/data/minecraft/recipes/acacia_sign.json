@@ -1,0 +1,20 @@
+{
+  "key": {
+    "#": {
+      "item": "acacia_slab"
+    },
+    "X": {
+      "item": "stick"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    " X "
+  ],
+  "result": {
+    "count": 4,
+    "item": "acacia_sign"
+  },
+  "type": "crafting_shaped"
+}

@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "backpack": {
+      "conditions": {
+        "items": [
+          {
+            "tag": "improvedbackpacks:backpack"
+          }
+        ]
+      },
+      "trigger": "inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.improvedbackpacks.backpack.description"
+    },
+    "icon": {
+      "item": "improvedbackpacks:orange_backpack"
+    },
+    "title": {
+      "translate": "advancements.improvedbackpacks.backpack.title"
+    }
+  },
+  "parent": "improvedbackpacks:sewing_table"
+}

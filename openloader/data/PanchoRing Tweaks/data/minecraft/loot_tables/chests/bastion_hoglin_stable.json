@@ -1,0 +1,355 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "damage": {
+                "max": 0.8,
+                "min": 0.15
+              },
+              "function": "set_damage"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": {
+                "max": 15.0,
+                "min": 10.0,
+                "type": "uniform"
+              },
+              "treasure": true
+            }
+          ],
+          "name": "diamond_shovel",
+          "type": "item",
+          "weight": 15
+        },
+        {
+          "functions": [
+            {
+              "damage": {
+                "max": 0.95,
+                "min": 0.15
+              },
+              "function": "set_damage"
+            },
+            {
+              "count": 1,
+              "function": "set_count"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": {
+                "max": 15.0,
+                "min": 10.0,
+                "type": "uniform"
+              },
+              "treasure": true
+            }
+          ],
+          "name": "diamond_pickaxe",
+          "type": "item",
+          "weight": 12
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "netherite_scrap",
+          "type": "item",
+          "weight": 8
+        },
+        {
+          "name": "endrem:end_crystal_fragment",
+          "type": "item",
+          "weight": 12
+        },
+        {
+          "functions": [
+            {
+              "count": 2,
+              "function": "set_count"
+            }
+          ],
+          "name": "ancient_debris",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "saddle",
+          "type": "item",
+          "weight": 12
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 4.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "gold_block",
+          "type": "item",
+          "weight": 16
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 17.0,
+                "min": 8.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "golden_carrot",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "golden_apple",
+          "type": "item",
+          "weight": 10
+        }
+      ],
+      "rolls": 1
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": {
+                "max": 15.0,
+                "min": 10.0,
+                "type": "uniform"
+              },
+              "treasure": true
+            }
+          ],
+          "name": "dungeons_gear:gold_axe",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 5.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "crying_obsidian",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 3.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "glowstone",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"fire_resistance\"}"
+            }
+          ],
+          "name": "potion",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"water\"}"
+            }
+          ],
+          "name": "potion",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 7.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "soul_sand",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 7.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "warped_fungus",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 8.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "gold_nugget",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "leather",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 17.0,
+                "min": 5.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "arrow",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 8.0,
+                "min": 3.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "string",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 5.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "porkchop",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 5.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "infernalexp:cooked_hogchop",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 7.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "crimson_fungus",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 7.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "infernalexp:luminous_fungus",
+          "type": "item"
+        }
+      ],
+      "rolls": {
+        "max": 4.0,
+        "min": 3.0,
+        "type": "uniform"
+      }
+    }
+  ],
+  "type": "chest"
+}

@@ -1,0 +1,146 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "dungeons_gear:boots_of_swiftness",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:tasty_bone",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:wonderful_wheat",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:gong_of_weakening",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:iron_hide_amulet",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:love_medallion",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:ghost_cloak",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:soul_healer",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:light_feather",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:flaming_quiver",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:torment_quiver",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:corrupted_pumpkin",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:satchel_of_snacks",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:powershaker",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:fireworks_display",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:golem_kit",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:totem_of_regeneration",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:totem_of_shielding",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:death_cap_mushroom",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:corrupted_seeds",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:buzzy_nest",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:ice_wand",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:wind_horn",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:updraft_tome",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:harpoon_quiver",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:satchel_of_elements",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:eye_of_the_guardian",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:harvester",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:satchel_of_elixirs",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:corrupted_beacon",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:soul_lantern",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:lightning_rod",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:shock_powder",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:thundering_quiver",
+          "type": "item"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "chest"
+}

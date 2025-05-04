@@ -1,0 +1,12 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:ebony_logs"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "phantasm:ebony_planks"
+  },
+  "type": "crafting_shapeless"
+}

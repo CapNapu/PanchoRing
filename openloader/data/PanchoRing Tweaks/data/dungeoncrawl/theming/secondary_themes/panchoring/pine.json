@@ -1,0 +1,45 @@
+{
+  "id": 11,
+  "theme": {
+    "button": {
+      "block": "projectvibrantjourneys:pine_button",
+      "type": "block"
+    },
+    "door": {
+      "block": "projectvibrantjourneys:pine_door",
+      "type": "block"
+    },
+    "fence": {
+      "block": "projectvibrantjourneys:pine_fence",
+      "type": "block"
+    },
+    "fence_gate": {
+      "block": "projectvibrantjourneys:pine_fence_gate",
+      "type": "block"
+    },
+    "material": {
+      "block": "projectvibrantjourneys:pine_planks",
+      "type": "block"
+    },
+    "pillar": {
+      "block": "projectvibrantjourneys:pine_log",
+      "type": "block"
+    },
+    "pressure_plate": {
+      "block": "projectvibrantjourneys:pine_pressure_plate",
+      "type": "block"
+    },
+    "slab": {
+      "block": "projectvibrantjourneys:pine_slab",
+      "type": "block"
+    },
+    "stairs": {
+      "block": "projectvibrantjourneys:pine_stairs",
+      "type": "block"
+    },
+    "trapdoor": {
+      "block": "projectvibrantjourneys:pine_trapdoor",
+      "type": "block"
+    }
+  }
+}

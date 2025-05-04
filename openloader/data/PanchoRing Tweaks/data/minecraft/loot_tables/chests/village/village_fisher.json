@@ -1,0 +1,116 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "name": "emerald",
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 3,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "cod",
+          "type": "item",
+          "weight": 12
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 3,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "salmon",
+          "type": "item",
+          "weight": 8
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 3,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "projectvibrantjourneys:pearl",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 3,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "barrel",
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 3,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "supplementaries:flax_seeds",
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 3,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "bucket",
+          "type": "item",
+          "weight": 6
+        }
+      ],
+      "rolls": {
+        "max": 8,
+        "min": 4,
+        "type": "uniform"
+      }
+    }
+  ],
+  "type": "chest"
+}

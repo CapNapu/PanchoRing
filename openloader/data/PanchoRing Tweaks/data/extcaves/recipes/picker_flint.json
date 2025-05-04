@@ -1,0 +1,18 @@
+{
+  "key": {
+    "F": {
+      "item": "extcaves:rock_flint"
+    },
+    "S": {
+      "item": "stick"
+    }
+  },
+  "pattern": [
+    "F",
+    "S"
+  ],
+  "result": {
+    "item": "extcaves:picker_flint"
+  },
+  "type": "crafting_shaped"
+}

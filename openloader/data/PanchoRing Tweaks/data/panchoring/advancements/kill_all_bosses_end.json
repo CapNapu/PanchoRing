@@ -1,0 +1,77 @@
+{
+  "criteria": {
+    "Ender Dragon": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "ender_dragon"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "Ender Guardian": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "cataclysm:ender_guardian"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "Obsidilith": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "bosses_of_mass_destruction:obsidilith"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "Void Worm": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "alexsmobs:void_worm"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.kill_all_bosses_end.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "item": "dungeons_gear:diamond_sword"
+    },
+    "title": {
+      "translate": "advancements.panchoring.kill_all_bosses_end.title"
+    }
+  },
+  "parent": "majruszs_difficulty:progressive_difficulty/master_mode",
+  "rewards": {
+    "experience": 2500
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "count": 1,
+  "ingredient": [
+    {
+      "item": "infernalexp:soul_slate"
+    },
+    {
+      "item": "infernalexp:soul_slate_bricks"
+    }
+  ],
+  "result": "infernalexp:chiseled_soul_slate_bricks",
+  "type": "stonecutting"
+}

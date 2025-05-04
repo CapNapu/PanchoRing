@@ -1,0 +1,20 @@
+{
+  "common": [
+    {
+      "entity": "zombie",
+      "weight": 2
+    },
+    {
+      "entity": "skeleton",
+      "weight": 2
+    },
+    {
+      "entity": "spider"
+    }
+  ],
+  "rare": [
+    {
+      "entity": "creeper"
+    }
+  ]
+}

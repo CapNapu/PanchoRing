@@ -1,0 +1,15 @@
+{
+  "key": {
+    "#": {
+      "item": "phantasm:ebony_planks"
+    }
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": {
+    "count": 2,
+    "item": "phantasm:ebony_pressure_plate"
+  },
+  "type": "crafting_shaped"
+}

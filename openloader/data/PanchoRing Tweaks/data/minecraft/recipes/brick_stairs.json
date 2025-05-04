@@ -1,0 +1,17 @@
+{
+  "key": {
+    "#": {
+      "item": "bricks"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "item": "brick_stairs"
+  },
+  "type": "crafting_shaped"
+}

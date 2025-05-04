@@ -1,0 +1,20 @@
+{
+  "key": {
+    "#": {
+      "item": "oak_slab"
+    },
+    "X": {
+      "item": "stick"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    " X "
+  ],
+  "result": {
+    "count": 4,
+    "item": "oak_sign"
+  },
+  "type": "crafting_shaped"
+}

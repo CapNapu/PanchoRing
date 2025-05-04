@@ -1,0 +1,19 @@
+{
+  "key": {
+    "#": {
+      "item": "stick"
+    },
+    "W": {
+      "item": "jungle_planks"
+    }
+  },
+  "pattern": [
+    "W#W",
+    "W#W"
+  ],
+  "result": {
+    "count": 4,
+    "item": "jungle_fence"
+  },
+  "type": "crafting_shaped"
+}

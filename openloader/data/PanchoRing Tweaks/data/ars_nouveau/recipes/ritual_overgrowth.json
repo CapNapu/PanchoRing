@@ -1,0 +1,20 @@
+{
+  "ingredients": [
+    {
+      "item": "ars_nouveau:green_archwood_log"
+    },
+    {
+      "item": "glowstone_dust"
+    },
+    {
+      "item": "glowstone_dust"
+    },
+    {
+      "item": "glowstone_dust"
+    }
+  ],
+  "result": {
+    "item": "ars_nouveau:ritual_overgrowth"
+  },
+  "type": "crafting_shapeless"
+}

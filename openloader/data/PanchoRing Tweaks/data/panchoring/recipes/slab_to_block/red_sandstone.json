@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "red_sandstone_slab"
+    },
+    {
+      "item": "red_sandstone_slab"
+    }
+  ],
+  "result": {
+    "item": "red_sandstone"
+  },
+  "type": "crafting_shapeless"
+}

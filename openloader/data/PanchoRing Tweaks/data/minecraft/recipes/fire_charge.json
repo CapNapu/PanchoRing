@@ -1,0 +1,18 @@
+{
+  "ingredients": [
+    {
+      "item": "gunpowder"
+    },
+    {
+      "item": "magma_cream"
+    },
+    {
+      "tag": "coals"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "fire_charge"
+  },
+  "type": "crafting_shapeless"
+}

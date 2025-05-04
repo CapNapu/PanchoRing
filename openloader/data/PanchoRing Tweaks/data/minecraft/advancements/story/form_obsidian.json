@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "obsidian": {
+      "conditions": {
+        "items": [
+          {
+            "item": "obsidian"
+          }
+        ]
+      },
+      "trigger": "inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.story.form_obsidian.description"
+    },
+    "icon": {
+      "item": "obsidian"
+    },
+    "title": {
+      "translate": "advancements.story.form_obsidian.title"
+    }
+  },
+  "parent": "story/mine_diamond"
+}

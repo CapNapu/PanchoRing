@@ -1,0 +1,9 @@
+{
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "yellow_concrete_powder"
+  },
+  "result": "yellow_stained_glass",
+  "type": "smelting"
+}

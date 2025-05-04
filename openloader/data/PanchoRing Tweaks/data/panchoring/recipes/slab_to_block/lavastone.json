@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "extcaves:lavastone_slab"
+    },
+    {
+      "item": "extcaves:lavastone_slab"
+    }
+  ],
+  "result": {
+    "item": "extcaves:lavastone"
+  },
+  "type": "crafting_shapeless"
+}

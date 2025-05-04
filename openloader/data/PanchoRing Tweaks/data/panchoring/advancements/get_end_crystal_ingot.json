@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "end_crystal_ingot": {
+      "conditions": {
+        "items": [
+          {
+            "item": "endrem:end_crystal_ingot"
+          }
+        ]
+      },
+      "trigger": "inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.get_end_crystal_ingot.description"
+    },
+    "icon": {
+      "item": "endrem:end_crystal_ingot"
+    },
+    "title": {
+      "translate": "advancements.panchoring.get_end_crystal_ingot.title"
+    }
+  },
+  "parent": "panchoring:get_end_crystal_fragment"
+}

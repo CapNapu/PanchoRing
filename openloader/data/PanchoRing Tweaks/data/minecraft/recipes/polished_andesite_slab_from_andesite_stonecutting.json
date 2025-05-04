@@ -1,0 +1,13 @@
+{
+  "count": 2,
+  "ingredient": [
+    {
+      "item": "andesite"
+    },
+    {
+      "item": "polished_andesite"
+    }
+  ],
+  "result": "polished_andesite_slab",
+  "type": "stonecutting"
+}

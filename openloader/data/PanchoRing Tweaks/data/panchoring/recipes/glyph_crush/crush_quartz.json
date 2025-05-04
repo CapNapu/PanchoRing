@@ -1,0 +1,13 @@
+{
+  "input": {
+    "item": "nether_quartz_ore"
+  },
+  "output": [
+    {
+      "chance": 1.0,
+      "count": 3,
+      "item": "quartz"
+    }
+  ],
+  "type": "ars_nouveau:crush"
+}

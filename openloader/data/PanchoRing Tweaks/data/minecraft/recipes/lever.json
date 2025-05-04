@@ -1,0 +1,22 @@
+{
+  "key": {
+    "#": {
+      "tag": "stone_crafting_materials"
+    },
+    "X": {
+      "item": "stick"
+    },
+    "R": {
+      "item": "redstone"
+    }
+  },
+  "pattern": [
+    "X",
+    "R",
+    "#"
+  ],
+  "result": {
+    "item": "lever"
+  },
+  "type": "crafting_shaped"
+}

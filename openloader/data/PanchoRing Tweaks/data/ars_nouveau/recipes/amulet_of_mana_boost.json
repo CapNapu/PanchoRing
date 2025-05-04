@@ -1,0 +1,31 @@
+{
+  "item_1": [
+    {
+      "item": "diamond"
+    }
+  ],
+  "item_2": [
+    {
+      "item": "diamond"
+    }
+  ],
+  "item_3": [
+    {
+      "item": "lapis_lazuli"
+    }
+  ],
+  "item_4": [
+    {
+      "item": "iceandfire:amythest_gem"
+    }
+  ],
+  "output": {
+    "item": "ars_nouveau:amulet_of_mana_boost"
+  },
+  "reagent": [
+    {
+      "item": "ars_nouveau:dull_trinket"
+    }
+  ],
+  "type": "ars_nouveau:enchanting_apparatus"
+}

@@ -1,0 +1,55 @@
+{
+  "criteria": {
+    "fire": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:dragonsteel_fire_ingot"
+          }
+        ]
+      },
+      "trigger": "inventory_changed"
+    },
+    "ice": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:dragonsteel_ice_ingot"
+          }
+        ]
+      },
+      "trigger": "inventory_changed"
+    },
+    "lightning": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:dragonsteel_lightning_ingot"
+          }
+        ]
+      },
+      "trigger": "inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.iceandfire.dragonsteel.description"
+    },
+    "frame": "goal",
+    "hidden": true,
+    "icon": {
+      "item": "iceandfire:dragonsteel_fire_ingot"
+    },
+    "title": {
+      "translate": "advancements.iceandfire.dragonsteel.title"
+    }
+  },
+  "parent": "iceandfire:iceandfire/dragon_egg",
+  "requirements": [
+    [
+      "ice",
+      "fire",
+      "lightning"
+    ]
+  ]
+}

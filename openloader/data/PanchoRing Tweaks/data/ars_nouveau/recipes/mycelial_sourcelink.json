@@ -1,0 +1,22 @@
+{
+  "key": {
+    "g": {
+      "item": "gold_ingot"
+    },
+    "i": {
+      "item": "crimson_fungus"
+    },
+    "s": {
+      "item": "ars_nouveau:mana_gem"
+    }
+  },
+  "pattern": [
+    " s ",
+    "gig",
+    " s "
+  ],
+  "result": {
+    "item": "ars_nouveau:mycelial_sourcelink"
+  },
+  "type": "crafting_shaped"
+}

@@ -1,0 +1,76 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "name": "cod",
+          "type": "item",
+          "weight": 50
+        },
+        {
+          "conditions": [
+            {
+              "condition": "alternative",
+              "terms": [
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "river"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "frozen_river"
+                  }
+                }
+              ]
+            }
+          ],
+          "name": "salmon",
+          "type": "item",
+          "weight": 85
+        },
+        {
+          "conditions": [
+            {
+              "condition": "alternative",
+              "terms": [
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "warm_ocean"
+                  }
+                }
+              ]
+            }
+          ],
+          "name": "tropical_fish",
+          "type": "item",
+          "weight": 45
+        },
+        {
+          "conditions": [
+            {
+              "condition": "alternative",
+              "terms": [
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "warm_ocean"
+                  }
+                }
+              ]
+            }
+          ],
+          "name": "pufferfish",
+          "type": "item",
+          "weight": 10
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "type": "fishing"
+}

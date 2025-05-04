@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "iron_ingot"
+    },
+    {
+      "item": "extcaves:rock_flint"
+    }
+  ],
+  "result": {
+    "item": "flint_and_steel"
+  },
+  "type": "crafting_shapeless"
+}

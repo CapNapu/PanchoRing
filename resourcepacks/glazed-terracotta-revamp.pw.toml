@@ -1,0 +1,13 @@
+name = "Glazed Terracotta Revamp"
+filename = "glazed-terracotta-revamp_v1_1.16.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "b0d968865036e326caccd4d479c82838702416ce"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3372218
+project-id = 499577

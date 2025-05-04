@@ -1,0 +1,45 @@
+{
+  "id": 16,
+  "theme": {
+    "button": {
+      "block": "projectvibrantjourneys:sakura_button",
+      "type": "block"
+    },
+    "door": {
+      "block": "projectvibrantjourneys:sakura_door",
+      "type": "block"
+    },
+    "fence": {
+      "block": "projectvibrantjourneys:sakura_fence",
+      "type": "block"
+    },
+    "fence_gate": {
+      "block": "projectvibrantjourneys:sakura_fence_gate",
+      "type": "block"
+    },
+    "material": {
+      "block": "projectvibrantjourneys:sakura_planks",
+      "type": "block"
+    },
+    "pillar": {
+      "block": "projectvibrantjourneys:sakura_log",
+      "type": "block"
+    },
+    "pressure_plate": {
+      "block": "projectvibrantjourneys:sakura_pressure_plate",
+      "type": "block"
+    },
+    "slab": {
+      "block": "projectvibrantjourneys:sakura_slab",
+      "type": "block"
+    },
+    "stairs": {
+      "block": "projectvibrantjourneys:sakura_stairs",
+      "type": "block"
+    },
+    "trapdoor": {
+      "block": "projectvibrantjourneys:sakura_trapdoor",
+      "type": "block"
+    }
+  }
+}

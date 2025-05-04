@@ -1,0 +1,18 @@
+{
+  "key": {
+    "a": {
+      "tag": "forge:glass"
+    },
+    "b": {
+      "item": "extcaves:brick_half"
+    }
+  },
+  "pattern": [
+    "ab",
+    "ba"
+  ],
+  "result": {
+    "item": "dustydecor:jars"
+  },
+  "type": "crafting_shaped"
+}

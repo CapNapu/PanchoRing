@@ -1,0 +1,12 @@
+{
+  "input": {
+    "item": "endrem:end_crystal_ore"
+  },
+  "output": [
+    {
+      "chance": 1.0,
+      "item": "endrem:end_crystal_fragment"
+    }
+  ],
+  "type": "ars_nouveau:crush"
+}

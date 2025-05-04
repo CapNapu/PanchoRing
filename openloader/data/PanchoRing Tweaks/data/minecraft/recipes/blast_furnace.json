@@ -1,0 +1,19 @@
+{
+  "key": {
+    "#": {
+      "item": "extcaves:lavastone"
+    },
+    "I": {
+      "item": "iron_ingot"
+    }
+  },
+  "pattern": [
+    "###",
+    "# #",
+    "III"
+  ],
+  "result": {
+    "item": "blast_furnace"
+  },
+  "type": "crafting_shaped"
+}

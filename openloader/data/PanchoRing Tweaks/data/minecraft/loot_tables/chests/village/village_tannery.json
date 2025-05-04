@@ -1,0 +1,350 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 3,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "leather",
+          "type": "item",
+          "weight": 8
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 3,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "baked_potato",
+          "type": "item",
+          "weight": 3
+        }
+      ],
+      "rolls": {
+        "max": 6,
+        "min": 3,
+        "type": "uniform"
+      }
+    },
+    {
+      "entries": [
+        {
+          "name": "dungeons_gear:guards_chestplate",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "name": "dungeons_gear:guards_boots",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "name": "dungeons_gear:guards_helmet",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "name": "dungeons_gear:guards_leggings",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "name": "saddle",
+          "type": "item",
+          "weight": 3
+        }
+      ],
+      "rolls": {
+        "max": 3,
+        "min": 1
+      }
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 2,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "emerald",
+          "type": "item"
+        }
+      ],
+      "rolls": {
+        "max": 4,
+        "min": 1
+      }
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 3,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "white_dye",
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 3,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "orange_dye",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 3,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "magenta_dye",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 3,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "light_blue_dye",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 3,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "yellow_dye",
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 3,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "lime_dye",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 3,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "pink_dye",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 3,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "gray_dye",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 3,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "light_gray_dye",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 3,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "cyan_dye",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 3,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "purple_dye",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 3,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "blue_dye",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 3,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "brown_dye",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 3,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "green_dye",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 3,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "red_dye",
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 3,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "black_dye",
+          "type": "item",
+          "weight": 3
+        }
+      ],
+      "rolls": {
+        "max": 3,
+        "min": 1
+      }
+    }
+  ],
+  "type": "chest"
+}

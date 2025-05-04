@@ -1,0 +1,13 @@
+{
+  "input": {
+    "item": "diamond_ore"
+  },
+  "output": [
+    {
+      "chance": 1.0,
+      "count": 3,
+      "item": "diamond"
+    }
+  ],
+  "type": "ars_nouveau:crush"
+}

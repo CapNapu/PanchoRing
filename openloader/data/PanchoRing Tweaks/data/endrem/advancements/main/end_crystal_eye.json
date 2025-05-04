@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "end_crystal_eye": {
+      "conditions": {
+        "items": [
+          {
+            "item": "endrem:end_crystal_eye"
+          }
+        ]
+      },
+      "trigger": "inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.main.end_crystal_eye.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "endrem:end_crystal_eye"
+    },
+    "title": {
+      "translate": "advancements.main.end_crystal_eye.title"
+    }
+  },
+  "parent": "endrem:main/nether_eye"
+}

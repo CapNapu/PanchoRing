@@ -1,0 +1,17 @@
+{
+  "key": {
+    "#": {
+      "item": "projectvibrantjourneys:aspen_planks"
+    }
+  },
+  "pattern": [
+    "##",
+    "##",
+    "##"
+  ],
+  "result": {
+    "count": 2,
+    "item": "projectvibrantjourneys:aspen_door"
+  },
+  "type": "crafting_shaped"
+}

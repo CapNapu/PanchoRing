@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "arbalistic": {
+      "conditions": {
+        "unique_entity_types": 5
+      },
+      "trigger": "killed_by_crossbow"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.adventure.arbalistic.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "item": "dungeons_gear:arrow_bundle"
+    },
+    "title": {
+      "translate": "advancements.adventure.arbalistic.title"
+    }
+  },
+  "parent": "adventure/ol_betsy",
+  "rewards": {
+    "experience": 250
+  }
+}

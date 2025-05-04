@@ -1,0 +1,22 @@
+{
+  "key": {
+    "x": {
+      "item": "iceandfire:silver_nugget"
+    },
+    "y": {
+      "item": "ars_nouveau:mana_gem"
+    },
+    "z": {
+      "item": "string"
+    }
+  },
+  "pattern": [
+    "zxz",
+    "xyx",
+    " x "
+  ],
+  "result": {
+    "item": "ars_nouveau:dull_trinket"
+  },
+  "type": "crafting_shaped"
+}

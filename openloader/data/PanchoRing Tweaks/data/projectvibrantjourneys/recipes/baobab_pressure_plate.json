@@ -1,0 +1,15 @@
+{
+  "key": {
+    "#": {
+      "item": "projectvibrantjourneys:baobab_planks"
+    }
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": {
+    "count": 2,
+    "item": "projectvibrantjourneys:baobab_pressure_plate"
+  },
+  "type": "crafting_shaped"
+}

@@ -1,0 +1,19 @@
+{
+  "key": {
+    "0": {
+      "item": "phantasm:stellium_nugget"
+    },
+    "1": {
+      "item": "projectvibrantjourneys:pearl"
+    }
+  },
+  "pattern": [
+    "000",
+    "010",
+    "000"
+  ],
+  "result": {
+    "item": "origins:orb_of_origin"
+  },
+  "type": "crafting_shaped"
+}

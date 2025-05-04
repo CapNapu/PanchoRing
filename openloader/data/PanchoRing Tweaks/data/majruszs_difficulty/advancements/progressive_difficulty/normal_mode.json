@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "game_state": {
+      "trigger": "tick"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.progressive_difficulty.root.description"
+    },
+    "icon": {
+      "item": "majruszs_difficulty:advancement_normal"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.progressive_difficulty.root.title"
+    }
+  },
+  "parent": "story/root"
+}

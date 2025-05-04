@@ -1,0 +1,22 @@
+{
+  "key": {
+    "b": {
+      "item": "gold_ingot"
+    },
+    "x": {
+      "item": "ars_nouveau:arcane_stone"
+    },
+    "y": {
+      "item": "piston"
+    }
+  },
+  "pattern": [
+    "bxb",
+    " y ",
+    "bxb"
+  ],
+  "result": {
+    "item": "ars_nouveau:glyph_press"
+  },
+  "type": "crafting_shaped"
+}

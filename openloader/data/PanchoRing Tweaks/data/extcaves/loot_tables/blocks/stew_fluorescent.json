@@ -1,0 +1,22 @@
+{
+  "ingredients": [
+    {
+      "item": "bowl"
+    },
+    [
+      {
+        "item": "extcaves:mushroom_lumishroom"
+      },
+      {
+        "item": "extcaves:mushroom_fluoshroom"
+      }
+    ],
+    {
+      "item": "extcaves:mushroom_sweetshroom"
+    }
+  ],
+  "result": {
+    "item": "extcaves:stew_fluorescent"
+  },
+  "type": "crafting_shapeless"
+}

@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "values": [
+    "#forge:gravel",
+    "#forge:dirt",
+    "hay_block"
+  ]
+}

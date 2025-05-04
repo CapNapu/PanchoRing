@@ -1,0 +1,15 @@
+{
+  "key": {
+    "D": {
+      "item": "diamond_block"
+    }
+  },
+  "pattern": [
+    "DDD",
+    " DD"
+  ],
+  "result": {
+    "item": "iceandfire:dragonarmor_diamond_neck"
+  },
+  "type": "crafting_shaped"
+}

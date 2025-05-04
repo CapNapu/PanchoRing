@@ -1,0 +1,35 @@
+{
+  "ingredients": [
+    {
+      "item": "sugar"
+    },
+    {
+      "item": "sugar"
+    },
+    {
+      "item": "milk_bucket"
+    },
+    {
+      "item": "milk_bucket"
+    },
+    {
+      "item": "wheat"
+    },
+    {
+      "item": "wheat"
+    },
+    {
+      "item": "egg"
+    },
+    {
+      "item": "egg"
+    },
+    {
+      "item": "sweet_berries"
+    }
+  ],
+  "result": {
+    "item": "cake"
+  },
+  "type": "crafting_shapeless"
+}

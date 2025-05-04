@@ -1,0 +1,51 @@
+{
+  "item_1": [
+    {
+      "item": "ars_nouveau:mana_gem"
+    }
+  ],
+  "item_2": [
+    {
+      "item": "ars_nouveau:mana_gem"
+    }
+  ],
+  "item_3": [
+    {
+      "item": "ars_nouveau:mana_gem"
+    }
+  ],
+  "item_4": [
+    {
+      "item": "ars_nouveau:mana_gem"
+    }
+  ],
+  "item_5": [
+    {
+      "item": "ars_nouveau:mana_gem"
+    }
+  ],
+  "item_6": [
+    {
+      "item": "ars_nouveau:mana_gem"
+    }
+  ],
+  "item_7": [
+    {
+      "item": "ars_nouveau:mana_gem"
+    }
+  ],
+  "item_8": [
+    {
+      "item": "ars_nouveau:mana_gem"
+    }
+  ],
+  "output": {
+    "item": "ars_nouveau:summoning_crystal"
+  },
+  "reagent": [
+    {
+      "item": "lapis_block"
+    }
+  ],
+  "type": "ars_nouveau:enchanting_apparatus"
+}

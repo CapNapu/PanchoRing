@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "entered_nether": {
+      "conditions": {
+        "to": "the_nether"
+      },
+      "trigger": "changed_dimension"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.story.enter_the_nether.description"
+    },
+    "icon": {
+      "item": "flint_and_steel"
+    },
+    "title": {
+      "translate": "advancements.story.enter_the_nether.title"
+    }
+  },
+  "parent": "majruszs_difficulty:progressive_difficulty/expert_mode"
+}

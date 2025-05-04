@@ -1,0 +1,59 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 3.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "bone",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 3.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "bone_meal",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "name": "ender_pearl",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "name": "diamond",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "name": "dungeons_gear:sword",
+          "type": "item",
+          "weight": 1
+        }
+      ],
+      "rolls": {
+        "max": 6.0,
+        "min": 4.0,
+        "type": "uniform"
+      }
+    }
+  ],
+  "type": "chest"
+}

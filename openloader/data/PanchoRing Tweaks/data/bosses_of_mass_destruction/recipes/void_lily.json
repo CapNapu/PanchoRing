@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "lily_of_the_valley"
+    },
+    {
+      "item": "ender_eye"
+    }
+  ],
+  "result": {
+    "item": "bosses_of_mass_destruction:void_lily"
+  },
+  "type": "crafting_shapeless"
+}

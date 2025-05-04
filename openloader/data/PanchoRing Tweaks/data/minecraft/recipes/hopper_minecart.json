@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "hopper"
+    },
+    {
+      "item": "minecart"
+    }
+  ],
+  "result": {
+    "item": "hopper_minecart"
+  },
+  "type": "crafting_shapeless"
+}

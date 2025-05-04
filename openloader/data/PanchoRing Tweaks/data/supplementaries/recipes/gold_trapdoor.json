@@ -1,0 +1,16 @@
+{
+  "key": {
+    "1": {
+      "item": "gold_ingot"
+    }
+  },
+  "pattern": [
+    "111",
+    "111"
+  ],
+  "result": {
+    "count": 4,
+    "item": "supplementaries:gold_trapdoor"
+  },
+  "type": "crafting_shaped"
+}

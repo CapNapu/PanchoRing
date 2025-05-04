@@ -1,0 +1,71 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "children": [
+            {
+              "conditions": [
+                {
+                  "condition": "match_tool",
+                  "predicate": {
+                    "enchantments": [
+                      {
+                        "enchantment": "silk_touch",
+                        "levels": {
+                          "min": 1
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "functions": [
+                {
+                  "conditions": [
+                    {
+                      "block": "stone_slab",
+                      "condition": "block_state_property",
+                      "properties": {
+                        "type": "double"
+                      }
+                    }
+                  ],
+                  "count": 2,
+                  "function": "set_count"
+                }
+              ],
+              "name": "stone_slab",
+              "type": "item"
+            },
+            {
+              "functions": [
+                {
+                  "conditions": [
+                    {
+                      "block": "stone_slab",
+                      "condition": "block_state_property",
+                      "properties": {
+                        "type": "double"
+                      }
+                    }
+                  ],
+                  "count": 2,
+                  "function": "set_count"
+                },
+                {
+                  "function": "explosion_decay"
+                }
+              ],
+              "name": "cobblestone_slab",
+              "type": "item"
+            }
+          ],
+          "type": "alternatives"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "block"
+}

@@ -1,0 +1,120 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "functions": [
+            {
+              "decoration": "red_x",
+              "function": "exploration_map",
+              "skip_existing_chunks": true,
+              "zoom": 1
+            }
+          ],
+          "name": "map",
+          "type": "item"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "functions": [
+            {
+              "damage": {
+                "max": 0.7,
+                "min": 0.2,
+                "type": "uniform"
+              },
+              "function": "set_damage"
+            }
+          ],
+          "name": "iron_shovel",
+          "type": "item"
+        }
+      ],
+      "rolls": 1
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 10.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "paper",
+          "type": "item",
+          "weight": 20
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 5.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "feather",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 5.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "book",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "name": "map",
+          "type": "item",
+          "weight": 8
+        }
+      ],
+      "rolls": 4.0
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "name": "compass",
+          "type": "item"
+        },
+        {
+          "name": "clock",
+          "type": "item"
+        },
+        {
+          "name": "writable_book",
+          "type": "item"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "type": "chest"
+}

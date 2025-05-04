@@ -1,0 +1,16 @@
+{
+  "key": {
+    "0": {
+      "tag": "iceandfire:frozen_block"
+    }
+  },
+  "pattern": [
+    "000",
+    "000",
+    "000"
+  ],
+  "result": {
+    "item": "iceandfire:dragon_ice"
+  },
+  "type": "crafting_shaped"
+}

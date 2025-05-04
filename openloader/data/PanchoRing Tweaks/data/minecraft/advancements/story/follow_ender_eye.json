@@ -1,0 +1,23 @@
+{
+  "criteria": {
+    "in_stronghold_betterstrongholds": {
+      "conditions": {
+        "feature": "betterstrongholds:stronghold"
+      },
+      "trigger": "yungsapi:structure_location"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.story.follow_ender_eye.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "ender_eye"
+    },
+    "title": {
+      "translate": "advancements.story.follow_ender_eye.title"
+    }
+  },
+  "parent": "story/enter_the_nether"
+}

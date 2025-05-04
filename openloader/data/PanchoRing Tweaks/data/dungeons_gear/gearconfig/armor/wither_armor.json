@@ -1,0 +1,22 @@
+{
+  "attributes": [
+    {
+      "amount": 0.25,
+      "attribute": "dungeons_libraries:soul_gathering",
+      "operation": 0
+    }
+  ],
+  "built_in_enchantments": [
+    {
+      "enchantment": "dungeons_gear:frenzied",
+      "level": 1
+    },
+    {
+      "enchantment": "dungeons_gear:life_steal_aura",
+      "level": 1
+    }
+  ],
+  "material": "dungeons_gear:organic_plus",
+  "rarity": "RARE",
+  "unique": true
+}

@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "end_crystal_fragment": {
+      "conditions": {
+        "items": [
+          {
+            "item": "endrem:end_crystal_fragment"
+          }
+        ]
+      },
+      "trigger": "inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.get_end_crystal_fragment.description"
+    },
+    "icon": {
+      "item": "endrem:end_crystal_fragment"
+    },
+    "title": {
+      "translate": "advancements.panchoring.get_end_crystal_fragment.title"
+    }
+  },
+  "parent": "nether/root"
+}

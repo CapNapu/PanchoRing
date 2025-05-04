@@ -1,0 +1,19 @@
+{
+  "key": {
+    "o": {
+      "item": "glass"
+    },
+    "x": {
+      "item": "quartz"
+    }
+  },
+  "pattern": [
+    " x ",
+    "xox",
+    " x "
+  ],
+  "result": {
+    "item": "infernalexp:quartz_glass"
+  },
+  "type": "crafting_shaped"
+}

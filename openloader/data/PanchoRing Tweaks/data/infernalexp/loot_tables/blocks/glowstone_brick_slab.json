@@ -1,0 +1,32 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "conditions": [
+                {
+                  "block": "infernalexp:glowstone_brick_slab",
+                  "condition": "block_state_property",
+                  "properties": {
+                    "type": "double"
+                  }
+                }
+              ],
+              "count": 2,
+              "function": "set_count"
+            },
+            {
+              "function": "explosion_decay"
+            }
+          ],
+          "name": "infernalexp:glowstone_brick_slab",
+          "type": "item"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "block"
+}

@@ -1,0 +1,31 @@
+{
+  "item_1": [
+    {
+      "item": "lapis_lazuli"
+    }
+  ],
+  "item_2": [
+    {
+      "item": "lapis_lazuli"
+    }
+  ],
+  "item_3": [
+    {
+      "item": "cataclysm:void_jaw"
+    }
+  ],
+  "item_4": [
+    {
+      "item": "cataclysm:void_jaw"
+    }
+  ],
+  "output": {
+    "item": "ars_nouveau:relay_warp"
+  },
+  "reagent": [
+    {
+      "item": "ars_nouveau:arcane_relay"
+    }
+  ],
+  "type": "ars_nouveau:enchanting_apparatus"
+}

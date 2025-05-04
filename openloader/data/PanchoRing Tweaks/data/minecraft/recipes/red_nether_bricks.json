@@ -1,0 +1,20 @@
+{
+  "key": {
+    "0": {
+      "item": "nether_bricks"
+    },
+    "1": {
+      "item": "crimson_fungus"
+    }
+  },
+  "pattern": [
+    "000",
+    "010",
+    "000"
+  ],
+  "result": {
+    "count": 8,
+    "item": "red_nether_bricks"
+  },
+  "type": "crafting_shaped"
+}

@@ -1,0 +1,22 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "dungeons_gear:lightning_rod",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:shock_powder",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:thundering_quiver",
+          "type": "item"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "chest"
+}

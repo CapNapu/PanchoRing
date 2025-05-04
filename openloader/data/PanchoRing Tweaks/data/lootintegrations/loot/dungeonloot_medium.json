@@ -1,0 +1,14 @@
+{
+  "integrated_loot_tables": {
+    "betterstrongholds:chests/trap": 6,
+    "dungeoncrawl:chests/stage_3": 3,
+    "dungeoncrawl:chests/stage_4": 3,
+    "dungeons_enhanced:chests/castle/throne": 6,
+    "dungeons_enhanced:chests/monster_maze/treasure": 6,
+    "dungeons_enhanced:chests/tower_of_the_undead/treasure": 6,
+    "endrem:chests/biblio": 3,
+    "endrem:chests/throne": 6
+  },
+  "loot_table": "betterstrongholds:chests/common",
+  "max_result_itemcount": 12
+}

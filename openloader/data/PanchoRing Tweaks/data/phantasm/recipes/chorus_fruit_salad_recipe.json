@@ -1,0 +1,20 @@
+{
+  "ingredients": [
+    {
+      "item": "phantasm:pream_berry"
+    },
+    {
+      "item": "phantasm:oblifruit"
+    },
+    {
+      "item": "bowl"
+    },
+    {
+      "item": "chorus_fruit"
+    }
+  ],
+  "result": {
+    "item": "phantasm:chorus_fruit_salad"
+  },
+  "type": "crafting_shapeless"
+}

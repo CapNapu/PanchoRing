@@ -1,0 +1,32 @@
+{
+  "ingredients": [
+    {
+      "item": "gunpowder"
+    },
+    {
+      "item": "gunpowder"
+    },
+    {
+      "item": "gunpowder"
+    },
+    {
+      "item": "gunpowder"
+    },
+    {
+      "tag": "sand"
+    },
+    {
+      "tag": "sand"
+    },
+    {
+      "tag": "sand"
+    },
+    {
+      "tag": "sand"
+    }
+  ],
+  "result": {
+    "item": "tnt"
+  },
+  "type": "crafting_shapeless"
+}

@@ -1,0 +1,19 @@
+{
+  "key": {
+    "D": {
+      "item": "iceandfire:dragonbone"
+    },
+    "S": {
+      "item": "string"
+    }
+  },
+  "pattern": [
+    " DS",
+    "D S",
+    " DS"
+  ],
+  "result": {
+    "item": "iceandfire:dragonbone_bow"
+  },
+  "type": "crafting_shaped"
+}

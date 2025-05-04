@@ -1,0 +1,19 @@
+{
+  "key": {
+    "H": {
+      "item": "honeycomb"
+    },
+    "P": {
+      "tag": "planks"
+    }
+  },
+  "pattern": [
+    "HHH",
+    "PPP",
+    "HHH"
+  ],
+  "result": {
+    "item": "beehive"
+  },
+  "type": "crafting_shaped"
+}

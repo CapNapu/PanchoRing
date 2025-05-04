@@ -1,0 +1,13 @@
+name = "Peeves"
+filename = "Peeves - 1.16x.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "364f0093f88e391b37604146476d374e07de6adf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4431626
+project-id = 451971

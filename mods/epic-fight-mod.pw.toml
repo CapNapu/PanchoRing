@@ -1,0 +1,13 @@
+name = "Epic Fight"
+filename = "epicfight-16.6.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "668bafeb5cc1ea8e17794e7e42ad1fd766878a7c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4867904
+project-id = 405076

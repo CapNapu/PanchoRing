@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "paper"
+    },
+    {
+      "item": "supplementaries:globe"
+    }
+  ],
+  "result": {
+    "item": "globe_banner_pattern"
+  },
+  "type": "crafting_shapeless"
+}

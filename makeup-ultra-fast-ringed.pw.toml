@@ -1,0 +1,13 @@
+name = "MakeUp - Ultra Fast: Ringed"
+filename = "MakeUp-UltraFast-Ringed-v.8.6g-v2.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "d78a6037fa37f5e9f062385dc7fa779082d69922"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8781073
+project-id = 1670004

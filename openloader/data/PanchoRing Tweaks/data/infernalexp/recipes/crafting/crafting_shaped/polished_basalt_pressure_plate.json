@@ -1,0 +1,13 @@
+{
+  "count": 1,
+  "ingredient": [
+    {
+      "item": "basalt"
+    },
+    {
+      "item": "polished_basalt"
+    }
+  ],
+  "result": "infernalexp:polished_basalt_pressure_plate",
+  "type": "stonecutting"
+}

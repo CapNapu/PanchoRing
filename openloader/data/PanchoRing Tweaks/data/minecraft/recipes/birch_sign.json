@@ -1,0 +1,20 @@
+{
+  "key": {
+    "#": {
+      "item": "birch_slab"
+    },
+    "X": {
+      "item": "stick"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    " X "
+  ],
+  "result": {
+    "count": 4,
+    "item": "birch_sign"
+  },
+  "type": "crafting_shaped"
+}

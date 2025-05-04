@@ -1,0 +1,16 @@
+{
+  "key": {
+    "0": {
+      "item": "ice"
+    }
+  },
+  "pattern": [
+    "000",
+    "000",
+    "000"
+  ],
+  "result": {
+    "item":  "packed_ice"
+  },
+  "type": "crafting_shaped"
+}

@@ -1,0 +1,31 @@
+{
+  "item_1": [
+    {
+      "item": "diamond"
+    }
+  ],
+  "item_2": [
+    {
+      "item": "diamond"
+    }
+  ],
+  "item_3": [
+    {
+      "item": "infernalexp:molten_gold_cluster"
+    }
+  ],
+  "item_4": [
+    {
+      "item": "endrem:end_crystal_fragment"
+    }
+  ],
+  "output": {
+    "item": "ars_nouveau:amulet_of_mana_regen"
+  },
+  "reagent": [
+    {
+      "item": "ars_nouveau:amulet_of_mana_boost"
+    }
+  ],
+  "type": "ars_nouveau:enchanting_apparatus"
+}

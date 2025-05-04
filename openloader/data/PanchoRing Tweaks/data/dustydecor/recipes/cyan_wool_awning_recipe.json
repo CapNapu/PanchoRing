@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "cyan_carpet"
+    },
+    {
+      "item": "stick"
+    }
+  ],
+  "result": {
+    "item": "dustydecor:cyan_wool_awning"
+  },
+  "type": "crafting_shapeless"
+}

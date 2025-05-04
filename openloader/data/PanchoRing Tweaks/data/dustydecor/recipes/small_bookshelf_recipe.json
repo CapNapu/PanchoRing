@@ -1,0 +1,23 @@
+{
+  "ingredients": [
+    {
+      "item": "dustydecor:small_shelf_block"
+    },
+    {
+      "item": "book"
+    },
+    {
+      "item": "book"
+    },
+    {
+      "item": "book"
+    },
+    {
+      "item": "book"
+    }
+  ],
+  "result": {
+    "item": "dustydecor:small_bookshelf"
+  },
+  "type": "crafting_shapeless"
+}

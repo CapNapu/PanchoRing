@@ -1,0 +1,16 @@
+{
+  "key": {
+    "0": {
+      "item": "extcaves:pebble_lavastone"
+    }
+  },
+  "pattern": [
+    "000",
+    "000",
+    "000"
+  ],
+  "result": {
+    "item": "extcaves:lavastone"
+  },
+  "type": "crafting_shaped"
+}

@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "fishing_rod"
+    },
+    {
+      "item": "warped_fungus"
+    }
+  ],
+  "result": {
+    "item": "warped_fungus_on_a_stick"
+  },
+  "type": "crafting_shapeless"
+}

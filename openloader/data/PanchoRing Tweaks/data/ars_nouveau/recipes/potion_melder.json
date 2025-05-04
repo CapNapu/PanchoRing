@@ -1,0 +1,51 @@
+{
+  "item_1": [
+    {
+      "item": "gold_ingot"
+    }
+  ],
+  "item_2": [
+    {
+      "item": "gold_ingot"
+    }
+  ],
+  "item_3": [
+    {
+      "item": "ars_nouveau:blaze_fiber"
+    }
+  ],
+  "item_4": [
+    {
+      "item": "ars_nouveau:blaze_fiber"
+    }
+  ],
+  "item_5": [
+    {
+      "item": "blaze_rod"
+    }
+  ],
+  "item_6": [
+    {
+      "item": "blaze_rod"
+    }
+  ],
+  "item_7": [
+    {
+      "item": "blaze_rod"
+    }
+  ],
+  "item_8": [
+    {
+      "item": "blaze_rod"
+    }
+  ],
+  "output": {
+    "item": "ars_nouveau:potion_melder"
+  },
+  "reagent": [
+    {
+      "item": "ars_nouveau:potion_jar"
+    }
+  ],
+  "type": "ars_nouveau:enchanting_apparatus"
+}

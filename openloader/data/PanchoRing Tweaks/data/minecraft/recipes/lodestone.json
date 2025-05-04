@@ -1,0 +1,19 @@
+{
+  "key": {
+    "0": {
+      "item": "netherite_scrap"
+    },
+    "1": {
+      "item": "smooth_stone"
+    }
+  },
+  "pattern": [
+    " 1 ",
+    "101",
+    " 1 "
+  ],
+  "result": {
+    "item": "lodestone"
+  },
+  "type": "crafting_shaped"
+}

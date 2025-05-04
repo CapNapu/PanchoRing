@@ -1,0 +1,106 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "dungeons_gear:soul_fist",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:gold_sword",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:gold_axe",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:firebrand",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:cursed_axe",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:bone_cudgel",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:bonebow",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:elite_power_bow",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:feral_soul_crossbow",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:burst_crossbow",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:corrupted_crossbow",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:soul_hunter_crossbow",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:grim_helmet",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:grim_chestplate",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:grim_leggings",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:grim_boots",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:wither_helmet",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:wither_chestplate",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:wither_leggings",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:wither_boots",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:hungry_horror_helmet",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:hungry_horror_chestplate",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:hungry_horror_leggings",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:hungry_horror_boots",
+          "type": "item"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "chest"
+}

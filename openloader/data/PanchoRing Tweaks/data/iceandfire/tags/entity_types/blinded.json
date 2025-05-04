@@ -1,0 +1,15 @@
+{
+  "replace": true,
+  "values": [
+    "alexsmobs:enderiophage",
+    "alexsmobs:mimicube",
+    "alexsmobs:spectre",
+    "bosses_of_mass_destruction:obsidilith",
+    "bosses_of_mass_destruction:void_blossom",
+    "iceandfire:ghost",
+    "infernalexp:blindsight",
+    "mowziesmobs:foliaath",
+    "mowziesmobs:lantern",
+    "projectvibrantjourneys:clam"
+  ]
+}

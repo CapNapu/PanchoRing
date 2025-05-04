@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "summoned_dragon": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "ender_dragon"
+            }
+          }
+        ]
+      },
+      "trigger": "summoned_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.end.respawn_dragon.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "end_crystal"
+    },
+    "title": {
+      "translate": "advancements.end.respawn_dragon.title"
+    }
+  },
+  "parent": "majruszs_difficulty:progressive_difficulty/master_mode"
+}

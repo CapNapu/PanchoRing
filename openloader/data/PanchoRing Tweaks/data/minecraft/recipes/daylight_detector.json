@@ -1,0 +1,26 @@
+{
+  "key": {
+    "G": {
+      "item": "black_stained_glass"
+    },
+    "Q": {
+      "item": "quartz"
+    },
+    "W": {
+      "tag": "wooden_slabs"
+    },
+    "R": {
+      "item": "redstone"
+    }
+  },
+  "pattern": [
+    "GGG",
+    "QQQ",
+    "WRW"
+  ],
+  "result": {
+    "count": 2,
+    "item": "daylight_detector"
+  },
+  "type": "crafting_shaped"
+}

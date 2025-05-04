@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "diorite_slab"
+    },
+    {
+      "item": "diorite_slab"
+    }
+  ],
+  "result": {
+    "item": "diorite"
+  },
+  "type": "crafting_shapeless"
+}

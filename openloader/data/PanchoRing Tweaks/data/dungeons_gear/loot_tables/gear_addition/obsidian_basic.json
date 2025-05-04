@@ -1,0 +1,64 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "dungeons_gear:gear_addition/subtype/basic_artifact",
+          "quality": 2,
+          "type": "loot_table",
+          "weight": 15
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 15,
+              "treasure": true
+            }
+          ],
+          "name": "dungeons_gear:gear_addition/subtype/basic_normal",
+          "quality": -2,
+          "type": "loot_table",
+          "weight": 5
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 30,
+              "treasure": true
+            }
+          ],
+          "name": "dungeons_gear:gear_addition/subtype/basic_normal",
+          "quality": 2,
+          "type": "loot_table",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 30,
+              "treasure": true
+            }
+          ],
+          "name": "dungeons_gear:gear_addition/subtype/basic_unique",
+          "quality": 2,
+          "type": "loot_table",
+          "weight": 50
+        },
+        {
+          "quality": -4,
+          "type": "empty",
+          "weight": 20
+        }
+      ],
+      "rolls": {
+        "max": 3.0,
+        "min": 1.0,
+        "type": "uniform"
+      }
+    }
+  ],
+  "type": "chest"
+}

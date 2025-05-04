@@ -1,0 +1,15 @@
+{
+  "key": {
+    "#": {
+      "item": "projectvibrantjourneys:tamarack_planks"
+    }
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": {
+    "count": 2,
+    "item": "projectvibrantjourneys:tamarack_pressure_plate"
+  },
+  "type": "crafting_shaped"
+}

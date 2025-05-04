@@ -1,0 +1,31 @@
+{
+  "item_1": [
+    {
+      "item": "alexsmobs:tarantula_hawk_wing"
+    }
+  ],
+  "item_2": [
+    {
+      "item": "alexsmobs:tarantula_hawk_wing"
+    }
+  ],
+  "item_3": [
+    {
+      "item": "phantom_membrane"
+    }
+  ],
+  "item_4": [
+    {
+      "item": "phantom_membrane"
+    }
+  ],
+  "output": {
+    "item": "ars_elemental:air_focus"
+  },
+  "reagent": [
+    {
+      "tag": "panchoring:elemental_foci_to_air"
+    }
+  ],
+  "type": "ars_nouveau:enchanting_apparatus"
+}

@@ -1,0 +1,25 @@
+{
+  "key": {
+    "1": {
+      "item": "gold_ingot"
+    },
+    "2": {
+      "item": "paper"
+    },
+    "3": {
+      "item": "torch"
+    },
+    "4": {
+      "item": "nether_wart"
+    }
+  },
+  "pattern": [
+    "212",
+    "232",
+    "242"
+  ],
+  "result": {
+    "item": "supplementaries:crimson_lantern"
+  },
+  "type": "crafting_shaped"
+}

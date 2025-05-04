@@ -1,0 +1,51 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count_extra",
+      "config": {
+        "count": 500,
+        "extra_count": 0,
+        "extra_chance": 0
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:square",
+          "config": {}
+        },
+        "feature": {
+          "type": "minecraft:decorated",
+          "config": {
+            "decorator": {
+              "type": "minecraft:range",
+              "config": {
+                "maximum": 45,
+                "bottom_offset": 20,
+                "top_offset": 1
+              }
+            },
+            "feature": {
+              "type": "minecraft:ore",
+              "config": {
+                "state": {
+                  "Name": "minecraft:dead_fire_coral",
+                  "Properties": {
+                    "waterlogged": "true"
+                  }
+                },
+                "size": 64,
+                "target": {
+                  "predicate_type": "minecraft:tag_match",
+                  "tag": "minecraft:corals"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "criteria": {
+    "entered_end_gateway": {
+      "conditions": {
+        "block": "end_gateway"
+      },
+      "trigger": "enter_block"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.end.enter_end_gateway.description"
+    },
+    "hidden": true,
+    "icon": {
+      "item": "ender_pearl"
+    },
+    "title": {
+      "translate": "advancements.end.enter_end_gateway.title"
+    }
+  },
+  "parent": "majruszs_difficulty:progressive_difficulty/master_mode"
+}

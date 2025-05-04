@@ -1,0 +1,22 @@
+{
+  "key": {
+    "0": {
+      "item": "stick"
+    },
+    "1": {
+      "item": "phantasm:crystal_spike_tip"
+    },
+    "2": {
+      "item": "phantasm:void_crystal_spike_tip"
+    }
+  },
+  "pattern": [
+    "12",
+    " 0",
+    " 0"
+  ],
+  "result": {
+    "item": "phantasm:crystalline_hoe"
+  },
+  "type": "crafting_shaped"
+}

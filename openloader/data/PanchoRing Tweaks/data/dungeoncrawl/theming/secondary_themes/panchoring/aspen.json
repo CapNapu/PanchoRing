@@ -1,0 +1,45 @@
+{
+  "id": 17,
+  "theme": {
+    "button": {
+      "block": "projectvibrantjourneys:aspen_button",
+      "type": "block"
+    },
+    "door": {
+      "block": "projectvibrantjourneys:aspen_door",
+      "type": "block"
+    },
+    "fence": {
+      "block": "projectvibrantjourneys:aspen_fence",
+      "type": "block"
+    },
+    "fence_gate": {
+      "block": "projectvibrantjourneys:aspen_fence_gate",
+      "type": "block"
+    },
+    "material": {
+      "block": "projectvibrantjourneys:aspen_planks",
+      "type": "block"
+    },
+    "pillar": {
+      "block": "projectvibrantjourneys:aspen_log",
+      "type": "block"
+    },
+    "pressure_plate": {
+      "block": "projectvibrantjourneys:aspen_pressure_plate",
+      "type": "block"
+    },
+    "slab": {
+      "block": "projectvibrantjourneys:aspen_slab",
+      "type": "block"
+    },
+    "stairs": {
+      "block": "projectvibrantjourneys:aspen_stairs",
+      "type": "block"
+    },
+    "trapdoor": {
+      "block": "projectvibrantjourneys:aspen_trapdoor",
+      "type": "block"
+    }
+  }
+}

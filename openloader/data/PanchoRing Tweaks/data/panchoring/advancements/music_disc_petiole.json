@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "music_disc_petiole": {
+      "conditions": {
+        "item": {
+          "item": "mowziesmobs:music_disc_petiole"
+        },
+        "location": {
+          "block": {
+            "block": "jukebox"
+          }
+        }
+      },
+      "trigger": "item_used_on_block"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.music_disc_petiole.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "mowziesmobs:music_disc_petiole"
+    },
+    "title": {
+      "translate": "advancements.panchoring.music_disc_petiole.title"
+    }
+  },
+  "parent": "panchoring:music_disc_any"
+}

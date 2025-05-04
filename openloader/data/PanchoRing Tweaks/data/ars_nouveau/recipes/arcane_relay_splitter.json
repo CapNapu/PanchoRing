@@ -1,0 +1,31 @@
+{
+  "item_1": [
+    {
+      "item": "lapis_lazuli"
+    }
+  ],
+  "item_2": [
+    {
+      "item": "lapis_lazuli"
+    }
+  ],
+  "item_3": [
+    {
+      "item": "infernalexp:blindsight_tongue"
+    }
+  ],
+  "item_4": [
+    {
+      "item": "infernalexp:blindsight_tongue"
+    }
+  ],
+  "output": {
+    "item": "ars_nouveau:arcane_relay_splitter"
+  },
+  "reagent": [
+    {
+      "item": "ars_nouveau:arcane_relay"
+    }
+  ],
+  "type": "ars_nouveau:enchanting_apparatus"
+}

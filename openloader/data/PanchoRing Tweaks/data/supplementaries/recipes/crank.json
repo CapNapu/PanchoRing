@@ -1,0 +1,21 @@
+{
+  "key": {
+    "0": {
+      "item": "stick"
+    },
+    "1": {
+      "tag": "stone_crafting_materials"
+    },
+    "2": {
+      "item": "redstone"
+    }
+  },
+  "pattern": [
+    " 0 ",
+    "121"
+  ],
+  "result": {
+    "item": "supplementaries:crank"
+  },
+  "type": "crafting_shaped"
+}

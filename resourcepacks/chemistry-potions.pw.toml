@@ -1,0 +1,13 @@
+name = "Chemistry Potions"
+filename = "Chemistry Potions 1.20.1.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "ea93b33e2d04188c7bb0284ecd8effb1ede8c6e9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5818083
+project-id = 960468

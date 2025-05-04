@@ -1,0 +1,250 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "name": "projectvibrantjourneys:clam",
+          "type": "item",
+          "weight": 12
+        }
+      ],
+      "rolls": {
+        "max": 7.0,
+        "min": 4.0,
+        "type": "uniform"
+      }
+    },
+    {
+      "bonus_rolls": 1.0,
+      "entries": [
+        {
+          "name": "nautilus_shell",
+          "type": "item"
+        }
+      ],
+      "rolls": {
+        "max": 3.0,
+        "min": 1.0,
+        "type": "uniform"
+      }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "name": "projectvibrantjourneys:pearl",
+          "type": "item"
+        }
+      ],
+      "rolls": {
+        "max": 1.0,
+        "min": 0.0,
+        "type": "uniform"
+      }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "name": "leather_chestplate",
+          "type": "item"
+        },
+        {
+          "name": "leather_boots",
+          "type": "item"
+        },
+        {
+          "name": "leather_helmet",
+          "type": "item"
+        },
+        {
+          "name": "book",
+          "type": "item"
+        }
+      ],
+      "rolls": {
+        "max": 3.0,
+        "min": 1.0,
+        "type": "uniform"
+      }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 3.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "iceandfire:silver_ingot",
+          "type": "item"
+        }
+      ],
+      "rolls": {
+        "max": 2.0,
+        "min": 1.0,
+        "type": "uniform"
+      }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 5.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "gold_ingot",
+          "type": "item"
+        }
+      ],
+      "rolls": {
+        "max": 5.0,
+        "min": 1.0,
+        "type": "uniform"
+      }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 2.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "lapis_lazuli",
+          "type": "item"
+        }
+      ],
+      "rolls": {
+        "max": 3.0,
+        "min": 1.0,
+        "type": "uniform"
+      }
+    },
+    {
+      "bonus_rolls": 1.0,
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 4.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "prismarine_crystals",
+          "type": "item"
+        }
+      ],
+      "rolls": {
+        "max": 3.0,
+        "min": 1.0,
+        "type": "uniform"
+      }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "emerald",
+          "type": "item"
+        }
+      ],
+      "rolls": {
+        "max": 3.0,
+        "min": 1.0,
+        "type": "uniform"
+      }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "name": "diamond",
+          "type": "item",
+          "weight": 8
+        },
+        {
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"water_breathing\"}"
+            }
+          ],
+          "name": "potion",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "name": "skull_banner_pattern",
+          "quality": 1,
+          "type": "item",
+          "weight": 1
+        }
+      ],
+      "rolls": 1
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "name": "compass",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 4.0,
+                "min": 3.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "tnt",
+          "type": "item"
+        }
+      ],
+      "rolls": {
+        "max": 3.0,
+        "min": 2.0,
+        "type": "uniform"
+      }
+    }
+  ],
+  "type": "chest"
+}

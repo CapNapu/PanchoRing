@@ -1,0 +1,25 @@
+{
+  "key": {
+    "#": {
+      "item": "stone"
+    },
+    "R": {
+      "item": "redstone"
+    },
+    "I": {
+      "item": "iron_ingot"
+    },
+    "P": {
+      "tag": "planks"
+    }
+  },
+  "pattern": [
+    " I ",
+    "PRP",
+    "###"
+  ],
+  "result": {
+    "item": "stonecutter"
+  },
+  "type": "crafting_shaped"
+}

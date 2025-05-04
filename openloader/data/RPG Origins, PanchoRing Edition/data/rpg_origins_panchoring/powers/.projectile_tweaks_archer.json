@@ -1,0 +1,46 @@
+{
+  "hidden": true,
+  "type": "origins:multiple",
+  "nerfs.archer": {
+    "type": "origins:modify_projectile_damage",
+    "modifier": {
+      "operation": "multiply_base",
+      "value": -0.666
+    },
+    "damage_condition": {
+      "type": "origins:projectile",
+      "projectile": "supplementaries:brick_projectile"
+    }
+  },
+  "nerfs.archer.2": {
+    "type": "origins:modify_projectile_damage",
+    "modifier": {
+      "operation": "multiply_base",
+      "value": -0.5
+    },
+    "damage_condition": {
+      "type": "origins:or",
+      "conditions": [
+        {
+          "type": "origins:projectile",
+          "projectile": "alexsmobs:mosquito_spit"
+        },
+        {
+          "type": "origins:projectile",
+          "projectile": "alexsmobs:hemolymph"
+        }
+      ]
+    }
+  },
+  "buffs.archer": {
+    "type": "origins:modify_projectile_damage",
+    "modifier": {
+      "operation": "multiply_base",
+      "value": 1.333
+    },
+    "damage_condition": {
+      "type": "origins:projectile",
+      "projectile": "supplementaries:brick_projectile"
+    }
+  }
+}

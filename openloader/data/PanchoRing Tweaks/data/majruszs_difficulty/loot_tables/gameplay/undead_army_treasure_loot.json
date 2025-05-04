@@ -1,0 +1,39 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "diamond",
+          "type": "item",
+          "weight": 15
+        },
+        {
+          "name": "dungeons_gear:arrow_bundle",
+          "type": "item",
+          "weight": 8
+        },
+        {
+          "name": "majruszs_difficulty:hermes_boots",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            }
+          ],
+          "name": "book",
+          "type": "item",
+          "weight": 6
+        }
+      ],
+      "rolls": {
+        "max": 12.0,
+        "min": 6.0,
+        "type": "uniform"
+      }
+    }
+  ],
+  "type": "gift"
+}

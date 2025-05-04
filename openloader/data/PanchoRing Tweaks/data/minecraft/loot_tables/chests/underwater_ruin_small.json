@@ -1,0 +1,102 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 4,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "coal",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "damage": {
+                "max": 0.9,
+                "min": 0.4
+              },
+              "function": "set_damage"
+            }
+          ],
+          "name": "stone_axe",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "name": "rotten_flesh",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "name": "emerald",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 3,
+                "min": 2,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "wheat",
+          "type": "item",
+          "weight": 10
+        }
+      ],
+      "rolls": {
+        "max": 8,
+        "min": 4,
+        "type": "uniform"
+      }
+    },
+    {
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 10,
+              "treasure": true
+            }
+          ],
+          "name": "fishing_rod",
+          "type": "item",
+          "weight": 8
+        },
+        {
+          "functions": [
+            {
+              "decoration": "red_x",
+              "function": "exploration_map",
+              "skip_existing_chunks": false,
+              "zoom": 1
+            }
+          ],
+          "name": "map",
+          "type": "item",
+          "weight": 5
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "chest"
+}

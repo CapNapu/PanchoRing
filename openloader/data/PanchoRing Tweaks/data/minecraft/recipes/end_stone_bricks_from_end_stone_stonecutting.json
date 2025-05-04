@@ -1,0 +1,13 @@
+{
+  "count": 1,
+  "ingredient": [
+    {
+      "item": "end_stone"
+    },
+    {
+      "item": "cataclysm:polished_end_stone"
+    }
+  ],
+  "result": "end_stone_bricks",
+  "type": "stonecutting"
+}

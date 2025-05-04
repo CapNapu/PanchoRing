@@ -1,0 +1,17 @@
+{
+  "ingredients": [
+    {
+      "item": "magma_cream"
+    },
+    {
+      "item": "iceandfire:fire_lily"
+    },
+    {
+      "item": "bowl"
+    }
+  ],
+  "result": {
+    "item": "iceandfire:fire_stew"
+  },
+  "type": "crafting_shapeless"
+}

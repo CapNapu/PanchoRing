@@ -1,0 +1,34 @@
+{
+  "armorSetName": "beehive",
+  "head": {
+    "itemKey": "dungeons_gear:beehive_helmet"
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:beehive_chestplate"
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:beehive_leggings"
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:beehive_boots"
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "effect",
+      "description": "effect.minecraft.slow_falling",
+      "name": "minecraft:slow_falling",
+      "value": 0.0,
+      "interactionDuration": 120
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "description": "effect.mowziesmobs.poison_resist",
+      "name": "mowziesmobs:poison_resist",
+      "value": 0.0,
+      "interactionDuration": 120
+    }
+  ]
+}

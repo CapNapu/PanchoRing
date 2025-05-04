@@ -1,0 +1,13 @@
+name = "Environmental Creepers"
+filename = "environmentalcreepers-forge-1.16.3-1.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5bd3251804409b61c0c60ccaddc04af66b206268"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3079511
+project-id = 246320

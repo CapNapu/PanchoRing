@@ -1,0 +1,26 @@
+{
+  "hidden": true,
+  "type": "origins:starting_equipment",
+  "stacks": [
+    {
+      "item": "dungeons_gear:mercenary_chestplate",
+      "tag": "{Damage:202}",
+      "slot": 38
+    },
+    {
+      "item": "dungeons_gear:mercenary_leggings",
+      "tag": "{Damage:186}",
+      "slot": 37
+    },
+    {
+      "item": "dungeons_gear:gauntlet",
+      "tag": "{Damage:185}",
+      "slot": 8
+    },
+    {
+      "item": "dungeons_gear:great_hammer",
+      "tag": "{Damage:490}",
+      "slot": 23
+    }
+  ]
+}

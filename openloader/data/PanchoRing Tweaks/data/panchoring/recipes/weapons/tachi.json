@@ -1,0 +1,12 @@
+{
+  "addition": {
+    "item": "iron_ingot"
+  },
+  "base": {
+    "item": "dungeons_gear:sword"
+  },
+  "result": {
+    "item": "dungeons_gear:katana"
+  },
+  "type": "smithing"
+}

@@ -1,0 +1,16 @@
+{
+  "hidden": true,
+  "type": "origins:action_on_wake_up",
+  "entity_action": {
+    "type": "origins:and",
+    "actions": [
+      {
+        "type": "origins:heal",
+        "amount": 40
+      },
+      {
+        "type": "origins:clear_effect"
+      }
+    ]
+  }
+}

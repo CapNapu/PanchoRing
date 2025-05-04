@@ -1,0 +1,22 @@
+{
+  "ingredients": [
+    {
+      "item": "bowl"
+    },
+    [
+      {
+        "item": "extcaves:mushroom_goldishroom"
+      },
+      {
+        "item": "extcaves:mushroom_shinyshroom"
+      }
+    ],
+    {
+      "item": "extcaves:mushroom_sweetshroom"
+    }
+  ],
+  "result": {
+    "item": "extcaves:stew_sticky"
+  },
+  "type": "crafting_shapeless"
+}

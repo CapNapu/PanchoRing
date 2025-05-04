@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "smoker": {
+      "conditions": {
+        "block": "smoker"
+      },
+      "trigger": "placed_block"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.place_smoker.description"
+    },
+    "icon": {
+      "item": "smoker"
+    },
+    "title": {
+      "translate": "advancements.panchoring.place_smoker.title"
+    }
+  },
+  "parent": "husbandry/root"
+}

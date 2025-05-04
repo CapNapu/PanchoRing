@@ -1,0 +1,74 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "children": [
+            {
+              "conditions": [
+                {
+                  "condition": "match_tool",
+                  "predicate": {
+                    "enchantments": [
+                      {
+                        "enchantment": "silk_touch",
+                        "levels": {
+                          "min": 1
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "name": "dustydecor:cluttered_shelf",
+              "type": "item"
+            },
+            {
+              "conditions": [
+                {
+                  "condition": "survives_explosion"
+                }
+              ],
+              "name": "dustydecor:jars",
+              "type": "item"
+            }
+          ],
+          "type": "alternatives"
+        }
+      ],
+      "rolls": 1
+    },
+    {
+      "entries": [
+        {
+          "conditions": [
+            {
+              "condition": "inverted",
+              "term": {
+                "condition": "match_tool",
+                "predicate": {
+                  "enchantments": [
+                    {
+                      "enchantment": "silk_touch",
+                      "levels": {
+                        "min": 1
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "condition": "survives_explosion"
+            }
+          ],
+          "name": "dustydecor:small_shelf_block",
+          "type": "item"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "dustydecor:blocks/cluttered_shelf",
+  "type": "block"
+}

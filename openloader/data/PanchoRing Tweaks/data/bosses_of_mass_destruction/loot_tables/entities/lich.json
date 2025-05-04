@@ -1,0 +1,105 @@
+{
+  "pools": [
+    {
+      "conditions": [
+        {
+          "condition": "killed_by_player"
+        }
+      ],
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": 4,
+              "function": "set_count"
+            }
+          ],
+          "name": "bosses_of_mass_destruction:ancient_anima",
+          "type": "item"
+        }
+      ],
+      "rolls": 1
+    },
+    {
+      "conditions": [
+        {
+          "condition": "killed_by_player"
+        }
+      ],
+      "entries": [
+        {
+          "name": "skeleton_skull",
+          "type": "item"
+        }
+      ],
+      "rolls": 1
+    },
+    {
+      "conditions": [
+        {
+          "condition": "killed_by_player"
+        }
+      ],
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 12,
+                "min": 6
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "bone",
+          "type": "item"
+        }
+      ],
+      "rolls": 1
+    },
+    {
+      "conditions": [
+        {
+          "condition": "killed_by_player"
+        }
+      ],
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 7,
+                "min": 5
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "diamond",
+          "type": "item"
+        }
+      ],
+      "rolls": 1
+    },
+    {
+      "conditions": [
+        {
+          "condition": "killed_by_player"
+        }
+      ],
+      "entries": [
+        {
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 30,
+              "treasure": true
+            }
+          ],
+          "name": "book",
+          "type": "item"
+        }
+      ],
+      "rolls": 5
+    }
+  ]
+}

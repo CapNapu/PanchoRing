@@ -1,0 +1,37 @@
+{
+  "pools": [
+    {
+      "conditions": [
+        {
+          "condition": "survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "children": [
+            {
+              "conditions": [
+                {
+                  "block": "slabgen:gravel_slab",
+                  "condition": "block_state_property",
+                  "properties": {
+                    "type": "double"
+                  }
+                }
+              ],
+              "name": "gravel",
+              "type": "item"
+            },
+            {
+              "name": "slabgen:gravel_slab",
+              "type": "item"
+            }
+          ],
+          "type": "alternatives"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "block"
+}

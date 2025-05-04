@@ -1,0 +1,221 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 1.0,
+      "entries": [
+        {
+          "name": "spectral_arrow",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 9.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "gold_ingot",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "gold_nugget",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "name": "golden_horse_armor",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "name": "golden_apple",
+          "quality": 1,
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "name": "clock",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "name": "glistering_melon_slice",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "name": "enchanted_golden_apple",
+          "quality": 2,
+          "type": "item",
+          "weight": 1
+        }
+      ],
+      "rolls": {
+        "max": 5.0,
+        "min": 3.0,
+        "type": "uniform"
+      }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 4.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "redstone",
+          "type": "item",
+          "weight": 20
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "rotten_flesh",
+          "type": "item",
+          "weight": 20
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "melon_slice",
+          "type": "item",
+          "weight": 16
+        },
+        {
+          "name": "slime_ball",
+          "type": "item",
+          "weight": 15
+        },
+        {
+          "name": "bamboo",
+          "type": "item",
+          "weight": 15
+        },
+        {
+          "name": "mowziesmobs:foliaath_seed",
+          "type": "item",
+          "weight": 15
+        },
+        {
+          "name": "string",
+          "type": "item",
+          "weight": 15
+        },
+        {
+          "name": "zombie_head",
+          "type": "item",
+          "weight": 2
+        }
+      ],
+      "rolls": {
+        "max": 6.0,
+        "min": 4.0,
+        "type": "uniform"
+      }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"poison\"}"
+            },
+            {
+              "count": {
+                "max": 2.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "tipped_arrow",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"harming\"}"
+            },
+            {
+              "count": {
+                "max": 2.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "tipped_arrow",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"weakness\"}"
+            },
+            {
+              "count": {
+                "max": 2.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "tipped_arrow",
+          "type": "item"
+        }
+      ],
+      "rolls": {
+        "max": 5.0,
+        "min": 2.0,
+        "type": "uniform"
+      }
+    }
+  ],
+  "type": "chest"
+}

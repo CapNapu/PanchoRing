@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "barako": {
+      "conditions": {
+        "entity": {
+          "type": "mowziesmobs:barako"
+        }
+      },
+      "trigger": "player_killed_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.mowziesmobs.kill_barako.description"
+    },
+    "frame": "goal",
+    "hidden": true,
+    "icon": {
+      "item": "mowziesmobs:barako_mask"
+    },
+    "title": {
+      "translate": "advancements.mowziesmobs.kill_barako.title"
+    }
+  },
+  "parent": "panchoring:find_barakoa_village"
+}

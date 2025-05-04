@@ -1,0 +1,20 @@
+{
+  "ingredients": [
+    {
+      "item": "ars_nouveau:green_archwood_log"
+    },
+    {
+      "item": "iron_ingot"
+    },
+    {
+      "item": "iron_ingot"
+    },
+    {
+      "item": "iron_ingot"
+    }
+  ],
+  "result": {
+    "item": "ars_nouveau:ritual_burrowing"
+  },
+  "type": "crafting_shapeless"
+}

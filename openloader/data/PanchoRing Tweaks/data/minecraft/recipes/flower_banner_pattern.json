@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "paper"
+    },
+    {
+      "item": "phantasm:crystalily"
+    }
+  ],
+  "result": {
+    "item": "flower_banner_pattern"
+  },
+  "type": "crafting_shapeless"
+}

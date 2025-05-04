@@ -1,0 +1,37 @@
+{
+  "pools": [
+    {
+      "conditions": [
+        {
+          "condition": "survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "children": [
+            {
+              "conditions": [
+                {
+                  "block": "slabgen:coarse_dirt_slab",
+                  "condition": "block_state_property",
+                  "properties": {
+                    "type": "double"
+                  }
+                }
+              ],
+              "name": "coarse_dirt",
+              "type": "item"
+            },
+            {
+              "name": "slabgen:coarse_dirt_slab",
+              "type": "item"
+            }
+          ],
+          "type": "alternatives"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "block"
+}

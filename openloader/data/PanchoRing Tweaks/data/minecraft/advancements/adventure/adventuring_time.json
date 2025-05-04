@@ -1,0 +1,620 @@
+{
+  "criteria": {
+    "Alpine Peaks": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:alpine_heights"
+        }
+      },
+      "trigger": "location"
+    },
+    "Ancient Taiga": {
+      "conditions": {
+        "location": {
+          "biome": "giant_spruce_taiga"
+        }
+      },
+      "trigger": "location"
+    },
+    "Ancient Taiga Hills": {
+      "conditions": {
+        "location": {
+          "biome": "giant_spruce_taiga_hills"
+        }
+      },
+      "trigger": "location"
+    },
+    "Archwood Forest": {
+      "conditions": {
+        "location": {
+          "biome": "ars_nouveau:archwood_forest"
+        }
+      },
+      "trigger": "location"
+    },
+    "Aspen Forest": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:aspen_grove"
+        }
+      },
+      "trigger": "location"
+    },
+    "Aspen Hills": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:aspen_grove_hills"
+        }
+      },
+      "trigger": "location"
+    },
+    "Badlands": {
+      "conditions": {
+        "location": {
+          "biome": "badlands"
+        }
+      },
+      "trigger": "location"
+    },
+    "Badlands Forest": {
+      "conditions": {
+        "location": {
+          "biome": "modified_wooded_badlands_plateau"
+        }
+      },
+      "trigger": "location"
+    },
+    "Badlands Plains": {
+      "conditions": {
+        "location": {
+          "biome": "modified_badlands_plateau"
+        }
+      },
+      "trigger": "location"
+    },
+    "Badlands Plateau": {
+      "conditions": {
+        "location": {
+          "biome": "badlands_plateau"
+        }
+      },
+      "trigger": "location"
+    },
+    "Bamboo Cliffs": {
+      "conditions": {
+        "location": {
+          "biome": "bamboo_jungle_hills"
+        }
+      },
+      "trigger": "location"
+    },
+    "Bamboo Jungle": {
+      "conditions": {
+        "location": {
+          "biome": "bamboo_jungle"
+        }
+      },
+      "trigger": "location"
+    },
+    "Baobab Savanna": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:baobab_fields"
+        }
+      },
+      "trigger": "location"
+    },
+    "Basalt Deltas": {
+      "conditions": {
+        "location": {
+          "biome": "basalt_deltas"
+        }
+      },
+      "trigger": "location"
+    },
+    "Birch Forest": {
+      "conditions": {
+        "location": {
+          "biome": "birch_forest"
+        }
+      },
+      "trigger": "location"
+    },
+    "Birch Hills": {
+      "conditions": {
+        "location": {
+          "biome": "birch_forest_hills"
+        }
+      },
+      "trigger": "location"
+    },
+    "Blossoming Meadows": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:blossoming_fields"
+        }
+      },
+      "trigger": "location"
+    },
+    "Boreal Lakes": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:crystal_lakes"
+        }
+      },
+      "trigger": "location"
+    },
+    "Boreal Thicket": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:boreal_forest"
+        }
+      },
+      "trigger": "location"
+    },
+    "Carmine Thicket": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:crimson_thicket"
+        }
+      },
+      "trigger": "location"
+    },
+    "Coniferous Swamp": {
+      "conditions": {
+        "location": {
+          "biome": "swamp_hills"
+        }
+      },
+      "trigger": "location"
+    },
+    "Crimson Forest": {
+      "conditions": {
+        "location": {
+          "biome": "crimson_forest"
+        }
+      },
+      "trigger": "location"
+    },
+    "Dark Forest": {
+      "conditions": {
+        "location": {
+          "biome": "dark_forest"
+        }
+      },
+      "trigger": "location"
+    },
+    "Desert": {
+      "conditions": {
+        "location": {
+          "biome": "desert"
+        }
+      },
+      "trigger": "location"
+    },
+    "Desert Hills": {
+      "conditions": {
+        "location": {
+          "biome": "desert_hills"
+        }
+      },
+      "trigger": "location"
+    },
+    "Desert Oasis": {
+      "conditions": {
+        "location": {
+          "biome": "desert_lakes"
+        }
+      },
+      "trigger": "location"
+    },
+    "Desert Shrubland": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:desert_shrubland"
+        }
+      },
+      "trigger": "location"
+    },
+    "Eroded Badlands": {
+      "conditions": {
+        "location": {
+          "biome": "eroded_badlands"
+        }
+      },
+      "trigger": "location"
+    },
+    "Flooded Forest": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:flooded_woodlands"
+        }
+      },
+      "trigger": "location"
+    },
+    "Giant Taiga": {
+      "conditions": {
+        "location": {
+          "biome": "giant_tree_taiga"
+        }
+      },
+      "trigger": "location"
+    },
+    "Giant Taiga Hills": {
+      "conditions": {
+        "location": {
+          "biome": "giant_tree_taiga_hills"
+        }
+      },
+      "trigger": "location"
+    },
+    "Gilded Thicket": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:autumnal_coniferous_forest"
+        }
+      },
+      "trigger": "location"
+    },
+    "Glowstone Canyons": {
+      "conditions": {
+        "location": {
+          "biome": "infernalexp:glowstone_canyon"
+        }
+      },
+      "trigger": "location"
+    },
+    "Gravelly Cliffs": {
+      "conditions": {
+        "location": {
+          "biome": "modified_gravelly_mountains"
+        }
+      },
+      "trigger": "location"
+    },
+    "Gravelly Mountains": {
+      "conditions": {
+        "location": {
+          "biome": "gravelly_mountains"
+        }
+      },
+      "trigger": "location"
+    },
+    "Haunted Forest": {
+      "conditions": {
+        "location": {
+          "biome": "dark_forest_hills"
+        }
+      },
+      "trigger": "location"
+    },
+    "Ice Spikes": {
+      "conditions": {
+        "location": {
+          "biome": "ice_spikes"
+        }
+      },
+      "trigger": "location"
+    },
+    "Jungle": {
+      "conditions": {
+        "location": {
+          "biome": "jungle"
+        }
+      },
+      "trigger": "location"
+    },
+    "Jungle Cliffs": {
+      "conditions": {
+        "location": {
+          "biome": "modified_jungle"
+        }
+      },
+      "trigger": "location"
+    },
+    "Jungle Hills": {
+      "conditions": {
+        "location": {
+          "biome": "jungle_hills"
+        }
+      },
+      "trigger": "location"
+    },
+    "Meadows": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:meadows"
+        }
+      },
+      "trigger": "location"
+    },
+    "Mountains": {
+      "conditions": {
+        "location": {
+          "biome": "mountains"
+        }
+      },
+      "trigger": "location"
+    },
+    "Nether Wastes": {
+      "conditions": {
+        "location": {
+          "biome": "nether_wastes"
+        }
+      },
+      "trigger": "location"
+    },
+    "Oak Forest": {
+      "conditions": {
+        "location": {
+          "biome": "forest"
+        }
+      },
+      "trigger": "location"
+    },
+    "Oak Hills": {
+      "conditions": {
+        "location": {
+          "biome": "wooded_hills"
+        }
+      },
+      "trigger": "location"
+    },
+    "Pine Meadows": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:pine_meadows"
+        }
+      },
+      "trigger": "location"
+    },
+    "Plains": {
+      "conditions": {
+        "location": {
+          "biome": "plains"
+        }
+      },
+      "trigger": "location"
+    },
+    "Primordial Cliffs": {
+      "conditions": {
+        "location": {
+          "biome": "mushroom_fields"
+        }
+      },
+      "trigger": "location"
+    },
+    "Redwood Peaks": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:redwood_peaks"
+        }
+      },
+      "trigger": "location"
+    },
+    "Redwood Taiga": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:redwoods"
+        }
+      },
+      "trigger": "location"
+    },
+    "Sandy Meadows": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:verdant_sands"
+        }
+      },
+      "trigger": "location"
+    },
+    "Savanna": {
+      "conditions": {
+        "location": {
+          "biome": "savanna"
+        }
+      },
+      "trigger": "location"
+    },
+    "Savanna Plateau": {
+      "conditions": {
+        "location": {
+          "biome": "savanna_plateau"
+        }
+      },
+      "trigger": "location"
+    },
+    "Shattered Jungle": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:overgrown_spires"
+        }
+      },
+      "trigger": "location"
+    },
+    "Shattered Savanna": {
+      "conditions": {
+        "location": {
+          "biome": "shattered_savanna"
+        }
+      },
+      "trigger": "location"
+    },
+    "Snowy Mountains": {
+      "conditions": {
+        "location": {
+          "biome": "snowy_mountains"
+        }
+      },
+      "trigger": "location"
+    },
+    "Snowy Taiga": {
+      "conditions": {
+        "location": {
+          "biome": "snowy_taiga"
+        }
+      },
+      "trigger": "location"
+    },
+    "Snowy Taiga Hills": {
+      "conditions": {
+        "location": {
+          "biome": "snowy_taiga_hills"
+        }
+      },
+      "trigger": "location"
+    },
+    "Snowy Taiga Mountains": {
+      "conditions": {
+        "location": {
+          "biome": "snowy_taiga_mountains"
+        }
+      },
+      "trigger": "location"
+    },
+    "Snowy Tundra": {
+      "conditions": {
+        "location": {
+          "biome": "snowy_tundra"
+        }
+      },
+      "trigger": "location"
+    },
+    "Soul Sand Valleys": {
+      "conditions": {
+        "location": {
+          "biome": "soul_sand_valley"
+        }
+      },
+      "trigger": "location"
+    },
+    "Sunflower Plains": {
+      "conditions": {
+        "location": {
+          "biome": "sunflower_plains"
+        }
+      },
+      "trigger": "location"
+    },
+    "Swamp": {
+      "conditions": {
+        "location": {
+          "biome": "swamp"
+        }
+      },
+      "trigger": "location"
+    },
+    "Taiga": {
+      "conditions": {
+        "location": {
+          "biome": "taiga"
+        }
+      },
+      "trigger": "location"
+    },
+    "Taiga Hills": {
+      "conditions": {
+        "location": {
+          "biome": "taiga_hills"
+        }
+      },
+      "trigger": "location"
+    },
+    "Taiga Mountains": {
+      "conditions": {
+        "location": {
+          "biome": "taiga_mountains"
+        }
+      },
+      "trigger": "location"
+    },
+    "Tall Birch Forest": {
+      "conditions": {
+        "location": {
+          "biome": "tall_birch_forest"
+        }
+      },
+      "trigger": "location"
+    },
+    "Tall Birch Hills": {
+      "conditions": {
+        "location": {
+          "biome": "tall_birch_hills"
+        }
+      },
+      "trigger": "location"
+    },
+    "Terracotta Valleys": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:red_rock_valley"
+        }
+      },
+      "trigger": "location"
+    },
+    "The End": {
+      "conditions": {
+        "location": {
+          "biome": "the_end"
+        }
+      },
+      "trigger": "location"
+    },
+    "Volcanic Remnants": {
+      "conditions": {
+        "location": {
+          "biome": "shattered_savanna_plateau"
+        }
+      },
+      "trigger": "location"
+    },
+    "Warped Forest": {
+      "conditions": {
+        "location": {
+          "biome": "warped_forest"
+        }
+      },
+      "trigger": "location"
+    },
+    "Windswept Plateau": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:windswept_cliffs"
+        }
+      },
+      "trigger": "location"
+    },
+    "Wooded Badlands Plateau": {
+      "conditions": {
+        "location": {
+          "biome": "wooded_badlands_plateau"
+        }
+      },
+      "trigger": "location"
+    },
+    "Wooded Mountains": {
+      "conditions": {
+        "location": {
+          "biome": "wooded_mountains"
+        }
+      },
+      "trigger": "location"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.adventure.adventuring_time.description"
+    },
+    "frame": "challenge",
+    "icon": {
+      "item": "diamond_boots"
+    },
+    "title": {
+      "translate": "advancements.adventure.adventuring_time.title"
+    }
+  },
+  "parent": "adventure/sleep_in_bed",
+  "rewards": {
+    "experience": 5000
+  }
+}

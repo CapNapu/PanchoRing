@@ -1,0 +1,16 @@
+{
+  "key": {
+    "#": {
+      "item": "projectvibrantjourneys:redwood_planks"
+    }
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "item": "projectvibrantjourneys:redwood_trapdoor"
+  },
+  "type": "crafting_shaped"
+}

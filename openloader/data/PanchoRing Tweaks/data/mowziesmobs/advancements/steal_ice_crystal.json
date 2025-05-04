@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "steal_crystal": {
+      "trigger": "mowziesmobs:steal_ice_crystal"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.mowziesmobs.steal_ice_crystal.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "item": "potion"
+    },
+    "title": {
+      "translate": "advancements.mowziesmobs.steal_ice_crystal.title"
+    }
+  },
+  "parent": "mowziesmobs:kill_frostmaw",
+  "rewards": {
+    "experience": 250
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "key": {
+    "a": {
+      "item": "oak_slab"
+    }
+  },
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "result": {
+    "count": 4,
+    "item": "dustydecor:oak_large_shelf"
+  },
+  "type": "crafting_shaped"
+}

@@ -1,0 +1,31 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 2.0,
+                "min": 0.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            },
+            {
+              "count": {
+                "max": 1.0,
+                "min": 0.0
+              },
+              "function": "looting_enchant"
+            }
+          ],
+          "name": "gunpowder",
+          "type": "item"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "entity"
+}

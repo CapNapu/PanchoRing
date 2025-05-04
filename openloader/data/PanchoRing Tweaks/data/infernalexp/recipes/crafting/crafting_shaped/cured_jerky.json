@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    {
+      "item": "infernalexp:soul_salt_clump"
+    },
+    {
+      "item": "rotten_flesh"
+    },
+    {
+      "item": "rotten_flesh"
+    },
+    {
+      "item": "rotten_flesh"
+    },
+    {
+      "item": "rotten_flesh"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "infernalexp:cured_jerky"
+  },
+  "type": "crafting_shapeless"
+}

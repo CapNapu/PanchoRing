@@ -1,0 +1,11 @@
+{
+  "ingredients": [
+    {
+      "item": "dustydecor:small_shelf_block"
+    }
+  ],
+  "result": {
+    "item": "supplementaries:item_shelf"
+  },
+  "type": "crafting_shapeless"
+}

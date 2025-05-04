@@ -1,0 +1,12 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:pream_logs"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "phantasm:pream_planks"
+  },
+  "type": "crafting_shapeless"
+}

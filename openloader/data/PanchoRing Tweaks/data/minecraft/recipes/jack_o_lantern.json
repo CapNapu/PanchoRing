@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "carved_pumpkin"
+    },
+    {
+      "item": "torch"
+    }
+  ],
+  "result": {
+    "item": "jack_o_lantern"
+  },
+  "type": "crafting_shapeless"
+}

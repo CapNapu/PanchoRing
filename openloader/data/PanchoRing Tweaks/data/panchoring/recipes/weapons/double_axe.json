@@ -1,0 +1,12 @@
+{
+  "addition": {
+    "item": "iron_ingot"
+  },
+  "base": {
+    "item": "dungeons_gear:axe"
+  },
+  "result": {
+    "item": "dungeons_gear:double_axe"
+  },
+  "type": "smithing"
+}

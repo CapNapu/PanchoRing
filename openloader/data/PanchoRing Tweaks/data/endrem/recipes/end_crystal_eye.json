@@ -1,0 +1,12 @@
+{
+  "addition": {
+    "item": "endrem:end_crystal_ingot"
+  },
+  "base": {
+    "item": "ender_eye"
+  },
+  "result": {
+    "item": "endrem:end_crystal_eye"
+  },
+  "type": "smithing"
+}

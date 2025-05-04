@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "minecart"
+    },
+    {
+      "item": "furnace"
+    }
+  ],
+  "result": {
+    "item": "furnace_minecart"
+  },
+  "type": "crafting_shapeless"
+}

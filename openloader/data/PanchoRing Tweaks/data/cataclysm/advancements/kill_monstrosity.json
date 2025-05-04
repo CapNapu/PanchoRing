@@ -1,0 +1,29 @@
+{
+  "criteria": {
+    "netheritemonstrosity": {
+      "conditions": {
+        "entity": {
+          "type": "cataclysm:netherite_monstrosity"
+        }
+      },
+      "trigger": "player_killed_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.cataclysm.kill_monstrosity.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "item": "cataclysm:monstrous_horn"
+    },
+    "title": {
+      "translate": "advancements.cataclysm.kill_monstrosity.title"
+    }
+  },
+  "parent": "cataclysm:find_soul_black_smith",
+  "rewards": {
+    "experience": 1000
+  }
+}

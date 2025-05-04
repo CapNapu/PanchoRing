@@ -1,0 +1,123 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 4,
+                "min": 2
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "ender_pearl",
+          "type": "item",
+          "weight": 8
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 4,
+                "min": 2
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "phantasm:stellium_nugget",
+          "type": "item",
+          "weight": 6
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "diamond",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 30,
+              "treasure": true
+            }
+          ],
+          "name": "phantasm:crystalline_hoe",
+          "type": "item",
+          "weight": 1
+        }
+      ],
+      "rolls": {
+        "max": 5.0,
+        "min": 3.0,
+        "type": "uniform"
+      }
+    },
+    {
+      "entries": [
+        {
+          "name": "majruszs_difficulty:end_shard",
+          "type": "item"
+        }
+      ],
+      "rolls": {
+        "max": 2.0,
+        "min": 1.0,
+        "type": "uniform"
+      }
+    },
+    {
+      "entries": [
+        {
+          "name": "beetroot",
+          "type": "item"
+        }
+      ],
+      "rolls": 1
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": 69,
+              "function": "set_count"
+            }
+          ],
+          "name": "podzol",
+          "type": "item"
+        }
+      ],
+      "rolls": 1
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "enchantments": [
+                "mending"
+              ],
+              "function": "enchant_randomly"
+            }
+          ],
+          "name": "book",
+          "type": "item"
+        }
+      ],
+      "rolls": 1,
+      "bonus_rolls": 1
+    }
+  ],
+  "type": "chest"
+}

@@ -1,0 +1,9 @@
+{
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "iceandfire:frozen_splinters"
+  },
+  "result": "projectvibrantjourneys:twigs",
+  "type": "smelting"
+}

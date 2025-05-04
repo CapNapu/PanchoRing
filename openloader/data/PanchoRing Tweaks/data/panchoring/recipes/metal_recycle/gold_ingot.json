@@ -1,0 +1,35 @@
+{
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": [
+    {
+      "item": "golden_helmet"
+    },
+    {
+      "item": "golden_chestplate"
+    },
+    {
+      "item": "golden_leggings"
+    },
+    {
+      "item": "golden_boots"
+    },
+    {
+      "item": "golden_horse_armor"
+    },
+    {
+      "item": "revampedwolf:golden_wolf_armor"
+    },
+    {
+      "item": "supplementaries:gold_door"
+    },
+    {
+      "item": "supplementaries:gold_trapdoor"
+    },
+    {
+      "item": "supplementaries:candelabra"
+    }
+  ],
+  "result": "gold_ingot",
+  "type": "blasting"
+}

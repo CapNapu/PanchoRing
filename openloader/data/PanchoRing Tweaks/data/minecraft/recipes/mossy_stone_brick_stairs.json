@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "stone_brick_stairs"
+    },
+    {
+      "item": "vine"
+    }
+  ],
+  "result": {
+    "item": "mossy_stone_brick_stairs"
+  },
+  "type": "crafting_shapeless"
+}

@@ -1,0 +1,13 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "type": "empty"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "chest"
+}

@@ -1,0 +1,17 @@
+{
+  "ingredients": [
+    {
+      "tag": "mushrooms"
+    },
+    {
+      "tag": "mushrooms"
+    },
+    {
+      "tag": "mushrooms"
+    }
+  ],
+  "result": {
+    "item": "paper"
+  },
+  "type": "crafting_shapeless"
+}

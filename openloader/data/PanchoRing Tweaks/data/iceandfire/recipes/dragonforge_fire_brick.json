@@ -1,0 +1,33 @@
+{
+  "ingredients": [
+    {
+      "item": "stone_bricks"
+    },
+    {
+      "item": "stone_bricks"
+    },
+    {
+      "item": "stone_bricks"
+    },
+    {
+      "item": "stone_bricks"
+    },
+    {
+      "tag": "forge:storage_blocks/fire_dragon_scale"
+    },
+    {
+      "tag": "forge:storage_blocks/fire_dragon_scale"
+    },
+    {
+      "tag": "forge:storage_blocks/fire_dragon_scale"
+    },
+    {
+      "tag": "forge:storage_blocks/fire_dragon_scale"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "iceandfire:dragonforge_fire_brick"
+  },
+  "type": "crafting_shapeless"
+}

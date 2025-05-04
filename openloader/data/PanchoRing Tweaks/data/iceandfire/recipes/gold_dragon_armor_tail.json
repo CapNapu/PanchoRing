@@ -1,0 +1,15 @@
+{
+  "key": {
+    "D": {
+      "item": "gold_block"
+    }
+  },
+  "pattern": [
+    "  D",
+    "DD "
+  ],
+  "result": {
+    "item": "iceandfire:dragonarmor_gold_tail"
+  },
+  "type": "crafting_shaped"
+}

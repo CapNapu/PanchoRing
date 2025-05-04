@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "magenta_carpet"
+    },
+    {
+      "item": "stick"
+    }
+  ],
+  "result": {
+    "item": "dustydecor:magenta_wool_awning"
+  },
+  "type": "crafting_shapeless"
+}

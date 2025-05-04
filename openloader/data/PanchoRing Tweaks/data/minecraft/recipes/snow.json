@@ -1,0 +1,15 @@
+{
+  "key": {
+    "#": {
+      "item": "snow_block"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "count": 12,
+    "item": "snow"
+  },
+  "type": "crafting_shaped"
+}

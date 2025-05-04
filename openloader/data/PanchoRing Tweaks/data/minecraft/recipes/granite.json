@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "item": "extcaves:dirtstone"
+    },
+    {
+      "item": "quartz"
+    },
+    {
+      "item": "quartz"
+    },
+    {
+      "item": "extcaves:dirtstone"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "granite"
+  },
+  "type": "crafting_shapeless"
+}

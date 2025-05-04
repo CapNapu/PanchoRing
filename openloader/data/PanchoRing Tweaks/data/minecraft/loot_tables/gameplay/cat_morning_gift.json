@@ -1,0 +1,40 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "rabbit_hide",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "name": "rabbit_foot",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "name": "chicken",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "name": "feather",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "name": "rotten_flesh",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "name": "string",
+          "type": "item",
+          "weight": 10
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "gift"
+}

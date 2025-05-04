@@ -1,0 +1,34 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.3,
+      "entries": [
+        {
+          "quality": -1,
+          "type": "empty",
+          "weight": 8
+        },
+        {
+          "name": "gameplay/fishing/junk",
+          "quality": 1,
+          "type": "loot_table",
+          "weight": 16
+        },
+        {
+          "name": "gameplay/fishing/treasure",
+          "quality": 2,
+          "type": "loot_table",
+          "weight": 6
+        },
+        {
+          "name": "gameplay/fishing/fish",
+          "quality": 0,
+          "type": "loot_table",
+          "weight": 70
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "type": "fishing"
+}

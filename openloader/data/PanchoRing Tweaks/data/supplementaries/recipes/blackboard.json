@@ -1,0 +1,23 @@
+{
+  "key": {
+    "0": {
+      "item": "quartz"
+    },
+    "1": {
+      "tag": "wooden_slabs"
+    },
+    "2": {
+      "item": "extcaves:lavastone"
+    }
+  },
+  "pattern": [
+    "12 ",
+    "120",
+    "12 "
+  ],
+  "result": {
+    "count": 3,
+    "item": "supplementaries:blackboard"
+  },
+  "type": "crafting_shaped"
+}

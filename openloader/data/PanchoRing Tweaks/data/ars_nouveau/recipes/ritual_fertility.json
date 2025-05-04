@@ -1,0 +1,20 @@
+{
+  "ingredients": [
+    {
+      "item": "ars_nouveau:green_archwood_log"
+    },
+    {
+      "item": "coal"
+    },
+    {
+      "item": "coal"
+    },
+    {
+      "item": "coal"
+    }
+  ],
+  "result": {
+    "item": "ars_nouveau:ritual_fertility"
+  },
+  "type": "crafting_shapeless"
+}

@@ -1,0 +1,18 @@
+{
+  "key": {
+    "a": {
+      "item": "iron_bars"
+    },
+    "b": {
+      "tag": "wooden_slabs"
+    }
+  },
+  "pattern": [
+    "abb"
+  ],
+  "result": {
+    "count": 2,
+    "item": "dustydecor:cuttingboard"
+  },
+  "type": "crafting_shaped"
+}

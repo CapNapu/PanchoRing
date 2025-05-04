@@ -1,0 +1,16 @@
+{
+  "count": 1,
+  "ingredient": [
+    {
+      "item": "infernalexp:smooth_glowstone"
+    },
+    {
+      "item": "infernalexp:smooth_dimstone"
+    },
+    {
+      "item": "infernalexp:smooth_dullstone"
+    }
+  ],
+  "result": "infernalexp:smooth_glowstone_pressure_plate",
+  "type": "stonecutting"
+}

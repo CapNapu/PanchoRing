@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "item": "andesite"
+    },
+    {
+      "item": "quartz"
+    },
+    {
+      "item": "quartz"
+    },
+    {
+      "item": "andesite"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "diorite"
+  },
+  "type": "crafting_shapeless"
+}

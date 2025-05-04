@@ -1,0 +1,22 @@
+{
+  "key": {
+    "F": {
+      "item": "iceandfire:stymphalian_bird_feather"
+    },
+    "G": {
+      "item": "infernalexp:molten_gold_cluster"
+    },
+    "S": {
+      "item": "netherite_scrap"
+    }
+  },
+  "pattern": [
+    " F ",
+    "GGG",
+    " S "
+  ],
+  "result": {
+    "item": "iceandfire:stymphalian_bird_dagger"
+  },
+  "type": "crafting_shaped"
+}

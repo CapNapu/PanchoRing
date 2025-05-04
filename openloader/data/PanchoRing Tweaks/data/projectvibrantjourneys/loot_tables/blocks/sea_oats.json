@@ -1,0 +1,34 @@
+{
+  "pools": [
+    {
+      "conditions": [
+        {
+          "condition": "survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "conditions": [
+            {
+              "block": "projectvibrantjourneys:sea_oats",
+              "condition": "block_state_property",
+              "properties": {
+                "half": "lower"
+              }
+            },
+            {
+              "condition": "match_tool",
+              "predicate": {
+                "tag": "forge:shears"
+              }
+            }
+          ],
+          "name": "projectvibrantjourneys:sea_oats",
+          "type": "item"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "block"
+}

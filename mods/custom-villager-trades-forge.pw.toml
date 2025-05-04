@@ -1,0 +1,13 @@
+name = "Custom Villager Trades (Forge)"
+filename = "customvillagertrades-forge-16.25.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "87ced3e4969010a6ced846927078f130fc54c029"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5383780
+project-id = 463402

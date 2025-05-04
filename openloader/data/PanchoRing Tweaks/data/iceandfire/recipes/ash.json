@@ -1,0 +1,16 @@
+{
+  "key": {
+    "0": {
+      "tag": "iceandfire:charred_block"
+    }
+  },
+  "pattern": [
+    "000",
+    "000",
+    "000"
+  ],
+  "result": {
+    "item": "iceandfire:ash"
+  },
+  "type": "crafting_shaped"
+}

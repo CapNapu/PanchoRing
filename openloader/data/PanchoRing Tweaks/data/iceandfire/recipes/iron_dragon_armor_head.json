@@ -1,0 +1,15 @@
+{
+  "key": {
+    "D": {
+      "item": "iron_block"
+    }
+  },
+  "pattern": [
+    " DD",
+    "DDD"
+  ],
+  "result": {
+    "item": "iceandfire:dragonarmor_iron_head"
+  },
+  "type": "crafting_shaped"
+}

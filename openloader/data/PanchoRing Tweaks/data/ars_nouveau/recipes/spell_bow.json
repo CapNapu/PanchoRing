@@ -1,0 +1,51 @@
+{
+  "item_1": [
+    {
+      "item": "ars_nouveau:enchanters_sword"
+    }
+  ],
+  "item_2": [
+    {
+      "item": "ars_nouveau:enchanters_shield"
+    }
+  ],
+  "item_3": [
+    {
+      "item": "ars_nouveau:enchanters_mirror"
+    }
+  ],
+  "item_4": [
+    {
+      "item": "ars_nouveau:wand"
+    }
+  ],
+  "item_5": [
+    {
+      "item": "alexsmobs:mimicream"
+    }
+  ],
+  "item_6": [
+    {
+      "item": "majruszs_difficulty:end_ingot"
+    }
+  ],
+  "item_7": [
+    {
+      "item": "phantasm:stellium_ingot"
+    }
+  ],
+  "item_8": [
+    {
+      "item": "ars_nouveau:end_fiber"
+    }
+  ],
+  "output": {
+    "item": "ars_nouveau:spell_bow"
+  },
+  "reagent": [
+    {
+      "item": "bow"
+    }
+  ],
+  "type": "ars_nouveau:enchanting_apparatus"
+}

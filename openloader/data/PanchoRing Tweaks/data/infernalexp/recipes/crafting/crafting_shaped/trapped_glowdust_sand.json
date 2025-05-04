@@ -1,0 +1,32 @@
+{
+  "ingredients": [
+    {
+      "item": "infernalexp:glowdust_sand"
+    },
+    {
+      "item": "infernalexp:glowdust_sand"
+    },
+    {
+      "item": "infernalexp:glowdust_sand"
+    },
+    {
+      "item": "infernalexp:glowdust_sand"
+    },
+    {
+      "item": "gravel"
+    },
+    {
+      "item": "gravel"
+    },
+    {
+      "item": "gravel"
+    },
+    {
+      "item": "gravel"
+    }
+  ],
+  "result": {
+    "item": "infernalexp:trapped_glowdust_sand"
+  },
+  "type": "crafting_shapeless"
+}

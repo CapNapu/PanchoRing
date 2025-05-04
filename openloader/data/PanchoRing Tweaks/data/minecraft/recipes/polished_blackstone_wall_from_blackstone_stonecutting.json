@@ -1,0 +1,13 @@
+{
+  "count": 1,
+  "ingredient": [
+    {
+      "item": "blackstone"
+    },
+    {
+      "item": "polished_blackstone"
+    }
+  ],
+  "result": "polished_blackstone_wall",
+  "type": "stonecutting"
+}

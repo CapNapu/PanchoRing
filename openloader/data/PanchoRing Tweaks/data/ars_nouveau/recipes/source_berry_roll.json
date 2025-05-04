@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "bread"
+    },
+    {
+      "item": "ars_nouveau:mana_berry"
+    }
+  ],
+  "result": {
+    "item": "ars_nouveau:source_berry_roll"
+  },
+  "type": "crafting_shapeless"
+}

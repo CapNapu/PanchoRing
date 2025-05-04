@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "supplementaries:sconce"
+    },
+    {
+      "item": "redstone"
+    }
+  ],
+  "result": {
+    "item": "supplementaries:sconce_lever"
+  },
+  "type": "crafting_shapeless"
+}

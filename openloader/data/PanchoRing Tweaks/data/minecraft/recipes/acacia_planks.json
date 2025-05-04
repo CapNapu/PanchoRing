@@ -1,0 +1,12 @@
+{
+  "ingredients": [
+    {
+      "tag": "acacia_logs"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "acacia_planks"
+  },
+  "type": "crafting_shapeless"
+}

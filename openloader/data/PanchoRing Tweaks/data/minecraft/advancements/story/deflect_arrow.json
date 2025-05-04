@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "deflected_projectile": {
+      "conditions": {
+        "damage": {
+          "blocked": true,
+          "type": {
+            "is_projectile": true
+          }
+        }
+      },
+      "trigger": "entity_hurt_player"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.story.deflect_arrow.description"
+    },
+    "icon": {
+      "item": "shield"
+    },
+    "title": {
+      "translate": "advancements.story.deflect_arrow.title"
+    }
+  },
+  "parent": "adventure/shoot_arrow"
+}

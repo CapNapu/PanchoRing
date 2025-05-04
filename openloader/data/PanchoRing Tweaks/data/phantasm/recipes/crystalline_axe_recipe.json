@@ -1,0 +1,22 @@
+{
+  "key": {
+    "0": {
+      "item": "stick"
+    },
+    "1": {
+      "item": "phantasm:crystal_spike_tip"
+    },
+    "2": {
+      "item": "phantasm:void_crystal_spike_tip"
+    }
+  },
+  "pattern": [
+    "12",
+    "10",
+    " 0"
+  ],
+  "result": {
+    "item": "phantasm:crystalline_axe"
+  },
+  "type": "crafting_shaped"
+}

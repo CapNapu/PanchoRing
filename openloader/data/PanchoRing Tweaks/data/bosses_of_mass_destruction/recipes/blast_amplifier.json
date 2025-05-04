@@ -1,0 +1,22 @@
+{
+  "key": {
+    "C": {
+      "item": "majruszs_difficulty:end_ingot"
+    },
+    "E": {
+      "item": "phantasm:fallen_star"
+    },
+    "H": {
+      "item": "netherite_ingot"
+    }
+  },
+  "pattern": [
+    "HHH",
+    "HEH",
+    "CCC"
+  ],
+  "result": {
+    "item": "bosses_of_mass_destruction:monolith_block"
+  },
+  "type": "crafting_shaped"
+}

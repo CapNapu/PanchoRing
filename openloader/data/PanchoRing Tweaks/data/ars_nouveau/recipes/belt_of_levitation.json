@@ -1,0 +1,51 @@
+{
+  "item_1": [
+    {
+      "item": "iceandfire:silver_ingot"
+    }
+  ],
+  "item_2": [
+    {
+      "item": "iceandfire:silver_ingot"
+    }
+  ],
+  "item_3": [
+    {
+      "item": "iceandfire:silver_ingot"
+    }
+  ],
+  "item_4": [
+    {
+      "item": "feather"
+    }
+  ],
+  "item_5": [
+    {
+      "item": "feather"
+    }
+  ],
+  "item_6": [
+    {
+      "item": "popped_chorus_fruit"
+    }
+  ],
+  "item_7": [
+    {
+      "item": "popped_chorus_fruit"
+    }
+  ],
+  "item_8": [
+    {
+      "item": "popped_chorus_fruit"
+    }
+  ],
+  "output": {
+    "item": "ars_nouveau:belt_of_levitation"
+  },
+  "reagent": [
+    {
+      "item": "ars_nouveau:mundane_belt"
+    }
+  ],
+  "type": "ars_nouveau:enchanting_apparatus"
+}

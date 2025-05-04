@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "extcaves:sedimentstone_slab"
+    },
+    {
+      "item": "extcaves:sedimentstone_slab"
+    }
+  ],
+  "result": {
+    "item": "extcaves:sedimentstone"
+  },
+  "type": "crafting_shapeless"
+}

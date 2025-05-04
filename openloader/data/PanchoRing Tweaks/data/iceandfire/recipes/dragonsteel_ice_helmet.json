@@ -1,0 +1,12 @@
+{
+  "addition": {
+    "item": "iceandfire:dragonsteel_ice_ingot"
+  },
+  "base": {
+    "item": "iron_helmet"
+  },
+  "result": {
+    "item": "iceandfire:dragonsteel_ice_helmet"
+  },
+  "type": "smithing"
+}

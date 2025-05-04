@@ -1,0 +1,28 @@
+{
+  "criteria": {
+    "antique_atlas": {
+      "conditions": {
+        "items": [
+          {
+            "item": "antiqueatlas:empty_antique_atlas"
+          }
+        ]
+      },
+      "trigger": "inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.get_antique_atlas.description"
+    },
+    "frame": "goal",
+    "hidden": true,
+    "icon": {
+      "item": "antiqueatlas:empty_antique_atlas"
+    },
+    "title": {
+      "translate": "advancements.panchoring.get_antique_atlas.title"
+    }
+  },
+  "parent": "panchoring:get_atlas"
+}

@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "item": "sugar"
+    },
+    {
+      "item": "milk_bucket"
+    },
+    {
+      "item": "wheat"
+    },
+    {
+      "item": "egg"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "supplementaries:pancake"
+  },
+  "type": "crafting_shapeless"
+}

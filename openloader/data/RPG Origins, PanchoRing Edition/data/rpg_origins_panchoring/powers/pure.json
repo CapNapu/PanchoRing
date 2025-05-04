@@ -1,0 +1,57 @@
+{
+  "type": "origins:multiple",
+  "nether.damage": {
+    "type": "origins:modify_damage_dealt",
+    "modifier": {
+      "operation": "multiply_base",
+      "value": -0.5
+    },
+    "condition": {
+      "type": "origins:dimension",
+      "dimension": "the_nether"
+    },
+    "damage_condition": {
+      "type": "origins:and",
+      "conditions": [
+        {            
+          "inverted": true,
+          "type": "origins:name",
+          "name": "explosion.player"
+        },
+        {            
+          "inverted": true,
+          "type": "origins:name",
+          "name": "magic"
+        },
+        {
+          "inverted": true,
+          "type": "origins:name",
+          "name": "indirectMagic"
+        }
+      ]
+    }
+  },
+  "nether.resistance": {
+    "type": "origins:modify_damage_taken",
+    "modifier": {
+      "operation": "multiply_base",
+      "value": 0.5
+    },
+    "condition": {
+      "type": "origins:dimension",
+      "dimension": "the_nether"
+    }
+  },
+  "nether.speed": {
+    "type": "origins:conditioned_attribute",
+    "modifier": {
+      "attribute": "generic.movement_speed",
+      "operation": "multiply_base",
+      "value": -0.2
+    },
+    "condition": {
+      "type": "origins:dimension",
+      "dimension": "the_nether"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "ingredients": [
+    {
+      "item": "carrot"
+    },
+    {
+      "item": "carrot"
+    },
+    {
+      "item": "carrot"
+    },
+    {
+      "item": "carrot"
+    },
+    {
+      "item": "carrot"
+    },
+    {
+      "item": "carrot"
+    },
+    {
+      "item": "carrot"
+    },
+    {
+      "item": "carrot"
+    },
+    {
+      "item": "dustydecor:empty_barrel"
+    }
+  ],
+  "result": {
+    "item": "dustydecor:carrot_barrel"
+  },
+  "type": "crafting_shapeless"
+}

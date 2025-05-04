@@ -1,0 +1,561 @@
+{
+  "hidden": true,
+  "type": "origins:multiple",
+  "snow.speed": {
+    "type": "origins:conditioned_attribute",
+    "modifier": {
+      "attribute": "generic.movement_speed",
+      "operation": "multiply_base",
+      "value": -0.2
+    },
+    "tick_rate": 2,
+    "condition": {
+      "type": "origins:on_block",
+      "block_condition": {
+        "type": "origins:block",
+        "block": "snow_block"
+      }
+    }
+  },
+  "leather.boots.snow": {
+    "type": "origins:conditioned_attribute",
+    "modifier": {
+      "attribute": "generic.movement_speed",
+      "operation": "multiply_base",
+      "value": 0.2
+    },
+    "tick_rate": 2,
+    "condition": {
+      "type": "origins:and",
+      "conditions": [
+        {
+          "type": "origins:equipped_item",
+          "equipment_slot": "feet",
+          "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+              "tag": "panchoring:light_boots"
+            }
+          }
+        },
+        {
+          "type": "origins:on_block",
+          "block_condition": {
+            "type": "origins:block",
+            "block": "snow_block"
+          }
+        }
+      ]
+    }
+  },
+  "moose.headgear": {
+    "type": "origins:conditioned_attribute",
+    "modifiers": [
+      {
+        "attribute": "epicfight:impact",
+        "operation": "addition",
+        "value": 2
+      },
+      {
+        "attribute": "epicfight:offhand_impact",
+        "operation": "addition",
+        "value": 2
+      }
+    ],
+    "condition": {
+      "type": "origins:equipped_item",
+      "equipment_slot": "head",
+      "item_condition": {
+        "type": "origins:ingredient",
+        "ingredient": {
+          "item": "alexsmobs:moose_headgear"
+        }
+      }
+    }
+  },
+  "ranged.helmets.half": {
+    "type": "origins:modify_projectile_damage",
+    "modifier": {
+      "operation": "multiply_total",
+      "value": 0.034
+    },
+    "damage_condition": {
+      "type": "origins:and",
+      "conditions": [
+        {
+          "inverted": true,
+          "type": "origins:projectile",
+          "projectile": "alexsmobs:mosquito_spit"
+        },
+        {
+          "inverted": true,
+          "type": "origins:projectile",
+          "projectile": "alexsmobs:hemolymph"
+        }
+      ]
+    },
+    "condition": {
+      "type": "origins:equipped_item",
+      "equipment_slot": "head",
+      "item_condition": {
+        "type": "origins:ingredient",
+          "ingredient": {
+            "tag": "panchoring:half_ranged_damage_armors"
+        }
+      }
+    }
+  },
+  "ranged.chestplate.half": {
+    "type": "origins:modify_projectile_damage",
+    "modifier": {
+      "operation": "multiply_total",
+      "value": 0.034
+    },
+    "damage_condition": {
+      "type": "origins:and",
+      "conditions": [
+        {
+          "inverted": true,
+          "type": "origins:projectile",
+          "projectile": "alexsmobs:mosquito_spit"
+        },
+        {
+          "inverted": true,
+          "type": "origins:projectile",
+          "projectile": "alexsmobs:hemolymph"
+        }
+      ]
+    },
+    "condition": {
+      "type": "origins:equipped_item",
+      "equipment_slot": "chest",
+      "item_condition": {
+        "type": "origins:ingredient",
+          "ingredient": {
+            "tag": "panchoring:half_ranged_damage_armors"
+        }
+      }
+    }
+  },
+  "ranged.leggings.half": {
+    "type": "origins:modify_projectile_damage",
+    "modifier": {
+      "operation": "multiply_total",
+      "value": 0.034
+    },
+    "damage_condition": {
+      "type": "origins:and",
+      "conditions": [
+        {
+          "inverted": true,
+          "type": "origins:projectile",
+          "projectile": "alexsmobs:mosquito_spit"
+        },
+        {
+          "inverted": true,
+          "type": "origins:projectile",
+          "projectile": "alexsmobs:hemolymph"
+        }
+      ]
+    },
+    "condition": {
+      "type": "origins:equipped_item",
+      "equipment_slot": "legs",
+      "item_condition": {
+        "type": "origins:ingredient",
+          "ingredient": {
+            "tag": "panchoring:half_ranged_damage_armors"
+        }
+      }
+    }
+  },
+  "ranged.boots.half": {
+    "type": "origins:modify_projectile_damage",
+    "modifier": {
+      "operation": "multiply_total",
+      "value": 0.034
+    },
+    "damage_condition": {
+      "type": "origins:and",
+      "conditions": [
+        {
+          "inverted": true,
+          "type": "origins:projectile",
+          "projectile": "alexsmobs:mosquito_spit"
+        },
+        {
+          "inverted": true,
+          "type": "origins:projectile",
+          "projectile": "alexsmobs:hemolymph"
+        }
+      ]
+    },
+    "condition": {
+      "type": "origins:equipped_item",
+      "equipment_slot": "feet",
+      "item_condition": {
+        "type": "origins:ingredient",
+          "ingredient": {
+            "tag": "panchoring:half_ranged_damage_armors"
+        }
+      }
+    }
+  },
+  "ranged.helmet.full": {
+    "type": "origins:modify_projectile_damage",
+    "modifier": {
+      "operation": "multiply_total",
+      "value": 0.068
+    },
+    "damage_condition": {
+      "type": "origins:and",
+      "conditions": [
+        {
+          "inverted": true,
+          "type": "origins:projectile",
+          "projectile": "alexsmobs:mosquito_spit"
+        },
+        {
+          "inverted": true,
+          "type": "origins:projectile",
+          "projectile": "alexsmobs:hemolymph"
+        }
+      ]
+    },
+    "condition": {
+      "type": "origins:equipped_item",
+      "equipment_slot": "head",
+      "item_condition": {
+        "type": "origins:ingredient",
+          "ingredient": {
+            "tag": "panchoring:full_ranged_damage_armors"
+        }
+      }
+    }
+  },
+  "ranged.chestplate.full": {
+    "type": "origins:modify_projectile_damage",
+    "modifier": {
+      "operation": "multiply_total",
+      "value": 0.068
+    },
+    "damage_condition": {
+      "type": "origins:and",
+      "conditions": [
+        {
+          "inverted": true,
+          "type": "origins:projectile",
+          "projectile": "alexsmobs:mosquito_spit"
+        },
+        {
+          "inverted": true,
+          "type": "origins:projectile",
+          "projectile": "alexsmobs:hemolymph"
+        }
+      ]
+    },
+    "condition": {
+      "type": "origins:equipped_item",
+      "equipment_slot": "chest",
+      "item_condition": {
+        "type": "origins:ingredient",
+          "ingredient": {
+            "tag": "panchoring:full_ranged_damage_armors"
+        }
+      }
+    }
+  },
+  "ranged.leggings.full": {
+    "type": "origins:modify_projectile_damage",
+    "modifier": {
+      "operation": "multiply_total",
+      "value": 0.068
+    },
+    "damage_condition": {
+      "type": "origins:and",
+      "conditions": [
+        {
+          "inverted": true,
+          "type": "origins:projectile",
+          "projectile": "alexsmobs:mosquito_spit"
+        },
+        {
+          "inverted": true,
+          "type": "origins:projectile",
+          "projectile": "alexsmobs:hemolymph"
+        }
+      ]
+    },
+    "condition": {
+      "type": "origins:equipped_item",
+      "equipment_slot": "legs",
+      "item_condition": {
+        "type": "origins:ingredient",
+          "ingredient": {
+            "tag": "panchoring:full_ranged_damage_armors"
+        }
+      }
+    }
+  },
+  "ranged.boots.full": {
+    "type": "origins:modify_projectile_damage",
+    "modifier": {
+      "operation": "multiply_total",
+      "value": 0.068
+    },
+    "damage_condition": {
+      "type": "origins:and",
+      "conditions": [
+        {
+          "inverted": true,
+          "type": "origins:projectile",
+          "projectile": "alexsmobs:mosquito_spit"
+        },
+        {
+          "inverted": true,
+          "type": "origins:projectile",
+          "projectile": "alexsmobs:hemolymph"
+        }
+      ]
+    },
+    "condition": {
+      "type": "origins:equipped_item",
+      "equipment_slot": "feet",
+      "item_condition": {
+        "type": "origins:ingredient",
+          "ingredient": {
+            "tag": "panchoring:full_ranged_damage_armors"
+        }
+      }
+    }
+  },
+  "stellium.helmet": {
+    "type": "origins:conditioned_attribute",
+    "modifiers": [
+      {
+        "attribute": "generic.armor",
+        "operation": "addition",
+        "value": -1
+      },
+      {
+        "attribute": "generic.armor_toughness",
+        "operation": "addition",
+        "value": -1
+      }
+    ],
+    "condition": {
+      "type": "origins:and",
+      "conditions": [
+        {
+          "inverted": true,
+          "type": "origins:dimension",
+          "dimension": "the_end"
+        },
+        {
+          "type": "origins:equipped_item",
+          "equipment_slot": "head",
+          "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+              "item": "phantasm:stellium_helmet"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "stellium.chestplate": {
+    "type": "origins:conditioned_attribute",
+    "modifiers": [
+      {
+        "attribute": "generic.armor",
+        "operation": "addition",
+        "value": -2
+      },
+      {
+        "attribute": "generic.armor_toughness",
+        "operation": "addition",
+        "value": -1
+      }
+    ],
+    "condition": {
+      "type": "origins:and",
+      "conditions": [
+        {
+          "inverted": true,
+          "type": "origins:dimension",
+          "dimension": "the_end"
+        },
+        {
+          "type": "origins:equipped_item",
+          "equipment_slot": "chest",
+          "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+              "item": "phantasm:stellium_chestplate"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "stellium.leggings": {
+    "type": "origins:conditioned_attribute",
+    "modifiers": [
+      {
+        "attribute": "generic.armor",
+        "operation": "addition",
+        "value": -1
+      },
+      {
+        "attribute": "generic.armor_toughness",
+        "operation": "addition",
+        "value": -1
+      }
+    ],
+    "condition": {
+      "type": "origins:and",
+      "conditions": [
+        {
+          "inverted": true,
+          "type": "origins:dimension",
+          "dimension": "the_end"
+        },
+        {
+          "type": "origins:equipped_item",
+          "equipment_slot": "legs",
+          "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+              "item": "phantasm:stellium_leggings"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "stellium.boots": {
+    "type": "origins:conditioned_attribute",
+    "modifiers": [
+      {
+        "attribute": "generic.armor",
+        "operation": "addition",
+        "value": -1
+      },
+      {
+        "attribute": "generic.armor_toughness",
+        "operation": "addition",
+        "value": -1
+      }
+    ],
+    "condition": {
+      "type": "origins:and",
+      "conditions": [
+        {
+          "inverted": true,
+          "type": "origins:dimension",
+          "dimension": "the_end"
+        },
+        {
+          "type": "origins:equipped_item",
+          "equipment_slot": "feet",
+          "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+              "item": "phantasm:stellium_boots"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "ignitium.chestplate.nether": {
+    "type": "origins:action_over_time",
+    "entity_action": {
+      "type": "origins:heal",
+      "amount": 1
+    },
+    "interval": 200,
+    "condition": {
+      "type": "origins:and",
+      "conditions": [
+        {
+          "type": "origins:dimension",
+          "dimension": "the_nether"
+        },
+        {
+          "type": "origins:equipped_item",
+          "equipment_slot": "chest",
+          "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+              "item": "cataclysm:ignitium_chestplate"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "ignitium.chestplate.fire": {
+    "type": "origins:action_over_time",
+    "entity_action": {
+      "type": "origins:heal",
+      "amount": 1
+    },
+    "interval": 15,
+    "condition": {
+      "type": "origins:and",
+      "conditions": [
+        {
+          "type": "origins:on_fire"
+        },
+        {
+          "type": "origins:equipped_item",
+          "equipment_slot": "chest",
+          "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+              "item": "cataclysm:ignitium_chestplate"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "gauntlet.mainhand": {
+    "type": "origins:conditioned_attribute",
+    "modifier": {
+      "attribute": "epicfight:stun_armor",
+      "operation": "addition",
+      "value": 2.5
+    },
+    "condition": {
+      "type": "origins:equipped_item",
+      "equipment_slot": "mainhand",
+      "item_condition": {
+        "type": "origins:ingredient",
+        "ingredient": {
+          "item": "cataclysm:gauntlet_of_guard"
+        }
+      }
+    }
+  },
+  "gauntlet.offhand": {
+    "type": "origins:conditioned_attribute",
+    "modifier": {
+      "attribute": "epicfight:stun_armor",
+      "operation": "addition",
+      "value": 2.5
+    },
+    "condition": {
+      "type": "origins:equipped_item",
+      "equipment_slot": "offhand",
+      "item_condition": {
+        "type": "origins:ingredient",
+        "ingredient": {
+          "item": "cataclysm:gauntlet_of_guard"
+        }
+      }
+    }
+  }
+}

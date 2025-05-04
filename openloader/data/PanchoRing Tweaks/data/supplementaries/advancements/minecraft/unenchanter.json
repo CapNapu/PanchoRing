@@ -1,0 +1,43 @@
+{
+  "criteria": {
+    "apple": {
+      "conditions": {
+        "item": {
+          "item": "golden_apple"
+        }
+      },
+      "trigger": "grind_item"
+    },
+    "bomb": {
+      "conditions": {
+        "item": {
+          "item": "supplementaries:bomb"
+        }
+      },
+      "trigger": "grind_item"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.story.unenchanter.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "item": "enchanted_golden_apple"
+    },
+    "title": {
+      "translate": "advancements.story.unenchanter.title"
+    }
+  },
+  "parent": "panchoring:place_grindstone",
+  "requirements": [
+    [
+      "apple",
+      "bomb"
+    ]
+  ],
+  "rewards": {
+    "experience": 250
+  }
+}

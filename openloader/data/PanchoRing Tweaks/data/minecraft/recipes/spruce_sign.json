@@ -1,0 +1,20 @@
+{
+  "key": {
+    "#": {
+      "item": "spruce_slab"
+    },
+    "X": {
+      "item": "stick"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    " X "
+  ],
+  "result": {
+    "count": 4,
+    "item": "spruce_sign"
+  },
+  "type": "crafting_shaped"
+}

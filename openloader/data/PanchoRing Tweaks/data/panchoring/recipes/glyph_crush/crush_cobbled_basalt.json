@@ -1,0 +1,12 @@
+{
+  "input": {
+    "item": "infernalexp:basalt_cobbled"
+  },
+  "output": [
+    {
+      "chance": 1.0,
+      "item": "infernalexp:silt"
+    }
+  ],
+  "type": "ars_nouveau:crush"
+}

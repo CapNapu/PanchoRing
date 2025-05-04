@@ -1,0 +1,168 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "iceandfire:silver_sword",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 10,
+              "treasure": true
+            }
+          ],
+          "name": "iceandfire:silver_sword",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "name": "dungeons_gear:sword",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 20,
+              "treasure": true
+            }
+          ],
+          "name": "dungeons_gear:sword",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "name": "leather_helmet",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "name": "leather_chestplate",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "name": "leather_leggings",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "name": "leather_boots",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 30,
+              "treasure": true
+            }
+          ],
+          "name": "diamond_helmet",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 30,
+              "treasure": true
+            }
+          ],
+          "name": "diamond_chestplate",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 30,
+              "treasure": true
+            }
+          ],
+          "name": "diamond_leggings",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 30,
+              "treasure": true
+            }
+          ],
+          "name": "diamond_boots",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "name": "shield",
+          "type": "item",
+          "weight": 6
+        },
+        {
+          "name": "bow",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 30,
+              "treasure": true
+            }
+          ],
+          "name": "bow",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 7.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "coal",
+          "type": "item",
+          "weight": 7
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 7.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "charcoal",
+          "type": "item",
+          "weight": 7
+        }
+      ],
+      "rolls": {
+        "max": 3.0,
+        "min": 1.0,
+        "type": "uniform"
+      }
+    }
+  ],
+  "type": "chest"
+}

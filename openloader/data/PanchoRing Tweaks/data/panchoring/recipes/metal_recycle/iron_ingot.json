@@ -1,0 +1,92 @@
+{
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": [
+    {
+      "item": "iron_helmet"
+    },
+    {
+      "item": "iron_chestplate"
+    },
+    {
+      "item": "iron_leggings"
+    },
+    {
+      "item": "iron_boots"
+    },
+    {
+      "item": "chainmail_helmet"
+    },
+    {
+      "item": "chainmail_chestplate"
+    },
+    {
+      "item": "chainmail_leggings"
+    },
+    {
+      "item": "chainmail_boots"
+    },
+    {
+      "item": "iron_horse_armor"
+    },
+    {
+      "item": "revampedwolf:iron_wolf_armor"
+    },
+    {
+      "item": "iceandfire:iron_hippogryph_armor"
+    },
+    {
+      "item": "iron_door"
+    },
+    {
+      "item": "iron_trapdoor"
+    },
+    {
+      "item": "heavy_weighted_pressure_plate"
+    },
+    {
+      "item": "brewing_stand"
+    },
+    {
+      "item": "stonecutter"
+    },
+    {
+      "item": "smithing_table"
+    },
+    {
+      "item": "hopper"
+    },
+    {
+      "item": "supplementaries:goblet"
+    },
+    {
+      "item": "supplementaries:faucet"
+    },
+    {
+      "item": "supplementaries:spring_launcher"
+    },
+    {
+      "item": "supplementaries:lock_block"
+    },
+    {
+      "item": "supplementaries:wind_vane"
+    },
+    {
+      "item": "cauldron"
+    },
+    {
+      "item": "dustydecor:frying_pan"
+    },
+    {
+      "item": "dustydecor:cooking_pot"
+    },
+    {
+      "item": "supplementaries:cage"
+    },
+    {
+      "item": "minecart"
+    }
+  ],
+  "result": "iron_ingot",
+  "type": "blasting"
+}

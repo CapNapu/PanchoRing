@@ -1,0 +1,23 @@
+{
+  "criteria": {
+    "burning_arena": {
+      "conditions": {
+        "feature": "cataclysm:burning_arena"
+      },
+      "trigger": "yungsapi:structure_location"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.find_burning_arena.description"
+    },
+    "icon": {
+      "hidden": true,
+      "item": "cataclysm:altar_of_fire"
+    },
+    "title": {
+      "translate": "advancements.panchoring.find_burning_arena.title"
+    }
+  },
+  "parent": "nether/root"
+}

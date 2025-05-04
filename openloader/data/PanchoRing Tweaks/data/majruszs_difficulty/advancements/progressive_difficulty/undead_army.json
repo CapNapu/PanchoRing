@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "army_defeated": {
+      "conditions": {
+        "wave": 3
+      },
+      "trigger": "majruszs_difficulty:undead_army_defeated"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.progressive_difficulty.undead_army.description"
+    },
+    "icon": {
+      "item": "skeleton_skull"
+    },
+    "title": {
+      "translate": "advancements.progressive_difficulty.undead_army.title"
+    }
+  },
+  "parent": "adventure/kill_a_mob"
+}

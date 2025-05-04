@@ -1,0 +1,13 @@
+{
+  "first": {
+    "item": "improvedbackpacks:bound_leather"
+  },
+  "first_count": 5,
+  "result": "alexsmobs:pocket_sand",
+  "second": {
+    "item": "alexsmobs:guster_eye"
+  },
+  "second_count": 1,
+  "spools_count": 1,
+  "type": "improvedbackpacks:sewing"
+}

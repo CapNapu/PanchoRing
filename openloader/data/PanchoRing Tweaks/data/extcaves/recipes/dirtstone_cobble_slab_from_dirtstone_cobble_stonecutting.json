@@ -1,0 +1,13 @@
+{
+  "count": 2,
+  "ingredient": [
+    {
+      "item": "extcaves:dirtstone"
+    },
+    {
+      "item": "extcaves:dirtstone_cobble"
+    }
+  ],
+  "result": "extcaves:dirtstone_cobble_slab",
+  "type": "stonecutting"
+}

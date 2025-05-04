@@ -1,0 +1,31 @@
+{
+  "item_1": [
+    {
+      "item": "ars_nouveau:mana_gem"
+    }
+  ],
+  "item_2": [
+    {
+      "item": "ars_nouveau:mana_gem"
+    }
+  ],
+  "item_3": [
+    {
+      "item": "gold_ingot"
+    }
+  ],
+  "item_4": [
+    {
+      "item": "clock"
+    }
+  ],
+  "output": {
+    "item": "ars_nouveau:timer_spell_turret"
+  },
+  "reagent": [
+    {
+      "item": "ars_nouveau:basic_spell_turret"
+    }
+  ],
+  "type": "ars_nouveau:enchanting_apparatus"
+}

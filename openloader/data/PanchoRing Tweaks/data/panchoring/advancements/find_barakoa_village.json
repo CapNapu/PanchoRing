@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "barakoa_village": {
+      "conditions": {
+        "location": {
+          "feature": "mowziesmobs:barakoa_village"
+        }
+      },
+      "trigger": "location"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.find_barakoa_village.description"
+    },
+    "icon": {
+      "item": "mowziesmobs:barakoa_mask_fury"
+    },
+    "title": {
+      "translate": "advancements.panchoring.find_barakoa_village.title"
+    }
+  },
+  "parent": "adventure/kill_a_mob"
+}

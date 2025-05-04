@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "ignited_revenant": {
+      "conditions": {
+        "entity": {
+          "type": "cataclysm:ignited_revenant"
+        }
+      },
+      "trigger": "player_killed_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.kill_ignited_revenant.description"
+    },
+    "frame": "goal",
+    "hidden": true,
+    "icon": {
+      "item": "cataclysm:burning_ashes"
+    },
+    "title": {
+      "translate": "advancements.panchoring.kill_ignited_revenant.title"
+    }
+  },
+  "parent": "panchoring:find_burning_arena"
+}

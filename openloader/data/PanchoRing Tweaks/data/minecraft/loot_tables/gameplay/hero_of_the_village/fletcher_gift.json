@@ -1,0 +1,244 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "name": "arrow",
+          "type": "item",
+          "weight": 20
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 2,
+                "min": 0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"swiftness\"}"
+            }
+          ],
+          "name": "tipped_arrow",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 2,
+                "min": 0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"slowness\"}"
+            }
+          ],
+          "name": "tipped_arrow",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 2,
+                "min": 0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"strength\"}"
+            }
+          ],
+          "name": "tipped_arrow",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 2,
+                "min": 0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"healing\"}"
+            }
+          ],
+          "name": "tipped_arrow",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 2,
+                "min": 0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"harming\"}"
+            }
+          ],
+          "name": "tipped_arrow",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 2,
+                "min": 0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"regeneration\"}"
+            }
+          ],
+          "name": "tipped_arrow",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 2,
+                "min": 0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"fire_resistance\"}"
+            }
+          ],
+          "name": "tipped_arrow",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 2,
+                "min": 0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"water_breathing\"}"
+            }
+          ],
+          "name": "tipped_arrow",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 2,
+                "min": 0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"invisibility\"}"
+            }
+          ],
+          "name": "tipped_arrow",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 2,
+                "min": 0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"night_vision\"}"
+            }
+          ],
+          "name": "tipped_arrow",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 2,
+                "min": 0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"weakness\"}"
+            }
+          ],
+          "name": "tipped_arrow",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 2,
+                "min": 0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"poison\"}"
+            }
+          ],
+          "name": "tipped_arrow",
+          "type": "item"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "gift"
+}

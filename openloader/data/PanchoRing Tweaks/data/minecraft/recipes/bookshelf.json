@@ -1,0 +1,19 @@
+{
+  "key": {
+    "#": {
+      "tag": "planks"
+    },
+    "X": {
+      "item": "book"
+    }
+  },
+  "pattern": [
+    "XXX",
+    "###",
+    "XXX"
+  ],
+  "result": {
+    "item": "bookshelf"
+  },
+  "type": "crafting_shaped"
+}

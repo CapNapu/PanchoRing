@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "worn_notebook": {
+      "conditions": {
+        "recipe": "panchoring:worn_notebook"
+      },
+      "trigger": "recipe_unlocked"
+    }
+  },
+  "rewards": {
+    "function": "panchoring:worn_notebook"
+  }
+}

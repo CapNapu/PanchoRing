@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "cartography_table": {
+      "conditions": {
+        "block": "cartography_table"
+      },
+      "trigger": "placed_block"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.place_cartography_table.description"
+    },
+    "icon": {
+      "item": "cartography_table"
+    },
+    "title": {
+      "translate": "advancements.panchoring.place_cartography_table.title"
+    }
+  },
+  "parent": "husbandry/root"
+}

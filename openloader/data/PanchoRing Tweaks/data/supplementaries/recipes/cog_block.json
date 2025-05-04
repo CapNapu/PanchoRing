@@ -1,0 +1,20 @@
+{
+  "key": {
+    "1": {
+      "item": "iceandfire:copper_ingot"
+    },
+    "2": {
+      "item": "redstone_block"
+    }
+  },
+  "pattern": [
+    "111",
+    "121",
+    "111"
+  ],
+  "result": {
+    "count": 4,
+    "item": "supplementaries:cog_block"
+  },
+  "type": "crafting_shaped"
+}

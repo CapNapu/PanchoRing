@@ -1,0 +1,22 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "cataclysm:infernal_forge",
+          "type": "item"
+        }
+      ],
+      "rolls": 1
+    },
+    {
+      "entries": [
+        {
+          "name": "cataclysm:monstrous_horn",
+          "type": "item"
+        }
+      ],
+      "rolls": 2
+    }
+  ]
+}

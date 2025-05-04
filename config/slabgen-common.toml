@@ -1,0 +1,7 @@
+
+[dice]
+	#Wheather or not the biome list is whitelist or blacklist. false for blacklist, true for whitelist
+	"biome whitelist" = false
+	#Biomes that should include/exclude slab generation. Should be <modid:biomeid>. Example: minecraft:forest
+	"biome list" = ["minecraft:swamp", "minecraft:swamp_hills"]
+

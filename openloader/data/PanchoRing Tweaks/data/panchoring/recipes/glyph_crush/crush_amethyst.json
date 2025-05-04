@@ -1,0 +1,13 @@
+{
+  "input": {
+    "item": "iceandfire:amythest_ore"
+  },
+  "output": [
+    {
+      "chance": 1.0,
+      "count": 3,
+      "item": "iceandfire:amythest_gem"
+    }
+  ],
+  "type": "ars_nouveau:crush"
+}

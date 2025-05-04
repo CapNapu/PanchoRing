@@ -1,0 +1,17 @@
+{
+  "key": {
+    "#": {
+      "item": "diorite"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "item": "diorite_stairs"
+  },
+  "type": "crafting_shaped"
+}

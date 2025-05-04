@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "infernalexp:basalt_cobbled_slab"
+    },
+    {
+      "item": "infernalexp:basalt_cobbled_slab"
+    }
+  ],
+  "result": {
+    "item": "infernalexp:basalt_cobbled"
+  },
+  "type": "crafting_shapeless"
+}

@@ -1,0 +1,19 @@
+{
+  "key": {
+    "0": {
+      "tag": "planks"
+    },
+    "1": {
+      "item": "iceandfire:copper_ingot"
+    }
+  },
+  "pattern": [
+    " 0 ",
+    "010",
+    " 0 "
+  ],
+  "result": {
+    "item": "supplementaries:speaker_block"
+  },
+  "type": "crafting_shaped"
+}

@@ -1,0 +1,23 @@
+{
+  "powers": [
+    "rpg_origins_panchoring:equipment_thief",
+    "rpg_origins_panchoring:stealthy",
+    "rpg_origins_panchoring:phantomized",
+    "rpg_origins_panchoring:acrobat",
+    "rpg_origins_panchoring:moon_vision",
+    "rpg_origins_panchoring:better_unnoticed",
+    "rpg_origins_panchoring:antihero",
+    "origins:no_shield",
+    "rpg_origins_panchoring:.armor_tweaks",
+    "rpg_origins_panchoring:.sleeping_tweaks",
+    "rpg_origins_panchoring:.projectile_tweaks",
+    "rpg_origins_panchoring:.more_exhaustion_not",
+    "rpg_origins_panchoring:.mage_robes_not",
+    "rpg_origins_panchoring:.heavy_weapons_not",
+    "rpg_origins_panchoring:.break_speed_not"
+  ],
+  "icon": {
+    "item": "dungeons_gear:dagger"
+  },
+  "impact": 3
+}

@@ -1,0 +1,52 @@
+{
+  "theme": {
+    "fencing": {
+      "block": "iron_bars",
+      "type": "block"
+    },
+    "floor": {
+      "block": "polished_diorite",
+      "type": "block"
+    },
+    "fluid": {
+      "block": "air",
+      "type": "block"
+    },
+    "generic": {
+      "block": "bricks",
+      "type": "block"
+    },
+    "material": {
+      "block": "bricks",
+      "type": "block"
+    },
+    "pillar": {
+      "block": "polished_diorite",
+      "type": "block"
+    },
+    "slab": {
+      "block": "brick_slab",
+      "type": "block"
+    },
+    "solid": {
+      "block": "polished_diorite",
+      "type": "block"
+    },
+    "solid_slab": {
+      "block": "polished_diorite_slab",
+      "type": "block"
+    },
+    "solid_stairs": {
+      "block": "polished_diorite_stairs",
+      "type": "block"
+    },
+    "stairs": {
+      "block": "brick_stairs",
+      "type": "block"
+    },
+    "wall": {
+      "block": "brick_wall",
+      "type": "block"
+    }
+  }
+}

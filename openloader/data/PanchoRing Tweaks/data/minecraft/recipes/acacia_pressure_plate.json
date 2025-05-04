@@ -1,0 +1,15 @@
+{
+  "key": {
+    "#": {
+      "item": "acacia_planks"
+    }
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": {
+    "count": 2,
+    "item": "acacia_pressure_plate"
+  },
+  "type": "crafting_shaped"
+}

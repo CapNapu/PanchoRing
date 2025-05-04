@@ -1,0 +1,15 @@
+{
+  "key": {
+    "#": {
+      "item": "projectvibrantjourneys:juniper_planks"
+    }
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": {
+    "count": 2,
+    "item": "projectvibrantjourneys:juniper_pressure_plate"
+  },
+  "type": "crafting_shaped"
+}

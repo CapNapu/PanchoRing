@@ -1,0 +1,33 @@
+{
+  "criteria": {
+    "creeper": {
+      "conditions": {
+        "damage": {
+          "blocked": true,
+          "source_entity": {
+            "nbt": "{powered:1b}",
+            "type": "creeper"
+          }
+        }
+      },
+      "trigger": "entity_hurt_player"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.block_charged_creeper.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "item": "gunpowder"
+    },
+    "title": {
+      "translate": "advancements.panchoring.block_charged_creeper.title"
+    }
+  },
+  "parent": "story/deflect_arrow",
+  "rewards": {
+    "experience": 250
+  }
+}

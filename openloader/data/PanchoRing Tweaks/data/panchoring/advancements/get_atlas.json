@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "atlas": {
+      "conditions": {
+        "items": [
+          {
+            "item": "mapatlases:atlas"
+          }
+        ]
+      },
+      "trigger": "inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.get_atlas.description"
+    },
+    "icon": {
+      "item": "mapatlases:atlas"
+    },
+    "title": {
+      "translate": "advancements.panchoring.get_atlas.title"
+    }
+  },
+  "parent": "panchoring:place_cartography_table"
+}

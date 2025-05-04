@@ -1,0 +1,20 @@
+{
+  "key": {
+    "#": {
+      "item": "stick"
+    },
+    "X": {
+      "item": "iron_ingot"
+    }
+  },
+  "pattern": [
+    "X#X",
+    " # ",
+    "X#X"
+  ],
+  "result": {
+    "count": 16,
+    "item": "rail"
+  },
+  "type": "crafting_shaped"
+}

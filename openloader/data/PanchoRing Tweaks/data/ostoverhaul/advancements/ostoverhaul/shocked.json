@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "music_disc_shock": {
+      "conditions": {
+        "item": {
+          "item": "ostoverhaul:shock_disc"
+        },
+        "location": {
+          "block": {
+            "block": "jukebox"
+          }
+        }
+      },
+      "trigger": "item_used_on_block"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.ostoverhaul.shocked.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "ostoverhaul:shock_disc"
+    },
+    "title": {
+      "translate": "advancements.ostoverhaul.shocked.tittle"
+    }
+  },
+  "parent": "panchoring:music_disc_any"
+}

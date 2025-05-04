@@ -1,0 +1,101 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"slowness\"}"
+            }
+          ],
+          "name": "lingering_potion",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"strength\"}"
+            }
+          ],
+          "name": "lingering_potion",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"regeneration\"}"
+            }
+          ],
+          "name": "lingering_potion",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"harming\"}"
+            }
+          ],
+          "name": "lingering_potion",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"slow_falling\"}"
+            }
+          ],
+          "name": "lingering_potion",
+          "type": "item"
+        }
+      ],
+      "rolls": {
+        "max": 8.0,
+        "min": 3.0,
+        "type": "uniform"
+      }
+    },
+    {
+      "entries": [
+        {
+          "name": "glass_bottle",
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "name": "blaze_powder",
+          "type": "item",
+          "weight": 1
+        }
+      ],
+      "rolls": {
+        "max": 8.0,
+        "min": 4.0,
+        "type": "uniform"
+      }
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "enchantments": [
+                "mending"
+              ],
+              "function": "enchant_randomly"
+            }
+          ],
+          "name": "book",
+          "type": "item"
+        }
+      ],
+      "rolls": 1,
+      "bonus_rolls": 1
+    }
+  ],
+  "type": "chest"
+}

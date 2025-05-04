@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "honeycomb"
+    },
+    {
+      "item": "honeycomb"
+    }
+  ],
+  "result": {
+    "item": "iceandfire:earplugs"
+  },
+  "type": "crafting_shapeless"
+}

@@ -1,0 +1,20 @@
+{
+  "key": {
+    "#": {
+      "tag": "planks"
+    },
+    "S": {
+      "item": "string"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "S#S",
+    "SSS"
+  ],
+  "result": {
+    "count": 2,
+    "item": "improvedbackpacks:sewing_spool"
+  },
+  "type": "crafting_shaped"
+}

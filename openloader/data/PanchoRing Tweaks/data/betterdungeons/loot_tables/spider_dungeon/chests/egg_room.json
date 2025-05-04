@@ -1,0 +1,292 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "golden_apple",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "name": "saddle",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "name": "enchanted_golden_apple",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "name": "diamond",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            }
+          ],
+          "name": "book",
+          "type": "item",
+          "weight": 20
+        }
+      ],
+      "rolls": {
+        "max": 2.0,
+        "min": 1.0,
+        "type": "uniform"
+      }
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Potion: \"weakness\"}"
+            }
+          ],
+          "name": "potion",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Potion: \"slowness\"}"
+            }
+          ],
+          "name": "potion",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Potion: \"harming\"}"
+            }
+          ],
+          "name": "potion",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Potion: \"strong_harming\"}"
+            }
+          ],
+          "name": "potion",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Potion: \"invisibility\"}"
+            }
+          ],
+          "name": "potion",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Potion: \"weakness\"}"
+            }
+          ],
+          "name": "splash_potion",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Potion: \"slowness\"}"
+            }
+          ],
+          "name": "splash_potion",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Potion: \"harming\"}"
+            }
+          ],
+          "name": "splash_potion",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Potion: \"strong_harming\"}"
+            }
+          ],
+          "name": "splash_potion",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Potion: \"invisibility\"}"
+            }
+          ],
+          "name": "splash_potion",
+          "type": "item",
+          "weight": 2
+        }
+      ],
+      "rolls": {
+        "max": 6.0,
+        "min": 3.0,
+        "type": "uniform"
+      }
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 5.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "spider_eye",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 5.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "coal",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 5.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "beetroot_seeds",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 5.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "pumpkin_seeds",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 5.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "melon_seeds",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "name": "lead",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "name": "name_tag",
+          "type": "item",
+          "weight": 1
+        }
+      ],
+      "rolls": {
+        "max": 4.0,
+        "min": 3.0,
+        "type": "uniform"
+      }
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 3.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "cobweb",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 3.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "string",
+          "type": "item",
+          "weight": 10
+        }
+      ],
+      "rolls": 3
+    }
+  ],
+  "type": "chest"
+}

@@ -1,0 +1,13 @@
+{
+  "first": {
+    "item": "improvedbackpacks:bound_leather"
+  },
+  "first_count": 1,
+  "result": "ars_elemental:curio_bag",
+  "second": {
+    "item": "ars_nouveau:mana_fiber"
+  },
+  "second_count": 8,
+  "spools_count": 1,
+  "type": "improvedbackpacks:sewing"
+}

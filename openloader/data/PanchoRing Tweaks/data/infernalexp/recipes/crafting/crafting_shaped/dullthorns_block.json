@@ -1,0 +1,15 @@
+{
+  "key": {
+    "x": {
+      "item": "infernalexp:dullthorns"
+    }
+  },
+  "pattern": [
+    "xx",
+    "xx"
+  ],
+  "result": {
+    "item": "infernalexp:dullthorns_block"
+  },
+  "type": "crafting_shaped"
+}

@@ -1,0 +1,12 @@
+{
+  "addition": {
+    "item": "iron_ingot"
+  },
+  "base": {
+    "item": "stick"
+  },
+  "result": {
+    "item": "dungeons_gear:dagger"
+  },
+  "type": "smithing"
+}

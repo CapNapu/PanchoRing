@@ -1,0 +1,19 @@
+{
+  "key": {
+    "B": {
+      "item": "iceandfire:dragonbone"
+    },
+    "I": {
+      "item": "iceandfire:silver_ingot"
+    }
+  },
+  "pattern": [
+    "B",
+    "B",
+    "I"
+  ],
+  "result": {
+    "item": "iceandfire:dragon_flute"
+  },
+  "type": "crafting_shaped"
+}

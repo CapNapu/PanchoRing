@@ -1,0 +1,71 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "feature": {
+          "config": {
+            "can_replace": true,
+            "project": true,
+            "need_water": false,
+            "xspread": 5,
+            "yspread": 3,
+            "zspread": 5,
+            "whitelist": [
+			  {
+				"Properties": {
+				  "snowy": "false"
+				},
+				"Name": "minecraft:grass_block"
+			  },
+			  {
+				"Properties": {
+				  "snowy": "false"
+				},
+				"Name": "minecraft:podzol"
+			  },
+			  {
+				"Name": "minecraft:coarse_dirt"
+			  }
+			],
+            "blacklist": [],
+            "tries": 10,
+            "state_provider": {
+              "state": {
+                "Properties": {
+				  "axis": "y"
+				  },
+				"Name": "minecraft:spruce_wood"
+              },
+              "type": "minecraft:simple_state_provider"
+            },
+            "block_placer": {
+              "type": "minecraft:simple_block_placer"
+            }
+          },
+          "type": "minecraft:random_patch"
+        },
+        "decorator": {
+          "config": {
+            "outer": {
+              "config": {},
+              "type": "minecraft:nope"
+            },
+            "inner": {
+              "config": {},
+              "type": "minecraft:heightmap_world_surface"
+            }
+          },
+          "type": "minecraft:decorated"
+        }
+      },
+      "type": "minecraft:decorated"
+    },
+    "decorator": {
+      "config": {
+        "count": 10
+      },
+      "type": "minecraft:count"
+    }
+  },
+  "type": "minecraft:decorated"
+}

@@ -1,0 +1,12 @@
+{
+  "addition": {
+    "item": "iron_ingot"
+  },
+  "base": {
+    "item": "iron_shovel"
+  },
+  "result": {
+    "item": "dungeons_gear:mace"
+  },
+  "type": "smithing"
+}

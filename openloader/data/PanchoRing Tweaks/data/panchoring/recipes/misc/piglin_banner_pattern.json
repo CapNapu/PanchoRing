@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "paper"
+    },
+    {
+      "item": "bygonenether:netherite_bell"
+    }
+  ],
+  "result": {
+    "item": "piglin_banner_pattern"
+  },
+  "type": "crafting_shapeless"
+}

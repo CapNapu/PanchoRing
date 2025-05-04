@@ -1,0 +1,19 @@
+{
+  "key": {
+    "x": {
+      "item": "infernalexp:soul_slate_brick_slab"
+    },
+    "y": {
+      "item": "bosses_of_mass_destruction:soul_star"
+    }
+  },
+  "pattern": [
+    "x",
+    "y",
+    "x"
+  ],
+  "result": {
+    "item": "infernalexp:charged_chiseled_soul_slate_bricks"
+  },
+  "type": "crafting_shaped"
+}

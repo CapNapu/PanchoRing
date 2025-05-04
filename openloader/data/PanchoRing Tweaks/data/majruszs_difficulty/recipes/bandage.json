@@ -1,0 +1,17 @@
+{
+	"key": {
+		"s": {
+			"item": "string"
+		}
+	},
+	"pattern": [
+		"ss ",
+		"sss",
+		" ss"
+	],
+	"result": {
+		"count": 2,
+		"item": "majruszs_difficulty:bandage"
+	},
+	"type": "crafting_shaped"
+}

@@ -1,0 +1,20 @@
+{
+  "key": {
+    "0": {
+      "item": "end_stone"
+    },
+    "1": {
+      "item": "shroomlight"
+    }
+  },
+  "pattern": [
+    " 0 ",
+    "010",
+    " 0 "
+  ],
+  "result": {
+    "count": 4,
+    "item": "supplementaries:end_stone_lamp"
+  },
+  "type": "crafting_shaped"
+}

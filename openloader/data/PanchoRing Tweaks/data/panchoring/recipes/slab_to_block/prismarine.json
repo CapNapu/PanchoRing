@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "prismarine_slab"
+    },
+    {
+      "item": "prismarine_slab"
+    }
+  ],
+  "result": {
+    "item": "prismarine"
+  },
+  "type": "crafting_shapeless"
+}

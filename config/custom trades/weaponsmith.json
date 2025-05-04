@@ -1,0 +1,346 @@
+{
+  "profession": "minecraft:weaponsmith",
+  "removeOtherTrades": true,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:coal",
+        "amount": 15
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:iron_axe",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3
+      },
+      "tradeExp": 1,
+      "maxUses": 12,
+      "priceMultiplier": 0.2,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:iron_sword",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2
+      },
+      "tradeExp": 1,
+      "maxUses": 12,
+      "priceMultiplier": 0.2,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:iron_ingot",
+        "amount": 4
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "iceandfire:copper_ingot",
+        "amount": 4
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:bell",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 36
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.2,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "extcaves:rock_flint",
+        "amount": 24
+      },
+      "tradeExp": 20,
+      "maxUses": 12,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:diamond",
+        "amount": 1
+      },
+      "tradeExp": 30,
+      "maxUses": 12,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "iceandfire:silver_ingot",
+        "amount": 2
+      },
+      "tradeExp": 20,
+      "maxUses": 12,
+      "tradeLevel": 3
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "dungeons_gear:dagger",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:sickle",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:rapier",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:cutlass",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:sword",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:pickaxe",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:axe",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:double_axe",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:mace",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:katana",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:claymore",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:spear",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:glaive",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3,
+        "amountRange": 5
+      },
+      "tradeExp": 20,
+      "maxUses": 3,
+      "priceMultiplier": 0.2,
+      "tradeLevel": 4
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "dungeons_gear:soul_scythe",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:dancers_sword",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:stone_sword",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:flail",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:great_hammer",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:dark_katana",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:soul_knife",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:truthseeker",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:tempest_knife",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:anchor",
+          "amount": 1
+        },
+        {
+          "itemKey": "epicfight:katana",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 8,
+        "amountRange": 11
+      },
+      "tradeExp": 20,
+      "maxUses": 3,
+      "priceMultiplier": 0.2,
+      "tradeLevel": 4
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "dungeons_gear:fang_of_frost",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:shear_dagger",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:bee_stinger",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:jailors_scythe",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:hawkbrand",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:sinister_sword",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:battlestaff_of_terror",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:growing_staff",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:highland_axe",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 14,
+        "amountRange": 19
+      },
+      "tradeExp": 30,
+      "maxUses": 3,
+      "priceMultiplier": 0.2,
+      "tradeLevel": 5
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "dungeons_gear:whirlwind",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:hammer_of_gravity",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:broadsword",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:heartstealer",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:great_axeblade",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:fortune_spear",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:whispering_spear",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:resolute_tempest_knife",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:chill_gale_knife",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 14,
+        "amountRange": 19
+      },
+      "tradeExp": 30,
+      "maxUses": 3,
+      "priceMultiplier": 0.2,
+      "tradeLevel": 5
+    }
+  ]
+}

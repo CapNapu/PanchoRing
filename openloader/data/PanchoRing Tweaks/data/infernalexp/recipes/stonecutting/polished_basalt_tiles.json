@@ -1,0 +1,16 @@
+{
+  "count": 1,
+  "ingredient": [
+    {
+      "item": "basalt"
+    },
+    {
+      "item": "polished_basalt"
+    },
+    {
+      "item": "infernalexp:basalt_bricks"
+    }
+  ],
+  "result": "infernalexp:polished_basalt_tiles",
+  "type": "stonecutting"
+}

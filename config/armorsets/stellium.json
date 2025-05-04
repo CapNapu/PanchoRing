@@ -1,0 +1,47 @@
+{
+  "armorSetName": "stellium",
+  "head": {
+    "itemKey": "phantasm:stellium_helmet"
+  },
+  "chest": {
+    "itemKey": "phantasm:stellium_chestplate"
+  },
+  "legs": {
+    "itemKey": "phantasm:stellium_leggings"
+  },
+  "boots": {
+    "itemKey": "phantasm:stellium_boots"
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.max_health",
+      "value": 0.25,
+      "modifierUUID": "c740f6ba-9d08-4fed-94f4-d524815790f2",
+      "attributeOperation": 1,
+      "conditions": [
+        {
+          "type": "inDimension",
+          "extra": "minecraft:the_end"
+        }
+      ]
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.max_health",
+      "value": 0.25,
+      "modifierUUID": "7d116c7a-7158-4e28-9d96-7dc629854cc7",
+      "attributeOperation": 1,
+      "conditions": [
+        {
+          "type": "inDimension",
+          "extra": "minecraft:the_end"
+        }
+      ]
+    }
+  ],
+  "hideGeneratedTooltip": true
+}

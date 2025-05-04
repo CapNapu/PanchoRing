@@ -1,0 +1,35 @@
+{
+  "ingredients": [
+    {
+      "item": "beetroot"
+    },
+    {
+      "item": "beetroot"
+    },
+    {
+      "item": "beetroot"
+    },
+    {
+      "item": "beetroot"
+    },
+    {
+      "item": "beetroot"
+    },
+    {
+      "item": "beetroot"
+    },
+    {
+      "item": "beetroot"
+    },
+    {
+      "item": "beetroot"
+    },
+    {
+      "item": "dustydecor:empty_barrel"
+    }
+  ],
+  "result": {
+    "item": "dustydecor:beetroot_barrel"
+  },
+  "type": "crafting_shapeless"
+}

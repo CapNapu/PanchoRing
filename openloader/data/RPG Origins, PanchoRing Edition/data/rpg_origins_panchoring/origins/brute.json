@@ -1,0 +1,21 @@
+{
+  "powers": [
+    "rpg_origins_panchoring:equipment_brute",
+    "rpg_origins_panchoring:natural_armor",
+    "rpg_origins_panchoring:targets_strong",
+    "rpg_origins_panchoring:heavy_weapons",
+    "rpg_origins_panchoring:break_speed",
+    "rpg_origins_panchoring:targets_weak",
+    "rpg_origins_panchoring:clumsy",
+    "origins:no_shield",
+    "rpg_origins_panchoring:.armor_tweaks",
+    "rpg_origins_panchoring:.sleeping_tweaks",
+    "rpg_origins_panchoring:.projectile_tweaks",
+    "rpg_origins_panchoring:.more_exhaustion_not",
+    "rpg_origins_panchoring:.mage_robes_not"
+  ],
+  "icon": {
+    "item": "dungeons_gear:great_hammer"
+  },
+  "impact": 3
+}

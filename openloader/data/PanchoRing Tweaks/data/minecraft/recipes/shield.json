@@ -1,0 +1,19 @@
+{
+  "key": {
+    "0": {
+      "tag": "planks"
+    },
+    "1": {
+      "item": "iron_ingot"
+    }
+  },
+  "pattern": [
+    "101",
+    "101",
+    " 1 "
+  ],
+  "result": {
+    "item": "shield"
+  },
+  "type": "crafting_shaped"
+}

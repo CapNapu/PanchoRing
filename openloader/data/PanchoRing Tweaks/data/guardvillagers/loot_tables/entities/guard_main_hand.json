@@ -1,0 +1,45 @@
+{
+	"pools": [
+		{
+			"entries": [
+				{
+					"name": "dungeons_gear:sword",
+					"type": "item",
+					"weight": 40
+				},
+				{
+					"name": "bow",
+					"type": "item",
+					"weight": 25
+				},
+				{
+					"name": "dungeons_gear:spear",
+					"type": "item",
+					"weight": 10
+				},
+				{
+					"name": "dungeons_gear:katana",
+					"type": "item",
+					"weight": 10
+				},
+				{
+					"name": "dungeons_gear:rapier",
+					"type": "item",
+					"weight": 5
+				},
+				{
+					"name": "dungeons_gear:cutlass",
+					"type": "item",
+					"weight": 5
+				},
+				{
+					"name": "dungeons_gear:claymore",
+					"type": "item",
+					"weight": 5
+				}
+			],
+			"rolls": 1
+		}
+	],
+	"type": "guardvillagers:slot"
+}

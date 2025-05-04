@@ -1,0 +1,11 @@
+{
+  "ingredients": [
+    {
+      "item": "bowl"
+    }
+  ],
+  "result": {
+    "item": "dustydecor:decorative_bowl"
+  },
+  "type": "crafting_shapeless"
+}

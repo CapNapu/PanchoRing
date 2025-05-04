@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "silver_ingot": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:silver_ingot"
+          }
+        ]
+      },
+      "trigger": "inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.get_silver_ingot.description"
+    },
+    "icon": {
+      "item": "iceandfire:silver_ingot"
+    },
+    "title": {
+      "translate": "advancements.panchoring.get_silver_ingot.title"
+    }
+  },
+  "parent": "panchoring:place_blast_furnace"
+}

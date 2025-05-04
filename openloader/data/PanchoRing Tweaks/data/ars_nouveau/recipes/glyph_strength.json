@@ -1,0 +1,6 @@
+{
+  "input": "cataclysm:monstrous_horn",
+  "output": "ars_nouveau:glyph_strength",
+  "tier": "THREE",
+  "type": "ars_nouveau:glyph_recipe"
+}

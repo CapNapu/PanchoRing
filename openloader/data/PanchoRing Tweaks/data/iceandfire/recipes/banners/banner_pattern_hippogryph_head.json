@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "paper"
+    },
+    {
+      "item": "iceandfire:hippogryph_skull"
+    }
+  ],
+  "result": {
+    "item": "iceandfire:banner_pattern_hippogryph_head"
+  },
+  "type": "crafting_shapeless"
+}

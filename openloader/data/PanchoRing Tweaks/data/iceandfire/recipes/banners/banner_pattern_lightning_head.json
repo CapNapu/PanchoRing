@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "paper"
+    },
+    {
+      "item": "iceandfire:dragon_skull_lightning"
+    }
+  ],
+  "result": {
+    "item": "iceandfire:banner_pattern_lightning_head"
+  },
+  "type": "crafting_shapeless"
+}

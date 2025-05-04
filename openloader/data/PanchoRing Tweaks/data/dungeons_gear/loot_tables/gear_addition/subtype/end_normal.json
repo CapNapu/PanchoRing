@@ -1,0 +1,106 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "dungeons_gear:moon_dagger",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:fighters_binding",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:diamond_sword",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:diamond_pickaxe",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:stormlander",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:masters_katana",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:sabrewing",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:masters_bow",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:echo_of_the_valley",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:voidcaller",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:slayer_crossbow",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:lightning_harp_crossbow",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:heros_helmet",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:heros_chestplate",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:heros_leggings",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:heros_boots",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:souldancer_helmet",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:souldancer_chestplate",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:souldancer_leggings",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:souldancer_boots",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:titans_shroud_helmet",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:titans_shroud_chestplate",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:titans_shroud_leggings",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:titans_shroud_boots",
+          "type": "item"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "chest"
+}

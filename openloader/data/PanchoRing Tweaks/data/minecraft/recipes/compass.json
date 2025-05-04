@@ -1,0 +1,19 @@
+{
+  "key": {
+    "#": {
+      "item": "iron_nugget"
+    },
+    "X": {
+      "item": "redstone"
+    }
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "item": "compass"
+  },
+  "type": "crafting_shaped"
+}

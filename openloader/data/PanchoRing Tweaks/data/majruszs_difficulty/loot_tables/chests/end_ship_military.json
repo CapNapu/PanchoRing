@@ -1,0 +1,91 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "majruszs_difficulty:chests/end_ship_military_small",
+          "type": "loot_table"
+        }
+      ],
+      "rolls": 2
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "damage": {
+                "max": 0.75,
+                "min": 0.25
+              },
+              "function": "set_damage"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": 30,
+              "treasure": true
+            }
+          ],
+          "name": "phantasm:crystalline_shovel",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "damage": {
+                "max": 0.75,
+                "min": 0.25
+              },
+              "function": "set_damage"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": 30,
+              "treasure": true
+            }
+          ],
+          "name": "phantasm:crystalline_pickaxe",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "damage": {
+                "max": 0.75,
+                "min": 0.25
+              },
+              "function": "set_damage"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": 30,
+              "treasure": true
+            }
+          ],
+          "name": "phantasm:crystalline_axe",
+          "type": "item"
+        }
+      ],
+      "rolls": 1
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "enchantments": [
+                "mending"
+              ],
+              "function": "enchant_randomly"
+            }
+          ],
+          "name": "book",
+          "type": "item"
+        }
+      ],
+      "rolls": 1,
+      "bonus_rolls": 1
+    }
+  ],
+  "type": "chest"
+}

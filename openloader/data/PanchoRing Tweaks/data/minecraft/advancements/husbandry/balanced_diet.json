@@ -1,0 +1,708 @@
+{
+  "criteria": {
+    "Ambrosia": {
+      "conditions": {
+        "item": {
+          "item": "iceandfire:ambrosia"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Apple": {
+      "conditions": {
+        "item": {
+          "item": "apple"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Baked Potato": {
+      "conditions": {
+        "item": {
+          "item": "baked_potato"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Banana": {
+      "conditions": {
+        "item": {
+          "item": "alexsmobs:banana"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Beef": {
+      "conditions": {
+        "item": {
+          "item": "beef"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Beetroot": {
+      "conditions": {
+        "item": {
+          "item": "beetroot"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Beetroot Soup": {
+      "conditions": {
+        "item": {
+          "item": "beetroot_soup"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Blindsight Tongue": {
+      "conditions": {
+        "item": {
+          "item": "infernalexp:blindsight_tongue"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Blindsight Tongue Stew": {
+      "conditions": {
+        "item": {
+          "item": "infernalexp:blindsight_tongue_stew"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Blobfish": {
+      "conditions": {
+        "item": {
+          "item": "alexsmobs:blobfish"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Boiled Emu Egg": {
+      "conditions": {
+        "item": {
+          "item": "alexsmobs:boiled_emu_egg"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Bread": {
+      "conditions": {
+        "item": {
+          "item": "bread"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Candy": {
+      "conditions": {
+        "item": {
+          "item": "supplementaries:candy"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Cannoli": {
+      "conditions": {
+        "item": {
+          "item": "iceandfire:cannoli"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Carrot": {
+      "conditions": {
+        "item": {
+          "item": "carrot"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Chicken": {
+      "conditions": {
+        "item": {
+          "item": "chicken"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Chorus Fruit": {
+      "conditions": {
+        "item": {
+          "item": "chorus_fruit"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Chorus Fruit Salad": {
+      "conditions": {
+        "item": {
+          "item": "phantasm:chorus_fruit_salad"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Clam": {
+      "conditions": {
+        "item": {
+          "item": "projectvibrantjourneys:clam"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Cod": {
+      "conditions": {
+        "item": {
+          "item": "cod"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Cooked Beef": {
+      "conditions": {
+        "item": {
+          "item": "cooked_beef"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Cooked Chicken": {
+      "conditions": {
+        "item": {
+          "item": "cooked_chicken"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Cooked Clam": {
+      "conditions": {
+        "item": {
+          "item": "projectvibrantjourneys:cooked_clam"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Cooked Cod": {
+      "conditions": {
+        "item": {
+          "item": "cooked_cod"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Cooked Hogchop": {
+      "conditions": {
+        "item": {
+          "item": "infernalexp:cooked_hogchop"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Cooked Kangaroo Meat": {
+      "conditions": {
+        "item": {
+          "item": "alexsmobs:cooked_kangaroo_meat"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Cooked Lobster Tail": {
+      "conditions": {
+        "item": {
+          "item": "alexsmobs:cooked_lobster_tail"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Cooked Moose Ribs": {
+      "conditions": {
+        "item": {
+          "item": "alexsmobs:cooked_moose_ribs"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Cooked Mutton": {
+      "conditions": {
+        "item": {
+          "item": "cooked_mutton"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Cooked Porkchop": {
+      "conditions": {
+        "item": {
+          "item": "cooked_porkchop"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Cooked Rabbit": {
+      "conditions": {
+        "item": {
+          "item": "cooked_rabbit"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Cooked Salmon": {
+      "conditions": {
+        "item": {
+          "item": "cooked_salmon"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Cooked Sweetshroom": {
+      "conditions": {
+        "item": {
+          "item": "extcaves:mushroom_sweetshroom_cooked"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Cookie": {
+      "conditions": {
+        "item": {
+          "item": "cookie"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Crystal Fruit": {
+      "conditions": {
+        "item": {
+          "item": "bosses_of_mass_destruction:crystal_fruit"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Cured Jerky": {
+      "conditions": {
+        "item": {
+          "item": "infernalexp:cured_jerky"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Dried Kelp": {
+      "conditions": {
+        "item": {
+          "item": "dried_kelp"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Enchanted Golden Apple": {
+      "conditions": {
+        "item": {
+          "item": "enchanted_golden_apple"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Fire Dragon Flesh": {
+      "conditions": {
+        "item": {
+          "item": "iceandfire:fire_dragon_flesh"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Fluorescent Stew": {
+      "conditions": {
+        "item": {
+          "item": "extcaves:stew_fluorescent"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Fluoshroom": {
+      "conditions": {
+        "item": {
+          "item": "extcaves:mushroom_fluoshroom"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Golden Apple": {
+      "conditions": {
+        "item": {
+          "item": "golden_apple"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Golden Carrot": {
+      "conditions": {
+        "item": {
+          "item": "golden_carrot"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Goldishroom": {
+      "conditions": {
+        "item": {
+          "item": "extcaves:mushroom_goldishroom"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Gongylidia": {
+      "conditions": {
+        "item": {
+          "item": "alexsmobs:gongylidia"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Hard Stew": {
+      "conditions": {
+        "item": {
+          "item": "extcaves:stew_hard"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Honey Bottle": {
+      "conditions": {
+        "item": {
+          "item": "honey_bottle"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Ice Dragon Flesh": {
+      "conditions": {
+        "item": {
+          "item": "iceandfire:ice_dragon_flesh"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Juniper Berries": {
+      "conditions": {
+        "item": {
+          "item": "projectvibrantjourneys:juniper_berries"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Kangaroo Burger": {
+      "conditions": {
+        "item": {
+          "item": "alexsmobs:kangaroo_burger"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Kangaroo Meat": {
+      "conditions": {
+        "item": {
+          "item": "alexsmobs:kangaroo_meat"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Lightning Dragon Flesh": {
+      "conditions": {
+        "item": {
+          "item": "iceandfire:lightning_dragon_flesh"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Lobster Tail": {
+      "conditions": {
+        "item": {
+          "item": "alexsmobs:lobster_tail"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Luminous Jelly": {
+      "conditions": {
+        "item": {
+          "item": "mowziesmobs:glowing_jelly"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Lumishroom": {
+      "conditions": {
+        "item": {
+          "item": "extcaves:mushroom_lumishroom"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Maggot": {
+      "conditions": {
+        "item": {
+          "item": "alexsmobs:maggot"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Mana Berry": {
+      "conditions": {
+        "item": {
+          "item": "ars_nouveau:mana_berry"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Mana Berry Pie": {
+      "conditions": {
+        "item": {
+          "item": "ars_nouveau:source_berry_pie"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Mana Berry Roll": {
+      "conditions": {
+        "item": {
+          "item": "ars_nouveau:source_berry_roll"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Melon Slice": {
+      "conditions": {
+        "item": {
+          "item": "melon_slice"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Moose Ribs": {
+      "conditions": {
+        "item": {
+          "item": "alexsmobs:moose_ribs"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Mushroom Stew": {
+      "conditions": {
+        "item": {
+          "item": "mushroom_stew"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Mutton": {
+      "conditions": {
+        "item": {
+          "item": "mutton"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Oblifruit": {
+      "conditions": {
+        "item": {
+          "item": "phantasm:oblifruit"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Poisonous Potato": {
+      "conditions": {
+        "item": {
+          "item": "poisonous_potato"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Porkchop": {
+      "conditions": {
+        "item": {
+          "item": "porkchop"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Potato": {
+      "conditions": {
+        "item": {
+          "item": "potato"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Pream Berry": {
+      "conditions": {
+        "item": {
+          "item": "phantasm:pream_berry"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Pufferfish": {
+      "conditions": {
+        "item": {
+          "item": "pufferfish"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Pumpkin Pie": {
+      "conditions": {
+        "item": {
+          "item": "pumpkin_pie"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Putac Brochette": {
+      "conditions": {
+        "item": {
+          "item": "phantasm:putac_brochette"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Rabbit": {
+      "conditions": {
+        "item": {
+          "item": "rabbit"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Rabbit Stew": {
+      "conditions": {
+        "item": {
+          "item": "rabbit_stew"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Raw Hogchop": {
+      "conditions": {
+        "item": {
+          "item": "infernalexp:raw_hogchop"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Rockshroom": {
+      "conditions": {
+        "item": {
+          "item": "extcaves:mushroom_rockshroom"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Rotten Flesh": {
+      "conditions": {
+        "item": {
+          "item": "rotten_flesh"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Salmon": {
+      "conditions": {
+        "item": {
+          "item": "salmon"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Shinyshroom": {
+      "conditions": {
+        "item": {
+          "item": "extcaves:mushroom_shinyshroom"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Sopa De Macaco": {
+      "conditions": {
+        "item": {
+          "item": "alexsmobs:sopa_de_macaco"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Spider Eye": {
+      "conditions": {
+        "item": {
+          "item": "spider_eye"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Spirit Eye": {
+      "conditions": {
+        "item": {
+          "item": "infernalexp:spirit_eye"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Sticky Stew": {
+      "conditions": {
+        "item": {
+          "item": "extcaves:stew_sticky"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Suspicious Stew": {
+      "conditions": {
+        "item": {
+          "item": "suspicious_stew"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Sweet Berries": {
+      "conditions": {
+        "item": {
+          "item": "sweet_berries"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Sweetshroom": {
+      "conditions": {
+        "item": {
+          "item": "extcaves:mushroom_sweetshroom"
+        }
+      },
+      "trigger": "consume_item"
+    },
+    "Tropical Fish": {
+      "conditions": {
+        "item": {
+          "item": "tropical_fish"
+        }
+      },
+      "trigger": "consume_item"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.husbandry.balanced_diet.description"
+    },
+    "frame": "challenge",
+    "icon": {
+      "item": "golden_apple"
+    },
+    "title": {
+      "translate": "advancements.husbandry.balanced_diet.title"
+    }
+  },
+  "parent": "husbandry/plant_seed",
+  "rewards": {
+    "experience": 1000
+  }
+}

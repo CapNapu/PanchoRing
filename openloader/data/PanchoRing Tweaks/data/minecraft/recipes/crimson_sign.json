@@ -1,0 +1,20 @@
+{
+  "key": {
+    "#": {
+      "item": "crimson_slab"
+    },
+    "X": {
+      "item": "stick"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    " X "
+  ],
+  "result": {
+    "count": 4,
+    "item": "crimson_sign"
+  },
+  "type": "crafting_shaped"
+}

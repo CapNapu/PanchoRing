@@ -1,0 +1,17 @@
+{
+  "ingredients": [
+    {
+      "item": "extcaves:mushroom_rockshroom"
+    },
+    {
+      "item": "extcaves:mushroom_sweetshroom"
+    },
+    {
+      "item": "bowl"
+    }
+  ],
+  "result": {
+    "item": "extcaves:stew_hard"
+  },
+  "type": "crafting_shapeless"
+}

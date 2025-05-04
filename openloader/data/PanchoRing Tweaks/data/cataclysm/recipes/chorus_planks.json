@@ -1,0 +1,15 @@
+{
+  "key": {
+    "#": {
+      "item": "chorus_fruit"
+    }
+  },
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "result": {
+    "item": "cataclysm:chorus_planks"
+  },
+  "type": "crafting_shaped"
+}

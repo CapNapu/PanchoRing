@@ -1,0 +1,22 @@
+{
+  "key": {
+    "C": {
+      "item": "iceandfire:copper_ingot"
+    },
+    "E": {
+      "item": "alexsmobs:guster_eye"
+    },
+    "S": {
+      "item": "chiseled_sandstone"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "SES",
+    "SCS"
+  ],
+  "result": {
+    "item": "alexsmobs:gustmaker"
+  },
+  "type": "crafting_shaped"
+}

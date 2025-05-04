@@ -1,0 +1,18 @@
+{
+  "input": {
+    "tag": "panchoring:nether_gold_ores"
+  },
+  "output": [
+    {
+      "chance": 1.0,
+      "count": 4,
+      "item": "gold_nugget"
+    },
+    {
+      "chance": 0.25,
+      "count": 3,
+      "item": "gold_nugget"
+    }
+  ],
+  "type": "ars_nouveau:crush"
+}

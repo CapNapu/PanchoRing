@@ -1,0 +1,19 @@
+{
+  "count": 2,
+  "ingredient": [
+    {
+      "item": "blackstone"
+    },
+    {
+      "item": "polished_blackstone"
+    },
+    {
+      "item": "polished_blackstone_bricks"
+    },
+    {
+      "item": "supplementaries:blackstone_tile"
+    }
+  ],
+  "result": "supplementaries:blackstone_tile_slab",
+  "type": "stonecutting"
+}

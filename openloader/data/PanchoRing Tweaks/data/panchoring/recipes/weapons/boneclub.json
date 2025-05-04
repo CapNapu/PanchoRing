@@ -1,0 +1,22 @@
+{
+  "key": {
+    "A": {
+      "item": "bone_block"
+    },
+    "B": {
+      "tag": "planks"
+    },
+    "S": {
+      "item": "string"
+    }
+  },
+  "pattern": [
+    "SAS",
+    "SAS",
+    " B "
+  ],
+  "result": {
+    "item": "dungeons_gear:boneclub"
+  },
+  "type": "crafting_shaped"
+}

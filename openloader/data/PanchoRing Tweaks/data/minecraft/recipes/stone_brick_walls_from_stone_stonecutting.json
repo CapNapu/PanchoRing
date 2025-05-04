@@ -1,0 +1,13 @@
+{
+  "count": 1,
+  "ingredient": [
+    {
+      "item": "stone"
+    },
+    {
+      "item": "stone_bricks"
+    }
+  ],
+  "result": "stone_brick_wall",
+  "type": "stonecutting"
+}

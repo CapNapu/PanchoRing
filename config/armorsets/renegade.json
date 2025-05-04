@@ -1,0 +1,35 @@
+{
+  "armorSetName": "renegade",
+  "head": {
+    "itemKey": "dungeons_gear:renegade_helmet"
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:renegade_chestplate"
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:renegade_leggings"
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:renegade_boots"
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "attribute",
+      "description": "panchoring.attribute.staminar_25",
+      "name": "epicfight:staminar",
+      "value": 0.25,
+      "modifierUUID": "ad41d357-0958-4830-9849-f7caec04d722",
+      "attributeOperation": 1
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "description": "effect.epicfight.stun_immunity",
+      "name": "epicfight:stun_immunity",
+      "value": 0.0,
+      "interactionDuration": 120
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+
+#General Mod Configuration
+[general_mod_configuration]
+	#Enable melee weapons appearing in chest loot and trades. 
+	#If you Ewant to disable obtaining this mod's melee weapons, disable this feature. [true / false]
+	enableMeleeWeaponLoot = true
+	#Enable melee weapons appearing in their own tab in the creative menu. 
+	#Disabling this feature puts them in the COMBAT tab. [true / false]
+	enableMeleeWeaponTab = true
+	#Add enchantments that should be designated as treasure-only. 
+	#To do so, enter their registry names.
+	treasureOnlyEnchantments = ["dungeons_gear:altruistic", "dungeons_gear:anima_conduit", "dungeons_gear:beehive", "dungeons_gear:burning", "dungeons_gear:busy_bee", "dungeons_gear:chain_reaction", "dungeons_gear:chilling", "dungeons_gear:death_barter", "dungeons_gear:deflect", "dungeons_gear:dodge", "dungeons_gear:exploding_shot", "dungeons_gear:exploding", "dungeons_gear:gravity_pulse", "dungeons_gear:gravity_shot", "dungeons_gear:gravity", "dungeons_gear:guarding_strike", "dungeons_gear:harpoon_shot", "dungeons_gear:illagers_bane", "dungeons_gear:life_steal_aura", "dungeons_gear:melee_aura", "dungeons_gear:opulent_shield", "dungeons_gear:potion_barrier", "dungeons_gear:radiance_shot", "dungeons_gear:radiance", "dungeons_gear:soul_focus", "dungeons_gear:soul_siphon", "dungeons_gear:speed_aura", "dungeons_gear:thundering", "dungeons_gear:tumblebee"]
+	#Enable the addition of Dungeons Gear items to the Minecraft Spawn Bonus chest. 
+	#Theoretically, this can be controlled through the loot tables, this option is added for additional control. [true / false]
+	enableDungeonsGearLootOnBonusChest = true
+	#The emerald value for an artifact [0-64, default: 24]
+	#Range: 0 ~ 64
+	artifactValue = 24
+	#Enable applying enchantments from this mod on non-Dungeons gear using the Enchanting Table. 
+	#If you don't want your enchantments to become too cluttered for non-Dungeons gear, or simply don't like it, disable this feature. 
+	#You can still use the anvil to put the enchantments onto them and have them work correctly. [true / false]
+	enableEnchantsOnNonDungeonsGear = true
+	#The emerald value for a common weapon or armor [0-64, default: 12]
+	#Range: 0 ~ 64
+	commonItemValue = 12
+	#Enable artifacts appearing in their own tab in the creative menu. 
+	#Disabling this feature puts them in the COMBAT tab. [true / false]
+	enableArtifactTab = true
+	#Enable Librarian Villagers trading books enchanted with this mod's enchantments. 
+	#Disable this feature if you want to prevent this. [true / false]
+	enableEnchantmentTrades = true
+	#Enable ranged weapons appearing in their own tab in the creative menu. 
+	#Disabling this feature puts them in the COMBAT tab. [true / false]
+	enableRangedWeaponTab = true
+	#Enables the experimental features.
+	#If you like living on the edge with broken items, enable this feature. [true / false]
+	enableExperimental = false
+	#The emerald value for a unique weapon or armor [0-64, default: 24]
+	#Range: 0 ~ 64
+	uniqueItemValue = 24
+	#Enable enchantments from this mod appearing in any type of generated loot. 
+	#Disable this feature if you want to prevent this. [true / false]
+	enableEnchantmentLoot = true
+	#Enable Friendly Fire on Pets 
+	#If you dislike (or outright hate) your pets and would like to kill them, enable this feature. [true / false]
+	enableFriendlyPetFire = true
+	#Enable ranged weapons appearing in chest loot and trades. 
+	#If you want to disable obtaining this mod's ranged weapons, disable this feature. [true / false]
+	enableRangedWeaponLoot = true
+	#Enable armors appearing in their own tab in the creative menu. 
+	#Disabling this feature puts them in the COMBAT tab. [true / false]
+	enableArmorTab = true
+	#Enable Weaponsmith, Fletcher, Armorer and Leatherworker Villagers trading Dungeons Gear items. 
+	#If you have other mods messing with the trades of those professions or simply don't want it, disable this feature. [true / false]
+	enableVillagerTrades = true
+	#Enable artifacts appearing in chest loot and trades. 
+	#If you want to disable obtaining this mod's artifacts, disable this feature. [true / false]
+	enableArtifactLoot = true
+	#Enable applying enchantments together to create combinations would  be considered too overpowered. 
+	#If you don't want overpowered enchantment combinations, like Sharpness and Committed on a sword, disable this feature. [true / false]
+	enableOverpoweredEnchantmentCombos = false
+	#Enable the mass addition of Dungeons Gear items to various vanilla loot tables by the mod itself. 
+	#If you prefer to write your own loot pools via datapack or simply don't want it, disable this feature. [true / false]
+	enableDungeonsGearLoot = true
+	#Add enchantments that should be prevented from being applied to any gear. 
+	#To do so, enter their registry names.
+	enchantmentBlacklist = ["dungeons_gear:accelerate", "dungeons_gear:acrobat", "dungeons_gear:bag_of_souls", "dungeons_gear:beast_boss", "dungeons_gear:cooldown_shot", "dungeons_gear:critical_hit", "dungeons_gear:echo", "dungeons_gear:electrified", "dungeons_gear:enigma_resonator", "dungeons_gear:fire_focus", "dungeons_gear:freezing_shot", "dungeons_gear:gale_shot", "dungeons_gear:life_boost", "dungeons_gear:lightning_focus", "dungeons_gear:lucky_explorer", "dungeons_gear:multi_roll", "dungeons_gear:overcharge", "dungeons_gear:poison_focus", "dungeons_gear:reckless", "dungeons_gear:recycler", "dungeons_gear:refreshment", "dungeons_gear:replenish", "dungeons_gear:shock_web", "dungeons_gear:shockwave", "dungeons_gear:swirling", "dungeons_gear:velocity", "dungeons_gear:wild_rage"]
+	#Enable the salvaging of Dungeons Gear items by shift-right clicking villagers with the item in your hand. 
+	#If you have other mods messing with shift-right clicking villagers or simply don't want it, disable this feature. [true / false]
+	enableSalvaging = false
+	#Enable armors appearing in chest loot and trades. 
+	#If you want to disable obtaining this mod's armors, disable this feature. [true / false]
+	enableArmorLoot = true
+
+#Compatibility Configuration
+[compatibility_configuration]
+	#Enable Project: War Dance compatibility. 
+	#Dual wield weapon offhand functions are suppressed in favor of using War Dance's offhand attacks. 
+	#Block reach attributes are added to spears so they benefit from skills. 
+	#Does nothing if Project: War Dance is not installed. [true / false]
+	enableProjectWarDanceCompat = true
+	#Enable Elenai Dodge 2 compatibility. Effects that trigger on jump will now trigger on dodge. 
+	#Does nothing if Elenai Dodge is not installed. [true / false]
+	enableElenaiDodgeCompat = true
+
+#Item Configuration
+[item_configuration]
+	#Set the durability for melee weapons. [0-1024, default: 250
+	#Range: 0 ~ 1024
+	meleeWeaponDurability = 512
+
+#Rarity Loot Table Configuration
+[rarity_loot_table_configuration]
+	#This section determines the quality of gear found in loot tables.
+	#The whitelist allows gear in, the blacklist bans it from getting gear. Blacklist trumps whitelist.
+	#Enter the path of the specific loot table, or the path of the folder containing the loot tables.
+	#You can write an incomplete path, and the mod will add to loot tables containing that incomplete path. 
+	#Make sure to always include a complete namespace (like minecraft) and at least a partial path.
+	commonLootTables = ["minecraft:chests/desert_pyramid", "minecraft:chests/jungle_temple", "minecraft:chests/pillager_outpost", "minecraft:chests/simple_dungeon", "minecraft:chests/underwater_ruin_big", "awesomedungeonocean:chests/awesome_dungeon", "dungeoncrawl:chests/stage_1", "dungeoncrawl:chests/stage_2", "dungeons_enhanced:chests/castle/armory", "dungeons_enhanced:chests/castle/cellar", "dungeons_enhanced:chests/castle/prison", "dungeons_enhanced:chests/desert_tomb", "dungeons_enhanced:chests/elders_temple/main", "dungeons_enhanced:chests/hay_storage", "dungeons_enhanced:chests/ice_pit/food", "dungeons_enhanced:chests/ice_pit/garden", "dungeons_enhanced:chests/jungle_monument/floor", "dungeons_enhanced:chests/monster_maze/prison", "dungeons_enhanced:chests/pillager_camp/general", "dungeons_enhanced:chests/stables", "dungeons_enhanced:chests/tree_house/roof", "dungeons_enhanced:chests/watch_tower", "dungeons_enhanced:chests/witch_tower", "dungeons_enhanced:desert_temple_floor", "iceandfire:chest/cyclops_cave", "iceandfire:chest/fire_dragon_female_cave", "iceandfire:chest/fire_dragon_male_cave", "iceandfire:chest/fire_dragon_roost", "iceandfire:chest/hydra_cave", "iceandfire:chest/ice_dragon_female_cave", "iceandfire:chest/ice_dragon_male_cave", "iceandfire:chest/ice_dragon_roost", "iceandfire:chest/lightning_dragon_female_cave", "iceandfire:chest/lightning_dragon_male_cave", "iceandfire:chest/lightning_dragon_roost"]
+	commonLootTablesBlacklist = []
+	fancyLootTablesBlacklist = []
+	obsidianLootTableBlacklist = []
+	fancyLootTables = ["minecraft:chests/igloo_chest", "minecraft:chests/nether_bridge", "minecraft:chests/shipwreck_treasure", "betterdungeons:skeleton_dungeon/chests/common", "betterdungeons:spider_dungeon/chests/egg_room", "betterdungeons:zombie_dungeon/chests/common", "betterdungeons:zombie_dungeon/chests/special", "betterstrongholds:chests/armoury", "betterstrongholds:chests/common", "betterstrongholds:chests/crypt", "betterstrongholds:chests/mess", "betterstrongholds:chests/prison_lg", "bygonenether:chests/citadel", "dungeoncrawl:chests/stage_3", "dungeoncrawl:chests/stage_4", "dungeons_enhanced:chests/castle/throne", "dungeons_enhanced:chests/elders_temple/elder_room", "dungeons_enhanced:chests/flying_dutchman", "dungeons_enhanced:chests/ice_pit/armory", "dungeons_enhanced:chests/ice_pit/bed", "dungeons_enhanced:chests/ice_pit/hall", "dungeons_enhanced:chests/jungle_monument/treasure", "dungeons_enhanced:chests/large_dungeon", "dungeons_enhanced:chests/monster_maze/treasure", "dungeons_enhanced:chests/mushroom_house", "dungeons_enhanced:chests/tower_of_the_undead/treasure", "dungeons_enhanced:desert_temple_treasure", "infernalexp:chests/basalt_delta_ruin_chest", "infernalexp:chests/desolate_bastion_outpost_chest", "infernalexp:chests/glowstone_canyon_ruin_chest"]
+	obsidianLootTables = ["minecraft:chests/bastion", "minecraft:chests/buried_treasure", "minecraft:chests/end_city_treasure", "minecraft:chests/woodland_mansion", "betterstrongholds:chests/trap", "betterstrongholds:chests/treasure", "bosses_of_mass_destruction:chests/lich_tower", "bygonenether:chests/catacomb/treasure_rib", "dungeoncrawl:chests/stage_5", "dungeoncrawl:chests/treasure", "endrem:chests/dungeon", "endrem:chests/hided", "endrem:chests/throne", "endrem:chests/treasure", "majruszs_difficulty:chests/end_island_archer_tower", "majruszs_difficulty:chests/end_island_dungeon", "majruszs_difficulty:chests/end_island_tower", "majruszs_difficulty:chests/end_ship_military_small", "majruszs_difficulty:chests/end_ship_military", "majruszs_difficulty:chests/end_ship"]
+
+#Type Loot Table Configuration
+[type_loot_table_configuration]
+	oceanLootTablesBlacklist = []
+	basicLootTablesBlacklist = []
+	jungleLootTables = ["minecraft:chests/jungle_temple", "dungeons_enhanced:chests/jungle_monument/floor", "dungeons_enhanced:chests/jungle_monument/treasure", "dungeons_enhanced:chests/tree_house/roof"]
+	desertLootTables = ["minecraft:chests/desert_pyramid", "dungeons_enhanced:chests/desert_tomb", "dungeons_enhanced:desert_temple_floor", "dungeons_enhanced:desert_temple_treasure"]
+	#This section determines the type of gear found in loot tables, generally based on biomes and dimensions.
+	#The whitelist allows gear in, the blacklist bans it from getting gear. Blacklist trumps whitelist.
+	#Enter the path of the specific loot table, or the path of the folder containing the loot tables.
+	#You can write an incomplete path, and the mod will add to loot tables containing that incomplete path. 
+	#Make sure to always include a complete namespace (like minecraft) and at least a partial path.
+	basicLootTables = ["minecraft:chests/pillager_outpost", "minecraft:chests/simple_dungeon", "minecraft:chests/woodland_mansion", "betterdungeons:skeleton_dungeon/chests/common", "betterdungeons:spider_dungeon/chests/egg_room", "betterdungeons:zombie_dungeon/chests/common", "betterdungeons:zombie_dungeon/chests/special", "betterstrongholds:chests/armoury", "betterstrongholds:chests/common", "betterstrongholds:chests/crypt", "betterstrongholds:chests/mess", "betterstrongholds:chests/prison_lg", "betterstrongholds:chests/trap", "betterstrongholds:chests/treasure", "dungeoncrawl:chests/stage_1", "dungeoncrawl:chests/stage_2", "dungeoncrawl:chests/stage_3", "dungeoncrawl:chests/stage_4", "dungeoncrawl:chests/stage_5", "dungeoncrawl:chests/treasure", "dungeons_enhanced:chests/castle/armory", "dungeons_enhanced:chests/castle/cellar", "dungeons_enhanced:chests/castle/prison", "dungeons_enhanced:chests/castle/throne", "dungeons_enhanced:chests/hay_storage", "dungeons_enhanced:chests/large_dungeon", "dungeons_enhanced:chests/monster_maze/prison", "dungeons_enhanced:chests/monster_maze/treasure", "dungeons_enhanced:chests/mushroom_house", "dungeons_enhanced:chests/pillager_camp/general", "dungeons_enhanced:chests/stables", "dungeons_enhanced:chests/tower_of_the_undead/treasure", "dungeons_enhanced:chests/watch_tower", "dungeons_enhanced:chests/witch_tower", "endrem:chests/dungeon", "endrem:chests/hided", "endrem:chests/throne", "endrem:chests/treasure", "iceandfire:chest/cyclops_cave", "iceandfire:chest/fire_dragon_female_cave", "iceandfire:chest/fire_dragon_male_cave", "iceandfire:chest/fire_dragon_roost", "iceandfire:chest/hydra_cave", "iceandfire:chest/ice_dragon_female_cave", "iceandfire:chest/ice_dragon_male_cave", "iceandfire:chest/ice_dragon_roost", "iceandfire:chest/lightning_dragon_female_cave", "iceandfire:chest/lightning_dragon_male_cave", "iceandfire:chest/lightning_dragon_roost"]
+	coldLootTablesBlacklist = []
+	endLootTables = ["minecraft:chests/end_city_treasure", "majruszs_difficulty:chests/end_island_archer_tower", "majruszs_difficulty:chests/end_island_dungeon", "majruszs_difficulty:chests/end_island_tower", "majruszs_difficulty:chests/end_ship", "majruszs_difficulty:chests/end_ship_military", "majruszs_difficulty:chests/end_ship_military_small"]
+	oceanLootTables = ["minecraft:chests/buried_treasure", "minecraft:chests/shipwreck_treasure", "minecraft:chests/underwater_ruin_big", "awesomedungeonocean:chests/awesome_dungeon", "dungeons_enhanced:chests/elders_temple/elder_room", "dungeons_enhanced:chests/elders_temple/main", "dungeons_enhanced:chests/flying_dutchman"]
+	desertLootTablesBlacklist = []
+	netherLootTables = ["minecraft:chests/bastion", "minecraft:chests/nether_bridge", "bygonenether:chests/catacomb/treasure_rib", "bygonenether:chests/citadel", "infernalexp:chests/basalt_delta_ruin_chest", "infernalexp:chests/desolate_bastion_outpost_chest", "infernalexp:chests/glowstone_canyon_ruin_chest"]
+	netherLootTablesBlacklist = []
+	coldLootTables = ["minecraft:chests/igloo_chest", "bosses_of_mass_destruction:chests/lich_tower", "dungeons_enhanced:chests/ice_pit/armory", "dungeons_enhanced:chests/ice_pit/bed", "dungeons_enhanced:chests/ice_pit/food", "dungeons_enhanced:chests/ice_pit/garden", "dungeons_enhanced:chests/ice_pit/hall"]
+	jungleLootTablesBlacklist = []
+	endLootTablesBlacklist = []
+
+#Effect Specific Configuration
+[effect_specific_configuration]
+	#The damage caused by Party Starter. [0-10000, default: 4]
+	#Range: 0 ~ 10000
+	partyStarterDamage = 4
+
+#Enchantment Specific Configuration
+[enchantment_specific_configuration]
+	#The max stacks for dynamo. [0-10000, default: 20]
+	#Range: 0 ~ 10000
+	dynamoMaxStacks = 5
+	#The multiplier increase per level for exploding [-5.0-5.0, default: 0.2]
+	#Range: -5.0 ~ 5.0
+	explodingMultiplierPerLevel = 0.1
+	#The amount of damage per trigger of Beast burst. Each trigger causes an explosion around each minion [0-100, default: 5]
+	#Range: 0 ~ 100
+	beastBurstDamagePerLevel = 5
+	#The multiplier increase per level for cowardice [0.0-5.0, default: 0.1]
+	#Range: 0.0 ~ 5.0
+	cowardiceMultiplierPerLevel = 0.1
+	#The decimal base multiplier on the damage for reckless [-5.0-5.0, default: 0.2]
+	#Range: -5.0 ~ 5.0
+	recklessAttackDamageBaseMultiplier = 0.0
+	#Multiplier per level applied to the damage. damage * (1 + (configValue*Stacks)) [0.0-5.0, default: 0.1]
+	#Range: 0.0 ~ 5.0
+	dynamoDamageMultiplierPerStack = 0.15
+	#The decimal base chance for a busy bee to spawn [0.0-1.0, default: 0.1]
+	#Range: 0.0 ~ 1.0
+	busyBeeBaseChance = 0.1
+	#Multiplier per level damage to healing conversion. [0.0-5.0, default: 0.25]
+	#Range: 0.0 ~ 5.0
+	altruisticDamageToHealingPerLevel = 0.25
+	#The decimal chance for Chains to trigger [0.0-1.0, default: 0.3]
+	#Range: 0.0 ~ 1.0
+	chainsChance = 0.33
+	#The multiplier increase per level for beast boss [0.0-5.0, default: 0.1]
+	#Range: 0.0 ~ 5.0
+	beastBossMultiplierPerLevel = 0.0
+	#The multiplier increase per level for reckless [-5.0-5.0, default: 0.2]
+	#Range: -5.0 ~ 5.0
+	recklessAttackDamageMultiplierPerLevel = 0.0
+	#The decimal base multiplier on the victim's max health for leeching [0.0-5.0, default: 0.2]
+	#Range: 0.0 ~ 5.0
+	leechingBaseMultiplier = 0.25
+	#The decimal base multiplier on the damage for cowardice [0.0-5.0, default: 0.1]
+	#Range: 0.0 ~ 5.0
+	cowardiceBaseMultiplier = 0.1
+	#The decimal chance for rampaging to trigger [0.0-1.0, default: 0.1]
+	#Range: 0.0 ~ 1.0
+	rampagingChance = 0.1
+	#The strength increase per level for Gravity Pulse [0.0-5.0, default: 0.1]
+	#Range: 0.0 ~ 5.0
+	gravityPulseStrengthPerLevel = 0.33
+	#The multiplier increase per level for Frenzied [0.0-5.0, default: 0.1]
+	#Range: 0.0 ~ 5.0
+	frenziedMultiplierPerLevel = 0.1
+	#The duration in ticks (20ticks = 1 second) per level added for rampaging. [0-10000, default: 100]
+	#Range: 0 ~ 10000
+	rampagingDuration = 100
+	#The multiplier to max health for reckless. Balanced as a negative number. [-5.0-5.0, default: -0.6]
+	#Range: -5.0 ~ 5.0
+	recklessMaxHealthMultiplier = 0.0
+	#The decimal base pull strength for Gravity Pulse [0.0-5.0, default: 0.1]
+	#Range: 0.0 ~ 5.0
+	gravityPulseBaseStrength = 1.0
+	#The decimal chance per level added for a busy bee to spawn [0.0-1.0, default: 0.1]
+	#Range: 0.0 ~ 1.0
+	busyBeeChancePerLevel = 0.1
+	#The multiplier increase per level for max damage committed [0.0-5.0, default: 0.25]
+	#Range: 0.0 ~ 5.0
+	committedMultiplierPerLevel = 0.25
+	#The amount of souls per trigger of Soul Siphon. Each souls will give a value based on Soul Gathering. [0-100, default: 2]
+	#Range: 0 ~ 100
+	soulSiphonSoulsPerLevel = 2
+	#The duration in ticks of the speed boost applied by Beast Surge. [0-10000, default: 200]
+	#Range: 0 ~ 10000
+	beastSurgeDuration = 200
+	#The application distance in blocks for weakening. [0-10000, default: 5]
+	#Range: 0 ~ 10000
+	weakeningDistance = 5
+	#The decimal chance for Radiance to trigger [0.0-1.0, default: 0.2]
+	#Range: 0.0 ~ 1.0
+	radianceChance = 0.05
+	#The decimal chance per level added for a tumble bee to spawn [0.0-1.0, default: 0.1]
+	#Range: 0.0 ~ 1.0
+	tumbleBeeChancePerLevel = 0.05
+	#The decimal base multiplier on the damage for max damage committed.  [0.0-5.0, default: 1.25]
+	#Range: 0.0 ~ 5.0
+	committedBaseMultiplier = 1.25
+	#The chance per level for Stunning to trigger [-5.0-5.0, default: 0.25]
+	#Range: -5.0 ~ 5.0
+	stunningChancePerLevel = 0.15
+	#The chance per level for beehive to trigger [-5.0-5.0, default: 0.25]
+	#Range: -5.0 ~ 5.0
+	beehiveChancePerLevel = 0.15
+	#The decimal base multiplier on the minions's damage for beast boss [0.0-5.0, default: 0.1]
+	#Range: 0.0 ~ 5.0
+	beastBossBaseMultiplier = 0.1
+	#The chance per level for dodge to trigger [-5.0-5.0, default: 0.25]
+	#Range: -5.0 ~ 5.0
+	dodgeChancePerLevel = 0.05
+	#The duration in ticks (20ticks = 1 second) for weakening. [0-10000, default: 100]
+	#Range: 0 ~ 10000
+	weakeningDuration = 50
+	#The base damage for Thundering [0-10000, default: 5]
+	#Range: 0 ~ 10000
+	thunderingBaseDamage = 5
+	#The chance per level for deflect to trigger [0.0-5.0, default: 0.2]
+	#Range: 0.0 ~ 5.0
+	deflectChancePerLevel = 0.15
+	#The multiplier increase per level for Focus Enchantments [0.0-5.0, default: 0.25]
+	#Range: 0.0 ~ 5.0
+	focusMultiplierPerLevel = 1.0
+	#The multiplier increase per level for leeching [0.0-5.0, default: 0.2]
+	#Range: 0.0 ~ 5.0
+	leechingMultiplierPerLevel = 0.25
+	#The duration in ticks (20ticks = 1 second) for freezing. [0-10000, default: 60]
+	#Range: 0 ~ 10000
+	freezingDuration = 60
+	#The chance per level for void dodge to trigger [-5.0-5.0, default: 0.25]
+	#Range: -5.0 ~ 5.0
+	voidDodgeChancePerLevel = 0.25
+	#The decimal chance for Soul Siphon to trigger [0.0-1.0, default: 0.05]
+	#Range: 0.0 ~ 1.0
+	soulSiphonChance = 0.05
+	#The chance for Poison Cloud to trigger [-5.0-5.0, default: 0.3]
+	#Range: -5.0 ~ 5.0
+	prospectorChancePerLevel = 0.1
+	#The decimal chance for Thundering to trigger [0.0-1.0, default: 0.3]
+	#Range: 0.0 ~ 1.0
+	thunderingChance = 0.33
+	#The decimal base duration for Potion Barrier [0-10000, default: 60]
+	#Range: 0 ~ 10000
+	potionBarrierBaseDuration = 60
+	#The duration in ticks (20ticks = 1 second) per level added for rushdown. [0-10000, default: 20]
+	#Range: 0 ~ 10000
+	rushdownDuration = 20
+	#The duration increase per level for Potion Barrier [0-10000, default: 20]
+	#Range: 0 ~ 10000
+	potionBarrierDurationPerLevel = 20
+
+#Artifact Specific Configuration
+[artifact_specific_configuration]
+	#Entities that can not be converted by Love Medallion.
+	loveMedallionBlacklist = ["minecraft:elder_guardian", "minecraft:ender_dragon", "minecraft:wither", "alexsmobs:void_worm", "alexsmobs:warped_mosco", "ars_nouveau:wilden_boss", "bosses_of_mass_destruction:gauntlet", "bosses_of_mass_destruction:lich", "bosses_of_mass_destruction:obsidilith", "bosses_of_mass_destruction:void_blossom", "cataclysm:ender_golem", "cataclysm:ender_guardian", "cataclysm:ignis", "cataclysm:ignited_revenant", "cataclysm:netherite_monstrosity", "iceandfire:cyclops", "iceandfire:fire_dragon", "iceandfire:hydra", "iceandfire:ice_dragon", "iceandfire:lightning_dragon", "mowziesmobs:barako", "mowziesmobs:ferrous_wroughtnaut", "mowziesmobs:frostmaw"]
+

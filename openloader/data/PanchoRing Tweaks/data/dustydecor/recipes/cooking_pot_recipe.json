@@ -1,0 +1,12 @@
+{
+  "ingredients": [
+    {
+      "item": "cauldron"
+    }
+  ],
+  "result": {
+    "item": "dustydecor:cooking_pot",
+    "count": 2
+  },
+  "type": "crafting_shapeless"
+}

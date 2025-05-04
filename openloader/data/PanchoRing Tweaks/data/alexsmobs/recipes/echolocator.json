@@ -1,0 +1,22 @@
+{
+  "key": {
+    "A": {
+      "item": "alexsmobs:ambergris"
+    },
+    "C": {
+      "item": "alexsmobs:cachalot_whale_tooth"
+    },
+    "P": {
+      "item": "iceandfire:silver_nugget"
+    }
+  },
+  "pattern": [
+    "CPC",
+    "PAP",
+    " P "
+  ],
+  "result": {
+    "item": "alexsmobs:echolocator"
+  },
+  "type": "crafting_shaped"
+}

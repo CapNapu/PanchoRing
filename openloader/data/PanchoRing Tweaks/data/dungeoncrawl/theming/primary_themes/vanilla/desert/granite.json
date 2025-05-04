@@ -1,0 +1,52 @@
+{
+  "theme": {
+    "fencing": {
+      "block": "iron_bars",
+      "type": "block"
+    },
+    "floor": {
+      "block": "polished_granite",
+      "type": "block"
+    },
+    "fluid": {
+      "block": "air",
+      "type": "block"
+    },
+    "generic": {
+      "block": "extcaves:dirtstone_cobble",
+      "type": "block"
+    },
+    "material": {
+      "block": "extcaves:dirtstone_cobble",
+      "type": "block"
+    },
+    "pillar": {
+      "block": "polished_granite",
+      "type": "block"
+    },
+    "slab": {
+      "block": "extcaves:dirtstone_cobble_slab",
+      "type": "block"
+    },
+    "solid": {
+      "block": "polished_granite",
+      "type": "block"
+    },
+    "solid_slab": {
+      "block": "polished_granite_slab",
+      "type": "block"
+    },
+    "solid_stairs": {
+      "block": "polished_granite_stairs",
+      "type": "block"
+    },
+    "stairs": {
+      "block": "extcaves:dirtstone_cobble_stairs",
+      "type": "block"
+    },
+    "wall": {
+      "block": "extcaves:dirtstone_cobble_wall",
+      "type": "block"
+    }
+  }
+}

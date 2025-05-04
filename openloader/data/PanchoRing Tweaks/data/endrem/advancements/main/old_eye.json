@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "old_eye": {
+      "conditions": {
+        "items": [
+          {
+            "item": "endrem:old_eye"
+          }
+        ]
+      },
+      "trigger": "inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.main.old_eye.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "endrem:old_eye"
+    },
+    "title": {
+      "translate": "advancements.main.old_eye.title"
+    }
+  },
+  "parent": "endrem:main/rogue_eye"
+}

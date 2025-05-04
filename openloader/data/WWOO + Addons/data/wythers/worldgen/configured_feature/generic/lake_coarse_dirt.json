@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:chance",
+      "config": {
+        "chance": 20
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:heightmap",
+          "config": {}
+        },
+        "feature": {
+          "type": "minecraft:lake",
+          "config": {
+            "state": {
+              "Name": "minecraft:coarse_dirt"
+            }
+          }
+        }
+      }
+    }
+  }
+}

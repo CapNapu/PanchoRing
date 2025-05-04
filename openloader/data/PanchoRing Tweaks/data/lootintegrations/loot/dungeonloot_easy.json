@@ -1,0 +1,20 @@
+{
+  "integrated_loot_tables": {
+    "betterdungeons:skeleton_dungeon/chests/common": 3,
+    "betterdungeons:spider_dungeon/chests/egg_room": 6,
+    "betterdungeons:zombie_dungeon/chests/common": 3,
+    "betterstrongholds:chests/armoury": 6,
+    "betterstrongholds:chests/crypt": 9,
+    "dungeoncrawl:chests/stage_1": 3,
+    "dungeoncrawl:chests/stage_2": 3,
+    "dungeons_enhanced:chests/castle/armory": 6,
+    "dungeons_enhanced:chests/castle/cellar": 3,
+    "dungeons_enhanced:chests/castle/prison": 3,
+    "dungeons_enhanced:chests/large_dungeon": 6,
+    "dungeons_enhanced:chests/monster_maze/prison": 3,
+    "endrem:chests/hided": 6,
+    "endrem:chests/house": 3
+  },
+  "loot_table": "chests/simple_dungeon",
+  "max_result_itemcount": 12
+}

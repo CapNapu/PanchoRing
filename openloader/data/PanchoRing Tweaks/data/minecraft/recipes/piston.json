@@ -1,0 +1,22 @@
+{
+  "key": {
+    "#": {
+      "tag": "stone_crafting_materials"
+    },
+    "T": {
+      "tag": "planks"
+    },
+    "X": {
+      "item": "iceandfire:copper_ingot"
+    }
+  },
+  "pattern": [
+    "TTT",
+    "#X#",
+    "#X#"
+  ],
+  "result": {
+    "item": "piston"
+  },
+  "type": "crafting_shaped"
+}

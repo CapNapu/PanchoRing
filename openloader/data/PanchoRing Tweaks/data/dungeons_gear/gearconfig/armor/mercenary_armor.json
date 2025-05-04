@@ -1,0 +1,18 @@
+{
+  "attributes": [
+    {
+      "amount": -0.05,
+      "attribute": "dungeons_libraries:artifact_cooldown_multiplier",
+      "operation": 1
+    }
+  ],
+  "built_in_enchantments": [
+    {
+      "enchantment": "dungeons_gear:swiftfooted",
+      "level": 1
+    }
+  ],
+  "material": "dungeons_gear:metal",
+  "rarity": "UNCOMMON",
+  "unique": false
+}

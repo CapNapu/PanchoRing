@@ -1,0 +1,6 @@
+{
+  "input": "extcaves:moss_frozen",
+  "output": "ars_nouveau:glyph_freeze",
+  "tier": "ONE",
+  "type": "ars_nouveau:glyph_recipe"
+}

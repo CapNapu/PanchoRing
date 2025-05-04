@@ -1,0 +1,13 @@
+{
+  "first": {
+    "item": "leather_leggings"
+  },
+  "first_count": 1,
+  "result": "iceandfire:sheep_leggings",
+  "second": {
+    "item": "white_wool"
+  },
+  "second_count": 7,
+  "spools_count": 1,
+  "type": "improvedbackpacks:sewing"
+}

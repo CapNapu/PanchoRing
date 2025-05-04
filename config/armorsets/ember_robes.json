@@ -1,0 +1,34 @@
+{
+  "armorSetName": "ember",
+  "head": {
+    "itemKey": "dungeons_gear:ember_robes_helmet"
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:ember_robes_chestplate"
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:ember_robes_leggings"
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:ember_robes_boots"
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "effect",
+      "description": "panchoring.effect.spell_damage_2",
+      "name": "ars_nouveau:spell_damage",
+      "value": 1.0,
+      "interactionDuration": 120
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "description": "panchoring.effect.spell_damage_5",
+      "name": "ars_nouveau:spell_damage",
+      "value": 4.0,
+      "interactionDuration": 120
+    }
+  ]
+}

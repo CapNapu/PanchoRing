@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "sewing_table": {
+      "conditions": {
+        "block": "improvedbackpacks:sewing_table"
+      },
+      "trigger": "placed_block"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.improvedbackpacks.sewing_table.description"
+    },
+    "icon": {
+      "item": "improvedbackpacks:sewing_table"
+    },
+    "title": {
+      "translate": "advancements.improvedbackpacks.sewing_table.title"
+    }
+  },
+  "parent": "husbandry/root"
+}

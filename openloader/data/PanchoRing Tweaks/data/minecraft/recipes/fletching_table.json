@@ -1,0 +1,19 @@
+{
+  "key": {
+    "@": {
+      "item": "extcaves:rock_flint"
+    },
+    "#": {
+      "tag": "planks"
+    }
+  },
+  "pattern": [
+    "@@",
+    "##",
+    "##"
+  ],
+  "result": {
+    "item": "fletching_table"
+  },
+  "type": "crafting_shaped"
+}

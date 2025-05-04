@@ -1,0 +1,15 @@
+{
+  "key": {
+    "#": {
+      "item": "crimson_nylium"
+    }
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": {
+    "count": 2,
+    "item": "infernalexp:crimson_nylium_carpet"
+  },
+  "type": "crafting_shaped"
+}

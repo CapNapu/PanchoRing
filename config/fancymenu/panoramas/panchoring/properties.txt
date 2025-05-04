@@ -1,0 +1,9 @@
+type = panorama
+
+panorama-meta {
+  name = panchoring_panorama
+  speed = 1.0
+  fov = 85.0
+  angle = 25.0
+  start_rotation = 0
+}

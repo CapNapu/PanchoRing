@@ -1,0 +1,14 @@
+{
+  "key": {
+    "1": {
+      "item": "supplementaries:flax"
+    }
+  },
+  "pattern": [
+    "111"
+  ],
+  "result": {
+    "item": "supplementaries:doormat"
+  },
+  "type": "crafting_shaped"
+}

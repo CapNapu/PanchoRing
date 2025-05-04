@@ -1,0 +1,13 @@
+name = "Pick Up Notifier"
+filename = "PickUpNotifier-v1.2-1.16.3.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "9c6790f6e7045f2ca52f74fc255fac1b5689d796"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3066596
+project-id = 351441

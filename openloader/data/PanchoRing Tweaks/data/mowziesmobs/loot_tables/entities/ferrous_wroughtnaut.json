@@ -1,0 +1,20 @@
+{
+  "pools": [
+    {
+      "conditions": [
+        {
+          "condition": "killed_by_player"
+        }
+      ],
+      "entries": [
+        {
+          "name": "mowziesmobs:wrought_helmet",
+          "type": "item",
+          "weight": 1
+        }
+      ],
+      "name": "ferrous_wroughtnaut_helmet",
+      "rolls": 1
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "key": {
+    "#": [
+      {
+        "item": "grass"
+      },
+      {
+        "item": "tall_grass"
+      },
+      {
+        "item": "fern"
+      },
+      {
+        "item": "large_fern"
+      },
+      {
+        "item": "projectvibrantjourneys:sea_oats"
+      },
+      {
+        "item": "projectvibrantjourneys:cattail"
+      },
+      {
+        "item": "projectvibrantjourneys:desert_sage"
+      },
+      {
+        "item": "projectvibrantjourneys:desert_agave"
+      },
+      {
+        "item": "projectvibrantjourneys:blooming_desert_agave"
+      },
+      {
+        "item": "projectvibrantjourneys:short_grass"
+      },
+      {
+        "item": "projectvibrantjourneys:beach_grass"
+      },
+      {
+        "item": "projectvibrantjourneys:dry_grass"
+      }
+    ]
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "mowziesmobs:thatch_block"
+  },
+  "type": "crafting_shaped"
+}

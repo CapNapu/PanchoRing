@@ -1,0 +1,51 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "feature": {
+          "config": {
+            "features": [
+              {
+                "feature": "minecraft:acacia",
+                "chance": 0.2
+              },
+              {
+                "feature": "wythers:savanna/trees_baobabs_bloated",
+                "chance": 0.01
+              },
+              {
+                "feature": "wythers:savanna/trees_baobabs_tall",
+                "chance": 0.2
+              }
+            ],
+            "default": "minecraft:acacia"
+          },
+          "type": "minecraft:random_selector"
+        },
+        "decorator": {
+          "config": {
+            "outer": {
+              "config": {},
+              "type": "minecraft:square"
+            },
+            "inner": {
+              "config": {},
+              "type": "minecraft:heightmap"
+            }
+          },
+          "type": "minecraft:decorated"
+        }
+      },
+      "type": "minecraft:decorated"
+    },
+    "decorator": {
+      "type": "minecraft:count_noise_biased",
+      "config": {
+        "noise_to_count_ratio": 5,
+        "noise_factor": 200,
+        "noise_offset": 0.2
+      }
+    }
+  },
+  "type": "minecraft:decorated"
+}

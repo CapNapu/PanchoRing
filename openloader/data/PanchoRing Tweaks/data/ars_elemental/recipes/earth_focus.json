@@ -1,0 +1,31 @@
+{
+  "item_1": [
+    {
+      "item": "mowziesmobs:foliaath_seed"
+    }
+  ],
+  "item_2": [
+    {
+      "item": "mowziesmobs:foliaath_seed"
+    }
+  ],
+  "item_3": [
+    {
+      "item": "iceandfire:hydra_fang"
+    }
+  ],
+  "item_4": [
+    {
+      "item": "iceandfire:hydra_fang"
+    }
+  ],
+  "output": {
+    "item": "ars_elemental:earth_focus"
+  },
+  "reagent": [
+    {
+      "tag": "panchoring:elemental_foci_to_earth"
+    }
+  ],
+  "type": "ars_nouveau:enchanting_apparatus"
+}

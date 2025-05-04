@@ -1,0 +1,23 @@
+{
+  "key": {
+    "#": {
+      "item": "stick"
+    },
+    "X": {
+      "item": "extcaves:rock_flint"
+    },
+    "Y": {
+      "item": "feather"
+    }
+  },
+  "pattern": [
+    "X",
+    "#",
+    "Y"
+  ],
+  "result": {
+    "count": 2,
+    "item": "arrow"
+  },
+  "type": "crafting_shaped"
+}

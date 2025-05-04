@@ -1,0 +1,62 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "dungeons_gear:freezing_foil",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:frost_scythe",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:frost_slayer",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:twin_bow",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:winters_touch",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:frost_helmet",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:frost_chestplate",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:frost_leggings",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:frost_boots",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:arctic_fox_helmet",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:arctic_fox_chestplate",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:arctic_fox_leggings",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:arctic_fox_boots",
+          "type": "item"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "chest"
+}

@@ -1,0 +1,12 @@
+{
+  "input": {
+    "tag": "panchoring:basalt_blocks"
+  },
+  "output": [
+    {
+      "chance": 1.0,
+      "item": "infernalexp:basalt_cobbled"
+    }
+  ],
+  "type": "ars_nouveau:crush"
+}

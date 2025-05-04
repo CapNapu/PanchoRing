@@ -1,0 +1,12 @@
+{
+  "ingredients": [
+    {
+      "tag": "projectvibrantjourneys:maple_logs"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "projectvibrantjourneys:maple_planks"
+  },
+  "type": "crafting_shapeless"
+}

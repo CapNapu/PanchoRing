@@ -1,0 +1,27 @@
+{
+  "key": {
+    "B": {
+      "item": "leather_boots"
+    },
+    "F": {
+      "item": "alexsmobs:roadrunner_feather"
+    },
+    "S": [
+      {
+        "item": "smooth_sandstone"
+      },
+      {
+        "item": "smooth_red_sandstone"
+      }
+    ]
+  },
+  "pattern": [
+    "F F",
+    "F F",
+    "SBS"
+  ],
+  "result": {
+    "item": "alexsmobs:roadrunner_boots"
+  },
+  "type": "crafting_shaped"
+}

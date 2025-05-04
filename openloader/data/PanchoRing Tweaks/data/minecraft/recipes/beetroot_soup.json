@@ -1,0 +1,20 @@
+{
+  "ingredients": [
+    {
+      "item": "beetroot"
+    },
+    {
+      "item": "beetroot"
+    },
+    {
+      "item": "bowl"
+    },
+    {
+      "item": "beetroot"
+    }
+  ],
+  "result": {
+    "item": "beetroot_soup"
+  },
+  "type": "crafting_shapeless"
+}

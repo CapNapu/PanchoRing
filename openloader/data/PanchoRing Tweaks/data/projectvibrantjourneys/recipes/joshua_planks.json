@@ -1,0 +1,12 @@
+{
+  "ingredients": [
+    {
+      "tag": "projectvibrantjourneys:joshua_logs"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "projectvibrantjourneys:joshua_planks"
+  },
+  "type": "crafting_shapeless"
+}

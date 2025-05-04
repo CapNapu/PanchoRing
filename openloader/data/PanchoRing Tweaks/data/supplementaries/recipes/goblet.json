@@ -1,0 +1,19 @@
+{
+  "key": {
+    "0": {
+      "item": "iron_nugget"
+    },
+    "1": {
+      "item": "iron_ingot"
+    }
+  },
+  "pattern": [
+    "0 0",
+    "010",
+    " 0 "
+  ],
+  "result": {
+    "item": "supplementaries:goblet"
+  },
+  "type": "crafting_shaped"
+}

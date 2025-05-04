@@ -1,0 +1,13 @@
+{
+  "first": {
+    "item": "leather_helmet"
+  },
+  "first_count": 1,
+  "result": "iceandfire:sheep_helmet",
+  "second": {
+    "item": "white_wool"
+  },
+  "second_count": 5,
+  "spools_count": 1,
+  "type": "improvedbackpacks:sewing"
+}

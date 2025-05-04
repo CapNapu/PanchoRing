@@ -1,0 +1,29 @@
+{
+  "criteria": {
+    "ignis": {
+      "conditions": {
+        "entity": {
+          "type": "cataclysm:ignis"
+        }
+      },
+      "trigger": "player_killed_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.kill_ignis.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "item": "cataclysm:the_incinerator"
+    },
+    "title": {
+      "translate": "advancements.panchoring.kill_ignis.title"
+    }
+  },
+  "parent": "panchoring:kill_ignited_revenant",
+  "rewards": {
+    "experience": 1000
+  }
+}

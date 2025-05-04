@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "get_stone": {
+      "conditions": {
+        "items": [
+          {
+            "tag": "stone_tool_materials"
+          }
+        ]
+      },
+      "trigger": "inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.story.mine_stone.description"
+    },
+    "icon": {
+      "item": "cobblestone"
+    },
+    "title": {
+      "translate": "advancements.story.mine_stone.title"
+    }
+  },
+  "parent": "panchoring:place_crafting_table"
+}

@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "mossy_cobblestone_slab"
+    },
+    {
+      "item": "mossy_cobblestone_slab"
+    }
+  ],
+  "result": {
+    "item": "mossy_cobblestone"
+  },
+  "type": "crafting_shapeless"
+}

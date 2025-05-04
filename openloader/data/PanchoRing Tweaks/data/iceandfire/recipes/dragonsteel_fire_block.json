@@ -1,0 +1,16 @@
+{
+  "key": {
+    "0": {
+      "item": "iceandfire:dragonsteel_fire_ingot"
+    }
+  },
+  "pattern": [
+    "000",
+    "000",
+    "000"
+  ],
+  "result": {
+    "item": "iceandfire:dragonsteel_fire_block"
+  },
+  "type": "crafting_shaped"
+}

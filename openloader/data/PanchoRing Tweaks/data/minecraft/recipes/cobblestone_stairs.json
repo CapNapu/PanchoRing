@@ -1,0 +1,17 @@
+{
+  "key": {
+    "#": {
+      "item": "cobblestone"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "item": "cobblestone_stairs"
+  },
+  "type": "crafting_shaped"
+}

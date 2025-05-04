@@ -1,0 +1,19 @@
+{
+  "key": {
+    "1": {
+      "tag": "wooden_slabs"
+    },
+    "2": {
+      "item": "glass"
+    }
+  },
+  "pattern": [
+    "212",
+    "2 2",
+    "222"
+  ],
+  "result": {
+    "item": "supplementaries:jar"
+  },
+  "type": "crafting_shaped"
+}

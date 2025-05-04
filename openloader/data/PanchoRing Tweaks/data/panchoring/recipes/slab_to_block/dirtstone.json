@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "extcaves:dirtstone_slab"
+    },
+    {
+      "item": "extcaves:dirtstone_slab"
+    }
+  ],
+  "result": {
+    "item": "extcaves:dirtstone"
+  },
+  "type": "crafting_shapeless"
+}

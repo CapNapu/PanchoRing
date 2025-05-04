@@ -1,0 +1,46 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count",
+      "config": {
+        "count": 128
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:square",
+          "config": {}
+        },
+        "feature": {
+          "type": "minecraft:decorated",
+          "config": {
+            "decorator": {
+              "type": "minecraft:range",
+              "config": {
+                "maximum": 40,
+                "bottom_offset": 95,
+                "top_offset": 1
+              }
+            },
+            "feature": {
+              "type": "minecraft:ore",
+              "config": {
+                "state": {
+                  "Name": "minecraft:coarse_dirt"
+                },
+                "size": 32,
+                "target": {
+                  "predicate_type": "minecraft:block_match",
+                  "block": "minecraft:gravel"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

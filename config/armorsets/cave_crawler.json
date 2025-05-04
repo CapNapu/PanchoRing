@@ -1,0 +1,34 @@
+{
+  "armorSetName": "cave_crawler",
+  "head": {
+    "itemKey": "dungeons_gear:cave_crawler_helmet"
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:cave_crawler_chestplate"
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:cave_crawler_leggings"
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:cave_crawler_boots"
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "effect",
+      "description": "effect.minecraft.haste",
+      "name": "minecraft:haste",
+      "value": 0.0,
+      "interactionDuration": 120
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "description": "panchoring.effect.haste_3",
+      "name": "minecraft:haste",
+      "value": 2.0,
+      "interactionDuration": 120
+    }
+  ]
+}

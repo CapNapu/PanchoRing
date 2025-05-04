@@ -1,0 +1,30 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "dungeons_gear:gear_addition/subtype/basic_normal",
+          "type": "loot_table",
+          "weight": 48
+        },
+        {
+          "name": "dungeons_gear:gear_addition/subtype/basic_unique",
+          "quality": 1,
+          "type": "loot_table",
+          "weight": 2
+        },
+        {
+          "quality": -1,
+          "type": "empty",
+          "weight": 50
+        }
+      ],
+      "rolls": {
+        "max": 2.0,
+        "min": 0.0,
+        "type": "uniform"
+      }
+    }
+  ],
+  "type": "chest"
+}

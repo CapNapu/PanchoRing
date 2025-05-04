@@ -1,0 +1,39 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "emerald",
+          "type": "item",
+          "weight": 18
+        },
+        {
+          "name": "majruszs_difficulty:recall_potion",
+          "type": "item",
+          "weight": 8
+        },
+        {
+          "name": "totem_of_undying",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            }
+          ],
+          "name": "book",
+          "type": "item",
+          "weight": 3
+        }
+      ],
+      "rolls": {
+        "max": 12.0,
+        "min": 6.0,
+        "type": "uniform"
+      }
+    }
+  ],
+  "type": "gift"
+}

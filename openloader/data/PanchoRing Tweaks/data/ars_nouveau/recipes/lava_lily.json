@@ -1,0 +1,20 @@
+{
+  "key": {
+    "a": {
+      "item": "lily_pad"
+    },
+    "b": {
+      "item": "ars_nouveau:mana_gem"
+    }
+  },
+  "pattern": [
+    "bbb",
+    "bab",
+    "bbb"
+  ],
+  "result": {
+    "count": 8,
+    "item": "ars_nouveau:lava_lily"
+  },
+  "type": "crafting_shaped"
+}

@@ -1,0 +1,13 @@
+{
+  "count": 1,
+  "ingredient": [
+    {
+      "item": "andesite"
+    },
+    {
+      "item": "polished_andesite"
+    }
+  ],
+  "result": "polished_andesite_stairs",
+  "type": "stonecutting"
+}

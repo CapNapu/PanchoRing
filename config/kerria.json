@@ -1,0 +1,7 @@
+{
+  "enabled": true,
+  "fastUpload": true,
+  "fastLightTextureUpload": true,
+  "cache": true,
+  "bufferSize": 4194304
+}

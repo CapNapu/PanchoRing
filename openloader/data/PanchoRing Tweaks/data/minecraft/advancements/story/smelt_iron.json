@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "iron": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iron_ingot"
+          }
+        ]
+      },
+      "trigger": "inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.story.smelt_iron.description"
+    },
+    "icon": {
+      "item": "iron_ingot"
+    },
+    "title": {
+      "translate": "advancements.story.smelt_iron.title"
+    }
+  },
+  "parent": "panchoring:place_furnace"
+}

@@ -1,0 +1,81 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:decorated",
+      "config": {
+        "outer": {
+          "type": "minecraft:count",
+          "config": {
+            "count": 30
+          }
+        },
+        "inner": {
+          "type": "minecraft:count",
+          "config": {
+            "count": 8
+          }
+        }
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:square",
+          "config": {}
+        },
+        "feature": {
+          "type": "minecraft:decorated",
+          "config": {
+            "decorator": {
+              "type": "minecraft:heightmap",
+              "config": {}
+            },
+            "feature": {
+              "type": "minecraft:simple_block",
+              "config": {
+                "to_place": {
+                  "Name": "minecraft:red_mushroom"
+                },
+                "place_on": [
+                  {
+                    "Name": "minecraft:grass_block",
+                    "Properties": {
+                      "snowy": "false"
+                    }
+                  },
+                  {
+                    "Name": "minecraft:stripped_spruce_log",
+                    "Properties": {
+                      "axis": "z"
+                    }
+                  },
+                  {
+                    "Name": "minecraft:stripped_spruce_log",
+                    "Properties": {
+                      "axis": "x"
+                    }
+                  }
+                ],
+                "place_in": [
+                  {
+                    "Name": "minecraft:grass"
+                  },
+                  {
+                    "Name": "minecraft:air"
+                  }
+                ],
+                "place_under": [
+                  {
+                    "Name": "minecraft:air"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

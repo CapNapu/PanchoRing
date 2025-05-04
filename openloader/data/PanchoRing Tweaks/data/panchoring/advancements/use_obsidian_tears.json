@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "potion": {
+      "conditions": {
+        "item": {
+          "item": "potion",
+          "nbt": "{\"fabrication:ObsidianTears\":1b}"
+        }
+      },
+      "trigger": "consume_item"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.use_obsidian_tears.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "potion",
+      "nbt": "{CustomPotionColor:5508279}"
+    },
+    "title": {
+      "translate": "advancements.panchoring.use_obsidian_tears.title"
+    }
+  },
+  "parent": "adventure/sleep_in_bed"
+}

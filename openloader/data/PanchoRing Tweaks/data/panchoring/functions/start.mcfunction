@@ -1,0 +1,15 @@
+portal nether enabled false
+
+scoreboard objectives add death_count deathCount
+scoreboard objectives add death_timer minecraft.custom:minecraft.play_one_minute
+scoreboard objectives add pixie_count dummy
+
+function panchoring:enderdragon_beam_1
+function panchoring:enderdragon_beam_2
+function panchoring:enderdragon_beam
+function panchoring:knockback_resistance
+function panchoring:pixie_dust_drop_1
+function panchoring:pixie_dust_drop_2
+function panchoring:death_punishments
+function panchoring:unlock_nether
+function panchoring:unlock_end

@@ -1,0 +1,35 @@
+{
+  "ingredients": [
+    {
+      "item": "potato"
+    },
+    {
+      "item": "potato"
+    },
+    {
+      "item": "potato"
+    },
+    {
+      "item": "potato"
+    },
+    {
+      "item": "potato"
+    },
+    {
+      "item": "potato"
+    },
+    {
+      "item": "potato"
+    },
+    {
+      "item": "potato"
+    },
+    {
+      "item": "dustydecor:empty_barrel"
+    }
+  ],
+  "result": {
+    "item": "dustydecor:potato_barrel"
+  },
+  "type": "crafting_shapeless"
+}

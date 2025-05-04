@@ -1,0 +1,43 @@
+{
+  "type": "origins:modify_damage_dealt",
+  "modifier": {
+    "operation": "multiply_base",
+    "value": 0.75
+  },
+  "target_condition": {
+    "type": "origins:and",
+    "conditions": [
+      {            
+        "type": "origins:attribute",
+        "attribute": "generic.max_health",
+        "comparison": ">",
+        "compare_to": 60
+      },
+      {
+        "inverted": true,
+        "type": "origins:entity_type",
+        "entity_type": "player"
+      }
+    ]
+  },
+  "damage_condition": {
+    "type": "origins:and",
+    "conditions": [
+      {            
+        "inverted": true,
+        "type": "origins:name",
+        "name": "explosion.player"
+      },
+      {            
+        "inverted": true,
+        "type": "origins:name",
+        "name": "magic"
+      },
+      {
+        "inverted": true,
+        "type": "origins:name",
+        "name": "indirectMagic"
+      }
+    ]
+  }
+}

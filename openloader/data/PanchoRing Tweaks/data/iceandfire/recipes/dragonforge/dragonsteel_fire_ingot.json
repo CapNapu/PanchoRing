@@ -1,0 +1,14 @@
+{
+  "blood": {
+    "item": "iceandfire:fire_dragon_blood"
+  },
+  "cook_time": 7200,
+  "dragon_type": "fire",
+  "input": {
+    "item": "iron_block"
+  },
+  "result": {
+    "item": "iceandfire:dragonsteel_fire_block"
+  },
+  "type": "iceandfire:dragonforge"
+}

@@ -1,0 +1,347 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "netherite_ingot",
+          "type": "item",
+          "weight": 15
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "endrem:end_crystal_fragment",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "netherite_scrap",
+          "type": "item",
+          "weight": 8
+        },
+        {
+          "functions": [
+            {
+              "count": 2,
+              "function": "set_count"
+            }
+          ],
+          "name": "endrem:end_crystal_fragment",
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "functions": [
+            {
+              "damage": {
+                "max": 1.0,
+                "min": 0.8
+              },
+              "function": "set_damage"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": {
+                "max": 20.0,
+                "min": 15.0,
+                "type": "uniform"
+              },
+              "treasure": true
+            }
+          ],
+          "name": "diamond_sword",
+          "type": "item",
+          "weight": 6
+        },
+        {
+          "functions": [
+            {
+              "damage": {
+                "max": 1.0,
+                "min": 0.8
+              },
+              "function": "set_damage"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": {
+                "max": 20.0,
+                "min": 15.0,
+                "type": "uniform"
+              },
+              "treasure": true
+            }
+          ],
+          "name": "diamond_chestplate",
+          "type": "item",
+          "weight": 6
+        },
+        {
+          "functions": [
+            {
+              "damage": {
+                "max": 1.0,
+                "min": 0.8
+              },
+              "function": "set_damage"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": {
+                "max": 20.0,
+                "min": 15.0,
+                "type": "uniform"
+              },
+              "treasure": true
+            }
+          ],
+          "name": "diamond_helmet",
+          "type": "item",
+          "weight": 6
+        },
+        {
+          "functions": [
+            {
+              "damage": {
+                "max": 1.0,
+                "min": 0.8
+              },
+              "function": "set_damage"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": {
+                "max": 20.0,
+                "min": 15.0,
+                "type": "uniform"
+              },
+              "treasure": true
+            }
+          ],
+          "name": "diamond_leggings",
+          "type": "item",
+          "weight": 6
+        },
+        {
+          "functions": [
+            {
+              "damage": {
+                "max": 1.0,
+                "min": 0.8
+              },
+              "function": "set_damage"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": {
+                "max": 20.0,
+                "min": 15.0,
+                "type": "uniform"
+              },
+              "treasure": true
+            }
+          ],
+          "name": "diamond_boots",
+          "type": "item",
+          "weight": 6
+        },
+        {
+          "name": "diamond_sword",
+          "type": "item",
+          "weight": 6
+        },
+        {
+          "name": "diamond_chestplate",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "name": "diamond_helmet",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "name": "diamond_boots",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "name": "diamond_leggings",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "diamond",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "set_count"
+            }
+          ],
+          "name": "enchanted_golden_apple",
+          "type": "item",
+          "weight": 2
+        }
+      ],
+      "rolls": 3
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 25.0,
+                "min": 12.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "spectral_arrow",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 5.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "gold_block",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 5.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "iceandfire:copper_block",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 9.0,
+                "min": 3.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "gold_ingot",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 9.0,
+                "min": 3.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "iceandfire:copper_ingot",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 5.0,
+                "min": 3.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "crying_obsidian",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 23.0,
+                "min": 8.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "quartz",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"fire_resistance\"}"
+            }
+          ],
+          "name": "potion",
+          "type": "item"
+        },
+        {
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"water\"}"
+            }
+          ],
+          "name": "potion",
+          "type": "item"
+        }
+      ],
+      "rolls": {
+        "max": 4.0,
+        "min": 3.0,
+        "type": "uniform"
+      }
+    }
+  ],
+  "type": "chest"
+}

@@ -1,0 +1,15 @@
+{
+  "key": {
+    "#": {
+      "item": "projectvibrantjourneys:pink_sakura_leaves"
+    }
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": {
+    "count": 8,
+    "item": "projectvibrantjourneys:pink_sakura_fallen_leaves"
+  },
+  "type": "crafting_shaped"
+}

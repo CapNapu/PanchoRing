@@ -1,0 +1,16 @@
+{
+  "key": {
+    "C": {
+      "item": "chain"
+    }
+  },
+  "pattern": [
+    "CC",
+    "CC",
+    "CC"
+  ],
+  "result": {
+    "item": "iceandfire:chain"
+  },
+  "type": "crafting_shaped"
+}

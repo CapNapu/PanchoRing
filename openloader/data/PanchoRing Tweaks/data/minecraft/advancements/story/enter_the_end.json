@@ -1,0 +1,23 @@
+{
+  "criteria": {
+    "entered_end": {
+      "conditions": {
+        "to": "the_end"
+      },
+      "trigger": "changed_dimension"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.story.enter_the_end.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "end_portal_frame"
+    },
+    "title": {
+      "translate": "advancements.story.enter_the_end.title"
+    }
+  },
+  "parent": "story/follow_ender_eye"
+}

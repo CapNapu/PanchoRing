@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "lime_carpet"
+    },
+    {
+      "item": "stick"
+    }
+  ],
+  "result": {
+    "item": "dustydecor:lime_wool_awning"
+  },
+  "type": "crafting_shapeless"
+}

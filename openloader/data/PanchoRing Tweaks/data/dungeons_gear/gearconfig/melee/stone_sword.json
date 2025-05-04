@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "amount": 6,
+      "attribute": "generic.attack_damage",
+      "operation": 0
+    },
+    {
+      "amount": -2.4,
+      "attribute": "generic.attack_speed",
+      "operation": 0
+    }
+  ],
+  "built_in_enchantments": [
+    {
+      "enchantment": "looting",
+      "level": 1
+    }
+  ],
+  "material": "dungeons_gear:xp",
+  "rarity": "UNCOMMON",
+  "unique": false
+}

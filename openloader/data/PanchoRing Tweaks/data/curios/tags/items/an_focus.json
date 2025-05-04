@@ -1,0 +1,29 @@
+{
+  "replace": true,
+  "values": [
+    "clock",
+    "compass",
+    "totem_of_undying",
+    "alexsmobs:echolocator",
+    "alexsmobs:endolocator",
+    "ars_elemental:air_focus",
+    "ars_elemental:earth_focus",
+    "ars_elemental:fire_focus",
+    "ars_elemental:necrotic_focus",
+    "ars_elemental:water_focus",
+    "ars_nouveau:jar_of_light",
+    "ars_nouveau:summon_focus",
+    "ars_nouveau:void_jar",
+    "bosses_of_mass_destruction:charged_ender_pearl",
+    "cataclysm:the_incinerator",
+    "cataclysm:void_core",
+    "iceandfire:blindfold",
+    "iceandfire:cyclops_eye",
+    "iceandfire:dread_key",
+    "iceandfire:earplugs",
+    "majruszs_difficulty:end_shard_locator",
+    "mowziesmobs:ice_crystal",
+    "origins:orb_of_origin",
+    "supplementaries:key"
+  ]
+}

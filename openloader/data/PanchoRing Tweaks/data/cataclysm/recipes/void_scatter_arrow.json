@@ -1,0 +1,23 @@
+{
+  "key": {
+    "#": {
+      "item": "stick"
+    },
+    "X": {
+      "item": "cataclysm:void_jaw"
+    },
+    "Y": {
+      "item": "gold_nugget"
+    }
+  },
+  "pattern": [
+    "X",
+    "#",
+    "Y"
+  ],
+  "result": {
+    "count": 2,
+    "item": "cataclysm:void_scatter_arrow"
+  },
+  "type": "crafting_shaped"
+}

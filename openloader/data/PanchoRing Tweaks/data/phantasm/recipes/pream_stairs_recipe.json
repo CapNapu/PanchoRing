@@ -1,0 +1,17 @@
+{
+  "key": {
+    "0": {
+      "item": "phantasm:pream_planks"
+    }
+  },
+  "pattern": [
+    "0  ",
+    "00 ",
+    "000"
+  ],
+  "result": {
+    "count": 6,
+    "item": "phantasm:pream_stairs"
+  },
+  "type": "crafting_shaped"
+}

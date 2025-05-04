@@ -1,0 +1,13 @@
+name = "RyoamicLights"
+filename = "RyoamicLights-forge-0.2.4+mc1.16.5.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "0807ecaf585af692a0fc2f05eadb93e40f9925de"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5353343
+project-id = 913587

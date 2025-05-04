@@ -1,0 +1,79 @@
+{
+  "theme": {
+    "fencing": {
+      "block": "iron_bars",
+      "type": "block"
+    },
+    "floor": {
+      "blocks": [
+        {
+          "block": "extcaves:polished_lavastone",
+          "weight": 4
+        },
+        {
+          "block": "phantasm:smooth_obsidian",
+          "weight": 1
+        }
+      ],
+      "type": "random_block"
+    },
+    "fluid": {
+      "block": "lava",
+      "type": "block"
+    },
+    "generic": {
+      "blocks": [
+        {
+          "block": "extcaves:polished_lavastone",
+          "weight": 4
+        },
+        {
+          "block": "phantasm:smooth_obsidian",
+          "weight": 1
+        }
+      ],
+      "type": "random_block"
+    },
+    "material": {
+      "blocks": [
+        {
+          "block": "extcaves:polished_lavastone",
+          "weight": 4
+        },
+        {
+          "block": "phantasm:smooth_obsidian",
+          "weight": 1
+        }
+      ],
+      "type": "random_block"
+    },
+    "pillar": {
+      "block": "phantasm:smooth_obsidian_pillar",
+      "type": "block"
+    },
+    "slab": {
+      "block": "extcaves:polished_lavastone_slab",
+      "type": "block"
+    },
+    "solid": {
+      "block": "phantasm:chiseled_smooth_obsidian",
+      "type": "block"
+    },
+    "solid_slab": {
+      "block": "phantasm:smooth_obsidian_bricks_slab",
+      "type": "block"
+    },
+    "solid_stairs": {
+      "block": "phantasm:smooth_obsidian_bricks_stairs",
+      "type": "block"
+    },
+    "stairs": {
+      "block": "extcaves:polished_lavastone_stairs",
+      "type": "block"
+    },
+    "wall": {
+      "block": "extcaves:polished_lavastone_wall",
+      "type": "block"
+    }
+  }
+}

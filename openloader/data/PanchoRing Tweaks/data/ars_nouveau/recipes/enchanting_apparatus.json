@@ -1,0 +1,22 @@
+{
+  "key": {
+    "x": {
+      "item": "gold_ingot"
+    },
+    "y": {
+      "item": "diamond"
+    },
+    "z": {
+      "item": "ars_nouveau:arcane_stone"
+    }
+  },
+  "pattern": [
+    "xzx",
+    " y ",
+    "xzx"
+  ],
+  "result": {
+    "item": "ars_nouveau:enchanting_apparatus"
+  },
+  "type": "crafting_shaped"
+}

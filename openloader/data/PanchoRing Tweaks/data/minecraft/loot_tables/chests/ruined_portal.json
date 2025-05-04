@@ -1,0 +1,252 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 2,
+      "entries": [
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 2,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "obsidian",
+          "quality": 1,
+          "type": "item",
+          "weight": 40
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 4,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "extcaves:rock_flint",
+          "quality": -1,
+          "type": "item",
+          "weight": 40
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 18,
+                "min": 9,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "iron_nugget",
+          "quality": -1,
+          "type": "item",
+          "weight": 35
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 24,
+                "min": 4,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "gold_nugget",
+          "quality": -1,
+          "type": "item",
+          "weight": 20
+        },
+        {
+          "functions": [
+            {
+              "damage": {
+                "max": 0.8,
+                "min": 0.2,
+                "type": "uniform"
+              },
+              "function": "set_damage"
+            }
+          ],
+          "name": "flint_and_steel",
+          "type": "item",
+          "weight": 25
+        },
+        {
+          "name": "fire_charge",
+          "type": "item",
+          "weight": 40
+        },
+        {
+          "name": "golden_apple",
+          "quality": 1,
+          "type": "item",
+          "weight": 15
+        },
+        {
+          "name": "dungeons_gear:gold_sword",
+          "type": "item",
+          "weight": 15
+        },
+        {
+          "name": "dungeons_gear:gold_axe",
+          "type": "item",
+          "weight": 15
+        },
+        {
+          "name": "majruszs_difficulty:golden_bandage",
+          "type": "item",
+          "weight": 15
+        },
+        {
+          "name": "infernalexp:molten_gold_cluster",
+          "type": "item",
+          "weight": 15
+        },
+        {
+          "name": "golden_boots",
+          "type": "item",
+          "weight": 15
+        },
+        {
+          "name": "golden_chestplate",
+          "type": "item",
+          "weight": 15
+        },
+        {
+          "name": "golden_helmet",
+          "type": "item",
+          "weight": 15
+        },
+        {
+          "name": "golden_leggings",
+          "type": "item",
+          "weight": 15
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 12,
+                "min": 4,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "glistering_melon_slice",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "name": "golden_horse_armor",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "name": "light_weighted_pressure_plate",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 12,
+                "min": 4,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "golden_carrot",
+          "quality": 1,
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 4,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "infernalexp:molten_gold_cluster",
+          "type": "item",
+          "weight": 15
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 8,
+                "min": 2,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "gold_ingot",
+          "type": "item",
+          "weight": 7
+        },
+        {
+          "name": "bell",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "name": "enchanted_golden_apple",
+          "quality": 2,
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 2,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "gold_block",
+          "quality": 1,
+          "type": "item",
+          "weight": 5
+        }
+      ],
+      "rolls": {
+        "max": 9,
+        "min": 5,
+        "type": "uniform"
+      }
+    }
+  ],
+  "type": "chest"
+}

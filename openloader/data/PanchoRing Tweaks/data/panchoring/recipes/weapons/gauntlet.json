@@ -1,0 +1,13 @@
+{
+  "first": {
+    "item": "improvedbackpacks:bound_leather"
+  },
+  "first_count": 2,
+  "result": "dungeons_gear:gauntlet",
+  "second": {
+    "item": "epicfight:knuckle"
+  },
+  "second_count": 1,
+  "spools_count": 1,
+  "type": "improvedbackpacks:sewing"
+}

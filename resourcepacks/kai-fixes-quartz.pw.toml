@@ -1,0 +1,13 @@
+name = "Kai Fixes Quartz"
+filename = "Kai Fixes Quartz - 1.20.1.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "18051bb02fc07e8ed584e1ff86f648e4228d9916"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6423084
+project-id = 1242901

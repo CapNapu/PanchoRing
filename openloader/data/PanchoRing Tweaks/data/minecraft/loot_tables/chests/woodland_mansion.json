@@ -1,0 +1,327 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "name": "totem_of_undying",
+          "type": "item"
+        }
+      ],
+      "rolls": {
+        "max": 1.0,
+        "min": 0.0,
+        "type": "uniform"
+      }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "name": "totem_of_undying",
+          "type": "item"
+        }
+      ],
+      "rolls": {
+        "max": 1.0,
+        "min": 0.0,
+        "type": "uniform"
+      }
+    },
+    {
+      "bonus_rolls": 1.0,
+      "entries": [
+        {
+          "name": "saddle",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 7.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "arrow",
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 50,
+              "treasure": true
+            },
+            {
+              "damage": {
+                "max": 0.7,
+                "min": 0.1,
+                "type": "uniform"
+              },
+              "function": "set_damage"
+            }
+          ],
+          "name": "crossbow",
+          "type": "item",
+          "weight": 15
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 50,
+              "treasure": true
+            },
+            {
+              "damage": {
+                "max": 0.7,
+                "min": 0.1,
+                "type": "uniform"
+              },
+              "function": "set_damage"
+            }
+          ],
+          "name": "dungeons_gear:rapid_crossbow",
+          "type": "item",
+          "weight": 12
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 50,
+              "treasure": true
+            },
+            {
+              "damage": {
+                "max": 0.7,
+                "min": 0.1,
+                "type": "uniform"
+              },
+              "function": "set_damage"
+            }
+          ],
+          "name": "dungeons_gear:heavy_crossbow",
+          "type": "item",
+          "weight": 9
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 35,
+              "treasure": true
+            },
+            {
+              "damage": {
+                "max": 0.9,
+                "min": 0.5,
+                "type": "uniform"
+              },
+              "function": "set_damage"
+            }
+          ],
+          "name": "dungeons_gear:axe",
+          "type": "item",
+          "weight": 18
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 35,
+              "treasure": true
+            },
+            {
+              "damage": {
+                "max": 0.9,
+                "min": 0.5,
+                "type": "uniform"
+              },
+              "function": "set_damage"
+            }
+          ],
+          "name": "dungeons_gear:mace",
+          "type": "item",
+          "weight": 12
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 35,
+              "treasure": true
+            },
+            {
+              "damage": {
+                "max": 0.9,
+                "min": 0.5,
+                "type": "uniform"
+              },
+              "function": "set_damage"
+            }
+          ],
+          "name": "dungeons_gear:double_axe",
+          "type": "item",
+          "weight": 6
+        }
+      ],
+      "rolls": {
+        "max": 6.0,
+        "min": 4.0,
+        "type": "uniform"
+      }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 12.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "gold_ingot",
+          "type": "item",
+          "weight": 15
+        },
+        {
+          "name": "gold_block",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "name": "emerald_block",
+          "type": "item",
+          "weight": 12
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 24.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "emerald",
+          "type": "item",
+          "weight": 17
+        },
+        {
+          "name": "golden_apple",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "name": "enchanted_golden_apple",
+          "type": "item",
+          "weight": 1
+        }
+      ],
+      "rolls": {
+        "max": 8.0,
+        "min": 6.0,
+        "type": "uniform"
+      }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 5.0,
+                "min": 3.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "wheat",
+          "type": "item",
+          "weight": 7
+        },
+        {
+          "name": "bread",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 5.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "potato",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 5.0,
+                "min": 3.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "carrot",
+          "type": "item",
+          "weight": 5
+        }
+      ],
+      "rolls": {
+        "max": 3.0,
+        "min": 1.0,
+        "type": "uniform"
+      }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "dark_oak_log",
+          "type": "item"
+        }
+      ],
+      "rolls": {
+        "max": 3.0,
+        "min": 1.0,
+        "type": "uniform"
+      }
+    }
+  ],
+  "type": "chest"
+}

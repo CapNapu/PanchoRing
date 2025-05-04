@@ -1,0 +1,121 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 4,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "coal",
+          "type": "item",
+          "weight": 15
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 3,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "gold_nugget",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "name": "spider_eye",
+          "type": "item",
+          "weight": 8
+        },
+        {
+          "name": "rotten_flesh",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "name": "emerald",
+          "type": "item",
+          "weight": 6
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 3,
+                "min": 2,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "wheat",
+          "type": "item",
+          "weight": 10
+        }
+      ],
+      "rolls": {
+        "max": 8,
+        "min": 2,
+        "type": "uniform"
+      }
+    },
+    {
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "functions": [
+            {
+              "damage": {
+                "max": 0.9,
+                "min": 0.4
+              },
+              "function": "set_damage"
+            }
+          ],
+          "name": "stone_axe",
+          "type": "item"
+        }
+      ],
+      "rolls": 1
+    },
+    {
+      "bonus_rolls": 1,
+      "entries": [
+        {
+          "name": "golden_apple",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "enchantments": [
+                "frost_walker"
+              ],
+              "function": "enchant_randomly"
+            }
+          ],
+          "name": "book",
+          "type": "item",
+          "weight": 1
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "chest"
+}

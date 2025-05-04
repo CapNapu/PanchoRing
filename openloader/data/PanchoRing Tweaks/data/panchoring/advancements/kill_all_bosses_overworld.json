@@ -1,0 +1,105 @@
+{
+  "criteria": {
+    "Barako, The Sun Chief": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "mowziesmobs:barako"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "Ferrous Wroughtnaut": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "mowziesmobs:ferrous_wroughtnaut"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "Frostmaw": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "mowziesmobs:frostmaw"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "Night Lich": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "bosses_of_mass_destruction:lich"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "Void Blossom": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "bosses_of_mass_destruction:void_blossom"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "Wilden Chimera": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "ars_nouveau:wilden_boss"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.kill_all_bosses_overworld.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "item": "dungeons_gear:diamond_sword"
+    },
+    "title": {
+      "translate": "advancements.panchoring.kill_all_bosses_overworld.title"
+    }
+  },
+  "parent": "adventure/root",
+  "rewards": {
+    "experience": 2500
+  }
+}

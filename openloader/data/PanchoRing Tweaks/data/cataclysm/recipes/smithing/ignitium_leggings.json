@@ -1,0 +1,12 @@
+{
+  "addition": {
+    "item": "cataclysm:ignitium_ingot"
+  },
+  "base": {
+    "item": "majruszs_difficulty:end_leggings"
+  },
+  "result": {
+    "item": "cataclysm:ignitium_leggings"
+  },
+  "type": "smithing"
+}

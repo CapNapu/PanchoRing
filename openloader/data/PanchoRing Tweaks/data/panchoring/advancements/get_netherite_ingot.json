@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "netherite_ingot": {
+      "conditions": {
+        "items": [
+          {
+            "item": "netherite_ingot"
+          }
+        ]
+      },
+      "trigger": "inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.get_netherite_ingot.description"
+    },
+    "icon": {
+      "item": "netherite_ingot"
+    },
+    "title": {
+      "translate": "advancements.panchoring.get_netherite_ingot.title"
+    }
+  },
+  "parent": "nether/obtain_ancient_debris"
+}

@@ -1,0 +1,23 @@
+{
+  "ingredients": [
+    {
+      "item": "clay_ball"
+    },
+    {
+      "item": "ars_nouveau:mana_gem"
+    },
+    {
+      "item": "ars_nouveau:mana_gem"
+    },
+    {
+      "item": "redstone"
+    },
+    {
+      "item": "redstone"
+    }
+  ],
+  "result": {
+    "item": "ars_nouveau:magic_clay"
+  },
+  "type": "crafting_shapeless"
+}

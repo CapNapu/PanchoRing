@@ -1,0 +1,77 @@
+{
+  "criteria": {
+    "Ignis": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "cataclysm:ignis"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "Nether Gauntlet": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "bosses_of_mass_destruction:gauntlet"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "Netherite Monstrosity": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "cataclysm:netherite_monstrosity"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    },
+    "Wither": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "wither"
+            }
+          }
+        ]
+      },
+      "trigger": "player_killed_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.kill_all_bosses_nether.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "item": "dungeons_gear:diamond_sword"
+    },
+    "title": {
+      "translate": "advancements.panchoring.kill_all_bosses_nether.title"
+    }
+  },
+  "parent": "nether/root",
+  "rewards": {
+    "experience": 2500
+  }
+}

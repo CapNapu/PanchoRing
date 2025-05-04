@@ -1,0 +1,15 @@
+{
+  "key": {
+    "D": {
+      "item": "iceandfire:dragonsteel_fire_block"
+    }
+  },
+  "pattern": [
+    " DD",
+    "DDD"
+  ],
+  "result": {
+    "item": "iceandfire:dragonarmor_dragonsteel_fire_head"
+  },
+  "type": "crafting_shaped"
+}

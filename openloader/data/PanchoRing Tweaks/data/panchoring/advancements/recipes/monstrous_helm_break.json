@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "monstrous_helm": {
+      "conditions": {
+        "durability": 0,
+        "item": {
+          "item": "cataclysm:monstrous_helm"
+        }
+      },
+      "trigger": "item_durability_changed"
+    }
+  },
+  "rewards": {
+    "function": "panchoring:monstrous_helm_break"
+  }
+}

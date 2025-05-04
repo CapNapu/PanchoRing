@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "item": "cocoa_beans"
+    },
+    {
+      "item": "wheat"
+    },
+    {
+      "item": "wheat"
+    },
+    {
+      "item": "wheat"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "cookie"
+  },
+  "type": "crafting_shapeless"
+}

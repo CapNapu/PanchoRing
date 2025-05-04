@@ -1,0 +1,25 @@
+{
+  "key": {
+    "F": {
+      "item": "iceandfire:amphithere_feather"
+    },
+    "O": {
+      "item": "crying_obsidian"
+    },
+    "S": {
+      "item": "stick"
+    },
+    "X": {
+      "tag": "planks"
+    }
+  },
+  "pattern": [
+    "OXO",
+    "FXF",
+    "OSO"
+  ],
+  "result": {
+    "item": "iceandfire:amphithere_macuahuitl"
+  },
+  "type": "crafting_shaped"
+}

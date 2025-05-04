@@ -1,0 +1,22 @@
+{
+  "key": {
+    "F": {
+      "item": "mowziesmobs:naga_fang"
+    },
+    "I": {
+      "item": "iceandfire:silver_ingot"
+    },
+    "S": {
+      "item": "stick"
+    }
+  },
+  "pattern": [
+    "F",
+    "I",
+    "S"
+  ],
+  "result": {
+    "item": "mowziesmobs:naga_fang_dagger"
+  },
+  "type": "crafting_shaped"
+}

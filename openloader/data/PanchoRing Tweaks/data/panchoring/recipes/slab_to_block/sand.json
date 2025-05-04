@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "slabgen:sand_slab"
+    },
+    {
+      "item": "slabgen:sand_slab"
+    }
+  ],
+  "result": {
+    "item": "sand"
+  },
+  "type": "crafting_shapeless"
+}

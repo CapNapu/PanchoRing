@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "furnace": {
+      "conditions": {
+        "block": "furnace"
+      },
+      "trigger": "placed_block"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.place_furnace.description"
+    },
+    "icon": {
+      "item": "furnace"
+    },
+    "title": {
+      "translate": "advancements.panchoring.place_furnace.title"
+    }
+  },
+  "parent": "story/mine_stone"
+}

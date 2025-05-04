@@ -1,0 +1,44 @@
+{
+  "theme": {
+    "button": {
+      "block": "polished_blackstone_button",
+      "type": "block"
+    },
+    "door": {
+      "block": "iron_door",
+      "type": "block"
+    },
+    "fence": {
+      "block": "nether_brick_fence",
+      "type": "block"
+    },
+    "fence_gate": {
+      "block": "cave_air",
+      "type": "block"
+    },
+    "material": {
+      "block": "phantasm:smooth_obsidian_lamp",
+      "type": "block"
+    },
+    "pillar": {
+      "block": "phantasm:smooth_obsidian_pillar",
+      "type": "block"
+    },
+    "pressure_plate": {
+      "block": "polished_blackstone_pressure_plate",
+      "type": "block"
+    },
+    "slab": {
+      "block": "extcaves:polished_lavastone_slab",
+      "type": "block"
+    },
+    "stairs": {
+      "block": "extcaves:polished_lavastone_stairs",
+      "type": "block"
+    },
+    "trapdoor": {
+      "block": "iron_trapdoor",
+      "type": "block"
+    }
+  }
+}

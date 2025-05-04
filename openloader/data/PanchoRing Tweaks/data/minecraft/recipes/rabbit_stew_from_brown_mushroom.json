@@ -1,0 +1,17 @@
+{
+  "ingredients": [
+    {
+      "item": "cooked_rabbit"
+    },
+    {
+      "item": "carrot"
+    },
+    {
+      "item": "bowl"
+    }
+  ],
+  "result": {
+    "item": "rabbit_stew"
+  },
+  "type": "crafting_shapeless"
+}

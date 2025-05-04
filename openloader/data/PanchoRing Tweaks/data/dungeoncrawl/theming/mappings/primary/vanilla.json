@@ -1,0 +1,273 @@
+{
+  "default": [
+    {
+      "key": "dungeoncrawl:vanilla/default",
+      "weight": 2
+    },
+    {
+      "key": "dungeoncrawl:vanilla/andesite"
+    }
+  ],
+  "mapping": {
+    "badlands": [
+      {
+        "key": "dungeoncrawl:vanilla/badlands/default"
+      }
+    ],
+    "badlands_plateau": [
+      {
+        "key": "dungeoncrawl:vanilla/badlands/default"
+      }
+    ],
+    "bamboo_jungle": [
+      {
+        "key": "dungeoncrawl:vanilla/jungle/default"
+      }
+    ],
+    "bamboo_jungle_hills": [
+      {
+        "key": "dungeoncrawl:vanilla/jungle/default"
+      }
+    ],
+    "desert": [
+      {
+        "key": "dungeoncrawl:vanilla/desert/default"
+      }
+    ],
+    "desert_hills": [
+      {
+        "key": "dungeoncrawl:vanilla/desert/default"
+      }
+    ],
+    "desert_lakes": [
+      {
+        "key": "dungeoncrawl:vanilla/desert/default"
+      }
+    ],
+    "eroded_badlands": [
+      {
+        "key": "dungeoncrawl:vanilla/badlands/default"
+      }
+    ],
+    "flower_forest": [
+      {
+        "key": "dungeoncrawl:vanilla/desert/diorite"
+      }
+    ],
+    "giant_spruce_taiga": [
+      {
+        "key": "dungeoncrawl:vanilla/catacombs/crumbled_floor"
+      }
+    ],
+    "giant_spruce_taiga_hills": [
+      {
+        "key": "dungeoncrawl:vanilla/catacombs/crumbled_floor"
+      }
+    ],
+    "giant_tree_taiga": [
+      {
+        "key": "dungeoncrawl:vanilla/catacombs/mossy"
+      }
+    ],
+    "giant_tree_taiga_hills": [
+      {
+        "key": "dungeoncrawl:vanilla/catacombs/mossy"
+      }
+    ],
+    "gravelly_mountains": [
+      {
+        "key": "dungeoncrawl:vanilla/mountains/default"
+      }
+    ],
+    "ice_spikes": [
+      {
+        "key": "dungeoncrawl:vanilla/mountains/default"
+      }
+    ],
+    "jungle": [
+      {
+        "key": "dungeoncrawl:vanilla/jungle/default"
+      }
+    ],
+    "jungle_edge": [
+      {
+        "key": "dungeoncrawl:vanilla/jungle/default"
+      }
+    ],
+    "jungle_hills": [
+      {
+        "key": "dungeoncrawl:vanilla/jungle/default"
+      }
+    ],
+    "modified_badlands_plateau": [
+      {
+        "key": "dungeoncrawl:vanilla/catacombs/crumbled_floor"
+      }
+    ],
+    "modified_gravelly_mountains": [
+      {
+        "key": "dungeoncrawl:vanilla/mountains/default"
+      }
+    ],
+    "modified_jungle": [
+      {
+        "key": "dungeoncrawl:vanilla/jungle/default"
+      }
+    ],
+    "modified_jungle_edge": [
+      {
+        "key": "dungeoncrawl:vanilla/jungle/default"
+      }
+    ],
+    "modified_wooded_badlands_plateau": [
+      {
+        "key": "dungeoncrawl:vanilla/catacombs/crumbled_floor"
+      }
+    ],
+    "mountains": [
+      {
+        "key": "dungeoncrawl:vanilla/mountains/default"
+      }
+    ],
+    "savanna": [
+      {
+        "key": "dungeoncrawl:vanilla/desert/granite"
+      }
+    ],
+    "savanna_plateau": [
+      {
+        "key": "dungeoncrawl:vanilla/desert/granite"
+      }
+    ],
+    "shattered_savanna": [
+      {
+        "key": "dungeoncrawl:catacombs/crumbled"
+      }
+    ],
+    "shattered_savanna_plateau": [
+      {
+        "key": "dungeoncrawl:catacombs/crumbled"
+      }
+    ],
+    "snowy_mountains": [
+      {
+        "key": "dungeoncrawl:vanilla/mountains/default"
+      }
+    ],
+    "snowy_taiga": [
+      {
+        "key": "dungeoncrawl:vanilla/catacombs/mossy"
+      }
+    ],
+    "snowy_taiga_hills": [
+      {
+        "key": "dungeoncrawl:vanilla/catacombs/mossy"
+      }
+    ],
+    "snowy_taiga_mountains": [
+      {
+        "key": "dungeoncrawl:vanilla/mountains/default"
+      }
+    ],
+    "swamp": [
+      {
+        "key": "dungeoncrawl:vanilla/catacombs/ancient"
+      }
+    ],
+    "swamp_hills": [
+      {
+        "key": "dungeoncrawl:vanilla/catacombs/ancient"
+      }
+    ],
+    "taiga": [
+      {
+        "key": "dungeoncrawl:vanilla/catacombs/mossy"
+      }
+    ],
+    "taiga_hills": [
+      {
+        "key": "dungeoncrawl:vanilla/catacombs/mossy"
+      }
+    ],
+    "taiga_mountains": [
+      {
+        "key": "dungeoncrawl:vanilla/desert/diorite"
+      }
+    ],
+    "wooded_badlands_plateau": [
+      {
+        "key": "dungeoncrawl:vanilla/badlands/default"
+      }
+    ],
+    "wooded_mountains": [
+      {
+        "key": "dungeoncrawl:vanilla/mountains/default"
+      }
+    ],
+    "projectvibrantjourneys:alpine_heights": [
+      {
+        "key": "dungeoncrawl:vanilla/mountains/default"
+      }
+    ],
+    "projectvibrantjourneys:autumnal_coniferous_forest": [
+      {
+        "key": "dungeoncrawl:vanilla/catacombs/mossy"
+      }
+    ],
+    "projectvibrantjourneys:boreal_forest": [
+      {
+        "key": "dungeoncrawl:vanilla/catacombs/mossy"
+      }
+    ],
+    "projectvibrantjourneys:crimson_thicket": [
+      {
+        "key": "dungeoncrawl:vanilla/catacombs/mossy"
+      }
+    ],
+    "projectvibrantjourneys:crystal_lakes": [
+      {
+        "key": "dungeoncrawl:vanilla/catacombs/ancient"
+      }
+    ],
+    "projectvibrantjourneys:desert_shrubland": [
+      {
+        "key": "dungeoncrawl:vanilla/desert/default"
+      }
+    ],
+    "projectvibrantjourneys:flooded_woodlands": [
+      {
+        "key": "dungeoncrawl:vanilla/catacombs/ancient"
+      }
+    ],
+    "projectvibrantjourneys:overgrown_spires": [
+      {
+        "key": "dungeoncrawl:vanilla/catacombs/ancient"
+      }
+    ],
+    "projectvibrantjourneys:red_rock_valley": [
+      {
+        "key": "dungeoncrawl:vanilla/badlands/default"
+      }
+    ],
+    "projectvibrantjourneys:redwood_peaks": [
+      {
+        "key": "dungeoncrawl:vanilla/mountains/default"
+      }
+    ],
+    "projectvibrantjourneys:redwoods": [
+      {
+        "key": "dungeoncrawl:vanilla/catacombs/mossy"
+      }
+    ],
+    "projectvibrantjourneys:verdant_sands": [
+      {
+        "key": "dungeoncrawl:vanilla/desert/default"
+      }
+    ],
+    "projectvibrantjourneys:windswept_cliffs": [
+      {
+        "key": "dungeoncrawl:vanilla/mountains/default"
+      }
+    ]
+  }
+}

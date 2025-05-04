@@ -1,0 +1,12 @@
+{
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "bygonenether:blocks/soul_stone"
+    }
+  ],
+  "mod_dependency": "infernalexp",
+  "replacement": "bygonenether:soul_stone",
+  "target": "bygonenether:soul_stone",
+  "type": "bygonenether:replace_item"
+}

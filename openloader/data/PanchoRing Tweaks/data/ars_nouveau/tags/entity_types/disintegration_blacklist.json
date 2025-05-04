@@ -1,0 +1,32 @@
+{
+  "values": [
+    "elder_guardian",
+    "ender_dragon",
+    "enderman",
+    "evoker",
+    "piglin_brute",
+    "piglin",
+    "pillager",
+    "vindicator",
+    "wither",
+    "alexsmobs:mimicube",
+    "alexsmobs:void_worm",
+    "alexsmobs:warped_mosco",
+    "ars_nouveau:wilden_boss",
+    "bosses_of_mass_destruction:gauntlet",
+    "bosses_of_mass_destruction:lich",
+    "bosses_of_mass_destruction:obsidilith",
+    "bosses_of_mass_destruction:void_blossom",
+    "bygonenether:piglin_hunter",
+    "bygonenether:piglin_prisoner",
+    "cataclysm:ender_golem",
+    "cataclysm:ender_guardian",
+    "cataclysm:ignis",
+    "cataclysm:ignited_revenant",
+    "cataclysm:netherite_monstrosity",
+    "majruszs_difficulty:pillager_wolf",
+    "mowziesmobs:barako",
+    "mowziesmobs:ferrous_wroughtnaut",
+    "mowziesmobs:frostmaw"
+  ]
+}

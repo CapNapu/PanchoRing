@@ -1,0 +1,19 @@
+{
+  "key": {
+    "#": {
+      "tag": "logs"
+    },
+    "0": {
+      "tag": "stone_crafting_materials"
+    }
+  },
+  "pattern": [
+    "###",
+    "# #",
+    "000"
+  ],
+  "result": {
+    "item": "smoker"
+  },
+  "type": "crafting_shaped"
+}

@@ -1,0 +1,136 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 1,
+      "entries": [
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 3,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "emerald",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 5,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "iron_ingot",
+          "type": "item",
+          "weight": 9
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 3,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "iceandfire:copper_ingot",
+          "type": "item",
+          "weight": 6
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 3,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "supplementaries:pancake",
+          "type": "item",
+          "weight": 15
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 7,
+                "min": 3,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "obsidian",
+          "quality": 1,
+          "type": "item",
+          "weight": 6
+        }
+      ],
+      "rolls": {
+        "max": 4,
+        "min": 2,
+        "type": "uniform"
+      }
+    },
+    {
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "name": "dungeons_gear:sword",
+          "type": "item",
+          "weight": 8
+        },
+        {
+          "name": "dungeons_gear:spear",
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "name": "dungeons_gear:katana",
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "name": "dungeons_gear:rapier",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "name": "dungeons_gear:cutlass",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "name": "dungeons_gear:claymore",
+          "type": "item",
+          "weight": 1
+        }
+      ],
+      "rolls": {
+        "max": 3,
+        "min": 1,
+        "type": "uniform"
+      }
+    }
+  ],
+  "type": "chest"
+}

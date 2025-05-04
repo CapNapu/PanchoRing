@@ -1,0 +1,224 @@
+{
+  "default": [
+    {
+      "key": "dungeoncrawl:default"
+    }
+  ],
+  "mapping": {
+    "badlands": [
+      {
+        "key": "dungeoncrawl:desert/default"
+      }
+    ],
+    "badlands_plateau": [
+      {
+        "key": "dungeoncrawl:desert/default"
+      }
+    ],
+    "birch_forest": [
+      {
+        "key": "dungeoncrawl:forest/default"
+      }
+    ],
+    "birch_forest_hills": [
+      {
+        "key": "dungeoncrawl:forest/default"
+      }
+    ],
+    "dark_forest": [
+      {
+        "key": "dungeoncrawl:forest/default"
+      }
+    ],
+    "dark_forest_hills": [
+      {
+        "key": "dungeoncrawl:forest/default"
+      }
+    ],
+    "desert": [
+      {
+        "key": "dungeoncrawl:desert/default"
+      }
+    ],
+    "desert_hills": [
+      {
+        "key": "dungeoncrawl:desert/default"
+      }
+    ],
+    "desert_lakes": [
+      {
+        "key": "dungeoncrawl:desert/default"
+      }
+    ],
+    "eroded_badlands": [
+      {
+        "key": "dungeoncrawl:desert/default"
+      }
+    ],
+    "flower_forest": [
+      {
+        "key": "dungeoncrawl:forest/default"
+      }
+    ],
+    "forest": [
+      {
+        "key": "dungeoncrawl:forest/default"
+      }
+    ],
+    "gravelly_mountains": [
+      {
+        "key": "dungeoncrawl:mountains/default"
+      }
+    ],
+    "ice_spikes": [
+      {
+        "key": "dungeoncrawl:mountains/default"
+      }
+    ],
+    "modified_gravelly_mountains": [
+      {
+        "key": "dungeoncrawl:mountains/default"
+      }
+    ],
+    "mountains": [
+      {
+        "key": "dungeoncrawl:mountains/default"
+      }
+    ],
+    "savanna_plateau": [
+      {
+        "key": "dungeoncrawl:mountains/default"
+      }
+    ],
+    "shattered_savanna_plateau": [
+      {
+        "key": "dungeoncrawl:mountains/default"
+      }
+    ],
+    "snowy_mountains": [
+      {
+        "key": "dungeoncrawl:mountains/default"
+      }
+    ],
+    "snowy_taiga": [
+      {
+        "key": "dungeoncrawl:forest/default"
+      }
+    ],
+    "snowy_taiga_hills": [
+      {
+        "key": "dungeoncrawl:forest/default"
+      }
+    ],
+    "snowy_taiga_mountains": [
+      {
+        "key": "dungeoncrawl:mountains/default"
+      }
+    ],
+    "taiga": [
+      {
+        "key": "dungeoncrawl:forest/default"
+      }
+    ],
+    "taiga_hills": [
+      {
+        "key": "dungeoncrawl:forest/default"
+      }
+    ],
+    "taiga_mountains": [
+      {
+        "key": "dungeoncrawl:mountains/default"
+      }
+    ],
+    "tall_birch_forest": [
+      {
+        "key": "dungeoncrawl:forest/default"
+      }
+    ],
+    "tall_birch_hills": [
+      {
+        "key": "dungeoncrawl:forest/default"
+      }
+    ],
+    "wooded_badlands_plateau": [
+      {
+        "key": "dungeoncrawl:desert/default"
+      }
+    ],
+    "wooded_hills": [
+      {
+        "key": "dungeoncrawl:forest/default"
+      }
+    ],
+    "wooded_mountains": [
+      {
+        "key": "dungeoncrawl:mountains/default"
+      }
+    ],
+    "ars_nouveau:archwood_forest": [
+      {
+        "key": "dungeoncrawl:forest/default"
+      }
+    ],
+    "projectvibrantjourneys:alpine_heights": [
+      {
+        "key": "dungeoncrawl:mountains/default"
+      }
+    ],
+    "projectvibrantjourneys:aspen_grove": [
+      {
+        "key": "dungeoncrawl:forest/default"
+      }
+    ],
+    "projectvibrantjourneys:aspen_grove_hills": [
+      {
+        "key": "dungeoncrawl:forest/default"
+      }
+    ],
+    "projectvibrantjourneys:autumnal_coniferous_forest": [
+      {
+        "key": "dungeoncrawl:forest/default"
+      }
+    ],
+    "projectvibrantjourneys:boreal_forest": [
+      {
+        "key": "dungeoncrawl:forest/default"
+      }
+    ],
+    "projectvibrantjourneys:crimson_thicket": [
+      {
+        "key": "dungeoncrawl:forest/default"
+      }
+    ],
+    "projectvibrantjourneys:desert_shrubland": [
+      {
+        "key": "dungeoncrawl:desert/default"
+      }
+    ],
+    "projectvibrantjourneys:overgrown_spires": [
+      {
+        "key": "dungeoncrawl:mountains/default"
+      }
+    ],
+    "projectvibrantjourneys:red_rock_valley": [
+      {
+        "key": "dungeoncrawl:desert/default"
+      }
+    ],
+    "projectvibrantjourneys:redwood_peaks": [
+      {
+        "key": "dungeoncrawl:mountains/default"
+      }
+    ],
+    "projectvibrantjourneys:verdant_sands": [
+      {
+        "key": "dungeoncrawl:desert/default"
+      }
+    ],
+    "projectvibrantjourneys:windswept_cliffs": [
+      {
+        "key": "dungeoncrawl:mountains/default"
+      }
+    ]
+  }
+}

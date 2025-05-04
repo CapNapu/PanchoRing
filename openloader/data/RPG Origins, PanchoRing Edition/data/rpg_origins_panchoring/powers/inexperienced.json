@@ -1,0 +1,27 @@
+{
+  "type": "origins:modify_damage_dealt",
+  "modifier": {
+    "operation": "multiply_base",
+    "value": -0.2
+  },
+  "damage_condition": {
+    "type": "origins:and",
+    "conditions": [
+      {            
+        "inverted": true,
+        "type": "origins:name",
+        "name": "explosion.player"
+      },
+      {            
+        "inverted": true,
+        "type": "origins:name",
+        "name": "magic"
+      },
+      {
+        "inverted": true,
+        "type": "origins:name",
+        "name": "indirectMagic"
+      }
+    ]
+  }
+}

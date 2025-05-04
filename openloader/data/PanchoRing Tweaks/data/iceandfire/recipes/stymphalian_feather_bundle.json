@@ -1,0 +1,19 @@
+{
+  "key": {
+    "F": {
+      "item": "iceandfire:stymphalian_bird_feather"
+    },
+    "S": {
+      "item": "string"
+    }
+  },
+  "pattern": [
+    " F ",
+    "FSF",
+    " F "
+  ],
+  "result": {
+    "item": "iceandfire:stymphalian_feather_bundle"
+  },
+  "type": "crafting_shaped"
+}

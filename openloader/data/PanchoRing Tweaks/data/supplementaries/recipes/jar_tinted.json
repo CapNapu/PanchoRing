@@ -1,0 +1,19 @@
+{
+  "key": {
+    "1": {
+      "tag": "wooden_slabs"
+    },
+    "2": {
+      "item": "black_stained_glass"
+    }
+  },
+  "pattern": [
+    "212",
+    "2 2",
+    "222"
+  ],
+  "result": {
+    "item": "supplementaries:jar_tinted"
+  },
+  "type": "crafting_shaped"
+}

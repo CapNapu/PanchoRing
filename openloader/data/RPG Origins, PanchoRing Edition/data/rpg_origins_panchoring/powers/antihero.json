@@ -1,0 +1,11 @@
+{
+  "type": "origins:effect_immunity",
+  "effects": [
+    "dolphins_grace",
+    "hero_of_the_village",
+    "alexsmobs:orcas_might",
+    "alexsmobs:sunbird_blessing",
+    "alexsmobs:tigers_blessing",
+    "mowziesmobs:suns_blessing"
+  ]
+}

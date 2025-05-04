@@ -1,0 +1,62 @@
+{
+  "criteria": {
+    "Pale": {
+      "conditions": {
+        "entity": {
+          "nbt": "{WolfType:0}",
+          "type": "wolf"
+        }
+      },
+      "trigger": "tame_animal"
+    },
+    "Chestnut": {
+      "conditions": {
+        "entity": {
+          "nbt": "{WolfType:1}",
+          "type": "wolf"
+        }
+      },
+      "trigger": "tame_animal"
+    },
+    "Brown": {
+      "conditions": {
+        "entity": {
+          "nbt": "{WolfType:2}",
+          "type": "wolf"
+        }
+      },
+      "trigger": "tame_animal"
+    },
+    "Ashen": {
+      "conditions": {
+        "entity": {
+          "nbt": "{WolfType:3}",
+          "type": "wolf"
+        }
+      },
+      "trigger": "tame_animal"
+    },
+    "Black": {
+      "conditions": {
+        "entity": {
+          "nbt": "{WolfType:4}",
+          "type": "wolf"
+        }
+      },
+      "trigger": "tame_animal"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.tame_all_wolfs.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "bone"
+    },
+    "title": {
+      "translate": "advancements.panchoring.tame_all_wolfs.title"
+    }
+  },
+  "parent": "husbandry/tame_an_animal"
+}

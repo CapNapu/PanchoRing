@@ -1,0 +1,153 @@
+{
+  "criteria": {
+    "amythest": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:dragonegg_amythest"
+          }
+        ]
+      },
+      "trigger": "inventory_changed"
+    },
+    "black": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:dragonegg_black"
+          }
+        ]
+      },
+      "trigger": "inventory_changed"
+    },
+    "blue": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:dragonegg_blue"
+          }
+        ]
+      },
+      "trigger": "inventory_changed"
+    },
+    "bronze": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:dragonegg_bronze"
+          }
+        ]
+      },
+      "trigger": "inventory_changed"
+    },
+    "copper": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:dragonegg_copper"
+          }
+        ]
+      },
+      "trigger": "inventory_changed"
+    },
+    "electric": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:dragonegg_electric"
+          }
+        ]
+      },
+      "trigger": "inventory_changed"
+    },
+    "gray": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:dragonegg_gray"
+          }
+        ]
+      },
+      "trigger": "inventory_changed"
+    },
+    "green": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:dragonegg_green"
+          }
+        ]
+      },
+      "trigger": "inventory_changed"
+    },
+    "red": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:dragonegg_red"
+          }
+        ]
+      },
+      "trigger": "inventory_changed"
+    },
+    "sapphire": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:dragonegg_sapphire"
+          }
+        ]
+      },
+      "trigger": "inventory_changed"
+    },
+    "silver": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:dragonegg_silver"
+          }
+        ]
+      },
+      "trigger": "inventory_changed"
+    },
+    "white": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:dragonegg_white"
+          }
+        ]
+      },
+      "trigger": "inventory_changed"
+    }
+  },
+  "display": {
+    "frame": "goal",
+    "description": {
+      "translate": "advancements.iceandfire.dragon_egg.description"
+    },
+    "icon": {
+      "item": "iceandfire:dragonegg_red"
+    },
+    "title": {
+      "translate": "advancements.iceandfire.dragon_egg.title"
+    }
+  },
+  "parent": "iceandfire:iceandfire/kill_if_dragon",
+  "requirements": [
+    [
+      "red",
+      "green",
+      "bronze",
+      "gray",
+      "white",
+      "blue",
+      "sapphire",
+      "silver",
+      "electric",
+      "amythest",
+      "copper",
+      "black"
+    ]
+  ]
+}

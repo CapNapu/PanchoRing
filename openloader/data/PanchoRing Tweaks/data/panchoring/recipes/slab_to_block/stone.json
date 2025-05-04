@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "stone_slab"
+    },
+    {
+      "item": "stone_slab"
+    }
+  ],
+  "result": {
+    "item": "stone"
+  },
+  "type": "crafting_shapeless"
+}

@@ -1,0 +1,23 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "conditions": [
+            {
+              "condition": "location_check",
+              "predicate": {
+                "feature": "desert_pyramid"
+              }
+            }
+          ],
+          "name": "endrem:old_eye",
+          "type": "item",
+          "weight": 1
+        }
+      ],
+      "name": "eye_pool",
+      "rolls": 1
+    }
+  ]
+}

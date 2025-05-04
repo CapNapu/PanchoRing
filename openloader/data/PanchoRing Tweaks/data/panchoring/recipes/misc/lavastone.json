@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "item": "extcaves:sedimentstone"
+    },
+    {
+      "item": "quartz"
+    },
+    {
+      "item": "quartz"
+    },
+    {
+      "item": "extcaves:sedimentstone"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "extcaves:lavastone"
+  },
+  "type": "crafting_shapeless"
+}

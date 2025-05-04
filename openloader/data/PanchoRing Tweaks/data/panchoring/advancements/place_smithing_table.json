@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "smithing_table": {
+      "conditions": {
+        "block": "smithing_table"
+      },
+      "trigger": "placed_block"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.place_smithing_table.description"
+    },
+    "icon": {
+      "item": "smithing_table"
+    },
+    "title": {
+      "translate": "advancements.panchoring.place_smithing_table.title"
+    }
+  },
+  "parent": "story/smelt_iron"
+}

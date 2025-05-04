@@ -1,0 +1,301 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "golden_apple",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "name": "saddle",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "name": "name_tag",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "name": "experience_bottle",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "name": "enchanted_golden_apple",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            }
+          ],
+          "name": "book",
+          "type": "item",
+          "weight": 20
+        }
+      ],
+      "rolls": {
+        "max": 2.0,
+        "min": 0.0,
+        "type": "uniform"
+      }
+    },
+    {
+      "entries": [
+        {
+          "name": "dungeons_gear:sword",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "name": "dungeons_gear:axe",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "name": "dungeons_gear:pickaxe",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "name": "dungeons_gear:spear",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "name": "dungeons_gear:mace",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "name": "iceandfire:armor_copper_metal_helmet",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "name": "iceandfire:armor_copper_metal_chestplate",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "name": "iceandfire:armor_copper_metal_leggings",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "name": "iceandfire:armor_copper_metal_boots",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 3.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "iron_ingot",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 3.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "iceandfire:copper_ingot",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 3.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "diamond",
+          "type": "item",
+          "weight": 1
+        }
+      ],
+      "rolls": {
+        "max": 2.0,
+        "min": 1.0,
+        "type": "uniform"
+      }
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "apple",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 3.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "coal",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 4.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "torch",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 4.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "majruszs_difficulty:tattered_cloth",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 4.0,
+                "min": 2.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "wheat_seeds",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "name": "brown_mushroom",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "name": "red_mushroom",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "name": "dead_bush",
+          "type": "item",
+          "weight": 3
+        }
+      ],
+      "rolls": {
+        "max": 4.0,
+        "min": 3.0,
+        "type": "uniform"
+      }
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "rotten_flesh",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 2.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "carrot",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 2.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "potato",
+          "type": "item",
+          "weight": 5
+        }
+      ],
+      "rolls": {
+        "max": 3.0,
+        "min": 1.0,
+        "type": "uniform"
+      }
+    }
+  ],
+  "type": "chest"
+}

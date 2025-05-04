@@ -1,0 +1,16 @@
+{
+  "key": {
+    "0": {
+      "item": "iceandfire:amythest_gem"
+    }
+  },
+  "pattern": [
+    "000",
+    "000",
+    "000"
+  ],
+  "result": {
+    "item": "iceandfire:amythest_block"
+  },
+  "type": "crafting_shaped"
+}

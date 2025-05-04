@@ -1,0 +1,36 @@
+{
+  "criteria": {
+    "killed_ghast": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "ghast"
+            }
+          }
+        ],
+        "killing_blow": {
+          "direct_entity": {
+            "type": "fireball"
+          },
+          "is_projectile": true
+        }
+      },
+      "trigger": "player_killed_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.nether.return_to_sender.description"
+    },
+    "icon": {
+      "item": "fire_charge"
+    },
+    "title": {
+      "translate": "advancements.nether.return_to_sender.title"
+    }
+  },
+  "parent": "nether/root"
+}

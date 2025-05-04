@@ -1,0 +1,25 @@
+{
+  "key": {
+    "0": {
+      "item": "iron_ingot"
+    },
+    "1": {
+      "tag": "planks"
+    },
+    "2": {
+      "item": "piston"
+    },
+    "3": {
+      "item": "iceandfire:copper_ingot"
+    }
+  },
+  "pattern": [
+    "111",
+    "020",
+    "030"
+  ],
+  "result": {
+    "item": "supplementaries:spring_launcher"
+  },
+  "type": "crafting_shaped"
+}

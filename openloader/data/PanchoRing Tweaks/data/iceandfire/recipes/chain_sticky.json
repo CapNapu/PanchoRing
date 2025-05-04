@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "iceandfire:chain"
+    },
+    {
+      "tag": "mapatlases:sticky_crafting_items"
+    }
+  ],
+  "result": {
+    "item": "iceandfire:chain_sticky"
+  },
+  "type": "crafting_shapeless"
+}

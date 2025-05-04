@@ -1,0 +1,21 @@
+{
+  "powers": [
+    "rpg_origins_panchoring:equipment_cleric",
+    "rpg_origins_panchoring:heal_pool",
+    "rpg_origins_panchoring:sun_strength",
+    "rpg_origins_panchoring:village_friendly",
+    "rpg_origins_panchoring:untrained",
+    "rpg_origins_panchoring:pure",
+    "rpg_origins_panchoring:.armor_tweaks",
+    "rpg_origins_panchoring:.sleeping_tweaks",
+    "rpg_origins_panchoring:.projectile_tweaks",
+    "rpg_origins_panchoring:.more_exhaustion_not",
+    "rpg_origins_panchoring:.mage_robes_not",
+    "rpg_origins_panchoring:.heavy_weapons_not",
+    "rpg_origins_panchoring:.break_speed_not"
+  ],
+  "icon": {
+    "item": "lingering_potion"
+  },
+  "impact": 2
+}

@@ -1,0 +1,45 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.IngameMenuScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_feedback_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_report_bugs_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=9510%
+  action = hidebutton
+}
+
+customization {
+  orientation = element
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  orientation_element = vanillabtn:button_compatibility_id:mc_pausescreen_return_to_game_button
+  buttonaction = openlink;https://github.com/CapNapu/PanchoRing/issues%btnaction_splitter_fm%
+  x = 0
+  width = 204
+  action = addbutton
+  actionid = 60664877-1ae0-4036-a413-391e9a86ab271783457618571
+  y = 48
+  label = {"placeholder":"local","values":{"key":"menu.panchoring.report"}}
+  height = 20
+}
+

@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "music_disc_wither_waltz": {
+      "conditions": {
+        "item": {
+          "item": "bygonenether:wither_waltz_music_disc"
+        },
+        "location": {
+          "block": {
+            "block": "jukebox"
+          }
+        }
+      },
+      "trigger": "item_used_on_block"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.bygonenether.acquire_wither_waltz.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "bygonenether:wither_waltz_music_disc"
+    },
+    "title": {
+      "translate": "advancements.bygonenether.acquire_wither_waltz.title"
+    }
+  },
+  "parent": "panchoring:music_disc_flush"
+}

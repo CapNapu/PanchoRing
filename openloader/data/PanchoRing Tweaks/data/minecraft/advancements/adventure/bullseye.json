@@ -1,0 +1,35 @@
+{
+  "criteria": {
+    "bullseye": {
+      "conditions": {
+        "projectile": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "distance": {
+                "horizontal": {
+                  "min": 30.0
+                }
+              }
+            }
+          }
+        ],
+        "signal_strength": 15
+      },
+      "trigger": "target_hit"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.adventure.bullseye.description"
+    },
+    "icon": {
+      "item": "target"
+    },
+    "title": {
+      "translate": "advancements.adventure.bullseye.title"
+    }
+  },
+  "parent": "adventure/shoot_arrow"
+}

@@ -1,0 +1,310 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "dungeons_gear:fang_of_frost",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:shear_dagger",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:bee_stinger",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:jailors_scythe",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:hawkbrand",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:sinister_sword",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:battlestaff_of_terror",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:growing_staff",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:highland_axe",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:whirlwind",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:hammer_of_gravity",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:broadsword",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:heartstealer",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:great_axeblade",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:fortune_spear",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:whispering_spear",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:resolute_tempest_knife",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:chill_gale_knife",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:bow_of_lost_souls",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:shivering_bow",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:hunters_promise",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:ancient_bow",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:the_pink_scoundrel",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:sugar_rush",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:burst_gale_bow",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:butterfly_crossbow",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:auto_crossbow",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:doom_crossbow",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:harp_crossbow",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:firebolt_thrower",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:imploding_crossbow",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:archers_helmet",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:archers_chestplate",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:archers_leggings",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:archers_boots",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:ember_robes_helmet",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:ember_robes_chestplate",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:ember_robes_leggings",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:ember_robes_boots",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:curious_helmet",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:curious_chestplate",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:curious_leggings",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:curious_boots",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:renegade_helmet",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:renegade_chestplate",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:renegade_leggings",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:renegade_boots",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:full_metal_helmet",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:full_metal_chestplate",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:full_metal_leggings",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:full_metal_boots",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:stalwart_helmet",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:stalwart_chestplate",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:stalwart_leggings",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:stalwart_boots",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:cave_crawler_helmet",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:cave_crawler_chestplate",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:cave_crawler_leggings",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:cave_crawler_boots",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:fox_helmet",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:fox_chestplate",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:fox_leggings",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:fox_boots",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:gilded_glory_helmet",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:gilded_glory_chestplate",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:gilded_glory_leggings",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:gilded_glory_boots",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:opulent_helmet",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:opulent_chestplate",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:opulent_leggings",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:opulent_boots",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:rugged_climbing_helmet",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:rugged_climbing_chestplate",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:rugged_climbing_leggings",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:rugged_climbing_boots",
+          "type": "item"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "chest"
+}

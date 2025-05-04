@@ -1,0 +1,206 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 36.0,
+                "min": 12.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "iceandfire:silver_nugget",
+          "type": "item",
+          "weight": 20
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 12.0,
+                "min": 6.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "string",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 8.0,
+                "min": 4.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "leather",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 36.0,
+                "min": 12.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "gold_nugget",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "damage": {
+                "max": 0.5,
+                "min": 0.25
+              },
+              "function": "set_damage"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": {
+                "max": 10.0,
+                "min": 5.0,
+                "type": "uniform"
+              },
+              "treasure": true
+            }
+          ],
+          "name": "leather_helmet",
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "functions": [
+            {
+              "damage": {
+                "max": 0.5,
+                "min": 0.25
+              },
+              "function": "set_damage"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": {
+                "max": 10.0,
+                "min": 5.0,
+                "type": "uniform"
+              },
+              "treasure": true
+            }
+          ],
+          "name": "leather_chestplate",
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "functions": [
+            {
+              "damage": {
+                "max": 0.5,
+                "min": 0.25
+              },
+              "function": "set_damage"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": {
+                "max": 10.0,
+                "min": 5.0,
+                "type": "uniform"
+              },
+              "treasure": true
+            }
+          ],
+          "name": "leather_leggings",
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "functions": [
+            {
+              "damage": {
+                "max": 0.5,
+                "min": 0.25
+              },
+              "function": "set_damage"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": {
+                "max": 10.0,
+                "min": 5.0,
+                "type": "uniform"
+              },
+              "treasure": true
+            }
+          ],
+          "name": "leather_boots",
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 16.0,
+                "min": 8.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "kelp",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 2.0,
+                "min": 1.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "fermented_spider_eye",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "name": "trident",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "name": "majruszs_difficulty:ocean_shield",
+          "type": "item",
+          "weight": 2
+        }
+      ],
+      "rolls": {
+        "max": 6.0,
+        "min": 3.0,
+        "type": "uniform"
+      }
+    }
+  ],
+  "type": "gift"
+}

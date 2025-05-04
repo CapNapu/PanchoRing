@@ -1,0 +1,13 @@
+name = "Respawning Animals"
+filename = "RespawnableAnimals-v1.0.5-1.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3795b7f6550f1abf43afcc65efc939394a5d12a0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3459361
+project-id = 322765

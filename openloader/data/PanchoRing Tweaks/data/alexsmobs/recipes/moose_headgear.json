@@ -1,0 +1,21 @@
+{
+  "key": {
+    "A": {
+      "item": "alexsmobs:moose_antler"
+    },
+    "I": {
+      "item": "iceandfire:silver_ingot"
+    },
+    "S": {
+      "item": "string"
+    }
+  },
+  "pattern": [
+    "AIA",
+    "S S"
+  ],
+  "result": {
+    "item": "alexsmobs:moose_headgear"
+  },
+  "type": "crafting_shaped"
+}

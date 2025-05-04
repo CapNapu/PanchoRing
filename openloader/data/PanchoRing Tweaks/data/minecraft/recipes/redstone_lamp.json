@@ -1,0 +1,23 @@
+{
+  "key": {
+    "#": {
+      "tag": "forge:glass"
+    },
+    "G": {
+      "item": "glowstone"
+    },
+    "R": {
+      "item": "redstone"
+    }
+  },
+  "pattern": [
+    "R#R",
+    "#G#",
+    "R#R"
+  ],
+  "result": {
+    "count": 4,
+    "item": "redstone_lamp"
+  },
+  "type": "crafting_shaped"
+}

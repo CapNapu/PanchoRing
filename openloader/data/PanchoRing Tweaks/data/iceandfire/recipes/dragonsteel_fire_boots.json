@@ -1,0 +1,12 @@
+{
+  "addition": {
+    "item": "iceandfire:dragonsteel_fire_ingot"
+  },
+  "base": {
+    "item": "iron_boots"
+  },
+  "result": {
+    "item": "iceandfire:dragonsteel_fire_boots"
+  },
+  "type": "smithing"
+}

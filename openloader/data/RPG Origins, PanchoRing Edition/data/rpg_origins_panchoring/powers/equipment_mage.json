@@ -1,0 +1,24 @@
+{
+  "hidden": true,
+  "type": "origins:starting_equipment",
+  "stacks": [
+    {
+      "item": "ars_nouveau:novice_robes",
+      "slot": 38
+    },
+    {
+      "item": "ars_nouveau:novice_leggings",
+      "slot": 37
+    },
+    {
+      "item": "ars_nouveau:novice_spell_book",
+      "tag": "{\"spells\": \"self,projectile,touch,craft,harm,redstone_signal\"}",
+      "slot": 8
+    },
+    {
+      "item": "patchouli:guide_book",
+      "tag": "{\"patchouli:book\": \"patchouli:magic_wornbook\"}",
+      "slot": 10
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "dustydecor:small_shelf_block"
+    },
+    {
+      "item": "dustydecor:jars"
+    }
+  ],
+  "result": {
+    "item": "dustydecor:cluttered_shelf"
+  },
+  "type": "crafting_shapeless"
+}

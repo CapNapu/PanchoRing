@@ -1,0 +1,47 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "children": [
+            {
+              "conditions": [
+                {
+                  "condition": "match_tool",
+                  "predicate": {
+                    "enchantments": [
+                      {
+                        "enchantment": "silk_touch",
+                        "levels": {
+                          "min": 1
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "name": "bookshelf",
+              "type": "item"
+            },
+            {
+              "functions": [
+                {
+                  "count": 6,
+                  "function": "set_count"
+                },
+                {
+                  "function": "explosion_decay"
+                }
+              ],
+              "name": "book",
+              "type": "item"
+            }
+          ],
+          "type": "alternatives"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "block"
+}

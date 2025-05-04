@@ -1,0 +1,20 @@
+{
+  "ingredients": [
+    {
+      "item": "dustydecor:frying_pan"
+    },
+    {
+      "item": "dustydecor:cooking_pot"
+    },
+    {
+      "item": "dustydecor:cooking_pot"
+    },
+    {
+      "item": "dustydecor:frying_pan"
+    }
+  ],
+  "result": {
+    "item": "dustydecor:pots_and_pans"
+  },
+  "type": "crafting_shapeless"
+}

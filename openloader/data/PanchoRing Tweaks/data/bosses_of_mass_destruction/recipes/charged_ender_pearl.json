@@ -1,0 +1,12 @@
+{
+  "addition": {
+    "item": "bosses_of_mass_destruction:void_thorn"
+  },
+  "base": {
+    "item": "bygonenether:warped_ender_pearl"
+  },
+  "result": {
+    "item": "bosses_of_mass_destruction:charged_ender_pearl"
+  },
+  "type": "smithing"
+}

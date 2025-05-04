@@ -1,0 +1,32 @@
+{
+  "type": "origins:multiple",
+  "negative.effects": {
+    "type": "origins:effect_immunity",
+    "effects": [
+      "hunger",
+      "mining_fatigue",
+      "nausea",
+      "poison",
+      "wither",
+      "alexsmobs:debilitating_sting",
+      "alexsmobs:ender_flu",
+      "infernalexp:infection",
+      "infernalexp:luminous"
+    ]
+  },
+  "blindfold": {
+    "type": "origins:effect_immunity",
+    "effect": "blindness",
+    "condition": {
+      "inverted": true,
+      "type": "origins:equipped_item",
+      "equipment_slot": "head",
+      "item_condition": {
+        "type": "origins:ingredient",
+        "ingredient": {
+          "item": "iceandfire:blindfold"
+        }
+      }
+    }
+  }
+}

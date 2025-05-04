@@ -1,0 +1,13 @@
+name = "[LEGACY] InvMove (Forge)"
+filename = "InvMove-1.16.3-0.4.6.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "8c018fed04e1fc620bef0d373de543b660454120"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3089108
+project-id = 390992

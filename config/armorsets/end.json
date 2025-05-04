@@ -1,0 +1,34 @@
+{
+  "armorSetName": "end",
+  "head": {
+    "itemKey": "majruszs_difficulty:end_helmet"
+  },
+  "chest": {
+    "itemKey": "majruszs_difficulty:end_chestplate"
+  },
+  "legs": {
+    "itemKey": "majruszs_difficulty:end_leggings"
+  },
+  "boots": {
+    "itemKey": "majruszs_difficulty:end_boots"
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "effect",
+      "name": "minecraft:slow_falling",
+      "value": 0.0,
+      "interactionDuration": 120
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.armor",
+      "value": 0.0,
+      "modifierUUID": "ba3aef26-3826-4a02-a84a-09bda2d68bfc",
+      "attributeOperation": 0
+    }
+  ],
+  "hideGeneratedTooltip": true
+}

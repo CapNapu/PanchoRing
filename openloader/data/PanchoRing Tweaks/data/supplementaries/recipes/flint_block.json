@@ -1,0 +1,16 @@
+{
+  "key": {
+    "0": {
+      "item": "extcaves:rock_flint"
+    }
+  },
+  "pattern": [
+    "000",
+    "000",
+    "000"
+  ],
+  "result": {
+    "item": "supplementaries:flint_block"
+  },
+  "type": "crafting_shaped"
+}

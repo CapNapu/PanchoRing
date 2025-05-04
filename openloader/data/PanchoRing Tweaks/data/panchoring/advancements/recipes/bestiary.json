@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "bestiary": {
+      "conditions": {
+        "recipe": "panchoring:bestiary"
+      },
+      "trigger": "recipe_unlocked"
+    }
+  },
+  "rewards": {
+    "function": "panchoring:bestiary"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "key": {
+    "0": {
+      "tag": "forge:glass"
+    },
+    "1": {
+      "item": "gold_ingot"
+    }
+  },
+  "pattern": [
+    "010",
+    " 0 ",
+    "010"
+  ],
+  "result": {
+    "item": "supplementaries:hourglass"
+  },
+  "type": "crafting_shaped"
+}

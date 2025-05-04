@@ -1,0 +1,167 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 1,
+      "entries": [
+        {
+          "name": "antiqueatlas:empty_antique_atlas",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 4,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "experience_bottle",
+          "type": "item",
+          "weight": 6
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            }
+          ],
+          "name": "book",
+          "type": "item",
+          "weight": 7
+        }
+      ],
+      "rolls": {
+        "max": 1,
+        "min": 0,
+        "type": "uniform"
+      }
+    },
+    {
+      "bonus_rolls": 1,
+      "entries": [
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 4,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "iceandfire:silver_ingot",
+          "type": "item",
+          "weight": 20
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 4,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "gold_ingot",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 4,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "emerald",
+          "type": "item",
+          "weight": 15
+        },
+        {
+          "name": "diamond",
+          "type": "item",
+          "weight": 5
+        }
+      ],
+      "rolls": {
+        "max": 9,
+        "min": 5,
+        "type": "uniform"
+      }
+    },
+    {
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 7,
+                "min": 3,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "iceandfire:silver_nugget",
+          "type": "item",
+          "weight": 30
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 7,
+                "min": 3,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "gold_nugget",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 6,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "lapis_lazuli",
+          "type": "item",
+          "weight": 20
+        }
+      ],
+      "rolls": {
+        "max": 5,
+        "min": 2,
+        "type": "uniform"
+      }
+    }
+  ],
+  "type": "chest"
+}

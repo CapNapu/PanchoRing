@@ -1,0 +1,14 @@
+{
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": [
+    {
+      "item": "infernalexp:rubble"
+    },
+    {
+      "item": "infernalexp:silt"
+    }
+  ],
+  "result": "black_stained_glass",
+  "type": "blasting"
+}

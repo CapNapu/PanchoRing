@@ -1,0 +1,17 @@
+{
+  "ingredients": [
+    {
+      "item": "infernalexp:blindsight_tongue"
+    },
+    {
+      "item": "infernalexp:luminous_fungus"
+    },
+    {
+      "item": "bowl"
+    }
+  ],
+  "result": {
+    "item": "infernalexp:blindsight_tongue_stew"
+  },
+  "type": "crafting_shapeless"
+}

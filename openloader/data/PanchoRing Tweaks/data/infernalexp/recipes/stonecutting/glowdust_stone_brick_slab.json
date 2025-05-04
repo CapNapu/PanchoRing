@@ -1,0 +1,13 @@
+{
+  "count": 2,
+  "ingredient": [
+    {
+      "item": "infernalexp:glowdust_stone"
+    },
+    {
+      "item": "infernalexp:glowdust_stone_bricks"
+    }
+  ],
+  "result": "infernalexp:glowdust_stone_brick_slab",
+  "type": "stonecutting"
+}

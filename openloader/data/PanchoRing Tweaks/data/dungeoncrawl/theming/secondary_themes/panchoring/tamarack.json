@@ -1,0 +1,45 @@
+{
+  "id": 13,
+  "theme": {
+    "button": {
+      "block": "projectvibrantjourneys:tamarack_button",
+      "type": "block"
+    },
+    "door": {
+      "block": "projectvibrantjourneys:tamarack_door",
+      "type": "block"
+    },
+    "fence": {
+      "block": "projectvibrantjourneys:tamarack_fence",
+      "type": "block"
+    },
+    "fence_gate": {
+      "block": "projectvibrantjourneys:tamarack_fence_gate",
+      "type": "block"
+    },
+    "material": {
+      "block": "projectvibrantjourneys:tamarack_planks",
+      "type": "block"
+    },
+    "pillar": {
+      "block": "projectvibrantjourneys:tamarack_log",
+      "type": "block"
+    },
+    "pressure_plate": {
+      "block": "projectvibrantjourneys:tamarack_pressure_plate",
+      "type": "block"
+    },
+    "slab": {
+      "block": "projectvibrantjourneys:tamarack_slab",
+      "type": "block"
+    },
+    "stairs": {
+      "block": "projectvibrantjourneys:tamarack_stairs",
+      "type": "block"
+    },
+    "trapdoor": {
+      "block": "projectvibrantjourneys:tamarack_trapdoor",
+      "type": "block"
+    }
+  }
+}

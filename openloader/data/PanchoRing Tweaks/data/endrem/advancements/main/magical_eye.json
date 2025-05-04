@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "magical_eye": {
+      "conditions": {
+        "items": [
+          {
+            "item": "endrem:magical_eye"
+          }
+        ]
+      },
+      "trigger": "inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.main.magical_eye.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "endrem:magical_eye"
+    },
+    "title": {
+      "translate": "advancements.main.magical_eye.title"
+    }
+  },
+  "parent": "endrem:main/witch_eye"
+}

@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "elytra": {
+      "conditions": {
+        "items": [
+          {
+            "item": "elytra"
+          }
+        ]
+      },
+      "trigger": "inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.end.elytra.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "elytra"
+    },
+    "title": {
+      "translate": "advancements.end.elytra.title"
+    }
+  },
+  "parent": "end/find_end_city"
+}

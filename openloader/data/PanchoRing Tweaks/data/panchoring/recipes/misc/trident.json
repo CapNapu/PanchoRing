@@ -1,0 +1,19 @@
+{
+  "key": {
+    "P": {
+      "item": "prismarine_shard"
+    },
+    "S": {
+      "item": "alexsmobs:shark_tooth"
+    }
+  },
+  "pattern": [
+    " SS",
+    " PS",
+    "P  "
+  ],
+  "result": {
+    "item": "trident"
+  },
+  "type": "crafting_shaped"
+}

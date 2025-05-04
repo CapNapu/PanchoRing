@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "music_disc_soul_spunk": {
+      "conditions": {
+        "item": {
+          "item": "infernalexp:music_disc_soul_spunk"
+        },
+        "location": {
+          "block": {
+            "block": "jukebox"
+          }
+        }
+      },
+      "trigger": "item_used_on_block"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.music_disc_soul_spunk.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "infernalexp:music_disc_soul_spunk"
+    },
+    "title": {
+      "translate": "advancements.panchoring.music_disc_soul_spunk.title"
+    }
+  },
+  "parent": "panchoring:music_disc_thime"
+}

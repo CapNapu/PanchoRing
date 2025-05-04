@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "crafting_table": {
+      "conditions": {
+        "block": "crafting_table"
+      },
+      "trigger": "placed_block"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.place_crafting_table.description"
+    },
+    "icon": {
+      "item": "crafting_table"
+    },
+    "title": {
+      "translate": "advancements.panchoring.place_crafting_table.title"
+    }
+  },
+  "parent": "majruszs_difficulty:progressive_difficulty/normal_mode"
+}

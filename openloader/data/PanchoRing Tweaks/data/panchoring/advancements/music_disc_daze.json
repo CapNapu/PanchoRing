@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "music_disc_daze": {
+      "conditions": {
+        "item": {
+          "item": "alexsmobs:music_disc_daze"
+        },
+        "location": {
+          "block": {
+            "block": "jukebox"
+          }
+        }
+      },
+      "trigger": "item_used_on_block"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.music_disc_daze.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "alexsmobs:music_disc_daze"
+    },
+    "title": {
+      "translate": "advancements.panchoring.music_disc_daze.title"
+    }
+  },
+  "parent": "panchoring:music_disc_soul_spunk"
+}

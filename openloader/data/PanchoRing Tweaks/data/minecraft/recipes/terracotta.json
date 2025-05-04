@@ -1,0 +1,9 @@
+{
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "extcaves:oldstone"
+  },
+  "result": "terracotta",
+  "type": "smelting"
+}

@@ -1,0 +1,12 @@
+{
+  "ingredients": [
+    {
+      "tag": "wool"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "string"
+  },
+  "type": "crafting_shapeless"
+}

@@ -1,0 +1,92 @@
+{
+  "pools": [
+    {
+      "conditions": [
+        {
+          "condition": "match_tool",
+          "predicate": {
+            "enchantments": [
+              {
+                "enchantment": "silk_touch",
+                "levels": {
+                  "min": 1
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "entries": [
+        {
+          "children": [
+            {
+              "conditions": [
+                {
+                  "block": "slabgen:mycelium_slab",
+                  "condition": "block_state_property",
+                  "properties": {
+                    "type": "double"
+                  }
+                }
+              ],
+              "name": "mycelium",
+              "type": "item"
+            },
+            {
+              "name": "slabgen:mycelium_slab",
+              "type": "item"
+            }
+          ],
+          "type": "alternatives"
+        }
+      ],
+      "rolls": 1
+    },
+    {
+      "conditions": [
+        {
+          "condition": "inverted",
+          "term": {
+            "condition": "match_tool",
+            "predicate": {
+              "enchantments": [
+                {
+                  "enchantment": "silk_touch",
+                  "levels": {
+                    "min": 1
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "entries": [
+        {
+          "children": [
+            {
+              "conditions": [
+                {
+                  "block": "slabgen:mycelium_slab",
+                  "condition": "block_state_property",
+                  "properties": {
+                    "type": "double"
+                  }
+                }
+              ],
+              "name": "dirt",
+              "type": "item"
+            },
+            {
+              "name": "slabgen:dirt_slab",
+              "type": "item"
+            }
+          ],
+          "type": "alternatives"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "block"
+}

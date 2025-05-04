@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "wither_eye": {
+      "conditions": {
+        "items": [
+          {
+            "item": "endrem:wither_eye"
+          }
+        ]
+      },
+      "trigger": "inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.main.wither_eye.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "endrem:wither_eye"
+    },
+    "title": {
+      "translate": "advancements.main.wither_eye.title"
+    }
+  },
+  "parent": "endrem:main/end_crystal_eye"
+}

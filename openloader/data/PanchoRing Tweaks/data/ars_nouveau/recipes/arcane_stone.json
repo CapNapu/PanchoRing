@@ -1,0 +1,20 @@
+{
+  "ingredients": [
+    {
+      "tag": "stone_crafting_materials"
+    },
+    {
+      "item": "ars_nouveau:mana_gem"
+    },
+    {
+      "item": "ars_nouveau:mana_gem"
+    },
+    {
+      "tag": "stone_crafting_materials"
+    }
+  ],
+  "result": {
+    "item": "ars_nouveau:arcane_stone"
+  },
+  "type": "crafting_shapeless"
+}

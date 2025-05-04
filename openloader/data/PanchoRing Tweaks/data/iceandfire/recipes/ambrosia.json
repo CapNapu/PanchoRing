@@ -1,0 +1,17 @@
+{
+  "ingredients": [
+    {
+      "item": "iceandfire:pixie_dust"
+    },
+    {
+      "item": "iceandfire:pixie_dust"
+    },
+    {
+      "item": "bowl"
+    }
+  ],
+  "result": {
+    "item": "iceandfire:ambrosia"
+  },
+  "type": "crafting_shapeless"
+}

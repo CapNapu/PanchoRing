@@ -1,0 +1,20 @@
+{
+  "key": {
+    "P": {
+      "item": "extcaves:marlstone_powder"
+    },
+    "W": {
+      "item": "water_bucket"
+    }
+  },
+  "pattern": [
+    " W ",
+    "PPP",
+    "PPP"
+  ],
+  "result": {
+    "count": 4,
+    "item": "clay"
+  },
+  "type": "crafting_shaped"
+}

@@ -1,0 +1,13 @@
+{
+  "first": {
+    "item": "leather_chestplate"
+  },
+  "first_count": 1,
+  "result": "iceandfire:sheep_chestplate",
+  "second": {
+    "item": "white_wool"
+  },
+  "second_count": 8,
+  "spools_count": 1,
+  "type": "improvedbackpacks:sewing"
+}

@@ -1,0 +1,8 @@
+{
+  "count": 1,
+  "ingredient": {
+    "item": "basalt"
+  },
+  "result": "infernalexp:basalt_button",
+  "type": "stonecutting"
+}

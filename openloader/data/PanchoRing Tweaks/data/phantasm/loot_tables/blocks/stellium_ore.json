@@ -1,0 +1,56 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "children": [
+            {
+              "conditions": [
+                {
+                  "condition": "match_tool",
+                  "predicate": {
+                    "enchantments": [
+                      {
+                        "enchantment": "silk_touch",
+                        "levels": {
+                          "min": 1
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "name": "phantasm:stellium_ore",
+              "type": "item"
+            },
+            {
+              "functions": [
+                {
+                  "count": {
+                    "max": 6.0,
+                    "min": 2.0,
+                    "type": "uniform"
+                  },
+                  "function": "set_count"
+                },
+                {
+                  "enchantment": "fortune",
+                  "formula": "ore_drops",
+                  "function": "apply_bonus"
+                },
+                {
+                  "function": "explosion_decay"
+                }
+              ],
+              "name": "phantasm:stellium_nugget",
+              "type": "item"
+            }
+          ],
+          "type": "alternatives"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "block"
+}

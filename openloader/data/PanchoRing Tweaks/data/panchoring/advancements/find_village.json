@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "village": {
+      "conditions": {
+        "feature": "village"
+      },
+      "trigger": "yungsapi:structure_location"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.find_village.description"
+    },
+    "icon": {
+      "item": "supplementaries:sign_post_oak"
+    },
+    "title": {
+      "translate": "advancements.panchoring.find_village.title"
+    }
+  },
+  "parent": "adventure/root"
+}

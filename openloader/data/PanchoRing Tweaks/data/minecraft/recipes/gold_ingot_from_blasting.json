@@ -1,0 +1,9 @@
+{
+  "cookingtime": 100,
+  "experience": 1.0,
+  "ingredient": {
+    "item": "gold_ore"
+  },
+  "result": "gold_ingot",
+  "type": "blasting"
+}

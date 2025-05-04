@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "enchanted_item": {
+      "trigger": "enchanted_item"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.story.enchant_item.description"
+    },
+    "icon": {
+      "item": "enchanting_table"
+    },
+    "title": {
+      "translate": "advancements.story.enchant_item.title"
+    }
+  },
+  "parent": "story/form_obsidian"
+}

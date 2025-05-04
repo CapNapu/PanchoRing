@@ -1,0 +1,13 @@
+name = "Better Level"
+filename = "Better Level-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c57bae5919cc4369aea4ee4c3e57494862d0ac56"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4632997
+project-id = 886296

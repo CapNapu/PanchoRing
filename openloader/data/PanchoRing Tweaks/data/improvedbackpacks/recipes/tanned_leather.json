@@ -1,0 +1,9 @@
+{
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "improvedbackpacks:bound_leather"
+  },
+  "result": "improvedbackpacks:tanned_leather",
+  "type": "smoking"
+}

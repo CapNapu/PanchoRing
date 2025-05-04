@@ -1,0 +1,22 @@
+{
+  "key": {
+    "b": {
+      "item": "ars_nouveau:mana_gem"
+    },
+    "x": {
+      "item": "ars_nouveau:arcane_stone"
+    },
+    "y": {
+      "item": "gold_ingot"
+    }
+  },
+  "pattern": [
+    " x ",
+    "byb",
+    "byb"
+  ],
+  "result": {
+    "item": "ars_nouveau:ritual"
+  },
+  "type": "crafting_shaped"
+}

@@ -1,0 +1,19 @@
+{
+  "key": {
+    "#": {
+      "item": "gold_nugget"
+    },
+    "X": {
+      "item": "redstone"
+    }
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "item": "clock"
+  },
+  "type": "crafting_shaped"
+}

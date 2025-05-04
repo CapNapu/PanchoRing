@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "iceandfire:dragonbone_sword"
+    },
+    {
+      "item": "iceandfire:ice_dragon_blood"
+    }
+  ],
+  "result": {
+    "item": "iceandfire:dragonbone_sword_ice"
+  },
+  "type": "crafting_shapeless"
+}

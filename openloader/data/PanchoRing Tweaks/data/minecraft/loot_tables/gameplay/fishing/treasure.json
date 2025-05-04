@@ -1,0 +1,1000 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "name": "gold_ingot",
+          "quality": -1,
+          "type": "item",
+          "weight": 12
+        },
+        {
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"water_breathing\"}"
+            }
+          ],
+          "name": "potion",
+          "quality": 1,
+          "type": "item",
+          "weight": 6
+        },
+        {
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"water_breathing\"}"
+            }
+          ],
+          "name": "tipped_arrow",
+          "quality": -1,
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "conditions": [
+            {
+              "condition": "alternative",
+              "terms": [
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "beach"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "projectvibrantjourneys:tropical_beach"
+                  }
+                }
+              ]
+            }
+          ],
+          "name": "scute",
+          "type": "item",
+          "weight": 8
+        },
+        {
+          "conditions": [
+            {
+              "condition": "alternative",
+              "terms": [
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "beach"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "stone_shore"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "projectvibrantjourneys:gravel_shore"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "projectvibrantjourneys:tropical_beach"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "projectvibrantjourneys:windswept_shore"
+                  }
+                }
+              ]
+            }
+          ],
+          "name": "nautilus_shell",
+          "quality": 1,
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "conditions": [
+            {
+              "condition": "alternative",
+              "terms": [
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "beach"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "stone_shore"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "projectvibrantjourneys:gravel_shore"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "projectvibrantjourneys:tropical_beach"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "projectvibrantjourneys:windswept_shore"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "warm_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "cold_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "lukewarm_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "deep_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "deep_cold_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "deep_lukewarm_ocean"
+                  }
+                }
+              ]
+            }
+          ],
+          "name": "nautilus_shell",
+          "quality": 1,
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "conditions": [
+            {
+              "condition": "alternative",
+              "terms": [
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "warm_ocean"
+                  }
+                }
+              ]
+            }
+          ],
+          "name": "dead_brain_coral",
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "conditions": [
+            {
+              "condition": "alternative",
+              "terms": [
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "warm_ocean"
+                  }
+                }
+              ]
+            }
+          ],
+          "name": "dead_bubble_coral",
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "conditions": [
+            {
+              "condition": "alternative",
+              "terms": [
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "warm_ocean"
+                  }
+                }
+              ]
+            }
+          ],
+          "name": "dead_fire_coral",
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "conditions": [
+            {
+              "condition": "alternative",
+              "terms": [
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "warm_ocean"
+                  }
+                }
+              ]
+            }
+          ],
+          "name": "dead_horn_coral",
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "conditions": [
+            {
+              "condition": "alternative",
+              "terms": [
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "warm_ocean"
+                  }
+                }
+              ]
+            }
+          ],
+          "name": "dead_tube_coral",
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "conditions": [
+            {
+              "condition": "alternative",
+              "terms": [
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "warm_ocean"
+                  }
+                }
+              ]
+            }
+          ],
+          "name": "wet_sponge",
+          "quality": 1,
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "conditions": [
+            {
+              "condition": "alternative",
+              "terms": [
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "deep_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "deep_cold_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "deep_frozen_ocean"
+                  }
+                }
+              ]
+            }
+          ],
+          "name": "prismarine_shard",
+          "type": "item",
+          "weight": 8
+        },
+        {
+          "conditions": [
+            {
+              "condition": "alternative",
+              "terms": [
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "deep_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "deep_cold_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "deep_frozen_ocean"
+                  }
+                }
+              ]
+            }
+          ],
+          "name": "prismarine_crystals",
+          "type": "item",
+          "weight": 6
+        },
+        {
+          "conditions": [
+            {
+              "condition": "alternative",
+              "terms": [
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "flower_forest"
+                  }
+                }
+              ]
+            }
+          ],
+          "name": "golden_apple",
+          "quality": 1,
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "name": "name_tag",
+          "quality": 1,
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 5,
+              "treasure": false
+            }
+          ],
+          "name": "book",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "damage": {
+                "max": 0.5,
+                "min": 0.1,
+                "type": "uniform"
+              },
+              "function": "set_damage"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": 16,
+              "treasure": false
+            }
+          ],
+          "name": "bow",
+          "quality": 1,
+          "type": "item",
+          "weight": 8
+        },
+        {
+          "functions": [
+            {
+              "damage": {
+                "max": 0.3,
+                "min": 0.1,
+                "type": "uniform"
+              },
+              "function": "set_damage"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": 32,
+              "treasure": false
+            }
+          ],
+          "name": "bow",
+          "quality": 1,
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "conditions": [
+            {
+              "condition": "alternative",
+              "terms": [
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "beach"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "stone_shore"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "projectvibrantjourneys:gravel_shore"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "projectvibrantjourneys:tropical_beach"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "projectvibrantjourneys:windswept_shore"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "warm_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "cold_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "lukewarm_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "deep_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "deep_cold_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "deep_lukewarm_ocean"
+                  }
+                }
+              ]
+            }
+          ],
+          "functions": [
+            {
+              "damage": {
+                "max": 0.35,
+                "min": 0.1,
+                "type": "uniform"
+              },
+              "function": "set_damage"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": 28,
+              "treasure": true
+            }
+          ],
+          "name": "fishing_rod",
+          "quality": 1,
+          "type": "item",
+          "weight": 6
+        },
+        {
+          "conditions": [
+            {
+              "condition": "alternative",
+              "terms": [
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "beach"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "stone_shore"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "projectvibrantjourneys:gravel_shore"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "projectvibrantjourneys:tropical_beach"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "projectvibrantjourneys:windswept_shore"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "warm_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "cold_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "lukewarm_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "deep_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "deep_cold_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "deep_lukewarm_ocean"
+                  }
+                }
+              ]
+            }
+          ],
+          "functions": [
+            {
+              "damage": {
+                "max": 0.5,
+                "min": 0.1,
+                "type": "uniform"
+              },
+              "function": "set_damage"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": 15,
+              "treasure": false
+            }
+          ],
+          "name": "fishing_rod",
+          "quality": 1,
+          "type": "item",
+          "weight": 14
+        },
+        {
+          "conditions": [
+            {
+              "condition": "alternative",
+              "terms": [
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "beach"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "stone_shore"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "projectvibrantjourneys:gravel_shore"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "projectvibrantjourneys:tropical_beach"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "projectvibrantjourneys:windswept_shore"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "warm_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "cold_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "lukewarm_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "deep_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "deep_cold_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "deep_lukewarm_ocean"
+                  }
+                }
+              ]
+            }
+          ],
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 20,
+              "treasure": false
+            }
+          ],
+          "name": "book",
+          "quality": 1,
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "conditions": [
+            {
+              "condition": "alternative",
+              "terms": [
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "beach"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "stone_shore"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "projectvibrantjourneys:gravel_shore"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "projectvibrantjourneys:tropical_beach"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "projectvibrantjourneys:windswept_shore"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "frozen_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "warm_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "cold_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "lukewarm_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "deep_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "deep_cold_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "deep_lukewarm_ocean"
+                  }
+                }
+              ]
+            }
+          ],
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 32,
+              "treasure": false
+            }
+          ],
+          "name": "book",
+          "quality": 1,
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "functions": [
+            {
+              "enchantments": [
+                "channeling"
+              ],
+              "function": "enchant_randomly"
+            }
+          ],
+          "name": "book",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "functions": [
+            {
+              "enchantments": [
+                "riptide"
+              ],
+              "function": "enchant_randomly"
+            }
+          ],
+          "name": "book",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "enchantments": [
+                "loyalty"
+              ],
+              "function": "enchant_randomly"
+            }
+          ],
+          "name": "book",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "conditions": [
+            {
+              "condition": "alternative",
+              "terms": [
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "warm_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "cold_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "lukewarm_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "deep_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "deep_cold_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "deep_lukewarm_ocean"
+                  }
+                }
+              ]
+            }
+          ],
+          "functions": [
+            {
+              "damage": {
+                "max": 0.3,
+                "min": 0.1,
+                "type": "uniform"
+              },
+              "function": "set_damage"
+            }
+          ],
+          "name": "trident",
+          "quality": 1,
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "conditions": [
+            {
+              "condition": "alternative",
+              "terms": [
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "warm_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "cold_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "lukewarm_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "deep_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "deep_cold_ocean"
+                  }
+                },
+                {
+                  "condition": "location_check",
+                  "predicate": {
+                    "biome": "deep_lukewarm_ocean"
+                  }
+                }
+              ]
+            }
+          ],
+          "functions": [
+            {
+              "damage": {
+                "max": 0.3,
+                "min": 0.1,
+                "type": "uniform"
+              },
+              "function": "set_damage"
+            }
+          ],
+          "name": "majruszs_difficulty:ocean_shield",
+          "quality": 1,
+          "type": "item",
+          "weight": 1
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "type": "fishing"
+}

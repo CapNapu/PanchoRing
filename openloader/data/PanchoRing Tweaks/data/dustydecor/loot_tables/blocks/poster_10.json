@@ -1,0 +1,48 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "children": [
+            {
+              "conditions": [
+                {
+                  "condition": "match_tool",
+                  "predicate": {
+                    "enchantments": [
+                      {
+                        "enchantment": "silk_touch",
+                        "levels": {
+                          "min": 1
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "name": "dustydecor:poster_decor",
+              "type": "item"
+            },
+            {
+              "functions": [
+                {
+                  "count": 3,
+                  "function": "set_count"
+                },
+                {
+                  "function": "explosion_decay"
+                }
+              ],
+              "name": "iceandfire:manuscript",
+              "type": "item"
+            }
+          ],
+          "type": "alternatives"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "dustydecor:blocks/poster_10",
+  "type": "block"
+}

@@ -1,0 +1,12 @@
+{
+  "integrated_loot_tables": {
+    "dungeons_enhanced:chests/castle/quarters": 3,
+    "dungeons_enhanced:chests/hay_storage": 6,
+    "dungeons_enhanced:chests/miners_house": 6,
+    "dungeons_enhanced:chests/ruined/house": 6,
+    "dungeons_enhanced:chests/stables": 3,
+    "dungeons_enhanced:chests/watch_tower": 3
+  },
+  "loot_table": "chests/village/village_plains_house",
+  "max_result_itemcount": 15
+}

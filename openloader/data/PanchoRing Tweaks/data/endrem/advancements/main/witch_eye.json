@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "witch_eye": {
+      "conditions": {
+        "items": [
+          {
+            "item": "endrem:witch_eye"
+          }
+        ]
+      },
+      "trigger": "inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.main.witch_eye.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "endrem:witch_eye"
+    },
+    "title": {
+      "translate": "advancements.main.witch_eye.title"
+    }
+  },
+  "parent": "story/enter_the_end"
+}

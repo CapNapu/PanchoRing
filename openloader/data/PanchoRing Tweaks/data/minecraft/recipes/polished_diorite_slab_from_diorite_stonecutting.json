@@ -1,0 +1,13 @@
+{
+  "count": 2,
+  "ingredient": [
+    {
+      "item": "diorite"
+    },
+    {
+      "item": "polished_diorite"
+    }
+  ],
+  "result": "polished_diorite_slab",
+  "type": "stonecutting"
+}

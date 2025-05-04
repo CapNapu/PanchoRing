@@ -1,0 +1,19 @@
+{
+  "ingredients": [
+    [
+      {
+        "item": "bone"
+      },
+      {
+        "item": "projectvibrantjourneys:charred_bones"
+      },
+      {
+        "item": "alexsmobs:dropbear_claw"
+      }
+    ]
+  ],
+  "result": {
+    "item": "bone_meal"
+  },
+  "type": "crafting_shapeless"
+}

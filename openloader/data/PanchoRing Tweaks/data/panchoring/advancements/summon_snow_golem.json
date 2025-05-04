@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "snow_golem": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "snow_golem"
+            }
+          }
+        ]
+      },
+      "trigger": "summoned_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.summon_snow_golem.description"
+    },
+    "icon": {
+      "item": "snowball"
+    },
+    "title": {
+      "translate": "advancements.panchoring.summon_snow_golem.title"
+    }
+  },
+  "parent": "husbandry/root"
+}

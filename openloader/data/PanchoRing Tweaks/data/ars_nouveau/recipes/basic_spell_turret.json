@@ -1,0 +1,22 @@
+{
+  "key": {
+    "x": {
+      "item": "ars_nouveau:mana_gem"
+    },
+    "y": {
+      "item": "gold_ingot"
+    },
+    "z": {
+      "item": "redstone_block"
+    }
+  },
+  "pattern": [
+    " y ",
+    "yxy",
+    "xzx"
+  ],
+  "result": {
+    "item": "ars_nouveau:basic_spell_turret"
+  },
+  "type": "crafting_shaped"
+}

@@ -1,0 +1,18 @@
+{
+  "key": {
+    "1": {
+      "item": "clay"
+    },
+    "2": {
+      "item": "stone_slab"
+    }
+  },
+  "pattern": [
+    "1",
+    "2"
+  ],
+  "result": {
+    "item": "supplementaries:statue"
+  },
+  "type": "crafting_shaped"
+}

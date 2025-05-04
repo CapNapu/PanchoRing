@@ -1,0 +1,19 @@
+{
+  "key": {
+    "@": {
+      "item": "improvedbackpacks:sewing_spool"
+    },
+    "#": {
+      "tag": "planks"
+    }
+  },
+  "pattern": [
+    "@@",
+    "##",
+    "##"
+  ],
+  "result": {
+    "item": "loom"
+  },
+  "type": "crafting_shaped"
+}

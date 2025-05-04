@@ -1,0 +1,12 @@
+{
+  "addition": {
+    "item": "cataclysm:ignitium_ingot"
+  },
+  "base": {
+    "item": "majruszs_difficulty:end_chestplate"
+  },
+  "result": {
+    "item": "cataclysm:ignitium_chestplate"
+  },
+  "type": "smithing"
+}

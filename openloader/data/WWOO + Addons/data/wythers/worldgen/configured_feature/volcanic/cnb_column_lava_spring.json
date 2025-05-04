@@ -1,0 +1,60 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count_noise_biased",
+      "config": {
+        "noise_to_count_ratio": -1,
+        "noise_factor": 50,
+        "noise_offset": -0.7
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:count_extra",
+          "config": {
+            "count": 100000,
+            "extra_count": 0,
+            "extra_chance": 0
+          }
+        },
+        "feature": {
+          "type": "minecraft:decorated",
+          "config": {
+            "decorator": {
+              "type": "minecraft:range",
+              "config": {
+                "maximum": 100,
+                "bottom_offset": 5,
+                "top_offset": 0
+              }
+            },
+            "feature": {
+              "type": "minecraft:spring_feature",
+              "config": {
+                "state": {
+                  "Name": "minecraft:lava",
+                  "Properties": {
+                    "falling": "true"
+                  }
+                },
+                "rock_count": 4,
+                "hole_count": 0,
+                "requires_block_below": false,
+                "valid_blocks": [
+                  "minecraft:lava",
+                  "minecraft:basalt",
+                  "minecraft:air",
+                  "minecraft:blackstone",
+                  "minecraft:stone"
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

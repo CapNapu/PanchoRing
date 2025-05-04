@@ -1,0 +1,16 @@
+{
+  "input": {
+    "item": "andesite"
+  },
+  "output": [
+    {
+      "chance": 1.0,
+      "item": "gravel"
+    },
+    {
+      "chance": 0.5,
+      "item": "iceandfire:silver_nugget"
+    }
+  ],
+  "type": "ars_nouveau:crush"
+}

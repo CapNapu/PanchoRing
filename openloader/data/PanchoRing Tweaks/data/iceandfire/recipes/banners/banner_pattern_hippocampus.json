@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "paper"
+    },
+    {
+      "item": "iceandfire:hippocampus_fin"
+    }
+  ],
+  "result": {
+    "item": "iceandfire:banner_pattern_hippocampus"
+  },
+  "type": "crafting_shapeless"
+}

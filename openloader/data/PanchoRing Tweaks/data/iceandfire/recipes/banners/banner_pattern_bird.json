@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "paper"
+    },
+    {
+      "item": "iceandfire:stymphalian_bird_feather"
+    }
+  ],
+  "result": {
+    "item": "iceandfire:banner_pattern_bird"
+  },
+  "type": "crafting_shapeless"
+}

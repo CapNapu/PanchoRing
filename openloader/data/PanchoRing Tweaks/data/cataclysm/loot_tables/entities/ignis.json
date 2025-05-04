@@ -1,0 +1,22 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "cataclysm:ignitium_ingot",
+          "type": "item"
+        }
+      ],
+      "rolls": 3
+    },
+    {
+      "entries": [
+        {
+          "name": "cataclysm:the_incinerator",
+          "type": "item"
+        }
+      ],
+      "rolls": 1
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "infernalexp:soul_soil_slab"
+    },
+    {
+      "item": "infernalexp:soul_soil_slab"
+    }
+  ],
+  "result": {
+    "item": "soul_soil"
+  },
+  "type": "crafting_shapeless"
+}

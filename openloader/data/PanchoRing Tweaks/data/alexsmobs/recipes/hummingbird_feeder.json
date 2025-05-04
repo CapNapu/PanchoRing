@@ -1,0 +1,22 @@
+{
+  "key": {
+    "F": {
+      "item": "sunflower"
+    },
+    "G": {
+      "item": "glass_bottle"
+    },
+    "P": {
+      "item": "iceandfire:copper_nugget"
+    }
+  },
+  "pattern": [
+    " P ",
+    "PGP",
+    "FPF"
+  ],
+  "result": {
+    "item": "alexsmobs:hummingbird_feeder"
+  },
+  "type": "crafting_shaped"
+}

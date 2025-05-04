@@ -1,0 +1,13 @@
+{
+  "count": 2,
+  "ingredient": [
+    {
+      "item": "infernalexp:dullstone"
+    },
+    {
+      "item": "infernalexp:dullstone_bricks"
+    }
+  ],
+  "result": "infernalexp:dullstone_brick_slab",
+  "type": "stonecutting"
+}

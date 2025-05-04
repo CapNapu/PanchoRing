@@ -1,0 +1,31 @@
+{
+  "item_1": [
+    {
+      "item": "magma_cream"
+    }
+  ],
+  "item_2": [
+    {
+      "item": "magma_cream"
+    }
+  ],
+  "item_3": [
+    {
+      "item": "iceandfire:pixie_dust"
+    }
+  ],
+  "item_4": [
+    {
+      "item": "iceandfire:pixie_dust"
+    }
+  ],
+  "output": {
+    "item": "ars_elemental:fire_focus"
+  },
+  "reagent": [
+    {
+      "tag": "panchoring:elemental_foci_to_fire"
+    }
+  ],
+  "type": "ars_nouveau:enchanting_apparatus"
+}

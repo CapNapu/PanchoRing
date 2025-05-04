@@ -1,0 +1,15 @@
+{
+  "key": {
+    "#": {
+      "item": "supplementaries:flax"
+    }
+  },
+  "pattern": [
+    "#",
+    "#"
+  ],
+  "result": {
+    "item": "supplementaries:rope"
+  },
+  "type": "crafting_shaped"
+}

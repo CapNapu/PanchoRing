@@ -1,0 +1,12 @@
+{
+  "ingredients": [
+    {
+      "tag": "jungle_logs"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "jungle_planks"
+  },
+  "type": "crafting_shapeless"
+}

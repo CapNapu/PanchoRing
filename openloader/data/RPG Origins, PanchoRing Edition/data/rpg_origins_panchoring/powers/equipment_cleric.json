@@ -1,0 +1,27 @@
+{
+  "hidden": true,
+  "type": "origins:starting_equipment",
+  "stacks": [
+    {
+      "item": "chainmail_chestplate",
+      "tag": "{Damage:65}",
+      "slot": 38
+    },
+    {
+      "item": "chainmail_leggings",
+      "tag": "{Damage:55}",
+      "slot": 37
+    },
+    {
+      "item": "dungeons_gear:tempest_knife",
+      "tag": "{Damage:481}",
+      "slot": 8
+    },
+    {
+      "item": "potion",
+      "amount": 4,
+      "tag": "{Potion:healing}",
+      "slot": 12
+    }
+  ]
+}

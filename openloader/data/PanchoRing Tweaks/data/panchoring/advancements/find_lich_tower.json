@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "lich_tower": {
+      "conditions": {
+        "feature": "bosses_of_mass_destruction:lich_tower"
+      },
+      "trigger": "yungsapi:structure_location"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.find_lich_tower.description"
+    },
+    "icon": {
+      "item": "bosses_of_mass_destruction:soul_star"
+    },
+    "title": {
+      "translate": "advancements.panchoring.find_lich_tower.title"
+    }
+  },
+  "parent": "adventure/kill_a_mob"
+}

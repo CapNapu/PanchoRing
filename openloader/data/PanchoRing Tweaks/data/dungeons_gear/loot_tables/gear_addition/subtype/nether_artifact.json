@@ -1,0 +1,26 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "dungeons_gear:harvester",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:satchel_of_elixirs",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:corrupted_beacon",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:soul_lantern",
+          "type": "item"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "chest"
+}

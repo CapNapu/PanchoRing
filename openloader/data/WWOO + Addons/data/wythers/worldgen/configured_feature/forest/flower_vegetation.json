@@ -1,0 +1,51 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "feature": {
+          "config": {
+            "features": [
+              {
+                "feature": "wythers:forest/flower_feature_tree_spruce",
+                "chance": 0.3
+              },
+              {
+                "feature": "wythers:forest/flower_feature_tree_birch",
+                "chance": 0.1
+              },
+              {
+                "feature": "wythers:forest/feature_tree_oak",
+                "chance": 0.2
+              }
+            ],
+            "default": "wythers:forest/flower_feature_tree_acacia"
+          },
+          "type": "minecraft:random_selector"
+        },
+        "decorator": {
+          "config": {
+            "outer": {
+              "config": {},
+              "type": "minecraft:square"
+            },
+            "inner": {
+              "config": {},
+              "type": "minecraft:heightmap"
+            }
+          },
+          "type": "minecraft:decorated"
+        }
+      },
+      "type": "minecraft:decorated"
+    },
+    "decorator": {
+      "config": {
+        "count": 6,
+        "extra_chance": 0.1,
+        "extra_count": 1
+      },
+      "type": "minecraft:count_extra"
+    }
+  },
+  "type": "minecraft:decorated"
+}

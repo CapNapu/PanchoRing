@@ -1,0 +1,16 @@
+{
+  "key": {
+    "0": {
+      "item": "extcaves:pebble_diorite"
+    }
+  },
+  "pattern": [
+    "000",
+    "000",
+    "000"
+  ],
+  "result": {
+    "item": "diorite"
+  },
+  "type": "crafting_shaped"
+}

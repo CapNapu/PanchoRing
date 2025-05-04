@@ -1,0 +1,456 @@
+{
+  "profession": "minecraft:armorer",
+  "removeOtherTrades": true,
+  "trades": [    
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:coal",
+        "amount": 15
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:chainmail_chestplate",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 5
+      },
+      "tradeExp": 1,
+      "maxUses": 12,
+      "priceMultiplier": 0.2,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:chainmail_leggings",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 5
+      },
+      "tradeExp": 1,
+      "maxUses": 12,
+      "priceMultiplier": 0.2,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:chainmail_helmet",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.2,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:chainmail_boots",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.2,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:iron_ingot",
+        "amount": 4
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:shield",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 5
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.2,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:diamond",
+        "amount": 1
+      },
+      "tradeExp": 30,
+      "maxUses": 12,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:lava_bucket",
+        "amount": 1
+      },
+      "tradeExp": 30,
+      "maxUses": 12,
+      "tradeLevel": 3
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "dungeons_gear:champions_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:dark_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:mercenary_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:plate_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:reinforced_mail_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:scale_mail_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:snow_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:emerald_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:beenest_helmet",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 8,
+        "amountRange": 11
+      },
+      "tradeExp": 20,
+      "maxUses": 3,
+      "priceMultiplier": 0.2,
+      "tradeLevel": 4
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "dungeons_gear:champions_chestplate",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:dark_chestplate",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:mercenary_chestplate",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:plate_chestplate",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:reinforced_mail_chestplate",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:scale_mail_chestplate",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:snow_chestplate",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:emerald_chestplate",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:beenest_chestplate",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 8,
+        "amountRange": 11
+      },
+      "tradeExp": 20,
+      "maxUses": 3,
+      "priceMultiplier": 0.2,
+      "tradeLevel": 4
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "dungeons_gear:champions_leggings",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:dark_leggings",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:mercenary_leggings",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:plate_leggings",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:reinforced_mail_leggings",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:scale_mail_leggings",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:snow_leggings",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:emerald_leggings",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:beenest_leggings",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 8,
+        "amountRange": 11
+      },
+      "tradeExp": 20,
+      "maxUses": 3,
+      "priceMultiplier": 0.2,
+      "tradeLevel": 4
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "dungeons_gear:champions_boots",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:dark_boots",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:mercenary_boots",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:plate_boots",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:reinforced_mail_boots",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:scale_mail_boots",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:snow_boots",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:emerald_boots",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:beenest_boots",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 8,
+        "amountRange": 11
+      },
+      "tradeExp": 20,
+      "maxUses": 3,
+      "priceMultiplier": 0.2,
+      "tradeLevel": 4
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "dungeons_gear:renegade_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:full_metal_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:stalwart_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:gilded_glory_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:opulent_helmet",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 14,
+        "amountRange": 19
+      },
+      "tradeExp": 30,
+      "maxUses": 3,
+      "priceMultiplier": 0.2,
+      "tradeLevel": 5
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "dungeons_gear:renegade_chestplate",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:full_metal_chestplate",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:stalwart_chestplate",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:gilded_glory_chestplate",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:opulent_chestplate",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 14,
+        "amountRange": 19
+      },
+      "tradeExp": 30,
+      "maxUses": 3,
+      "priceMultiplier": 0.2,
+      "tradeLevel": 5
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "dungeons_gear:renegade_leggings",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:full_metal_leggings",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:stalwart_leggings",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:gilded_glory_leggings",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:opulent_leggings",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 14,
+        "amountRange": 19
+      },
+      "tradeExp": 30,
+      "maxUses": 3,
+      "priceMultiplier": 0.2,
+      "tradeLevel": 5
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "dungeons_gear:renegade_boots",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:full_metal_boots",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:stalwart_boots",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:gilded_glory_boots",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:opulent_boots",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 14,
+        "amountRange": 19
+      },
+      "tradeExp": 30,
+      "maxUses": 3,
+      "priceMultiplier": 0.2,
+      "tradeLevel": 5
+    }
+  ]
+}

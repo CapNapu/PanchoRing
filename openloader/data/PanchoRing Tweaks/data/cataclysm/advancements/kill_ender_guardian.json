@@ -1,0 +1,29 @@
+{
+  "criteria": {
+    "enderguardian": {
+      "conditions": {
+        "entity": {
+          "type": "cataclysm:ender_guardian"
+        }
+      },
+      "trigger": "player_killed_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.cataclysm.kill_ender_guardian.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "item": "cataclysm:gauntlet_of_guard"
+    },
+    "title": {
+      "translate": "advancements.cataclysm.kill_ender_guardian.title"
+    }
+  },
+  "parent": "cataclysm:kill_ender_golem",
+  "rewards": {
+    "experience": 1000
+  }
+}

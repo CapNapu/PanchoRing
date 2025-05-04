@@ -1,0 +1,23 @@
+{
+  "criteria": {
+    "obsidilith_arena": {
+      "conditions": {
+        "feature": "bosses_of_mass_destruction:obsidilith_arena"
+      },
+      "trigger": "yungsapi:structure_location"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.find_obsidilith_arena.description"
+    },
+    "hidden": true,
+    "icon": {
+      "item": "bosses_of_mass_destruction:obsidilith_end_frame"
+    },
+    "title": {
+      "translate": "advancements.panchoring.find_obsidilith_arena.title"
+    }
+  },
+  "parent": "end/enter_end_gateway"
+}

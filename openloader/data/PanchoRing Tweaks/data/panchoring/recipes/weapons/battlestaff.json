@@ -1,0 +1,13 @@
+{
+  "first": {
+    "item": "improvedbackpacks:bound_leather"
+  },
+  "first_count": 1,
+  "result": "dungeons_gear:battlestaff",
+  "second": {
+    "item": "stick"
+  },
+  "second_count": 2,
+  "spools_count": 1,
+  "type": "improvedbackpacks:sewing"
+}

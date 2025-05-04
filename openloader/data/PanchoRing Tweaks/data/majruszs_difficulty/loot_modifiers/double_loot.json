@@ -1,0 +1,12 @@
+{
+	"conditions": [
+		{
+			"condition": "killed_by_player"
+		}
+	],
+	"forbidden_items": [],
+	"type": "majruszs_difficulty:double_loot",
+	"normal_chance": 0.0,
+	"expert_chance": 0.0,
+	"master_chance": 0.5
+}

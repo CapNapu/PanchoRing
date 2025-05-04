@@ -1,0 +1,30 @@
+
+#Client Configuration
+[client]
+
+	[client.visual_options]
+		# If badge_text should override the built-in translatable text.
+		override_badge_text = false
+		# The text shown on the badge above equipped tooltips.
+		badge_text = "Equipped"
+		# The color of the text shown on the badge above equipped tooltips.
+		#Range: 0 ~ 4294967295
+		badge_text_color = 4294967295
+		# The background color of the "equipped" badge.
+		#Range: 0 ~ 4294967295
+		badge_bg = 4027584512
+		# The start border color of the "equipped" badge.
+		#Range: 0 ~ 4294967295
+		badge_border_start = 3500839187
+		# The end border color of the "equipped" badge.
+		#Range: 0 ~ 4294967295
+		badge_border_end = 1623360778
+
+	[client.control_options]
+		# If the comparison tooltip should show by default (pressing bound key hides).
+		default_on = false
+		# If tool comparisons should compare only the same types of tools (can't compare a sword to an axe, for example).
+		strict = false
+		# Blacklist of items to show comparisons for.  Add item IDs to prevent them from being compared when hovered over or equipped.
+		blacklist = ["dungeons_gear:boots_of_swiftness", "dungeons_gear:buzzy_nest", "dungeons_gear:corrupted_beacon", "dungeons_gear:corrupted_pumpkin", "dungeons_gear:corrupted_seeds", "dungeons_gear:death_cap_mushroom", "dungeons_gear:eye_of_the_guardian", "dungeons_gear:fireworks_display", "dungeons_gear:flaming_quiver", "dungeons_gear:ghost_cloak", "dungeons_gear:golem_kit", "dungeons_gear:gong_of_weakening", "dungeons_gear:harpoon_quiver", "dungeons_gear:harvester", "dungeons_gear:ice_wand", "dungeons_gear:iron_hide_amulet", "dungeons_gear:light_feather", "dungeons_gear:lightning_rod", "dungeons_gear:love_medallion", "dungeons_gear:powershaker", "dungeons_gear:satchel_of_elements", "dungeons_gear:satchel_of_elixirs", "dungeons_gear:satchel_of_snacks", "dungeons_gear:shock_powder", "dungeons_gear:soul_healer", "dungeons_gear:soul_lantern", "dungeons_gear:tasty_bone", "dungeons_gear:thundering_quiver", "dungeons_gear:torment_quiver", "dungeons_gear:totem_of_regeneration", "dungeons_gear:totem_of_shielding", "dungeons_gear:updraft_tome", "dungeons_gear:wind_horn", "dungeons_gear:wonderful_wheat"]
+

@@ -1,0 +1,19 @@
+{
+  "key": {
+    "#": {
+      "tag": "stone_crafting_materials"
+    },
+    "S": {
+      "item": "iceandfire:copper_ingot"
+    }
+  },
+  "pattern": [
+    "# #",
+    "# #",
+    "#S#"
+  ],
+  "result": {
+    "item": "dropper"
+  },
+  "type": "crafting_shaped"
+}

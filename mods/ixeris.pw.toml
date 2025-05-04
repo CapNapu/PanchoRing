@@ -1,0 +1,13 @@
+name = "Ixeris"
+filename = "Ixeris-4.6.5+1.16.5-forge.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "6b30c68e4e96a7b802ccec83dff28b23f50b1a8b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8651181
+project-id = 1285307

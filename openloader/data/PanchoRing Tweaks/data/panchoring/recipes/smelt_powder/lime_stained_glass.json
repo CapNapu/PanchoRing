@@ -1,0 +1,9 @@
+{
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "lime_concrete_powder"
+  },
+  "result": "lime_stained_glass",
+  "type": "smelting"
+}

@@ -1,0 +1,82 @@
+{
+  "config": {
+    "max_water_depth": 3,
+    "ignore_vines": true,
+    "heightmap": "OCEAN_FLOOR",
+    "minimum_size": {
+      "limit": 1,
+      "lower_size": 1,
+      "upper_size": 2,
+      "type": "minecraft:two_layers_feature_size"
+    },
+    "decorators": [
+      {
+        "type": "minecraft:trunk_vine"
+      },
+      {
+        "type": "minecraft:leave_vine"
+      },
+    {
+        "provider": {
+          "state": {
+            "Properties": {
+              "snowy": "false"
+            },
+            "Name": "minecraft:podzol"
+          },
+          "type": "minecraft:simple_state_provider"
+        },
+        "type": "minecraft:alter_ground"
+      }
+    ],
+    "trunk_provider": {
+      "state": {
+        "Properties": {
+          "axis": "y"
+        },
+        "Name": "minecraft:jungle_log"
+      },
+      "type": "minecraft:simple_state_provider"
+    },
+    "leaves_provider": {
+      "entries": [
+        {
+		  "weight": 25,
+          "data":
+          {
+          "Properties": {
+            "persistent": "false",
+            "distance": "7"
+          },
+          "Name": "minecraft:jungle_leaves"
+          }
+        },
+		{
+		  "weight": 1,
+          "data":
+          {
+            "Properties":
+            {
+              "axis": "y"
+            },
+            "Name": "minecraft:jungle_wood"
+          }
+        }
+      ],
+      "type": "minecraft:weighted_state_provider"
+    },
+    "foliage_placer": {
+      "radius": 3,
+      "offset": 1,
+      "height": 3,
+      "type": "minecraft:jungle_foliage_placer"
+    },
+    "trunk_placer": {
+      "base_height": 25,
+      "height_rand_a": 4,
+      "height_rand_b": 6,
+      "type": "minecraft:mega_jungle_trunk_placer"
+    }
+  },
+  "type": "minecraft:tree"
+}

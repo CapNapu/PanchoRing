@@ -1,0 +1,6 @@
+{
+  "input": "redstone",
+  "output": "ars_nouveau:glyph_redstone_signal",
+  "tier": "ONE",
+  "type": "ars_nouveau:glyph_recipe"
+}

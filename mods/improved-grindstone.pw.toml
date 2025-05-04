@@ -1,0 +1,13 @@
+name = "Improved Grindstone"
+filename = "ImprovedGrindstone-FORGE-1.16.5-v3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dcfa9c5f23085fd383f5d5a61ec9a1aca350dc55"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8035156
+project-id = 968422

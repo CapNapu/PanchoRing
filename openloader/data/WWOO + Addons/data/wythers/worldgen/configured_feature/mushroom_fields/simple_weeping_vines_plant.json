@@ -1,0 +1,53 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:carving_mask",
+      "config": {
+        "step": "air",
+        "probability": 1
+      }
+    },
+    "feature": {
+      "type": "minecraft:simple_block",
+      "config": {
+        "to_place": {
+          "Name": "minecraft:weeping_vines_plant",
+          "Properties": {
+            "age": ""
+          }
+        },
+        "place_on": [
+          {
+            "Name": "minecraft:weeping_vines_plant"
+          },
+          {
+            "Name": "minecraft:weeping_vines",
+            "Properties": {
+              "age": "0"
+            }
+          }
+        ],
+        "place_in": [
+          {
+            "Name": "minecraft:cave_air"
+          }
+        ],
+        "place_under": [
+          {
+            "Name": "minecraft:stone"
+          },
+          {
+            "Name": "minecraft:cave_air"
+          },
+          {
+            "Name": "minecraft:mycelium",
+            "Properties": {
+              "snowy": "false"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

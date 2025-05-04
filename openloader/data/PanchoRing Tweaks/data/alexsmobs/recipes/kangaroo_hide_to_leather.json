@@ -1,0 +1,11 @@
+{
+  "ingredients": [
+    {
+      "item": "alexsmobs:kangaroo_hide"
+    }
+  ],
+  "result": {
+    "item": "leather"
+  },
+  "type": "crafting_shapeless"
+}

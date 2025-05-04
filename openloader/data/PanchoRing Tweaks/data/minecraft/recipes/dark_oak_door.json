@@ -1,0 +1,17 @@
+{
+  "key": {
+    "#": {
+      "item": "dark_oak_planks"
+    }
+  },
+  "pattern": [
+    "##",
+    "##",
+    "##"
+  ],
+  "result": {
+    "count": 2,
+    "item": "dark_oak_door"
+  },
+  "type": "crafting_shaped"
+}

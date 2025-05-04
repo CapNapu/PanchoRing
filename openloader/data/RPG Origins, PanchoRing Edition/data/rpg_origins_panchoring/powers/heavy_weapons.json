@@ -1,0 +1,71 @@
+{
+  "type": "origins:multiple",
+  "test": {
+    "type": "origins:conditioned_attribute",
+    "modifier": {
+      "attribute": "generic.attack_speed",
+      "operation": "multiply_base",
+      "value": 0.5
+    },
+    "tick_rate": 5,
+    "condition": {
+      "type": "origins:or",
+      "conditions": [
+        {            
+          "type": "origins:equipped_item",
+          "equipment_slot": "mainhand",
+          "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+              "tag": "panchoring:superheavy_weapons"
+            }
+          }
+        },
+        {
+          "type": "origins:equipped_item",
+          "equipment_slot": "offhand",
+          "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+              "tag": "panchoring:superheavy_weapons"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "test2": {
+    "type": "origins:action_over_time",
+    "interval": 2,
+    "rising_action": {
+      "type": "origins:execute_command",
+      "command": "playsound epicfight:skill.adrenaline master @s ~ ~ ~ 0.5",
+      "permission_level": 4
+    },
+    "condition": {
+      "type": "origins:or",
+      "conditions": [
+        {            
+          "type": "origins:equipped_item",
+          "equipment_slot": "mainhand",
+          "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+              "tag": "panchoring:superheavy_weapons"
+            }
+          }
+        },
+        {
+          "type": "origins:equipped_item",
+          "equipment_slot": "offhand",
+          "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+              "tag": "panchoring:superheavy_weapons"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

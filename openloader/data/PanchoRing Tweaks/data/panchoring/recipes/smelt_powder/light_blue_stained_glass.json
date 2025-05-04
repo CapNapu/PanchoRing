@@ -1,0 +1,9 @@
+{
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "light_blue_concrete_powder"
+  },
+  "result": "light_blue_stained_glass",
+  "type": "smelting"
+}

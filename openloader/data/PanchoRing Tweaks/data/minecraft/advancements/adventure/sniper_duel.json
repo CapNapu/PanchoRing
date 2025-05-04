@@ -1,0 +1,43 @@
+{
+  "criteria": {
+    "killed_skeleton": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "distance": {
+                "horizontal": {
+                  "min": 50.0
+                }
+              },
+              "type": "skeleton"
+            }
+          }
+        ],
+        "killing_blow": {
+          "is_projectile": true
+        }
+      },
+      "trigger": "player_killed_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.adventure.sniper_duel.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "item": "arrow"
+    },
+    "title": {
+      "translate": "advancements.adventure.sniper_duel.title"
+    }
+  },
+  "parent": "adventure/bullseye",
+  "rewards": {
+    "experience": 250
+  }
+}

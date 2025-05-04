@@ -1,0 +1,13 @@
+name = "BlockBlocker"
+filename = "blockblocker-1.16.5-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4245b71c8d6992770d6b89bd3e5f0445fc583904"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6790316
+project-id = 1305202

@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "picked_up_ingot": {
+      "conditions": {
+        "items": [
+          {
+            "item": "majruszs_difficulty:end_ingot"
+          }
+        ]
+      },
+      "trigger": "inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.progressive_difficulty.end_ingot.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "majruszs_difficulty:end_ingot"
+    },
+    "title": {
+      "translate": "advancements.progressive_difficulty.end_ingot.title"
+    }
+  },
+  "parent": "majruszs_difficulty:progressive_difficulty/end_shard"
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count_extra",
+      "config": {
+        "count": 10,
+        "extra_count": 0,
+        "extra_chance": 0
+      }
+    },
+    "feature": {
+      "type": "minecraft:simple_random_selector",
+      "config": {
+        "features": [
+          "wythers:jungle/tree_component/dead_dark_oak_tree",
+          "wythers:jungle/tree_component/dead_dark_oak_tree",
+          "wythers:jungle/tree_component/dead_dark_oak_tree_branch_1",
+          "wythers:jungle/tree_component/dead_dark_oak_tree_branch_2",
+          "wythers:jungle/tree_component/dead_dark_oak_tree_branch_3"
+          ]
+      }
+    }
+  }
+}

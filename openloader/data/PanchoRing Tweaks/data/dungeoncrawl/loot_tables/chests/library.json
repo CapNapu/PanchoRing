@@ -1,0 +1,93 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6,
+                "min": 3
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "book",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 5,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "ink_sac",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6,
+                "min": 3
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "feather",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6,
+                "min": 3
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "iceandfire:manuscript",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 14,
+                "min": 8
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "cobweb",
+          "type": "item",
+          "weight": 6
+        },
+        {
+          "functions": [
+            {
+              "function": "dungeoncrawl:enchanted_book",
+              "loot_level": 3
+            }
+          ],
+          "name": "book",
+          "type": "item",
+          "weight": 5
+        }
+      ],
+      "rolls": {
+        "max": 14,
+        "min": 8
+      }
+    }
+  ]
+}

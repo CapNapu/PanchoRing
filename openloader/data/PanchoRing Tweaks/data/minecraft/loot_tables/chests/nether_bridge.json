@@ -1,0 +1,272 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 1,
+      "entries": [
+        {
+          "name": "ender_pearl",
+          "quality": 1,
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 2,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "diamond",
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 5,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "iron_ingot",
+          "type": "item",
+          "weight": 6
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 5,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "gold_ingot",
+          "type": "item",
+          "weight": 14
+        },
+        {
+          "functions": [
+            {
+              "damage": {
+                "max": 0.8,
+                "min": 0.2,
+                "type": "uniform"
+              },
+              "function": "set_damage"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": {
+                "max": 20,
+                "min": 5,
+                "type": "uniform"
+              },
+              "treasure": true
+            }
+          ],
+          "name": "majruszs_difficulty:wither_sword",
+          "type": "item",
+          "weight": 8
+        },
+        {
+          "functions": [
+            {
+              "damage": {
+                "max": 0.8,
+                "min": 0.2,
+                "type": "uniform"
+              },
+              "function": "set_damage"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": {
+                "max": 20,
+                "min": 5,
+                "type": "uniform"
+              },
+              "treasure": true
+            }
+          ],
+          "name": "dungeons_gear:gold_sword",
+          "type": "item",
+          "weight": 6
+        },
+        {
+          "name": "saddle",
+          "type": "item",
+          "weight": 6
+        },
+        {
+          "name": "fire_charge",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3,
+                "min": 1,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "crimson_fungus",
+          "type": "item",
+          "weight": 8
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 8,
+                "min": 3,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "nether_wart",
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 5,
+                "min": 3,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "quartz",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 18,
+                "min": 3,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "nether_brick",
+          "type": "item",
+          "weight": 12
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 12,
+                "min": 3,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "nether_bricks",
+          "type": "item",
+          "weight": 8
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 4,
+                "min": 2,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "obsidian",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "name": "netherite_scrap",
+          "quality": 1,
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            }
+          ],
+          "name": "book",
+          "type": "item",
+          "weight": 6
+        }
+      ],
+      "rolls": {
+        "max": 10,
+        "min": 6,
+        "type": "uniform"
+      }
+    },
+    {
+      "entries": [
+        {
+          "name": "skull_banner_pattern",
+          "quality": 2,
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "name": "netherite_scrap",
+          "quality": 1,
+          "type": "item",
+          "weight": 8
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3,
+                "min": 2,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "endrem:end_crystal_fragment",
+          "quality": 1,
+          "type": "item",
+          "weight": 4
+        },
+        {
+          "name": "ender_pearl",
+          "quality": 1,
+          "type": "item",
+          "weight": 10
+        }
+      ],
+      "rolls": {
+        "max": 1,
+        "min": 0
+      }
+    }
+  ],
+  "type": "chest"
+}

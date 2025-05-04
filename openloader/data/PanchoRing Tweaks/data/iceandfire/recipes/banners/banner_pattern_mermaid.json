@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "paper"
+    },
+    {
+      "item": "iceandfire:siren_tear"
+    }
+  ],
+  "result": {
+    "item": "iceandfire:banner_pattern_mermaid"
+  },
+  "type": "crafting_shapeless"
+}

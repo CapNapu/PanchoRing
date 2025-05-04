@@ -1,0 +1,22 @@
+{
+  "key": {
+    "0": {
+      "item": "infernalexp:molten_gold_cluster"
+    },
+    "1": {
+      "item": "alexsmobs:straddlite"
+    },
+    "2": {
+      "item": "infernalexp:glowsilk"
+    }
+  },
+  "pattern": [
+    "2 2",
+    "101",
+    "010"
+  ],
+  "result": {
+    "item": "alexsmobs:straddleboard"
+  },
+  "type": "crafting_shaped"
+}

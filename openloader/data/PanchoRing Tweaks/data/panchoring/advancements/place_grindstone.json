@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "grindstone": {
+      "conditions": {
+        "block": "grindstone"
+      },
+      "trigger": "placed_block"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.place_grindstone.description"
+    },
+    "icon": {
+      "item": "grindstone"
+    },
+    "title": {
+      "translate": "advancements.panchoring.place_grindstone.title"
+    }
+  },
+  "parent": "story/enchant_item"
+}

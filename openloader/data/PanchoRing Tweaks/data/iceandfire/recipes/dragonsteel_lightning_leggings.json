@@ -1,0 +1,12 @@
+{
+  "addition": {
+    "item": "iceandfire:dragonsteel_lightning_ingot"
+  },
+  "base": {
+    "item": "iron_leggings"
+  },
+  "result": {
+    "item": "iceandfire:dragonsteel_lightning_leggings"
+  },
+  "type": "smithing"
+}

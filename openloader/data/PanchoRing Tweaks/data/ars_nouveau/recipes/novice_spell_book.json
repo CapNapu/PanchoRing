@@ -1,0 +1,35 @@
+{
+  "ingredients": [
+    {
+      "item": "book"
+    },
+    {
+      "item": "ars_nouveau:mana_gem"
+    },
+    {
+      "item": "ars_nouveau:mana_gem"
+    },
+    {
+      "item": "ars_nouveau:mana_gem"
+    },
+    {
+      "item": "ars_nouveau:mana_gem"
+    },
+    {
+      "item": "gold_ingot"
+    },
+    {
+      "item": "gold_ingot"
+    },
+    {
+      "item": "gold_ingot"
+    },
+    {
+      "item": "gold_ingot"
+    }
+  ],
+  "result": {
+    "item": "ars_nouveau:novice_spell_book"
+  },
+  "type": "crafting_shapeless"
+}

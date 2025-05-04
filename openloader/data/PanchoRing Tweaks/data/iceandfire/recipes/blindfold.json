@@ -1,0 +1,18 @@
+{
+  "key": {
+    "a": {
+      "item": "string"
+    },
+    "b": {
+      "tag": "wool"
+    }
+  },
+  "pattern": [
+    "a a",
+    "aba"
+  ],
+  "result": {
+    "item": "iceandfire:blindfold"
+  },
+  "type": "crafting_shaped"
+}

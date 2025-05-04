@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "guard": {
+      "conditions": {
+        "entity": {
+          "type": "guardvillagers:guard"
+        }
+      },
+      "trigger": "player_interacted_with_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.summon_guard_villager.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "dungeons_gear:guards_helmet"
+    },
+    "title": {
+      "translate": "advancements.panchoring.summon_guard_villager.title"
+    }
+  },
+  "parent": "adventure/summon_iron_golem"
+}

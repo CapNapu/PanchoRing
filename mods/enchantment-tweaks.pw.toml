@@ -1,0 +1,13 @@
+name = "Enchantment Tweaks"
+filename = "enchantmenttweak-1.16.5-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "50043064415176ed2d3947b229da95db69dd06bf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3817174
+project-id = 537328

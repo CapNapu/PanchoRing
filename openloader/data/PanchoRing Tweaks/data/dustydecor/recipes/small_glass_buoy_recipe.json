@@ -1,0 +1,17 @@
+{
+  "ingredients": [
+    {
+      "item": "dustydecor:glass_buoy"
+    },
+    {
+      "item": "dustydecor:glass_buoy"
+    },
+    {
+      "item": "dustydecor:glass_buoy"
+    }
+  ],
+  "result": {
+    "item": "dustydecor:small_glass_buoys"
+  },
+  "type": "crafting_shapeless"
+}

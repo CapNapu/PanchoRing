@@ -1,0 +1,70 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 3.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "bone",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 3.0,
+                "type": "uniform"
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "bone_meal",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "name": "emerald",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "name": "diamond",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": {
+                "max": 15.0,
+                "min": 10.0,
+                "type": "uniform"
+              },
+              "treasure": true
+            }
+          ],
+          "name": "dungeons_gear:stone_sword",
+          "type": "item",
+          "weight": 1
+        }
+      ],
+      "rolls": {
+        "max": 6.0,
+        "min": 4.0,
+        "type": "uniform"
+      }
+    }
+  ],
+  "type": "chest"
+}

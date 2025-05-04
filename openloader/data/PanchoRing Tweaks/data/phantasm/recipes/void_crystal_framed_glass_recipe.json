@@ -1,0 +1,19 @@
+{
+  "key": {
+    "0": {
+      "item": "glass"
+    },
+    "1": {
+      "item": "phantasm:void_crystal_spike_tip"
+    }
+  },
+  "pattern": [
+    " 1 ",
+    "101",
+    " 1 "
+  ],
+  "result": {
+    "item": "phantasm:void_crystal_framed_glass"
+  },
+  "type": "crafting_shaped"
+}

@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "dustydecor:cuttingboard"
+    },
+    {
+      "item": "dustydecor:wedged_knife"
+    }
+  ],
+  "result": {
+    "item": "dustydecor:knife_and_cutting_board"
+  },
+  "type": "crafting_shapeless"
+}

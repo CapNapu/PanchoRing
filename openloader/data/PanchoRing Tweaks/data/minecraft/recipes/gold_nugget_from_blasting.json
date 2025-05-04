@@ -1,0 +1,47 @@
+{
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": [
+    {
+      "item": "golden_pickaxe"
+    },
+    {
+      "item": "golden_shovel"
+    },
+    {
+      "item": "golden_axe"
+    },
+    {
+      "item": "golden_hoe"
+    },
+    {
+      "item": "golden_sword"
+    },
+    {
+      "item": "epicfight:knuckle"
+    },
+    {
+      "item": "dungeons_gear:gauntlet"
+    },
+    {
+      "item": "clock"
+    },
+    {
+      "item": "majruszs_difficulty:golden_bandage"
+    },
+    {
+      "item": "supplementaries:key"
+    },
+    {
+      "item": "supplementaries:crimson_lantern"
+    },
+    {
+      "item": "supplementaries:hourglass"
+    },
+    {
+      "item": "supplementaries:clock_block"
+    }
+  ],
+  "result": "gold_nugget",
+  "type": "blasting"
+}

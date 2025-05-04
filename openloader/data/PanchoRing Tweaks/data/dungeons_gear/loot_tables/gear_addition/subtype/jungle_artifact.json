@@ -1,0 +1,22 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "dungeons_gear:death_cap_mushroom",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:corrupted_seeds",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:buzzy_nest",
+          "type": "item"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "chest"
+}

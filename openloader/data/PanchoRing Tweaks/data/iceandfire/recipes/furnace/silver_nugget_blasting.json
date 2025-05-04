@@ -1,0 +1,38 @@
+{
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": [
+    {
+      "item": "iceandfire:silver_pickaxe"
+    },
+    {
+      "item": "iceandfire:silver_shovel"
+    },
+    {
+      "item": "iceandfire:silver_axe"
+    },
+    {
+      "item": "iceandfire:silver_hoe"
+    },
+    {
+      "item": "iceandfire:silver_sword"
+    },
+    {
+      "item": "mowziesmobs:naga_fang_dagger"
+    },
+    {
+      "item": "iceandfire:dragon_flute"
+    },
+    {
+      "item": "alexsmobs:moose_headgear"
+    },
+    {
+      "item": "alexsmobs:echolocator"
+    },
+    {
+      "item": "alexsmobs:endolocator"
+    }
+  ],
+  "result": "iceandfire:silver_nugget",
+  "type": "blasting"
+}

@@ -1,0 +1,26 @@
+{
+  "key": {
+    "#": {
+      "item": "stick"
+    },
+    "R": {
+      "item": "redstone"
+    },
+    "S": {
+      "item": "redstone_torch"
+    },
+    "X": {
+      "item": "iron_ingot"
+    }
+  },
+  "pattern": [
+    "X#X",
+    "RSR",
+    "X#X"
+  ],
+  "result": {
+    "count": 8,
+    "item": "activator_rail"
+  },
+  "type": "crafting_shaped"
+}

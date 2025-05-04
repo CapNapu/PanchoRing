@@ -1,0 +1,13 @@
+name = "Guard Epic"
+filename = "GuardEpicTextures1.0.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "9d4b24910d81e2503e1a79ee26867835d9a6e8b0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4545776
+project-id = 864289

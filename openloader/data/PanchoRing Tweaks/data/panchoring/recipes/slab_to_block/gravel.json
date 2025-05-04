@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "slabgen:gravel_slab"
+    },
+    {
+      "item": "slabgen:gravel_slab"
+    }
+  ],
+  "result": {
+    "item": "gravel"
+  },
+  "type": "crafting_shapeless"
+}

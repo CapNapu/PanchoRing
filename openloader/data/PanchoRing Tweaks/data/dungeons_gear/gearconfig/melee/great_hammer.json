@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "amount": 10,
+      "attribute": "generic.attack_damage",
+      "operation": 0
+    },
+    {
+      "amount": -3.2,
+      "attribute": "generic.attack_speed",
+      "operation": 0
+    }
+  ],
+  "built_in_enchantments": [
+    {
+      "enchantment": "dungeons_gear:stunning",
+      "level": 1
+    }
+  ],
+  "material": "dungeons_gear:xp",
+  "rarity": "UNCOMMON",
+  "unique": false
+}

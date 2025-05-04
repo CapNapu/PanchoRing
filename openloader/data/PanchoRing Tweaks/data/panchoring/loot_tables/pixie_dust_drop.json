@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "conditions": [
+            {
+              "chance": 0.2,
+              "condition": "random_chance"
+            }
+          ],
+          "name": "iceandfire:pixie_dust",
+          "type": "item"
+        }
+      ],
+      "rolls": 1
+    }
+  ]
+}

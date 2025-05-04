@@ -1,0 +1,70 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "dungeons_gear:boots_of_swiftness",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:tasty_bone",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:wonderful_wheat",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:gong_of_weakening",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:iron_hide_amulet",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:love_medallion",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:ghost_cloak",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:soul_healer",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:light_feather",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:flaming_quiver",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:torment_quiver",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:corrupted_pumpkin",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:satchel_of_snacks",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:powershaker",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:fireworks_display",
+          "type": "item"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "chest"
+}

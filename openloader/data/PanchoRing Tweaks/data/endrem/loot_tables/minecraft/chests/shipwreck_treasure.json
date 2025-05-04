@@ -1,0 +1,14 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "type": "empty",
+          "weight": 1
+        }
+      ],
+      "name": "eye_pool",
+      "rolls": 1
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "attributes": {
+    "common": {
+      "impact": 1.0,
+      "max_strikes": 2
+    }
+  },
+  "type": "spear"
+}

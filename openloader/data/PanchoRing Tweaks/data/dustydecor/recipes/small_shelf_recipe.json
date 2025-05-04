@@ -1,0 +1,15 @@
+{
+  "key": {
+    "a": {
+      "tag": "wooden_slabs"
+    }
+  },
+  "pattern": [
+    "aaa"
+  ],
+  "result": {
+    "count": 4,
+    "item": "dustydecor:small_shelf_block"
+  },
+  "type": "crafting_shaped"
+}

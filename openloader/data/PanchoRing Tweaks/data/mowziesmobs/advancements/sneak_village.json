@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "steal_crystal": {
+      "trigger": "mowziesmobs:sneak_village"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.mowziesmobs.sneak_village.description"
+    },
+    "frame": "goal",
+    "hidden": true,
+    "icon": {
+      "item": "mowziesmobs:barakoa_mask_fear"
+    },
+    "title": {
+      "translate": "advancements.mowziesmobs.sneak_village.title"
+    }
+  },
+  "parent": "mowziesmobs:kill_barako"
+}

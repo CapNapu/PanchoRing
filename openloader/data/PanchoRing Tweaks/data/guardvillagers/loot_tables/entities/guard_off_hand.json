@@ -1,0 +1,48 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "shield",
+          "type": "item",
+          "weight": 35
+        },
+        {
+          "name": "dungeons_gear:sword",
+          "type": "item",
+          "weight": 15
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 4,
+                "min": 2
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "bread",
+          "type": "item",
+          "weight": 25
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 4,
+                "min": 2
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "baked_potato",
+          "type": "item",
+          "weight": 25
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "guardvillagers:slot"
+}

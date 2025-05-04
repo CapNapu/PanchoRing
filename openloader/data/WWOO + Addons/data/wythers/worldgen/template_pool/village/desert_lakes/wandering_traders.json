@@ -1,0 +1,15 @@
+{
+  "name": "wythers:village/desert_lakes/wandering_traders",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "wythers:village/desert_lakes/wandering_traders/wanderer_1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

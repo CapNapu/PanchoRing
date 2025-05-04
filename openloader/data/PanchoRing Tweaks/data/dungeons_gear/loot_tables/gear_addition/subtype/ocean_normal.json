@@ -1,0 +1,62 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "dungeons_gear:nameless_blade",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:eternal_knife",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:encrusted_anchor",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:guardian_bow",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:nautical_crossbow",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:frost_bite_helmet",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:frost_bite_chestplate",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:frost_bite_leggings",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:frost_bite_boots",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:highland_helmet",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:highland_chestplate",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:highland_leggings",
+          "type": "item"
+        },
+        {
+          "name": "dungeons_gear:highland_boots",
+          "type": "item"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "chest"
+}

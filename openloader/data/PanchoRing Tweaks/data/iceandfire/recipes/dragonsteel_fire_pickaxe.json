@@ -1,0 +1,12 @@
+{
+  "addition": {
+    "item": "iceandfire:dragonsteel_fire_ingot"
+  },
+  "base": {
+    "item": "iron_pickaxe"
+  },
+  "result": {
+    "item": "iceandfire:dragonsteel_fire_pickaxe"
+  },
+  "type": "smithing"
+}

@@ -1,0 +1,29 @@
+{
+  "criteria": {
+    "wilden_boss": {
+      "conditions": {
+        "item": {
+          "item": "ars_nouveau:ritual_wilden_summon"
+        },
+        "location": {
+          "block": {
+            "block": "ars_nouveau:ritual"
+          }
+        }
+      },
+      "trigger": "item_used_on_block"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.summon_wilden_boss.description"
+    },
+    "icon": {
+      "item": "ars_nouveau:ritual_wilden_summon"
+    },
+    "title": {
+      "translate": "advancements.panchoring.summon_wilden_boss.title"
+    }
+  },
+  "parent": "adventure/kill_a_mob"
+}

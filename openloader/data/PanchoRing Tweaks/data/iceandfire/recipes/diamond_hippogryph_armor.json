@@ -1,0 +1,17 @@
+{
+  "ingredients": [
+    {
+      "item": "diamond_horse_armor"
+    },
+    {
+      "item": "feather"
+    },
+    {
+      "item": "feather"
+    }
+  ],
+  "result": {
+    "item": "iceandfire:diamond_hippogryph_armor"
+  },
+  "type": "crafting_shapeless"
+}

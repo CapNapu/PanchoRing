@@ -1,0 +1,28 @@
+{
+  "criteria": {
+    "dread_key": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:dread_key"
+          }
+        ]
+      },
+      "trigger": "inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.get_dread_key.description"
+    },
+    "frame": "goal",
+    "hidden": true,
+    "icon": {
+      "item": "iceandfire:dread_key"
+    },
+    "title": {
+      "translate": "advancements.panchoring.get_dread_key.title"
+    }
+  },
+  "parent": "panchoring:summon_snow_golem"
+}

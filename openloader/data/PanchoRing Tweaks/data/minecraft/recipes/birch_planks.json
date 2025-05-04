@@ -1,0 +1,12 @@
+{
+  "ingredients": [
+    {
+      "tag": "birch_logs"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "birch_planks"
+  },
+  "type": "crafting_shapeless"
+}

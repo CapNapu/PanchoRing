@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "summoned_golem": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "iron_golem"
+            }
+          }
+        ]
+      },
+      "trigger": "summoned_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.adventure.summon_iron_golem.description"
+    },
+    "frame": "task",
+    "icon": {
+      "item": "carved_pumpkin"
+    },
+    "title": {
+      "translate": "advancements.adventure.summon_iron_golem.title"
+    }
+  },
+  "parent": "adventure/trade"
+}

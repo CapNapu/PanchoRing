@@ -1,0 +1,19 @@
+{
+  "key": {
+    "o": {
+      "item": "ender_eye"
+    },
+    "x": {
+      "item": "endrem:witch_pupil"
+    }
+  },
+  "pattern": [
+    "xxx",
+    "xox",
+    "xxx"
+  ],
+  "result": {
+    "item": "endrem:witch_eye"
+  },
+  "type": "crafting_shaped"
+}

@@ -1,0 +1,25 @@
+{
+  "key": {
+    "A": {
+      "item": "conduit"
+    },
+    "C": {
+      "item": "obsidian"
+    },
+    "G": {
+      "item": "phantasm:stardust_block"
+    },
+    "H": {
+      "item": "bosses_of_mass_destruction:blazing_eye"
+    }
+  },
+  "pattern": [
+    " A ",
+    "GHG",
+    "CCC"
+  ],
+  "result": {
+    "item": "bosses_of_mass_destruction:levitation_block"
+  },
+  "type": "crafting_shaped"
+}
