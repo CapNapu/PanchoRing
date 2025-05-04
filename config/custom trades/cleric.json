@@ -1,0 +1,71 @@
+{
+  "profession": "minecraft:cleric",
+  "removeOtherTrades": false,
+  "maxTrades": 2,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "ars_nouveau:mana_gem",
+        "amount": 9
+      },
+      "tradeExp": 2,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:cleric_emerald_for_mana_gem"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "infernalexp:cured_jerky",
+        "amount": 16
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:cleric_emerald_for_cured_jerky"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "infernalexp:spirit_eye",
+        "amount": 12
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:cleric_emerald_for_spirit_eye"
+    },
+    {
+      "offer": {
+        "itemKey": "majruszs_difficulty:recall_potion",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 4
+      },
+      "tradeExp": 30,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:cleric_recall_potion_for_emerald"
+    }
+  ]
+}

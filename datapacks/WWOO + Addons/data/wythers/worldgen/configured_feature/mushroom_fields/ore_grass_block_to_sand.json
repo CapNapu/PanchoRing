@@ -1,0 +1,48 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count_extra",
+      "config": {
+        "count": 200,
+        "extra_count": 0,
+        "extra_chance": 0
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:square",
+          "config": {}
+        },
+        "feature": {
+          "type": "minecraft:decorated",
+          "config": {
+            "decorator": {
+              "type": "minecraft:range",
+              "config": {
+                "maximum": 10,
+                "bottom_offset": 54,
+                "top_offset": 0
+              }
+            },
+            "feature": {
+              "type": "minecraft:ore",
+              "config": {
+                "state": {
+                  "Name": "minecraft:sand"
+                },
+                "size": 64,
+                "target": {
+                  "predicate_type": "minecraft:block_match",
+                  "block": "minecraft:grass_block"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

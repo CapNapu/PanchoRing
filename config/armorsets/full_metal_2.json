@@ -1,0 +1,35 @@
+{
+  "armorSetName": "full_metal.2",
+  "head": {
+    "itemKey": "dungeons_gear:full_metal_helmet"
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:full_metal_chestplate"
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:full_metal_leggings"
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:full_metal_boots"
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "epicfight:offhand_impact",
+      "value": 0.25,
+      "modifierUUID": "aaee46bf-4e3c-4263-a9ed-94bb6cc5622b",
+      "attributeOperation": 1
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.armor",
+      "value": 0.0,
+      "modifierUUID": "017c7c31-7d8b-4016-92a3-eea6ff91641e",
+      "attributeOperation": 0
+    }
+  ],
+  "hideGeneratedTooltip": true
+}

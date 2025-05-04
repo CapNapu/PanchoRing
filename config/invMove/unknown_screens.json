@@ -1,0 +1,17 @@
+{
+  "coffee.injected.improvedbackpacks.client.screen.BackpackScreen_background": false,
+  "coffee.injected.improvedbackpacks.client.screen.SewingTableScreen_movement": false,
+  "com.bobmowzie.mowziesmobs.client.gui.GuiBarakoayaTrade_movement": false,
+  "com.bobmowzie.mowziesmobs.client.gui.GuiBarakoTrade_movement": false,
+  "com.github.alexthe666.alexsmobs.client.gui.GUIAnimalDictionary_movement": false,
+  "com.github.alexthe666.iceandfire.client.gui.GuiDragon_background": false,
+  "com.github.alexthe666.iceandfire.client.gui.GuiDragonForge_movement": false,
+  "com.github.alexthe666.iceandfire.client.gui.GuiHippogryph_background": false,
+  "com.hollingsworth.arsnouveau.client.gui.book.GuiSpellBook_background": false,
+  "hunternif.mc.impl.atlas.client.gui.GuiAtlas_background": false,
+  "net.hangel.fletchingtablemod.gui.FletchingTableGUIGuiWindow_movement": false,
+  "net.minecraft.client.gui.screen.GamemodeSelectionScreen_movement": false,
+  "net.minecraft.client.gui.screen.inventory.HorseInventoryScreen_background": false,
+  "net.minecraft.client.gui.screen.inventory.SmithingTableScreen_movement": false,
+  "pepjebs.dicemc.gui.MapAtlasesAtlasOverviewScreen_background": false
+}

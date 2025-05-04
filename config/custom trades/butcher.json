@@ -1,0 +1,92 @@
+{
+  "profession": "minecraft:butcher",
+  "removeOtherTrades": false,
+  "maxTrades": 2,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "supplementaries:rope",
+        "amount": 8
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:butcher_emerald_for_rope"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "alexsmobs:moose_ribs",
+        "amount": 5
+      },
+      "tradeExp": 20,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:butcher_emerald_for_moose_ribs"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "alexsmobs:kangaroo_meat",
+        "amount": 3
+      },
+      "tradeExp": 20,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:butcher_emerald_for_kangaroo_meat"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "projectvibrantjourneys:juniper_berries",
+        "amount": 6
+      },
+      "tradeExp": 30,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:butcher_emerald_for_juniper_berries"
+    },
+    {
+      "offer": {
+        "itemKey": "iceandfire:cannoli",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 28,
+        "amountRange": 36
+      },
+      "additionalRequest": {
+        "itemKey": "minecraft:bread",
+        "amount": 4
+      },
+      "tradeExp": 30,
+      "maxUses": 3,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:butcher_cannoli_for_emerald_and_bread"
+    }
+  ]
+}

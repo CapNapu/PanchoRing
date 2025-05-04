@@ -1,0 +1,207 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:carving_mask",
+      "config": {
+        "step": "air",
+        "probability": 1
+      }
+    },
+    "feature": {
+      "type": "minecraft:simple_random_selector",
+      "config": {
+        "features": [
+          {
+            "type": "minecraft:simple_block",
+            "config": {
+              "to_place": {
+                "Name": "minecraft:vine",
+                "Properties": {
+                  "up": "false",
+                  "east": "true",
+                  "north": "false",
+                  "south": "false",
+                  "west": "false"
+                }
+              },
+              "place_on": [
+                {
+                  "Name": "minecraft:cave_air"
+                }
+              ],
+              "place_in": [
+                {
+                  "Name": "minecraft:cave_air"
+                }
+              ],
+              "place_under": [
+                {
+                  "Name": "minecraft:vine",
+                  "Properties": {
+                    "up": "true",
+                    "east": "true",
+                    "north": "false",
+                    "south": "false",
+                    "west": "false"
+                  }
+                },
+                {
+                  "Name": "minecraft:vine",
+                  "Properties": {
+                    "up": "false",
+                    "east": "true",
+                    "north": "false",
+                    "south": "false",
+                    "west": "false"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "minecraft:simple_block",
+            "config": {
+              "to_place": {
+                "Name": "minecraft:vine",
+                "Properties": {
+                  "up": "false",
+                  "east": "false",
+                  "north": "true",
+                  "south": "false",
+                  "west": "false"
+                }
+              },
+              "place_on": [
+                {
+                  "Name": "minecraft:cave_air"
+                }
+              ],
+              "place_in": [
+                {
+                  "Name": "minecraft:cave_air"
+                }
+              ],
+              "place_under": [
+                {
+                  "Name": "minecraft:vine",
+                  "Properties": {
+                    "up": "true",
+                    "east": "false",
+                    "north": "true",
+                    "south": "false",
+                    "west": "false"
+                  }
+                },
+                {
+                  "Name": "minecraft:vine",
+                  "Properties": {
+                    "up": "false",
+                    "east": "false",
+                    "north": "true",
+                    "south": "false",
+                    "west": "false"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "minecraft:simple_block",
+            "config": {
+              "to_place": {
+                "Name": "minecraft:vine",
+                "Properties": {
+                  "up": "false",
+                  "east": "false",
+                  "north": "false",
+                  "south": "true",
+                  "west": "false"
+                }
+              },
+              "place_on": [
+                {
+                  "Name": "minecraft:cave_air"
+                }
+              ],
+              "place_in": [
+                {
+                  "Name": "minecraft:cave_air"
+                }
+              ],
+              "place_under": [
+                {
+                  "Name": "minecraft:vine",
+                  "Properties": {
+                    "up": "true",
+                    "east": "false",
+                    "north": "false",
+                    "south": "true",
+                    "west": "false"
+                  }
+                },
+                {
+                  "Name": "minecraft:vine",
+                  "Properties": {
+                    "up": "false",
+                    "east": "false",
+                    "north": "false",
+                    "south": "true",
+                    "west": "false"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "minecraft:simple_block",
+            "config": {
+              "to_place": {
+                "Name": "minecraft:vine",
+                "Properties": {
+                  "up": "false",
+                  "east": "false",
+                  "north": "false",
+                  "south": "false",
+                  "west": "true"
+                }
+              },
+              "place_on": [
+                {
+                  "Name": "minecraft:cave_air"
+                }
+              ],
+              "place_in": [
+                {
+                  "Name": "minecraft:cave_air"
+                }
+              ],
+              "place_under": [
+                {
+                  "Name": "minecraft:vine",
+                  "Properties": {
+                    "up": "true",
+                    "east": "false",
+                    "north": "false",
+                    "south": "false",
+                    "west": "true"
+                  }
+                },
+                {
+                  "Name": "minecraft:vine",
+                  "Properties": {
+                    "up": "false",
+                    "east": "false",
+                    "north": "false",
+                    "south": "false",
+                    "west": "true"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}

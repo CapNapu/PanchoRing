@@ -1,0 +1,13 @@
+name = "Konkrete [Forge/NeoForge]"
+filename = "konkrete_forge_1.6.1_MC_1.16.2-1.16.5.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "13ea55667d6b85e67e2f17a739f483c0e8df122e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4514901
+project-id = 410295

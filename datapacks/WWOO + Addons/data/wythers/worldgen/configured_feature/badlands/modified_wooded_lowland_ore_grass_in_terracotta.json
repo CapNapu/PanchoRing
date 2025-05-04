@@ -1,0 +1,48 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count",
+      "config": {
+        "count": 64
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:decorated",
+          "config": {
+            "outer": {
+              "type": "minecraft:square",
+              "config": {}
+            },
+            "inner": {
+              "type": "minecraft:depth_average",
+              "config": {
+                "baseline": 73,
+                "spread": 1
+              }
+            }
+          }
+        },
+        "feature": {
+          "type": "minecraft:ore",
+          "config": {
+            "state": {
+              "Name": "minecraft:grass_block",
+              "Properties": {
+                "snowy": "false"
+              }
+            },
+            "size": 10,
+            "target": {
+              "predicate_type": "minecraft:block_match",
+              "block": "minecraft:terracotta"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count_extra",
+      "config": {
+        "count": 2000,
+        "extra_count": 0,
+        "extra_chance": 0
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:square",
+          "config": {}
+        },
+        "feature": {
+          "type": "minecraft:decorated",
+          "config": {
+            "decorator": {
+              "type": "minecraft:range",
+              "config": {
+                "maximum": 128,
+                "bottom_offset": 35,
+                "top_offset": 0
+              }
+            },
+            "feature": {
+              "type": "minecraft:netherrack_replace_blobs",
+              "config": {
+                "state": {
+                  "Name": "minecraft:grass_block",
+                  "Properties": {
+                    "snowy": "false"
+                  }
+                },
+                "target": {
+                  "Name": "minecraft:mossy_cobblestone_slab",
+                  "Properties": {
+                    "type": "double",
+                    "waterlogged": "false"
+                  }
+                },
+                "radius": {
+                  "base": 15,
+                  "spread": 15
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

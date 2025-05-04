@@ -1,0 +1,6 @@
+{
+  "NotifyPlayersOnKilling": false,
+  "Blacklist": [],
+  "ForceRemoveEntityIfItsStillAliveAfterWeApplyFatalDamageOnIt": false,
+  "Version": "1.0.0"
+}

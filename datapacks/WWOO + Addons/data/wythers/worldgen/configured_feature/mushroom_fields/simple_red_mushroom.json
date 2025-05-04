@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:carving_mask",
+      "config": {
+        "step": "air",
+        "probability": 0.01
+      }
+    },
+    "feature": {
+      "type": "minecraft:simple_block",
+      "config": {
+        "to_place": {
+          "Name": "minecraft:red_mushroom"
+        },
+        "place_on": [
+          {
+            "Name": "minecraft:stone"
+          }
+        ],
+        "place_in": [
+          {
+            "Name": "minecraft:cave_air"
+          }
+        ],
+        "place_under": [
+          {
+            "Name": "minecraft:cave_air"
+          }
+        ]
+      }
+    }
+  }
+}

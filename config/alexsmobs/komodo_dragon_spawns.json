@@ -1,0 +1,11 @@
+{
+  "biomes": [
+    [
+      {
+        "negate": false,
+        "type": "REGISTRY_NAME",
+        "value": "minecraft:shattered_savanna"
+      }
+    ]
+  ]
+}

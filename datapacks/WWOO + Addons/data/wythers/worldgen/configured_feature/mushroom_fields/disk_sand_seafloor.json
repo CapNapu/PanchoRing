@@ -1,0 +1,58 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count_extra",
+      "config": {
+        "count": 200,
+        "extra_count": 0,
+        "extra_chance": 0
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:decorated",
+          "config": {
+            "outer": {
+              "type": "minecraft:square",
+              "config": {}
+            },
+            "inner": {
+              "type": "minecraft:top_solid_heightmap",
+              "config": {}
+            }
+          }
+        },
+        "feature": {
+          "type": "minecraft:disk",
+          "config": {
+            "state": {
+              "Name": "minecraft:sand"
+            },
+            "radius": {
+              "base": 2,
+              "spread": 3
+            },
+            "half_height": 0.5,
+            "targets": [
+              {
+                "Name": "minecraft:sand"
+              },
+              {
+                "Name": "minecraft:dirt"
+              },
+              {
+                "Name": "minecraft:stone"
+              },
+              {
+                "Name": "minecraft:mossy_cobblestone"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count_extra",
+      "config": {
+        "count": 30000,
+        "extra_count": 0,
+        "extra_chance": 0
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:square",
+          "config": {}
+        },
+        "feature": {
+          "type": "minecraft:decorated",
+          "config": {
+            "decorator": {
+              "type": "minecraft:range",
+              "config": {
+                "maximum": 60,
+                "bottom_offset": 115,
+                "top_offset": 0
+              }
+            },
+            "feature": {
+              "type": "minecraft:simple_block",
+              "config": {
+                "to_place": {
+                  "Name": "minecraft:snow_block"
+                },
+                "place_on": [
+                  {
+                    "Name": "minecraft:stone"
+                  }
+                ],
+                "place_in": [
+                  {
+                    "Name": "minecraft:stone"
+                  }
+                ],
+                "place_under": [
+                  {
+                    "Name": "minecraft:snow_block"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

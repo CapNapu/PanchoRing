@@ -1,0 +1,13 @@
+name = "Origins (Forge)"
+filename = "Origins-1.16.5-0.7.3.9-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ed64c3640af64381a6d844f94fcce584c942546f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3426062
+project-id = 474438

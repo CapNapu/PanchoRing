@@ -1,0 +1,21 @@
+{
+  "name": "wythers:village/desert_lakes/thatch_houses",
+  "fallback": "wythers:village/desert_lakes/thatch_houses",
+  "elements": [
+    {
+      "weight": 5,
+      "element": {
+        "location": "wythers:village/desert_lakes/thatch_houses/hut_1",
+        "processors": "wythers:desert_lakes_huts",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 0,
+      "element": {
+        "element_type": "minecraft:empty_pool_element"
+      }
+    }
+  ]
+}

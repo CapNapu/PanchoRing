@@ -1,0 +1,36 @@
+{
+  "armorSetName": "hungry_horror",
+  "head": {
+    "itemKey": "dungeons_gear:hungry_horror_helmet"
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:hungry_horror_chestplate"
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:hungry_horror_leggings"
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:hungry_horror_boots"
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "attribute",
+      "description": "panchoring.attribute.impact_25",
+      "name": "epicfight:impact",
+      "value": 0.25,
+      "modifierUUID": "86304383-b008-4238-be86-82a4b2a4eaf3",
+      "attributeOperation": 1
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "description": "effect.minecraft.wither",
+      "name": "minecraft:wither",
+      "value": 0.0,
+      "interactionType": "immunity",
+      "interactionDuration": 120
+    }
+  ]
+}

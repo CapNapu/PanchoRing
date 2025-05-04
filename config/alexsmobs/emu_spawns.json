@@ -1,0 +1,25 @@
+{
+  "biomes": [
+    [
+      {
+        "negate": false,
+        "type": "REGISTRY_NAME",
+        "value": "minecraft:savanna"
+      }
+    ],
+    [
+      {
+        "negate": false,
+        "type": "REGISTRY_NAME",
+        "value": "minecraft:savanna_plateau"
+      }
+    ],
+    [
+      {
+        "negate": false,
+        "type": "REGISTRY_NAME",
+        "value": "projectvibrantjourneys:red_rock_valley"
+      }
+    ]
+  ]
+}

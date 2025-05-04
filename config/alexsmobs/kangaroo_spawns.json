@@ -1,0 +1,25 @@
+{
+  "biomes": [
+    [
+      {
+        "negate": false,
+        "type": "REGISTRY_NAME",
+        "value": "minecraft:badlands"
+      }
+    ],
+    [
+      {
+        "negate": false,
+        "type": "REGISTRY_NAME",
+        "value": "minecraft:badlands_plateau"
+      }
+    ],
+    [
+      {
+        "negate": false,
+        "type": "REGISTRY_NAME",
+        "value": "minecraft:wooded_badlands_plateau"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "armorSetName": "wither",
+  "head": {
+    "itemKey": "dungeons_gear:wither_helmet"
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:wither_chestplate"
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:wither_leggings"
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:wither_boots"
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "effect",
+      "description": "effect.minecraft.haste",
+      "name": "minecraft:haste",
+      "value": 0.0,
+      "interactionDuration": 120
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "description": "effect.minecraft.wither",
+      "name": "minecraft:wither",
+      "value": 0.0,
+      "interactionType": "immunity",
+      "interactionDuration": 120
+    }
+  ]
+}

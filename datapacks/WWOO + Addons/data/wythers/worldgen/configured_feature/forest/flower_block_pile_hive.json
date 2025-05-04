@@ -1,0 +1,86 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:chance",
+      "config": {
+        "chance": 16
+      }
+    },
+    "feature": {
+      "type": "minecraft:tree",
+      "config": {
+        "max_water_depth": 0,
+        "ignore_vines": true,
+        "heightmap": "WORLD_SURFACE",
+        "minimum_size": {
+          "type": "minecraft:two_layers_feature_size"
+        },
+        "trunk_provider": {
+          "type": "minecraft:simple_state_provider",
+          "state": {
+            "Name": "minecraft:honeycomb_block"
+          }
+        },
+        "leaves_provider": {
+          "type": "minecraft:weighted_state_provider",
+          "entries": [
+            {
+              "weight": 1,
+              "data": {
+                "Name": "minecraft:bee_nest",
+                "Properties": {
+                  "facing": "north",
+                  "honey_level": "1"
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "data": {
+                "Name": "minecraft:bee_nest",
+                "Properties": {
+                  "facing": "south",
+                  "honey_level": "1"
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "data": {
+                "Name": "minecraft:bee_nest",
+                "Properties": {
+                  "facing": "west",
+                  "honey_level": "1"
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "data": {
+                "Name": "minecraft:bee_nest",
+                "Properties": {
+                  "facing": "east",
+                  "honey_level": "1"
+                }
+              }
+            }
+          ]
+        },
+        "trunk_placer": {
+          "type": "minecraft:straight_trunk_placer",
+          "base_height": 1,
+          "height_rand_a": 0,
+          "height_rand_b": 0
+        },
+        "foliage_placer": {
+          "type": "minecraft:fancy_foliage_placer",
+          "radius": 1,
+          "offset": 0,
+          "height": 3
+        },
+        "decorators": []
+      }
+    }
+  }
+}

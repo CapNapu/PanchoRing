@@ -1,0 +1,13 @@
+name = "L_Ender 's Cataclysm"
+filename = "L_Enders Cataclysm-0.48 Changed Theme -1.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aaaac3a27b43f152494c4147b5aa9ff0b7f99878"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4418434
+project-id = 551586

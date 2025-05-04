@@ -1,0 +1,13 @@
+name = "Ice and Fire - Retextures"
+filename = "Ice and Fire Retextures.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "ff9a6795fa3b20b82b8c0f288781e4a445b548b5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6989763
+project-id = 1239389

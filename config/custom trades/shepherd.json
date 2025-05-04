@@ -1,0 +1,27 @@
+{
+  "profession": "minecraft:shepherd",
+  "removeOtherTrades": false,
+  "maxTrades": 2,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "improvedbackpacks:large_pocket",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 11
+      },
+      "additionalRequest": {
+        "itemKey": "improvedbackpacks:medium_pocket",
+        "amount": 1
+      },
+      "tradeExp": 30,
+      "maxUses": 3,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:shepherd_large_pocket_for_emerald_and_medium_pocket"
+    }
+  ]
+}

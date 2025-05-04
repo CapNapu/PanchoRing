@@ -1,0 +1,58 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count_noise_biased",
+      "config": {
+        "noise_to_count_ratio": 600,
+        "noise_factor": 200,
+        "noise_offset": 0.4
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:decorated",
+          "config": {
+            "outer": {
+              "type": "minecraft:square",
+              "config": {}
+            },
+            "inner": {
+              "type": "minecraft:top_solid_heightmap",
+              "config": {}
+            }
+          }
+        },
+        "feature": {
+          "type": "minecraft:disk",
+          "config": {
+            "state": {
+              "Name": "minecraft:gravel"
+            },
+            "radius": {
+              "base": 2,
+              "spread": 4
+            },
+            "half_height": 2,
+            "targets": [
+              {
+                "Name": "minecraft:grass_block",
+                "Properties": {
+                  "snowy": "false"
+                }
+              },
+              {
+                "Name": "minecraft:gravel"
+              },
+              {
+                "Name": "minecraft:dirt"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

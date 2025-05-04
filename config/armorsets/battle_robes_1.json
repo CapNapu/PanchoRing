@@ -1,0 +1,36 @@
+{
+  "armorSetName": "battle_robes",
+  "head": {
+    "itemKey": "dungeons_gear:battle_robes_helmet"
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:battle_robes_chestplate"
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:battle_robes_leggings"
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:battle_robes_boots"
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "attribute",
+      "description": "panchoring.attribute.max_strikes",
+      "name": "epicfight:max_strikes",
+      "value": 1.0,
+      "modifierUUID": "720cc8f2-4f25-4fcc-b4e6-18b3a53cc6b9",
+      "attributeOperation": 0
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "description": "panchoring.attribute.max_strikes_2",
+      "name": "epicfight:max_strikes",
+      "value": 2.0,
+      "modifierUUID": "42f11dd2-d48b-4bae-b31d-b6d23ea8e855",
+      "attributeOperation": 0
+    }
+  ]
+}

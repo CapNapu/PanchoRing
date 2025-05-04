@@ -1,0 +1,35 @@
+{
+  "armorSetName": "curious",
+  "head": {
+    "itemKey": "dungeons_gear:curious_helmet"
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:curious_chestplate"
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:curious_leggings"
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:curious_boots"
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "attribute",
+      "description": "panchoring.attribute.max_strikes",
+      "name": "epicfight:max_strikes",
+      "value": 1.0,
+      "modifierUUID": "fea9de3c-ddfa-47e4-ae30-45931420cb27",
+      "attributeOperation": 0
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "description": "effect.minecraft.levitation",
+      "name": "minecraft:levitation",
+      "value": 0.0,
+      "interactionDuration": 120
+    }
+  ]
+}

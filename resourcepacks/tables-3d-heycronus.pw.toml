@@ -1,0 +1,13 @@
+name = "Tables 3D - Heycronus"
+filename = "3D Tables.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "f2d8c382bfbe7f31e12542091088eb04f96fa94d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6753498
+project-id = 1304287

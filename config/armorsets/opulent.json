@@ -1,0 +1,34 @@
+{
+  "armorSetName": "opulent",
+  "head": {
+    "itemKey": "dungeons_gear:opulent_helmet"
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:opulent_chestplate"
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:opulent_leggings"
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:opulent_boots"
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "effect",
+      "description": "effect.minecraft.luck",
+      "name": "minecraft:luck",
+      "value": 0.0,
+      "interactionDuration": 120
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "description": "panchoring.effect.luck_3",
+      "name": "minecraft:luck",
+      "value": 2.0,
+      "interactionDuration": 120
+    }
+  ]
+}

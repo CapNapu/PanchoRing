@@ -1,0 +1,11 @@
+{
+  "GauntletOfGuardDurability": 210,
+  "GauntletOfGuardDamageable": false,
+  "BulwarkOfTheFlameDamageable": false,
+  "BulwarkOfTheFlameDurability": 350,
+  "IncineratorDamageable": false,
+  "IncineratorDurability": 560,
+  "VoidCoreDurability": 512,
+  "VoidCoreDamageable": true,
+  "Version": "1.0.0"
+}

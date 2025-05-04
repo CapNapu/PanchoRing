@@ -1,0 +1,48 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:decorated",
+      "config": {
+        "outer": {
+          "type": "minecraft:square",
+          "config": {}
+        },
+        "inner": {
+          "type": "minecraft:iceberg",
+          "config": {}
+        }
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:count_extra",
+          "config": {
+            "count": 2000,
+            "extra_count": 0,
+            "extra_chance": 0
+          }
+        },
+        "feature": {
+          "type": "minecraft:simple_random_selector",
+          "config": {
+            "features": [
+              "wythers:volcanic/lava_layer_1",
+              "wythers:volcanic/lava_layer_2",
+              "wythers:volcanic/lava_layer_3",
+              "wythers:volcanic/lava_layer_4",
+              "wythers:volcanic/lava_layer_5",
+              "wythers:volcanic/lava_layer_6",
+              "wythers:volcanic/lava_layer_7",
+              "wythers:volcanic/lava_layer_8",
+              "wythers:volcanic/lava_layer_9",
+              "wythers:volcanic/lava_layer_10"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

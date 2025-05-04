@@ -1,0 +1,179 @@
+{
+  "scale": 0.05,
+  "effects": {
+    "mood_sound": {
+      "sound": "minecraft:ambient.cave",
+      "tick_delay": 6000,
+      "block_search_extent": 8,
+      "offset": 2.0
+    },
+    "sky_color": 7907327,
+    "foliage_color": 10387789,
+    "fog_color": 12638463,
+    "water_color": 3489035,
+    "water_fog_color": 2302743  },
+  "surface_builder": "wythers:badlands",
+  "carvers": {
+    "air": []
+  },
+  "features": [
+    [],
+    [],
+    [],
+    [
+      "minecraft:monster_room"
+    ],
+    [],
+    [],
+    [
+      "wythers:badlands/disk_red_sandstone_beach",
+      "wythers:badlands/double_squared_red_sand_edge",
+      "minecraft:ore_dirt",
+      "minecraft:ore_gravel",
+      "minecraft:ore_granite",
+      "minecraft:ore_diorite",
+      "minecraft:ore_andesite",
+      "minecraft:ore_coal",
+      "minecraft:ore_iron",
+      "minecraft:ore_gold",
+      "minecraft:ore_redstone",
+      "minecraft:ore_diamond",
+      "minecraft:ore_lapis",
+      "minecraft:disk_sand",
+      "minecraft:disk_clay",
+      "minecraft:disk_gravel",
+      "wythers:badlands/cnb_ores_grass",
+      "wythers:generic/heightmap_ore_coarse_dirt_in_grass"
+    ],
+    [],
+    [
+      "wythers:badlands/block_pile_smooth_red_sandstone",
+      "wythers:badlands/block_pile_dark_oak_leaves",
+      "wythers:badlands/patch_saguaro_base",
+      "wythers:badlands/patch_saguaro_5",
+      "wythers:badlands/patch_saguaro_6",
+      "wythers:badlands/patch_saguaro_7",
+      "wythers:badlands/patch_saguaro_11",
+      "wythers:badlands/patch_saguaro_12",
+      "wythers:badlands/patch_saguaro_10",
+      "wythers:badlands/patch_saguaro_8",
+      "wythers:badlands/patch_saguaro_8_on_8",
+      "wythers:badlands/patch_saguaro_9",
+      "wythers:badlands/patch_saguaro_9_on_9",
+      "wythers:badlands/patch_saguaro_10_on_10",
+      "wythers:badlands/patch_saguaro_15",
+      "wythers:badlands/flowers",
+      "minecraft:patch_dead_bush",
+      "wythers:badlands/patch_berries",
+      "wythers:badlands/patch_dark_oak_leaves",
+      "minecraft:patch_tall_grass",
+      "minecraft:patch_grass_savanna"
+    ],
+    [
+      "minecraft:freeze_top_layer"
+    ]
+  ],
+  "starts": [
+    "wythers:village_pueblo",
+    "minecraft:pillager_outpost",
+    "minecraft:mineshaft",
+    "minecraft:stronghold",
+    "minecraft:ruined_portal"
+  ],
+  "spawners": {
+    "monster": [
+      {
+        "type": "minecraft:spider",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:zombie",
+        "weight": 95,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:zombie_villager",
+        "weight": 5,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "minecraft:skeleton",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:creeper",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:slime",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:enderman",
+        "weight": 10,
+        "minCount": 1,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:witch",
+        "weight": 5,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ],
+    "creature": [
+      {
+        "type": "minecraft:rabbit",
+        "weight": 10,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:cow",
+        "weight": 10,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:horse",
+        "weight": 15,
+        "minCount": 2,
+        "maxCount": 6
+      },
+      {
+        "type": "minecraft:donkey",
+        "weight": 5,
+        "minCount": 1,
+        "maxCount": 3
+      }
+    ],
+    "ambient": [
+      {
+        "type": "minecraft:bat",
+        "weight": 10,
+        "minCount": 8,
+        "maxCount": 8
+      }
+    ],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "player_spawn_friendly": false,
+  "precipitation": "none",
+  "temperature": 0.8,
+  "downfall": 0.0,
+  "category": "mesa",
+  "depth": 0.2
+}

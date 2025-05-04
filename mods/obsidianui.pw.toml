@@ -1,0 +1,13 @@
+name = "ObsidianUI"
+filename = "ObsidianUI-forge-0.2.5+mc1.16.5.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "ee0ae4cc6098adde2e1d4a5de2193d2328434ba3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5279731
+project-id = 684718

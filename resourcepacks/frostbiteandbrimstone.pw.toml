@@ -1,0 +1,13 @@
+name = "Frostbite & Brimstone"
+filename = "iaftextureupdate1.16.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "f32813ab1636be407feec8730a574b5825a9e1eb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6858165
+project-id = 341503

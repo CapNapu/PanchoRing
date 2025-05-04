@@ -1,0 +1,24 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "features": [
+          {
+            "feature": "wythers:giant_taiga/giant_sequoia_tree",
+            "chance": 0.7          },
+          {
+            "feature": "wythers:giant_taiga/feature_tree_redwood_giant",
+            "chance": 0.3          }
+
+        ],
+        "default": "wythers:giant_taiga/feature_tree_redwood"
+      },
+      "type": "minecraft:random_selector"
+    },
+    "decorator": {
+      "config": {},
+      "type": "minecraft:dark_oak_tree"
+    }
+  },
+  "type": "minecraft:decorated"
+}

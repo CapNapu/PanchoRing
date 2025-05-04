@@ -1,0 +1,18 @@
+{
+  "biomes": [
+    [
+      {
+        "negate": false,
+        "type": "REGISTRY_NAME",
+        "value": "minecraft:modified_jungle"
+      }
+    ],
+    [
+      {
+        "negate": false,
+        "type": "REGISTRY_NAME",
+        "value": "projectvibrantjourneys:overgrown_spires"
+      }
+    ]
+  ]
+}

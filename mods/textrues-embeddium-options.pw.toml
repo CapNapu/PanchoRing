@@ -1,0 +1,13 @@
+name = "TexTrue's Embeddium Options"
+filename = "textrue_embeddium_options-0.1.2+mc1.16.5.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "cfe36995600060fdc37e4b1a18b1deeeb8929c5d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4798359
+project-id = 910506

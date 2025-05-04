@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count_extra",
+      "config": {
+        "count": 10,
+        "extra_count": 0,
+        "extra_chance": 0
+      }
+    },
+    "feature": {
+      "type": "minecraft:simple_random_selector",
+      "config": {
+        "features": [
+          "wythers:swamp/tree_component_willow_base_1",
+          "wythers:swamp/tree_component_willow_base_2",
+          "wythers:swamp/tree_component_willow_branches_1",
+          "wythers:swamp/tree_component_willow_branches_2"
+        ]
+      }
+    }
+  }
+}
