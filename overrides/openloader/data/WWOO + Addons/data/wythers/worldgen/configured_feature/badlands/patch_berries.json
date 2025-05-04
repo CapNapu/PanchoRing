@@ -1,0 +1,108 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:chance",
+      "config": {
+        "chance": 1
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:decorated",
+          "config": {
+            "outer": {
+              "type": "minecraft:square",
+              "config": {}
+            },
+            "inner": {
+              "type": "minecraft:heightmap",
+              "config": {}
+            }
+          }
+        },
+        "feature": {
+          "type": "minecraft:decorated",
+          "config": {
+            "decorator": {
+              "type": "minecraft:count",
+              "config": {
+                "count": 32
+              }
+            },
+            "feature": {
+              "type": "minecraft:random_patch",
+              "config": {
+                "can_replace": true,
+                "project": false,
+                "need_water": false,
+                "xspread": 7,
+                "yspread": 3,
+                "zspread": 7,
+                "tries": 2,
+                "state_provider": {
+                  "type": "minecraft:weighted_state_provider",
+                  "entries": [
+                    {
+                      "weight": 4,
+                      "data": {
+                        "Name": "minecraft:sweet_berry_bush",
+                        "Properties": {
+                          "age": "0"
+                        }
+                      }
+                    },
+                    {
+                      "weight": 3,
+                      "data": {
+                        "Name": "minecraft:sweet_berry_bush",
+                        "Properties": {
+                          "age": "1"
+                        }
+                      }
+                    },
+                    {
+                      "weight": 2,
+                      "data": {
+                        "Name": "minecraft:sweet_berry_bush",
+                        "Properties": {
+                          "age": "2"
+                        }
+                      }
+                    },
+                    {
+                      "weight": 1,
+                      "data": {
+                        "Name": "minecraft:sweet_berry_bush",
+                        "Properties": {
+                          "age": "3"
+                        }
+                      }
+                    }
+                  ]
+                },
+                "block_placer": {
+                  "type": "minecraft:simple_block_placer"
+                },
+                "whitelist": [
+                  {
+                    "Name": "minecraft:red_sand"
+                  },
+                  {
+                    "Name": "minecraft:grass_block",
+                    "Properties": {
+                      "snowy": "false"
+                    }
+                  }
+                ],
+                "blacklist": []
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

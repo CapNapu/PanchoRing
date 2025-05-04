@@ -1,0 +1,19 @@
+{
+  "key": {
+    "a": {
+      "item": "minecraft:salmon"
+    },
+    "b": {
+      "item": "dustydecor:empty_barrel"
+    }
+  },
+  "pattern": [
+    "aaa",
+    "aaa",
+    " b "
+  ],
+  "result": {
+    "item": "dustydecor:salmon_barrel"
+  },
+  "type": "minecraft:crafting_shaped"
+}

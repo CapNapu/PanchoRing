@@ -1,0 +1,53 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count_extra",
+      "config": {
+        "count": 40,
+        "extra_count": 0,
+        "extra_chance": 0
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:decorated",
+          "config": {
+            "outer": {
+              "type": "minecraft:square",
+              "config": {}
+            },
+            "inner": {
+              "type": "minecraft:range",
+              "config": {
+                "maximum": 10,
+                "bottom_offset": 50,
+                "top_offset": 0
+              }
+            }
+          }
+        },
+        "feature": {
+          "type": "minecraft:disk",
+          "config": {
+            "state": {
+              "Name": "minecraft:magma_block"
+            },
+            "radius": {
+              "base": 2,
+              "spread": 1
+            },
+            "half_height": 1,
+            "targets": [
+              {
+                "Name": "minecraft:gray_terracotta"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

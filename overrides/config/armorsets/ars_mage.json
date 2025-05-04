@@ -1,0 +1,31 @@
+{
+  "armorSetName": "Ars Mage",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "ars_nouveau:apprentice_hood",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "ars_nouveau:apprentice_robes",
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "ars_nouveau:apprentice_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "ars_nouveau:apprentice_boots",
+    "mustBeEmpty": false
+  },
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "name": "ars_nouveau:mana_regen",
+      "value": 1.0,
+      "interactionType": "self",
+      "interactionDuration": 150,
+      "hideBonusDescription": true
+    }
+  ],
+  "hideGeneratedTooltip": true
+}

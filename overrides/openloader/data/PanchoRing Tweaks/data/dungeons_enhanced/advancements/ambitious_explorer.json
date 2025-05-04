@@ -1,0 +1,28 @@
+{
+  "criteria": {
+    "entered_castle": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.dungeons_enhanced.ambitious_explorer.desc"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "minecraft:filled_map"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.dungeons_enhanced.ambitious_explorer"
+    }
+  },
+  "parent": "dungeons_enhanced:seven_world_wonders",
+  "requirements": [
+    [
+      "entered_castle"
+    ]
+  ]
+}

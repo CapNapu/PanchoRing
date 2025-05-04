@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": [
+    {
+      "item": "iceandfire:dragonarmor_copper_body"
+    },
+    {
+      "item": "iceandfire:dragonarmor_copper_head"
+    },
+    {
+      "item": "iceandfire:dragonarmor_copper_neck"
+    },
+    {
+      "item": "iceandfire:dragonarmor_copper_tail"
+    }
+  ],
+  "result": "iceandfire:copper_block",
+  "experience": 0.1,
+  "cookingtime": 100
+}

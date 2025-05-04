@@ -1,0 +1,19 @@
+{
+  "key": {
+    "B": {
+      "item": "infernalexp:soul_salt_clump"
+    },
+    "W": {
+      "item": "minecraft:spider_eye"
+    }
+  },
+  "pattern": [
+    "BBB",
+    "BWB",
+    "BBB"
+  ],
+  "result": {
+    "item": "infernalexp:spirit_eye"
+  },
+  "type": "minecraft:crafting_shaped"
+}

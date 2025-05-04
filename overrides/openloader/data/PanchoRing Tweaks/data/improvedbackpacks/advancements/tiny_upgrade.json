@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "upgrade_backpack": {
+      "conditions": {
+        "pocket_type": "tiny"
+      },
+      "trigger": "improvedbackpacks:backpack_upgraded"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.improvedbackpacks.tiny_upgrade.description"
+    },
+    "hidden": false,
+    "icon": {
+      "item": "improvedbackpacks:tiny_pocket"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.improvedbackpacks.tiny_upgrade.title"
+    }
+  },
+  "parent": "improvedbackpacks:sewing_table",
+  "requirements": [
+    [
+      "upgrade_backpack"
+    ]
+  ]
+}

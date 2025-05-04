@@ -1,0 +1,13 @@
+{
+  "type": "ars_nouveau:crush",
+  "input": {
+    "item": "majruszs_difficulty:end_shard_ore"
+  },
+  "output": [
+    {
+      "item": "majruszs_difficulty:end_shard",
+      "chance": 1.0,
+      "count": 2
+    }
+  ]
+}

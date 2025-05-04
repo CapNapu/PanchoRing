@@ -1,0 +1,2 @@
+tellraw @a [{"text": "[","color": "gray"},{"text": "Better Golems","color": "blue","hoverEvent": {"action": "show_text","value": "Visit Website"},"clickEvent": {"action": "open_url","value": "https://www.planetminecraft.com/data-pack/buffed-iron-golem/"}},{"text": "]","color": "gray"},{"text": " Datapack has been loaded.","color": "green"}]
+scoreboard players set better_golems.sc better_golems.n 1

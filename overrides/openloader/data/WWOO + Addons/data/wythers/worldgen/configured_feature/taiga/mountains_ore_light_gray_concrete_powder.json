@@ -1,0 +1,48 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count_extra",
+      "config": {
+        "count": 30,
+        "extra_count": 0,
+        "extra_chance": 0
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:square",
+          "config": {}
+        },
+        "feature": {
+          "type": "minecraft:decorated",
+          "config": {
+            "decorator": {
+              "type": "minecraft:range",
+              "config": {
+                "maximum": 4,
+                "bottom_offset": 62,
+                "top_offset": 0
+              }
+            },
+            "feature": {
+              "type": "minecraft:ore",
+              "config": {
+                "state": {
+                  "Name": "minecraft:light_gray_concrete_powder"
+                },
+                "size": 16,
+                "target": {
+                  "predicate_type": "minecraft:block_match",
+                  "block": "minecraft:grass_block"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

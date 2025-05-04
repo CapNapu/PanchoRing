@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xzx",
+    " y ",
+    "xzx"
+  ],
+  "key": {
+    "x": {
+      "tag": "forge:ingots/gold"
+    },
+    "y": {
+      "tag": "forge:gems/diamond"
+    },
+    "z": {
+      "item": "ars_nouveau:arcane_stone"
+    }
+  },
+  "result": {
+    "item": "ars_nouveau:enchanting_apparatus"
+  }
+}

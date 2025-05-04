@@ -1,0 +1,42 @@
+{
+  "armorSetName": "Gilded Glory",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "dungeons_gear:gilded_glory_helmet",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:gilded_glory_chestplate",
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:gilded_glory_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:gilded_glory_boots",
+    "mustBeEmpty": false
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "effect",
+      "name": "minecraft:luck",
+      "value": 0.0,
+      "interactionType": "self",
+      "interactionDuration": 150,
+      "hideBonusDescription": true
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "name": "minecraft:luck",
+      "value": 1.0,
+      "interactionType": "self",
+      "interactionDuration": 150,
+      "hideBonusDescription": true
+    }
+  ],
+  "hideGeneratedTooltip": true
+}

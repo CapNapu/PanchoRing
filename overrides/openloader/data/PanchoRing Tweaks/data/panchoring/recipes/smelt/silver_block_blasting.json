@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": [
+    {
+      "item": "iceandfire:dragonarmor_silver_body"
+    },
+    {
+      "item": "iceandfire:dragonarmor_silver_head"
+    },
+    {
+      "item": "iceandfire:dragonarmor_silver_neck"
+    },
+    {
+      "item": "iceandfire:dragonarmor_silver_tail"
+    }
+  ],
+  "result": "iceandfire:silver_block",
+  "experience": 0.1,
+  "cookingtime": 100
+}

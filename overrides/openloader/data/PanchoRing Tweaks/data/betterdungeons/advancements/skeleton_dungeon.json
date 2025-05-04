@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "in_better_skeleton_dungeon": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "betterdungeons.advancements.skeleton_dungeon.description"
+    },
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:skeleton_skull"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "betterdungeons.advancements.skeleton_dungeon.title"
+    }
+  },
+  "parent": "betterdungeons:root",
+  "requirements": [
+    [
+      "in_better_skeleton_dungeon"
+    ]
+  ]
+}

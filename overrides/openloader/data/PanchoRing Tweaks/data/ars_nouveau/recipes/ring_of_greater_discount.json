@@ -1,0 +1,31 @@
+{
+  "type": "ars_nouveau:enchanting_apparatus",
+  "item_1": [
+    {
+      "tag": "forge:gems/diamond"
+    }
+  ],
+  "item_2": [
+    {
+      "tag": "forge:gems/diamond"
+    }
+  ],
+  "item_3": [
+    {
+      "tag": "forge:rods/blaze"
+    }
+  ],
+  "item_4": [
+    {
+      "tag": "forge:gems/end_crystal_fragment"
+    }
+  ],
+  "reagent": [
+    {
+      "item": "ars_nouveau:ring_of_lesser_discount"
+    }
+  ],
+  "output": {
+    "item": "ars_nouveau:ring_of_greater_discount"
+  }
+}

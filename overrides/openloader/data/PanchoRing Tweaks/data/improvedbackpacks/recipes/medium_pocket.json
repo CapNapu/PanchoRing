@@ -1,0 +1,12 @@
+{
+  "first": {
+    "item": "improvedbackpacks:tanned_leather"
+  },
+  "first_count": 2,
+  "result": "improvedbackpacks:medium_pocket",
+  "second": {
+    "tag": "forge:ingots/silver"
+  },
+  "spools_count": 1,
+  "type": "improvedbackpacks:sewing"
+}

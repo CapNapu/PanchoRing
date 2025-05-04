@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "glyph_press": {
+      "conditions": {
+        "items": [
+          {
+            "item": "ars_nouveau:glyph_press"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.panchoring.ars.glyph_press.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "ars_nouveau:glyph_press"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.panchoring.ars.glyph_press.title"
+    }
+  },
+  "parent": "panchoring:ars_nouveau/root"
+}

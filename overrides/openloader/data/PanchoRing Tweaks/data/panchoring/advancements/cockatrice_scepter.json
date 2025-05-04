@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "cockatrice_scepter": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:cockatrice_scepter"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.cockatrice_scepter.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "iceandfire:cockatrice_scepter"
+    },
+    "title": {
+      "translate": "advancements.panchoring.cockatrice_scepter.title"
+    }
+  },
+  "parent": "iceandfire:iceandfire/rotten_egg"
+}

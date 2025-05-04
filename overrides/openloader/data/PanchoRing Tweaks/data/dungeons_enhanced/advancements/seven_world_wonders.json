@@ -1,0 +1,28 @@
+{
+  "criteria": {
+    "entered_castle": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.dungeons_enhanced.seven_world_wonders.desc"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "minecraft:compass"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.dungeons_enhanced.seven_world_wonders"
+    }
+  },
+  "parent": "dungeons_enhanced:root",
+  "requirements": [
+    [
+      "entered_castle"
+    ]
+  ]
+}

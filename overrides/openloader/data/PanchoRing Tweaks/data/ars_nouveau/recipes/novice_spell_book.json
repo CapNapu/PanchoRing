@@ -1,0 +1,35 @@
+{
+	"ingredients": [
+		{
+			"item": "minecraft:book"
+		},
+		{
+      		"tag": "forge:ingots/gold"
+		},
+		{
+			"tag": "forge:ingots/gold"
+		},
+		{
+			"tag": "forge:ingots/gold"
+		},
+		{
+			"tag": "forge:ingots/gold"
+		},
+		{
+			"tag": "forge:ingots/gold"
+		},
+		{
+			"tag": "forge:ingots/gold"
+		},
+		{
+			"tag": "forge:ingots/gold"
+		},
+		{
+			"tag": "forge:ingots/gold"
+		}
+	],
+	"result": {
+		"item": "ars_nouveau:novice_spell_book"
+	},
+	"type": "minecraft:crafting_shapeless"
+}

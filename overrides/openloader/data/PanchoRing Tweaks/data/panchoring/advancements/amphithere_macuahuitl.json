@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "amphithere_macuahuitl": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:amphithere_macuahuitl"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.amphithere_macuahuitl.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "iceandfire:amphithere_macuahuitl"
+    },
+    "title": {
+      "translate": "advancements.panchoring.amphithere_macuahuitl.title"
+    }
+  },
+  "parent": "iceandfire:iceandfire/tame_amphithere"
+}

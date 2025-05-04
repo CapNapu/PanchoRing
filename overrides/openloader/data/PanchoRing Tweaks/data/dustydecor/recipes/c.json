@@ -1,0 +1,20 @@
+{
+  "key": {
+    "a": {
+      "tag": "minecraft:wool"
+    },
+    "b": {
+      "item": "supplementaries:rope"
+    }
+  },
+  "pattern": [
+    "bab",
+    "a a",
+    "bab"
+  ],
+  "result": {
+    "count": 3,
+    "item": "dustydecor:life_preserver"
+  },
+  "type": "minecraft:crafting_shaped"
+}

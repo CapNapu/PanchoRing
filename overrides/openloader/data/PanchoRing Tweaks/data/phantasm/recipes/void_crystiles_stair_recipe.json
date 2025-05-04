@@ -1,0 +1,17 @@
+{
+  "key": {
+    "2": {
+      "item": "phantasm:void_crystiles"
+    }
+  },
+  "pattern": [
+    "2  ",
+    "22 ",
+    "222"
+  ],
+  "result": {
+    "count": 6,
+    "item": "phantasm:void_crystiles_stair"
+  },
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,0 +1,35 @@
+{
+  "ingredients": [
+    {
+      "item": "minecraft:book"
+    },
+    {
+      "item": "iceandfire:manuscript"
+    },
+    {
+      "item": "iceandfire:manuscript"
+    },
+    {
+      "item": "iceandfire:manuscript"
+    },
+    {
+      "item": "iceandfire:manuscript"
+    },
+    {
+      "item": "iceandfire:manuscript"
+    },
+    {
+      "item": "iceandfire:manuscript"
+    },
+    {
+      "item": "iceandfire:manuscript"
+    },
+    {
+      "tag": "alexsmobs:animal_dictionary_ingredient"
+    }
+  ],
+  "result": {
+    "item": "alexsmobs:animal_dictionary"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

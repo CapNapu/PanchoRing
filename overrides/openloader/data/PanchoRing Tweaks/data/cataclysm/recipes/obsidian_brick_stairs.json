@@ -1,0 +1,17 @@
+{
+    "key": {
+        "#": {
+            "item": "cataclysm:obsidian_bricks"
+        }
+    },
+    "pattern": [
+        "#  ",
+        "## ",
+        "###"
+    ],
+    "result": {
+        "count": 6,
+        "item": "cataclysm:obsidian_brick_stairs"
+    },
+    "type": "minecraft:crafting_shaped"
+}

@@ -1,0 +1,28 @@
+{
+  "criteria": {
+    "entered_nether": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "bygonenether:textures/block/soul_stone.png",
+    "description": {
+      "translate": "advancements.bygonenether.root.description"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "bygonenether:chiseled_withered_blackstone"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.bygonenether.root.title"
+    }
+  },
+  "requirements": [
+    [
+      "entered_nether"
+    ]
+  ]
+}

@@ -1,0 +1,21 @@
+
+#General settings
+[general]
+	#Range: 0.0 ~ 2.147483647E9
+	damage = 1.5
+	#Limits the number of times a given augment may be applied to a given effect
+	#Example entry: "amplify=5"
+	augment_limits = ["amplify=0", "dampen=0"]
+	#Cost
+	#Range: > -2147483648
+	cost = 0
+	#The maximum number of times this glyph may appear in a single spell
+	#Range: > 1
+	per_spell_limit = 2147483647
+	#Is Starter Glyph?
+	starter = false
+	#Range: 0.0 ~ 2.147483647E9
+	amplify = 0.0
+	#Is Enabled?
+	enabled = true
+

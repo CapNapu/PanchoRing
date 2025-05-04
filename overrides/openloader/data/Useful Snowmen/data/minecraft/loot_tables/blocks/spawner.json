@@ -1,0 +1,78 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:firework_star",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{cc.sg.orb:1,HideFlags:33,AttributeModifiers:[{AttributeName:\"generic.armorToughness\",Name:\"generic.armorToughness\",Amount:2,Operation:0,UUIDLeast:108593,UUIDMost:123712,Slot:\"offhand\"}],CustomModelData:1}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": "§bNúcleo de Escarcha",
+              "entity": "this"
+            },
+            {
+              "function": "minecraft:enchant_randomly",
+              "enchantments": [
+                "minecraft:infinity",
+                "minecraft:aqua_affinity",
+                "minecraft:bane_of_arthropods",
+                "minecraft:channeling",
+                "minecraft:blast_protection",
+                "minecraft:depth_strider",
+                "minecraft:efficiency",
+                "minecraft:feather_falling",
+                "minecraft:fire_aspect",
+                "minecraft:flame",
+                "minecraft:fortune",
+                "minecraft:fire_protection",
+                "minecraft:frost_walker",
+                "minecraft:impaling",
+                "minecraft:loyalty",
+                "minecraft:luck_of_the_sea",
+                "minecraft:lure",
+                "minecraft:mending",
+                "minecraft:multishot",
+                "minecraft:piercing",
+                "minecraft:power",
+                "minecraft:projectile_protection",
+                "minecraft:protection",
+                "minecraft:punch",
+                "minecraft:quick_charge",
+                "minecraft:respiration",
+                "minecraft:riptide",
+                "minecraft:sweeping",
+                "minecraft:thorns",
+                "minecraft:unbreaking"
+              ]
+            },
+            {
+              "function": "minecraft:copy_nbt",
+              "source": "this",
+              "ops": [
+                {
+                  "source": "XpP",
+                  "target": "@p",
+                  "op": "append"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:location_check",
+          "predicate": {
+            "feature": "igloo"
+          }
+        }
+      ]
+    }
+  ]
+}

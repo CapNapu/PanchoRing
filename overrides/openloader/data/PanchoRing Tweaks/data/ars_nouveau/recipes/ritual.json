@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " x ",
+    "byb",
+    "byb"
+  ],
+  "key": {
+    "x": {
+      "item": "ars_nouveau:arcane_stone"
+    },
+    "y": {
+      "tag": "forge:ingots/gold"
+    },
+    "b": {
+      "tag": "forge:gems/mana"
+    }
+  },
+  "result": {
+    "item": "ars_nouveau:ritual"
+  }
+}

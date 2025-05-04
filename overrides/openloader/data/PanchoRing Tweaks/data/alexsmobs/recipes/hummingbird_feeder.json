@@ -1,0 +1,23 @@
+{
+  "key": {
+    "F": {
+      "item": "minecraft:sunflower"
+    },
+    "G": {
+      "item": "minecraft:glass_bottle"
+    },
+    "P": {
+      "tag": "forge:ingots/copper"
+    }
+  },
+  "pattern": [
+    " P ",
+    "PGP",
+    "FPF"
+  ],
+  "result": {
+    "count": 1,
+    "item": "alexsmobs:hummingbird_feeder"
+  },
+  "type": "minecraft:crafting_shaped"
+}

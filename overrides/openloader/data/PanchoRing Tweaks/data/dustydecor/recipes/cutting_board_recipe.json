@@ -1,0 +1,18 @@
+{
+  "key": {
+    "a": {
+      "item": "minecraft:iron_bars"
+    },
+    "b": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "pattern": [
+    "abb",
+    " bb"
+  ],
+  "result": {
+    "item": "dustydecor:cuttingboard"
+  },
+  "type": "minecraft:crafting_shaped"
+}

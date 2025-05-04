@@ -1,0 +1,26 @@
+{
+    "hidden": true,
+    "type": "origins:starting_equipment",
+    "stacks": [
+        {
+            "item": "minecraft:chainmail_chestplate",
+            "tag": "{Damage:65}",
+            "slot": 38
+        },
+        {
+            "item": "minecraft:glass_bottle",
+            "amount": 5,
+            "slot": 11
+        },
+        {
+            "item": "minecraft:blaze_powder",
+            "amount": 2,
+            "slot": 28
+        },
+        {
+            "item": "minecraft:nether_wart",
+            "amount": 4,
+            "slot": 12
+        }
+    ]
+}

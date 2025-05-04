@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "cyclops_eye": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:siren_flute"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.cyclops_eye.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "iceandfire:cyclops_eye"
+    },
+    "title": {
+      "translate": "advancements.panchoring.cyclops_eye.title"
+    }
+  },
+  "parent": "iceandfire:iceandfire/kill_cyclops"
+}

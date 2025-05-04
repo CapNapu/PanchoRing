@@ -1,0 +1,26 @@
+{
+    "criteria": {
+        "bestiary": {
+            "conditions": {
+                "items": [
+                    {
+                        "item": "iceandfire:bestiary"
+                    }
+                ]
+            },
+            "trigger": "minecraft:inventory_changed"
+        }
+    },
+    "display": {
+        "description": {
+            "translate": "advancements.iceandfire.bestiary.description"
+        },
+        "icon": {
+            "item": "iceandfire:bestiary"
+        },
+        "title": {
+            "translate": "advancements.iceandfire.bestiary.title"
+        }
+    },
+    "parent": "iceandfire:iceandfire/lectern"
+}

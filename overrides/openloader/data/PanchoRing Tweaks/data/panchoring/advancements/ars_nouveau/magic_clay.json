@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "magic_clay": {
+      "conditions": {
+        "items": [
+          {
+            "item": "ars_nouveau:magic_clay"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.panchoring.ars.magic_clay.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "ars_nouveau:magic_clay"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.panchoring.ars.magic_clay.title"
+    }
+  },
+  "parent": "panchoring:ars_nouveau/glyph_press"
+}

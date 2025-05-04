@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "dungeons_gear:spear"
+  },
+  "addition": {
+    "tag": "forge:ingots/iron"
+  },
+  "result": {
+    "item": "dungeons_gear:glaive"
+  }
+}

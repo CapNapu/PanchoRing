@@ -1,0 +1,66 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 1.0,
+                "min": 1.0,
+                "type": "minecraft:uniform"
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "extcaves:mushroom_goldishroom",
+          "type": "minecraft:item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 1.0,
+                "min": 1.0,
+                "type": "minecraft:uniform"
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "extcaves:mushroom_shinyshroom",
+          "type": "minecraft:item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3.0,
+                "min": 1.0,
+                "type": "minecraft:uniform"
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:bone",
+          "type": "minecraft:item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3.0,
+                "min": 1.0,
+                "type": "minecraft:uniform"
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:stick",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "minecraft:block"
+}

@@ -1,0 +1,6 @@
+{
+  "type": "ars_nouveau:glyph_recipe",
+  "tier": "TWO",
+  "input": "projectvibrantjourneys:juniper_berries",
+  "output": "ars_nouveau:glyph_heal"
+}

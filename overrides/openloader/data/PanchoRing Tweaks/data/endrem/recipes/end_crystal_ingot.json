@@ -1,0 +1,35 @@
+{
+  "ingredients": [
+    {
+      "item": "endrem:end_crystal_fragment"
+    },
+    {
+      "item": "endrem:end_crystal_fragment"
+    },
+    {
+      "item": "endrem:end_crystal_fragment"
+    },
+    {
+      "item": "endrem:end_crystal_fragment"
+    },
+    {
+      "item": "minecraft:ghast_tear"
+    },
+    {
+      "tag": "forge:ingots/silver"
+    },
+    {
+      "tag": "forge:ingots/silver"
+    },
+    {
+      "tag": "forge:ingots/silver"
+    },
+    {
+      "tag": "forge:ingots/silver"
+    }
+  ],
+  "result": {
+    "item": "endrem:end_crystal_ingot"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

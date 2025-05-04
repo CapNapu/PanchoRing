@@ -1,0 +1,8 @@
+{
+  "count": 1,
+  "ingredient": {
+    "item": "phantasm:smooth_obsidian"
+  },
+  "result": "phantasm:chiseled_smooth_obsidian",
+  "type": "minecraft:stonecutting"
+}

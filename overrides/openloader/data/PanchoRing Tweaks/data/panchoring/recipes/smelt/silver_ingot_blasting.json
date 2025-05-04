@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": [
+    {
+      "item": "iceandfire:armor_silver_metal_helmet"
+    },
+    {
+      "item": "iceandfire:armor_silver_metal_chestplate"
+    },
+    {
+      "item": "iceandfire:armor_silver_metal_leggings"
+    },
+    {
+      "item": "iceandfire:armor_silver_metal_boots"
+    },
+    {
+      "item": "supplementaries:candelabra_silver"
+    }
+  ],
+  "result": "iceandfire:silver_ingot",
+  "experience": 0.1,
+  "cookingtime": 100
+}

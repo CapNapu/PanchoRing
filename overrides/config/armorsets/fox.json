@@ -1,0 +1,44 @@
+{
+  "armorSetName": "Fox",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "dungeons_gear:fox_helmet",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:fox_chestplate",
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:fox_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:fox_boots",
+    "mustBeEmpty": false
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.movement_speed",
+      "value": 0.02,
+      "modifierUUID": "eeb08e17-db8f-409f-9c67-581f0738f27b",
+      "attributeOperation": 0,
+      "interactionType": "self",
+      "interactionDuration": 150,
+      "hideBonusDescription": true
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "name": "minecraft:fire_resistance",
+      "value": 0.0,
+      "interactionType": "self",
+      "interactionDuration": 150,
+      "hideBonusDescription": true
+    }
+  ],
+  "hideGeneratedTooltip": true
+}

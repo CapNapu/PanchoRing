@@ -1,0 +1,31 @@
+{
+  "armorSetName": "Renegade",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "dungeons_gear:renegade_helmet",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:renegade_chestplate",
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:renegade_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:renegade_boots",
+    "mustBeEmpty": false
+  },
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "name": "epicfight:stun_immunity",
+      "value": 0.0,
+      "interactionType": "self",
+      "interactionDuration": 150,
+      "hideBonusDescription": true
+    }
+  ],
+  "hideGeneratedTooltip": true
+}

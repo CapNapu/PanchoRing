@@ -1,0 +1,70 @@
+{
+  "criteria": {
+    "Agronomic Sourcelink": {
+      "conditions": {
+        "items": [
+          {
+            "item": "ars_nouveau:mana_condenser"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Alchemical Sourcelink": {
+      "conditions": {
+        "items": [
+          {
+            "item": "ars_nouveau:alchemical_sourcelink"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Mycelial Sourcelink": {
+      "conditions": {
+        "items": [
+          {
+            "item": "ars_nouveau:mycelial_sourcelink"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Vitalic Sourcelink": {
+      "conditions": {
+        "items": [
+          {
+            "item": "ars_nouveau:vitalic_sourcelink"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Volcanic Sourcelink": {
+      "conditions": {
+        "items": [
+          {
+            "item": "ars_nouveau:volcanic_accumulator"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.panchoring.all_sourcelinks.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "ars_nouveau:vitalic_sourcelink"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.panchoring.all_sourcelinks.title"
+    }
+  },
+  "parent": "panchoring:ars_nouveau/sourcelink"
+}

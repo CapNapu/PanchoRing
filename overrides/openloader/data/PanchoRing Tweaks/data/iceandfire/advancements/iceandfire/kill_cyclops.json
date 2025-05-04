@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "killed_fire_dragon": {
+      "conditions": {
+        "entity": {
+          "type": "iceandfire:cyclops"
+        }
+      },
+      "trigger": "minecraft:player_killed_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.iceandfire.kill_cyclops.description"
+    },
+    "icon": {
+      "item": "iceandfire:sheep_chestplate"
+    },
+    "title": {
+      "translate": "advancements.iceandfire.kill_cyclops.title"
+    }
+  },
+  "parent": "iceandfire:iceandfire/root"
+}

@@ -1,0 +1,11 @@
+{
+  "first": {
+    "item": "improvedbackpacks:tanned_leather"
+  },
+  "result": "improvedbackpacks:tiny_pocket",
+  "second": {
+    "tag": "forge:ingots/copper"
+  },
+  "spools_count": 1,
+  "type": "improvedbackpacks:sewing"
+}

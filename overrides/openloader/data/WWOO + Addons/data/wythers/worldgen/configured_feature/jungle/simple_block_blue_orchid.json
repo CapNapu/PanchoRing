@@ -1,0 +1,100 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count_extra",
+      "config": {
+        "count": 3000,
+        "extra_count": 0,
+        "extra_chance": 0
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:square",
+          "config": {}
+        },
+        "feature": {
+          "type": "minecraft:decorated",
+          "config": {
+            "decorator": {
+              "type": "minecraft:range",
+              "config": {
+                "maximum": 15,
+                "bottom_offset": 83,
+                "top_offset": 0
+              }
+            },
+            "feature": {
+              "type": "minecraft:simple_block",
+              "config": {
+                "to_place": {
+                  "Name": "minecraft:blue_orchid"
+                },
+                "place_on": [
+                  {
+                    "Name": "minecraft:coarse_dirt"
+                  }
+                ],
+                "place_in": [
+                  {
+                    "Name": "minecraft:air"
+                  }
+                ],
+                "place_under": [
+                  {
+                    "Name": "minecraft:jungle_leaves",
+                    "Properties": {
+                      "persistent": "false",
+                      "distance": "2"
+                    }
+                  },
+                  {
+                    "Name": "minecraft:jungle_leaves",
+                    "Properties": {
+                      "persistent": "false",
+                      "distance": "3"
+                    }
+                  },
+                  {
+                    "Name": "minecraft:jungle_leaves",
+                    "Properties": {
+                      "persistent": "false",
+                      "distance": "4"
+                    }
+                  },
+                  {
+                    "Name": "minecraft:jungle_leaves",
+                    "Properties": {
+                      "persistent": "false",
+                      "distance": "5"
+                    }
+                  },
+                  {
+                    "Name": "minecraft:jungle_leaves",
+                    "Properties": {
+                      "persistent": "false",
+                      "distance": "6"
+                    }
+                  },
+                  {
+                    "Name": "minecraft:jungle_leaves",
+                    "Properties": {
+                      "persistent": "false",
+                      "distance": "7"
+                    }
+                  },
+                  {
+                    "Name": "minecraft:air"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

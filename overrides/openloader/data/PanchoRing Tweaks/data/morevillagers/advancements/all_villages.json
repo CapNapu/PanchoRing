@@ -1,0 +1,23 @@
+{
+  "criteria": {
+    "desert_village": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "Visit all 5 village types!"
+    },
+    "frame": "goal",
+    "hidden": true,
+    "icon": {
+      "item": "minecraft:filled_map"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "Town Tourist"
+    }
+  },
+  "parent": "morevillagers:root"
+}

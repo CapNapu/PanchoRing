@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "dungeons_gear:gong_of_weakening"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "dungeons_gear:soul_healer"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "dungeons_gear:totem_of_regeneration"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "dungeons_gear:totem_of_shielding"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "dungeons_gear:corrupted_beacon"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "hidden": true,
+    "type": "origins:modify_damage_taken",
+    "modifier": {
+        "operation": "multiply_base",
+        "value": 0.35
+    },
+    "condition": {
+        "type": "origins:dimension",
+        "dimension": "minecraft:the_nether"
+    }
+}

@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "teleported_player": {
+      "conditions": {
+        "type": "enderman_teleport_attack"
+      },
+      "trigger": "majruszs_difficulty:simple_trigger"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.progressive_difficulty.enderman_teleport_attack.description"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "minecraft:ender_eye"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.progressive_difficulty.enderman_teleport_attack.title"
+    }
+  },
+  "parent": "minecraft:adventure/root",
+  "requirements": [
+    [
+      "teleported_player"
+    ]
+  ]
+}

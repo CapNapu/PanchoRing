@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#T#",
+    "#S#",
+    "#R#"
+  ],
+  "key": {
+    "R": {
+      "tag": "forge:dusts/redstone"
+    },
+    "#": {
+      "item": "minecraft:cobblestone"
+    },
+    "T": {
+      "item": "minecraft:crossbow"
+    },
+    "S": {
+      "tag": "forge:ingots/copper"
+    }
+  },
+  "result": {
+    "item": "minecraft:dispenser"
+  }
+}

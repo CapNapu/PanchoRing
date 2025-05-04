@@ -1,0 +1,13 @@
+{
+  "type": "ars_nouveau:crush",
+  "input": {
+    "item": "extcaves:dirtstone_cobble"
+  },
+  "output": [
+    {
+      "item": "minecraft:dirtstone",
+      "chance": 1.0,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "armorSetName": "Curious",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "dungeons_gear:curious_helmet",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:curious_chestplate",
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:curious_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:curious_boots",
+    "mustBeEmpty": false
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "effect",
+      "name": "minecraft:luck",
+      "value": 0.0,
+      "interactionType": "self",
+      "interactionDuration": 150,
+      "hideBonusDescription": true
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "name": "minecraft:levitation",
+      "value": 0.0,
+      "interactionType": "self",
+      "interactionDuration": 150,
+      "hideBonusDescription": true
+    }
+  ],
+  "hideGeneratedTooltip": true
+}

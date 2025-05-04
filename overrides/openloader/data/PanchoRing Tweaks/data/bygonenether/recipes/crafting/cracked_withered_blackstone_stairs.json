@@ -1,0 +1,17 @@
+{
+  "key": {
+    "#": {
+      "item": "bygonenether:cracked_withered_blackstone"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "item": "bygonenether:cracked_withered_blackstone_stairs"
+  },
+  "type": "minecraft:crafting_shaped"
+}

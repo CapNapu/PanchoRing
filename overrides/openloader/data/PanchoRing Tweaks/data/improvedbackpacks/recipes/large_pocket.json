@@ -1,0 +1,12 @@
+{
+  "first": {
+    "item": "improvedbackpacks:tanned_leather"
+  },
+  "first_count": 3,
+  "result": "improvedbackpacks:large_pocket",
+  "second": {
+    "tag": "forge:gems/sapphire"
+  },
+  "spools_count": 1,
+  "type": "improvedbackpacks:sewing"
+}

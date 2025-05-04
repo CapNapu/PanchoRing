@@ -1,0 +1,83 @@
+{
+  "criteria": {
+    "Amulet of Mana Boost": {
+      "conditions": {
+        "items": [
+          {
+            "item": "ars_nouveau:amulet_of_mana_boost"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Amulet of Mana Regen": {
+      "conditions": {
+        "items": [
+          {
+            "item": "ars_nouveau:amulet_of_mana_boost"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Ring of Greater Discount": {
+      "conditions": {
+        "items": [
+          {
+            "item": "ars_nouveau:ring_of_greater_discount"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Ring of Lesser Discount": {
+      "conditions": {
+        "items": [
+          {
+            "item": "ars_nouveau:ring_of_lesser_discount"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Belt of Levitation": {
+      "conditions": {
+        "items": [
+          {
+            "item": "ars_nouveau:belt_of_levitation"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Belt of Unstable Gifts": {
+      "conditions": {
+        "items": [
+          {
+            "item": "ars_nouveau:belt_of_unstable_gifts"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.panchoring.all_trinkets.description"
+    },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "ars_nouveau:belt_of_unstable_gifts"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.panchoring.all_trinkets.title"
+    }
+  },
+  "parent": "panchoring:ars_nouveau/dull_trinket",
+  "rewards": {
+    "experience": 200
+  }
+}

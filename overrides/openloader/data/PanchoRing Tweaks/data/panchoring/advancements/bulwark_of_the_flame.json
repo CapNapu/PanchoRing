@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "bulwark_of_the_flame": {
+      "conditions": {
+        "items": [
+          {
+            "item": "cataclysm:bulwark_of_the_flame"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.panchoring.bulwark_of_the_flame.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "cataclysm:bulwark_of_the_flame"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.panchoring.bulwark_of_the_flame.title"
+    }
+  },
+  "parent": "panchoring:kill_ignis"
+}

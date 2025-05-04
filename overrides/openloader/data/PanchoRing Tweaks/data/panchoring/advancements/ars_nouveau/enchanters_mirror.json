@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "enchanters_mirror": {
+      "conditions": {
+        "items": [
+          {
+            "item": "ars_nouveau:enchanters_mirror"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.panchoring.ars.enchanters_mirror.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "ars_nouveau:enchanters_mirror"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.panchoring.ars.enchanters_mirror.title"
+    }
+  },
+  "parent": "panchoring:ars_nouveau/scribes_table"
+}

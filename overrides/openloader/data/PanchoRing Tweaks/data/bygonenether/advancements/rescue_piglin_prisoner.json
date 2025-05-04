@@ -1,0 +1,42 @@
+{
+  "criteria": {
+    "rescue_prisoner": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "bygonenether:piglin_prisoner"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:summoned_entity"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.bygonenether.rescue_piglin_prisoner.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "bygonenether:netherite_bell"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.bygonenether.rescue_piglin_prisoner.title"
+    }
+  },
+  "parent": "minecraft:nether/distract_piglin",
+  "requirements": [
+    [
+      "rescue_prisoner"
+    ]
+  ],
+  "rewards": {
+    "experience": 500
+  }
+}

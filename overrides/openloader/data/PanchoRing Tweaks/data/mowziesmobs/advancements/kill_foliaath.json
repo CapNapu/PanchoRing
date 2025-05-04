@@ -1,0 +1,23 @@
+{
+  "criteria": {
+    "foliaath": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.mowziesmobs.kill_foliaath.description"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "mowziesmobs:foliaath_seed"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.mowziesmobs.kill_foliaath.title"
+    }
+  },
+  "parent": "mowziesmobs:root"
+}

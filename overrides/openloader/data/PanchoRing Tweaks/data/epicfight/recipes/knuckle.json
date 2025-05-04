@@ -1,0 +1,19 @@
+{
+    "key": {
+        "B": {
+            "tag": "forge:nuggets/copper"
+        },
+        "S": {
+            "tag": "forge:ingots/gold"
+        }
+    },
+    "pattern": [
+        "BBB",
+        " S "
+    ],
+    "result": {
+        "count": 1,
+        "item": "epicfight:knuckle"
+    },
+    "type": "minecraft:crafting_shaped"
+}

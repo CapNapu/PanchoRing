@@ -1,0 +1,12 @@
+{
+  "addition": {
+    "tag": "forge:ingots/dragonsteel_fire"
+  },
+  "base": {
+    "item": "minecraft:netherite_pickaxe"
+  },
+  "result": {
+    "item": "iceandfire:dragonsteel_fire_pickaxe"
+  },
+  "type": "minecraft:smithing"
+}

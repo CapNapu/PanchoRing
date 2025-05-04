@@ -1,0 +1,28 @@
+{
+	"criteria": {
+		"get_item": {
+			"trigger": "minecraft:impossible"
+		}
+	},
+	"display": {
+		"announce_to_chat": false,
+		"description": {
+			"translate": "advancements.caves.skeleton_rich.description"
+		},
+		"frame": "task",
+		"hidden": true,
+		"icon": {
+			"item": "extcaves:wooden_cane"
+		},
+		"show_toast": false,
+		"title": {
+			"translate": "advancements.caves.skeleton_rich.title"
+		}
+	},
+	"parent": "extcaves:caves/kill_a_skeleton",
+	"requirements": [
+		[
+			"get_item"
+		]
+	]
+}

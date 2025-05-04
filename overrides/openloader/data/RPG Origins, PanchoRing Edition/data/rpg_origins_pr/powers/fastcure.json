@@ -1,0 +1,11 @@
+{
+    "type": "origins:effect_immunity",
+    "effects": [
+        "minecraft:poison",
+        "minecraft:wither",
+        "alexsmobs:debilitating_sting",
+        "alexsmobs:ender_flu",
+        "infernalexp:infection",
+        "infernalexp:luminous"
+    ]
+}

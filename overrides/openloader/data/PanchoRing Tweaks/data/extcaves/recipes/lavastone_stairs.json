@@ -1,0 +1,17 @@
+{
+  "key": {
+    "X": {
+      "item": "extcaves:lavastone"
+    }
+  },
+  "pattern": [
+    "X  ",
+    "XX ",
+    "XXX"
+  ],
+  "result": {
+    "count": 6,
+    "item": "extcaves:lavastone_stairs"
+  },
+  "type": "minecraft:crafting_shaped"
+}

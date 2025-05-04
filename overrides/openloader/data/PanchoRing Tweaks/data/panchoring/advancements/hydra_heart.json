@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "hydra_heart": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:hydra_heart"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.hydra_heart.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "iceandfire:hydra_heart"
+    },
+    "title": {
+      "translate": "advancements.panchoring.hydra_heart.title"
+    }
+  },
+  "parent": "iceandfire:iceandfire/kill_hydra"
+}

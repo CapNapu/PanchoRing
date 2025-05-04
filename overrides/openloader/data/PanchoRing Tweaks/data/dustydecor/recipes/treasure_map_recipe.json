@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "iceandfire:manuscript"
+    },
+    {
+      "item": "minecraft:red_dye"
+    }
+  ],
+  "result": {
+    "item": "dustydecor:treasure_map"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

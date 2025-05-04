@@ -1,0 +1,19 @@
+{
+  "key": {
+    "a": {
+      "item": "supplementaries:rope"
+    },
+    "b": {
+      "tag": "forge:stained_glass"
+    }
+  },
+  "pattern": [
+    "a",
+    "b",
+    "a"
+  ],
+  "result": {
+    "item": "dustydecor:glass_buoy"
+  },
+  "type": "minecraft:crafting_shaped"
+}

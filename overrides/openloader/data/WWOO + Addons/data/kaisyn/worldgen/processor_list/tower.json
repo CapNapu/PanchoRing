@@ -1,0 +1,43 @@
+{
+  "processors": [
+    {
+      "processor_type": "minecraft:rule",
+      "rules": [
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:bricks",
+            "probability": 0.4
+          },
+          "output_state": {
+            "Name": "minecraft:granite_slab",
+            "Properties": {
+              "type": "double",
+              "waterlogged": "false"
+            }
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:polished_diorite",
+            "probability": 0.4
+          },
+          "output_state": {
+            "Name": "minecraft:diorite_slab",
+            "Properties": {
+              "type": "double",
+              "waterlogged": "false"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

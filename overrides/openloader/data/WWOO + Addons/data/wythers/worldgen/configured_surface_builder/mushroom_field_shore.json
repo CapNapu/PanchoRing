@@ -1,0 +1,14 @@
+{
+  "config": {
+    "top_material": {
+      "Name": "minecraft:warped_nylium"
+    },
+    "under_material": {
+      "Name": "minecraft:prismarine"
+    },
+    "underwater_material": {
+      "Name": "minecraft:prismarine"
+    }
+  },
+  "type": "minecraft:swamp"
+}

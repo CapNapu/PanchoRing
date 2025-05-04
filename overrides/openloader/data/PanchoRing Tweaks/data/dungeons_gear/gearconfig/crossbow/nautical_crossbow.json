@@ -1,0 +1,16 @@
+{
+  "built_in_enchantments": [
+    {
+      "enchantment": "dungeons_gear:harpoon_shot",
+      "level": 1
+    },
+    {
+      "enchantment": "minecraft:piercing",
+      "level": 1
+    }
+  ],
+  "default_charge_time": 25,
+  "durability": 384,
+  "rarity": "RARE",
+  "unique": true
+}

@@ -1,0 +1,6 @@
+{
+  "type": "ars_nouveau:glyph_recipe",
+  "tier": "TWO",
+  "input": "iceandfire:sea_serpent_fang",
+  "output": "ars_nouveau:glyph_pierce"
+}

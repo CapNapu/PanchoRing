@@ -1,0 +1,18 @@
+{
+  "type": "ars_nouveau:crush",
+  "input": {
+    "item": "iceandfire:silver_ore"
+  },
+  "output": [
+    {
+      "item": "iceandfire:silver_nugget",
+      "chance": 1.0,
+      "count": 9
+    },
+    {
+      "item": "iceandfire:silver_nugget",
+      "chance": 0.33,
+      "count": 3
+    }
+  ]
+}

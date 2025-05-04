@@ -1,0 +1,44 @@
+{
+  "armorSetName": "Arctic Fox",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "dungeons_gear:arctic_fox_helmet",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:arctic_fox_chestplate",
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:arctic_fox_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:arctic_fox_boots",
+    "mustBeEmpty": false
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.movement_speed",
+      "value": 0.02,
+      "modifierUUID": "f6d64705-5cab-4b42-a001-8bb61419446c",
+      "attributeOperation": 0,
+      "interactionType": "self",
+      "interactionDuration": 150,
+      "hideBonusDescription": true
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "name": "minecraft:slowness",
+      "value": 0.0,
+      "interactionType": "immunity",
+      "interactionDuration": 150,
+      "hideBonusDescription": true
+    }
+  ],
+  "hideGeneratedTooltip": true
+}

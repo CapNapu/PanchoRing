@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "custom_test_name": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "cataclysm:textures/blocks/obsidian_bricks.png",
+    "description": {
+      "translate": "advancements.cataclysm.root.description"
+    },
+    "icon": {
+      "item": "cataclysm:final_fractal"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.cataclysm.root.title"
+    }
+  }
+}

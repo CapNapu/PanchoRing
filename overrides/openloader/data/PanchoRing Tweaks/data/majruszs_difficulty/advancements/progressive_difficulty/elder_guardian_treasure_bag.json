@@ -1,0 +1,32 @@
+{
+  "criteria": {
+    "bag_opened": {
+      "conditions": {
+        "amount": 1,
+        "bag_id": "majruszs_difficulty:elder_guardian_treasure_bag"
+      },
+      "trigger": "majruszs_difficulty:treasure_bag_opened"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.progressive_difficulty.elder_guardian_treasure_bag.description"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "majruszs_difficulty:elder_guardian_treasure_bag"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.progressive_difficulty.elder_guardian_treasure_bag.title"
+    }
+  },
+  "parent": "minecraft:adventure/root",
+  "requirements": [
+    [
+      "bag_opened"
+    ]
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "criteria": {
+    "jar": {
+      "conditions": {
+        "items": [
+          {
+            "item": "supplementaries:jar",
+            "nbt": "{BlockEntityTag:{MobHolder:{EntityData:{id:\"iceandfire:pixie\"}}}}"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "jar_tinted": {
+      "conditions": {
+        "items": [
+          {
+            "item": "supplementaries:jar_tinted",
+            "nbt": "{BlockEntityTag:{MobHolder:{EntityData:{id:\"iceandfire:pixie\"}}}}"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.iceandfire.jar_pixie.description"
+    },
+    "icon": {
+      "item": "supplementaries:jar"
+    },
+    "title": {
+      "translate": "advancements.iceandfire.jar_pixie.title"
+    }
+  },
+  "parent": "iceandfire:iceandfire/tame_pixie",
+  "requirements": [
+    [
+      "jar",
+      "jar_tinted"
+    ]
+  ]
+}

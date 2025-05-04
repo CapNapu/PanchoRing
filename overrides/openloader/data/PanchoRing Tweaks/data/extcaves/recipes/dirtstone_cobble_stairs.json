@@ -1,0 +1,17 @@
+{
+  "key": {
+    "X": {
+      "item": "extcaves:dirtstone_cobble"
+    }
+  },
+  "pattern": [
+    "X  ",
+    "XX ",
+    "XXX"
+  ],
+  "result": {
+    "count": 6,
+    "item": "extcaves:dirtstone_cobble_stairs"
+  },
+  "type": "minecraft:crafting_shaped"
+}

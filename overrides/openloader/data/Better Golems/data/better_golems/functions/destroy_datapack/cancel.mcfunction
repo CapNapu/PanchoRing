@@ -1,0 +1,23 @@
+tellraw @s ""
+tellraw @s ""
+tellraw @s ""
+tellraw @s ""
+tellraw @s ""
+tellraw @s ""
+tellraw @s ""
+tellraw @s ""
+tellraw @s ""
+tellraw @s ""
+tellraw @s ""
+tellraw @s ""
+tellraw @s ""
+tellraw @s ""
+tellraw @s ""
+tellraw @s ""
+tellraw @s "-------------------------"
+tellraw @s ""
+tellraw @s [{"text": "[","color": "gray"},{"text": "Better Golems","color": "blue","hoverEvent": {"action": "show_text","value": "Visit Website"},"clickEvent": {"action": "open_url","value": "https://www.planetminecraft.com/data-pack/buffed-iron-golem/"}},{"text": "]","color": "gray"},{"text": " Operation was cancelled!","color":"white"}]
+tellraw @s ""
+tellraw @s "-------------------------"
+gamerule sendCommandFeedback false
+schedule function better_golems:output 1t

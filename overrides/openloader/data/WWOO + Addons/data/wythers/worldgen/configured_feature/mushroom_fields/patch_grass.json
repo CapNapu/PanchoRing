@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count_noise_biased",
+      "config": {
+        "noise_to_count_ratio": 1,
+        "noise_factor": 200,
+        "noise_offset": 0
+      }
+    },
+    "feature": "minecraft:patch_grass_jungle"
+  }
+}

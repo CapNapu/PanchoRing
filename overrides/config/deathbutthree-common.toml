@@ -1,0 +1,6 @@
+
+[DeathButThree]
+	#Before ';': boss' registry name
+	#After ';': its max death times
+	ValidBossesAndMaxDeathTimes = ["cataclysm:ignis;1", "cataclysm:netherite_monstrosity;1", "cataclysm:ender_guardian;1", "alexsmobs:void_worm;1", "ars_nouveau:wilden_boss;1", "mowziesmobs:barako;1", "mowziesmobs:ferrous_wroughtnaut;1", "mowziesmobs:frostmaw;1", "bosses_of_mass_destruction:lich;1", "bosses_of_mass_destruction:gaunlet;1", "bosses_of_mass_destruction:obsidilith;1", "bosses_of_mass_destruction:void_blossom;1", "minecraft:wither;1", "minecraft:ender_dragon;1"]
+

@@ -1,0 +1,18 @@
+{
+  "key": {
+    "a": {
+      "item": "supplementaries:rope"
+    },
+    "b": {
+      "item": "minecraft:cod"
+    }
+  },
+  "pattern": [
+    "aaa",
+    "bbb"
+  ],
+  "result": {
+    "item": "dustydecor:hanging_cod"
+  },
+  "type": "minecraft:crafting_shaped"
+}

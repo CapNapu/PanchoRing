@@ -1,0 +1,28 @@
+{
+  "criteria": {
+    "entered_castle": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "minecraft:textures/block/mossy_cobblestone.png",
+    "description": {
+      "translate": "advancements.dungeons_enhanced.root.desc"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "minecraft:mossy_stone_bricks"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.dungeons_enhanced.root"
+    }
+  },
+  "requirements": [
+    [
+      "entered_castle"
+    ]
+  ]
+}

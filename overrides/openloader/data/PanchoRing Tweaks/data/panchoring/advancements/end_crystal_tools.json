@@ -1,0 +1,82 @@
+{
+  "criteria": {
+    "end_crystal_axe": {
+      "conditions": {
+        "items": [
+          {
+            "item": "endrem:end_crystal_axe"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "end_crystal_hoe": {
+      "conditions": {
+        "items": [
+          {
+            "item": "endrem:end_crystal_hoe"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "end_crystal_pickaxe": {
+      "conditions": {
+        "items": [
+          {
+            "item": "endrem:end_crystal_pickaxe"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "end_crystal_shovel": {
+      "conditions": {
+        "items": [
+          {
+            "item": "endrem:end_crystal_shovel"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "end_crystal_sword": {
+      "conditions": {
+        "items": [
+          {
+            "item": "endrem:end_crystal_sword"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.panchoring.end_crystal_tools.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "endrem:end_crystal_sword"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.panchoring.end_crystal_tools.title"
+    }
+  },
+  "parent": "panchoring:end_crystal_fragment",
+  "rewards": {
+    "experience": 150
+  },
+  "requirements": [
+    [
+      "end_crystal_axe",
+      "end_crystal_hoe",
+      "end_crystal_pickaxe",
+      "end_crystal_shovel",
+      "end_crystal_sword"
+    ]
+  ]
+}

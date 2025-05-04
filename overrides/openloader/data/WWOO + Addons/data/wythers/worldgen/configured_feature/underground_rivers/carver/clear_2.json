@@ -1,0 +1,53 @@
+{
+  "type": "minecraft:simple_block",
+  "config": {
+    "to_place": {
+      "Name": "minecraft:air"
+    },
+    "place_on": [
+      {
+        "Name": "minecraft:air"
+      }
+    ],
+    "place_in": [
+      {
+        "Name": "minecraft:large_fern",
+        "Properties": {
+          "half": "upper"
+        }
+      },
+      {
+        "Name": "minecraft:tall_grass",
+        "Properties": {
+          "half": "upper"
+        }
+      }
+    ],
+    "place_under": [
+      {
+        "Name": "minecraft:air"
+      },
+      {
+        "Name": "minecraft:oak_leaves",
+        "Properties": {
+          "persistent": "false",
+          "distance": "2"
+        }
+      },
+      {
+        "Name": "minecraft:oak_leaves",
+        "Properties": {
+          "persistent": "false",
+          "distance": "3"
+        }
+      },
+      {
+        "Name": "minecraft:oak_leaves",
+        "Properties": {
+          "persistent": "false",
+          "distance": "4"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "criteria": {
+    "picked_up_ingot": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.progressive_difficulty.end_ingot.description"
+    },
+    "frame": "goal",
+    "hidden": true,
+    "icon": {
+      "item": "majruszs_difficulty:end_ingot"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.progressive_difficulty.end_ingot.title"
+    }
+  },
+  "parent": "majruszs_difficulty:progressive_difficulty/find_flying_phantom",
+  "requirements": [
+    [
+      "picked_up_ingot"
+    ]
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "infernalexp:glow_glass",
+    "infernalexp:quartz_glass",
+    "phantasm:crystal_framed_glass",
+    "phantasm:void_crystal_framed_glass"
+  ]
+}

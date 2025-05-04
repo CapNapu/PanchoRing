@@ -1,0 +1,19 @@
+{
+  "attributes": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "amount": 5,
+      "operation": 0
+    },
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "amount": -1.6,
+      "operation": 0
+    }
+  ],
+  "material": "minecraft:iron",
+  "built_in_enchantments": [{"enchantment": "minecraft:looting", "level": 1}],
+  "unique": true,
+  "rarity": "RARE",
+  "combo": 3
+}

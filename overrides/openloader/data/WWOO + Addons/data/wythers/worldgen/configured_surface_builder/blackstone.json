@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:nether_forest",
+  "config": {
+    "top_material": {
+      "Name": "minecraft:blackstone"
+    },
+    "under_material": {
+      "Name": "minecraft:blackstone"
+    },
+    "underwater_material": {
+      "Name": "minecraft:basalt",
+      "Properties": {
+        "axis": "y"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "group": "wooden_stairs",
+  "key": {
+    "#": {
+      "item": "projectvibrantjourneys:juniper_planks"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "item": "projectvibrantjourneys:juniper_stairs"
+  },
+  "type": "minecraft:crafting_shaped"
+}

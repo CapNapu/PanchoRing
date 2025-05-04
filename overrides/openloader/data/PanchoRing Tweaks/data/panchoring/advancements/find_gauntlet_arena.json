@@ -1,0 +1,29 @@
+{
+  "criteria": {
+    "gauntlet_arena": {
+      "conditions": {
+        "location": {
+          "feature": "bosses_of_mass_destruction:gauntlet_arena"
+        }
+      },
+      "trigger": "minecraft:location"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.find_gauntlet_arena.description"
+    },
+    "icon": {
+      "item": "bosses_of_mass_destruction:gauntlet_blackstone"
+    },
+    "title": {
+      "translate": "advancements.panchoring.find_gauntlet_arena.title"
+    }
+  },
+  "parent": "minecraft:nether/root",
+  "requirements": [
+    [
+      "gauntlet_arena"
+    ]
+  ]
+}

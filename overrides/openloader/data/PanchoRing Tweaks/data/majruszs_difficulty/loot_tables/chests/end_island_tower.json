@@ -1,0 +1,124 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 4,
+                "min": 2
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:ender_pearl",
+          "type": "minecraft:item",
+          "weight": 30
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3,
+                "min": 1
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:diamond",
+          "type": "minecraft:item",
+          "weight": 20
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 10,
+                "min": 5
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:experience_bottle",
+          "type": "minecraft:item",
+          "weight": 20
+        },
+        {
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 30,
+              "treasure": true
+            }
+          ],
+          "name": "minecraft:book",
+          "type": "minecraft:item",
+          "weight": 20
+        },
+        {
+          "name": "phantasm:stellium_ingot",
+          "type": "minecraft:item",
+          "weight": 5
+        }
+      ],
+      "rolls": {
+        "max": 4.0,
+        "min": 2.0,
+        "type": "minecraft:uniform"
+      }
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 4,
+                "min": 1
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:emerald",
+          "type": "minecraft:item",
+          "weight": 20
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6,
+                "min": 2
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:gold_ingot",
+          "type": "minecraft:item",
+          "weight": 40
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 7,
+                "min": 3
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:iron_ingot",
+          "type": "minecraft:item",
+          "weight": 40
+        }
+      ],
+      "rolls": {
+        "max": 3.0,
+        "min": 2.0,
+        "type": "minecraft:uniform"
+      }
+    }
+  ],
+  "type": "minecraft:chest"
+}

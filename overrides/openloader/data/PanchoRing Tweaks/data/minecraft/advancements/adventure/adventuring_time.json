@@ -1,0 +1,600 @@
+{
+  "criteria": {
+    "Alpine Heights": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:alpine_heights"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Archwood Forest": {
+      "conditions": {
+        "location": {
+          "biome": "ars_nouveau:archwood_forest"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Aspen Grove": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:aspen_grove"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Aspen Grove Hills": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:aspen_grove_hills"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Autumnal Coniferous Forest": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:autumnal_coniferous_forest"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Badlands": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:badlands"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Badlands Plateau": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:badlands_plateau"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Bamboo Jungle": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:bamboo_jungle"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Bamboo Jungle Hills": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:bamboo_jungle_hills"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Baobab Fields": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:baobab_fields"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Beach": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:beach"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Birch Forest": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:birch_forest"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Birch Forest Hills": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:birch_forest_hills"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Blossoming Fields": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:blossoming_fields"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Boreal Forest": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:boreal_forest"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Boreal Plateau": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:boreal_plateau"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Cold Ocean": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:cold_ocean"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Crimson Thicket": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:crimson_thicket"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Crystal Lakes": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:crystal_lakes"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Dark Forest": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:dark_forest"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Deep Cold Ocean": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:deep_cold_ocean"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Deep Frozen Ocean": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:deep_frozen_ocean"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Deep Lukewarm Ocean": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:deep_lukewarm_ocean"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Desert": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:desert"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Desert Hills": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:desert_hills"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Desert Shrubland": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:desert_shrubland"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Flooded Woodlands": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:flooded_woodlands"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "forest": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:forest"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Frozen River": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:frozen_river"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Giant Tree Taiga": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:giant_tree_taiga"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Giant Tree Taiga Hills": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:giant_tree_taiga_hills"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Gravel Shore": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:gravel_shore"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Jungle": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:jungle"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Jungle Edge": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:jungle_edge"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Jungle Hills": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:jungle_hills"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Lukewarm Ocean": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:lukewarm_ocean"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Mangrove Marsh": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:mangrove_marsh"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Meadows": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:meadows"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Mountains": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:mountains"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Mushroom Field Shore": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:mushroom_field_shore"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Mushroom Fields": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:mushroom_fields"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Overgrown Spires": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:overgrown_spires"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Pine Meadows": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:pine_meadows"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Plains": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:plains"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Prairie": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:prairie"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Red Rock Valley": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:red_rock_valley"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Redwood Peaks": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:redwood_peaks"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Redwoods": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:redwoods"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "River": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:river"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Savanna": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:savanna"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Savanna Plateau": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:savanna_plateau"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Snowy Beach": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:snowy_beach"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Snowy Boreal Forest": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:snowy_boreal_forest"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Snowy Mountains": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:snowy_mountains"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Snowy Redwoods": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:snowy_redwoods"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Snowy Taiga": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:snowy_taiga"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Snowy Taiga Hills": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:snowy_taiga_hills"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Snowy Tundra": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:snowy_tundra"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Stone Shore": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:stone_shore"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Stony Fields": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:stony_fields"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Swamp": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:swamp"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Taiga": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:taiga"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Taiga Hills": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:taiga_hills"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Tropical Beach": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:tropical_beach"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Verdant Sands": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:verdant_sands"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Warm Ocean": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:warm_ocean"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Willow Wetlands": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:willow_wetlands"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Windswept Cliffs": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:windswept_cliffs"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Windswept Shore": {
+      "conditions": {
+        "location": {
+          "biome": "projectvibrantjourneys:windswept_shore"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Wooded Badlands Plateau": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:wooded_badlands_plateau"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Wooded Hills": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:wooded_hills"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Wooded Mountains": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:wooded_mountains"
+        }
+      },
+      "trigger": "minecraft:location"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.adventure.adventuring_time.description"
+    },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:diamond_boots",
+      "nbt": "{Damage:0}"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.adventure.adventuring_time.title"
+    }
+  },
+  "parent": "minecraft:adventure/sleep_in_bed",
+  "rewards": {
+    "experience": 1000
+  }
+}

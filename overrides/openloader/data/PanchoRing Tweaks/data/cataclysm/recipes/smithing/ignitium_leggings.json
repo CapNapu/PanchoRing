@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "tag": "panchoring:dragonsteel_leggings"
+    },
+    "addition": {
+        "item": "cataclysm:ignitium_ingot"
+    },
+    "result": {
+        "item": "cataclysm:ignitium_leggings"
+    }
+}

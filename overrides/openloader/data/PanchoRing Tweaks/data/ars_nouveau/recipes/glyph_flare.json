@@ -1,0 +1,6 @@
+{
+  "type": "ars_nouveau:glyph_recipe",
+  "tier": "TWO",
+  "input": "iceandfire:fire_dragon_blood",
+  "output": "ars_nouveau:glyph_flare"
+}

@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "in_better_monster_room": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "betterdungeons.advancements.small_dungeon.description"
+    },
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:spawner"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "betterdungeons.advancements.small_dungeon.title"
+    }
+  },
+  "parent": "betterdungeons:root",
+  "requirements": [
+    [
+      "in_better_monster_room"
+    ]
+  ]
+}

@@ -1,0 +1,45 @@
+
+["all mobs"]
+	#This determines the range a mob will detect other entities if they have the blindness potion, by default entities will only detect targets in a 10 block radius if they are blinded.
+	#Range: -500.0 ~ 10000.0
+	"Blindness range" = 0.1
+	"Enable the fix for melee cooldowns for mobs?" = true
+	"Have all mobs attack villagers?" = false
+	#Any mob id in this list will not attack villagers if the config option for that is on.
+	"Mob BlackList" = []
+
+[buckler]
+	#Range: > -2147483648
+	"How long should the buckler's charge move if you have the turning enchant be in ticks?" = 30
+	"Have the explosion spawned while using the Bang! enchant destroy blocks?" = false
+	#Range: > -2147483648
+	"How long should the buckler's cooldown be in ticks?" = 240
+	#Range: > -2147483648
+	"How long should the buckler's charge move be in ticks?" = 15
+	"Have brutes spawn with bucklers?" = true
+
+[pillager]
+	"Have pillagers go closer to you if they have a multishot crossbow?" = true
+	"Have pillagers run while reloading?" = true
+
+[animals]
+	#Any mob id in this list will not attempt to find an area to stay in while it's night.
+	"Animal Night BlackList" = ["minecraft:cat"]
+	#Any mob id in this list will not attempt to find an area to stay in while it's raining.
+	"Animal Raining BlackList" = []
+	"Animals seek shelter?" = false
+	#Any mob id in this list will not attempt to find an area to stay in while it's raining or at night.
+	"Animal BlackList" = ["minecraft:fox", "minecraft:wolf", "minecraft:turtle"]
+
+	[animals.pigs]
+		#Range: > -2147483648
+		"What is the minimium amount of extra piglets that could be bred?" = 1
+		#Range: > -2147483648
+		"What is the maxmium amount of extra piglets that could be bred?" = 4
+
+["polar bears"]
+	"Have polar bears attack fish?" = true
+
+["snow golems"]
+	"Allow snow balls made by snow golems to apply a slowness effect to mobs hit by it?" = false
+

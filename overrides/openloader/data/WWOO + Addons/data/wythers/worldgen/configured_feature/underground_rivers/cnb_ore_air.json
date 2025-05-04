@@ -1,0 +1,95 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count_extra",
+      "config": {
+        "count": 128,
+        "extra_count": 120,
+        "extra_chance": 1
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:decorated",
+          "config": {
+            "outer": {
+              "type": "minecraft:square",
+              "config": {}
+            },
+            "inner": {
+              "type": "minecraft:count_noise_biased",
+              "config": {
+                "noise_to_count_ratio": 1,
+                "noise_factor": 900,
+                "noise_offset": 0.2
+              }
+            }
+          }
+        },
+        "feature": {
+          "type": "minecraft:decorated",
+          "config": {
+            "decorator": {
+              "type": "minecraft:count_noise_biased",
+              "config": {
+                "noise_to_count_ratio": 1,
+                "noise_factor": 180,
+                "noise_offset": 0.05
+              }
+            },
+            "feature": {
+              "type": "minecraft:decorated",
+              "config": {
+                "decorator": {
+                  "type": "minecraft:decorated",
+                  "config": {
+                    "outer": {
+                      "type": "minecraft:count_noise_biased",
+                      "config": {
+                        "noise_to_count_ratio": -1,
+                        "noise_factor": 180,
+                        "noise_offset": -0.05
+                      }
+                    },
+                    "inner": {
+                      "type": "minecraft:decorated",
+                      "config": {
+                        "outer": {
+                          "type": "minecraft:nope",
+                          "config": {}
+                        },
+                        "inner": {
+                          "type": "minecraft:depth_average",
+                          "config": {
+                            "baseline": 68,
+                            "spread": 1
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "feature": {
+                  "type": "minecraft:ore",
+                  "config": {
+                    "state": {
+                      "Name": "minecraft:cave_air"
+                    },
+                    "size": 40,
+                    "target": {
+                      "tag": "wythers:underground_river",
+                      "predicate_type":"minecraft:tag_match"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

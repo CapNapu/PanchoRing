@@ -1,0 +1,26 @@
+{
+    "hidden": true,
+    "type": "origins:starting_equipment",
+    "stacks": [
+        {
+            "item": "dungeons_gear:thief_helmet",
+            "tag": "{Damage:62}",
+            "slot": 39
+        },
+        {
+            "item": "dungeons_gear:thief_chestplate",
+            "tag": "{Damage:111}",
+            "slot": 38
+        },
+        {
+            "item": "minecraft:emerald",
+            "amount": 17,
+            "slot": 29
+        },
+        {
+            "item": "dungeons_gear:dagger",
+            "tag": "{Damage:104}",
+            "slot": 8
+        }
+    ]
+}

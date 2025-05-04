@@ -1,0 +1,11 @@
+{
+	"attributes": {
+		"common": {
+			"damage_bonus": 2,
+			"impact": 0.7,
+			"max_strikes": 1,
+			"speed_bonus": -0.4
+		}
+	},
+	"type": "dagger"
+}

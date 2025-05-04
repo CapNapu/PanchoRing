@@ -1,0 +1,11 @@
+{
+    "hidden": true,
+    "type": "origins:modify_projectile_damage",
+    "modifier": {
+        "operation": "multiply_base",
+        "value": -0.75
+    },
+    "condition": {
+        "type": "origins:sneaking"
+    }
+}

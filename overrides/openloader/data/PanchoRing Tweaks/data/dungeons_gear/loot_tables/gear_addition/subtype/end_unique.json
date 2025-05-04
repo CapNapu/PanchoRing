@@ -1,0 +1,14 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "dungeons_gear:voidcaller",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "minecraft:chest"
+}

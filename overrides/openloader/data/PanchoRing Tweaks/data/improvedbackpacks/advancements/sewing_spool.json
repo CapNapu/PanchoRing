@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "sewing_spool": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.improvedbackpacks.sewing_spool.description"
+    },
+    "hidden": true,
+    "icon": {
+      "item": "improvedbackpacks:sewing_spool"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.improvedbackpacks.sewing_spool.title"
+    }
+  },
+  "parent": "improvedbackpacks:root",
+  "requirements": [
+    [
+      "sewing_spool"
+    ]
+  ]
+}

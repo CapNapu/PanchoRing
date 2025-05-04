@@ -1,0 +1,19 @@
+{
+  "key": {
+    "a": {
+      "item": "minecraft:carrot"
+    },
+    "b": {
+      "item": "dustydecor:empty_barrel"
+    }
+  },
+  "pattern": [
+    "aaa",
+    "aaa",
+    " b "
+  ],
+  "result": {
+    "item": "dustydecor:carrot_barrel"
+  },
+  "type": "minecraft:crafting_shaped"
+}

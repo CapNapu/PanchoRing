@@ -1,0 +1,31 @@
+{
+  "type": "ars_nouveau:enchanting_apparatus",
+  "item_1": [
+    {
+      "tag": "minecraft:saplings"
+    }
+  ],
+  "item_2": [
+    {
+      "tag": "forge:gems/emerald"
+    }
+  ],
+  "item_3": [
+    {
+      "tag": "forge:gems/diamond"
+    }
+  ],
+  "item_4": [
+    {
+      "item": "endrem:witch_pupil"
+    }
+  ],
+  "reagent": [
+    {
+      "item": "ars_nouveau:wixie_shards"
+    }
+  ],
+  "output": {
+    "item": "ars_nouveau:wixie_charm"
+  }
+}

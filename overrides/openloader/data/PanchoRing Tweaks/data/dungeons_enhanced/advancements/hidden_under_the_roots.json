@@ -1,0 +1,28 @@
+{
+  "criteria": {
+    "entered_monster_maze": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.dungeons_enhanced.hidden_under_the_roots.desc"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "minecraft:jack_o_lantern"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.dungeons_enhanced.hidden_under_the_roots"
+    }
+  },
+  "parent": "dungeons_enhanced:root",
+  "requirements": [
+    [
+      "entered_monster_maze"
+    ]
+  ]
+}

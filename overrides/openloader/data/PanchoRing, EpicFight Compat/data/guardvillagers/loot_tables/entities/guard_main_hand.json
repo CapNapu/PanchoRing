@@ -1,0 +1,45 @@
+{
+	"pools": [
+		{
+			"entries": [
+				{
+					"name": "dungeons_gear:sword",
+					"type": "minecraft:item",
+					"weight": 40
+				},
+				{
+					"name": "minecraft:bow",
+					"type": "minecraft:item",
+					"weight": 25
+				},
+				{
+					"name": "dungeons_gear:spear",
+					"type": "minecraft:item",
+					"weight": 10
+				},
+				{
+					"name": "dungeons_gear:katana",
+					"type": "minecraft:item",
+					"weight": 10
+				},
+				{
+					"name": "dungeons_gear:cutlass",
+					"type": "minecraft:item",
+					"weight": 5
+				},
+				{
+					"name": "dungeons_gear:claymore",
+					"type": "minecraft:item",
+					"weight": 5
+				},
+				{
+					"name": "dungeons_gear:glaive",
+					"type": "minecraft:item",
+					"weight": 5
+				}
+			],
+			"rolls": 1
+		}
+	],
+	"type": "guardvillagers:slot"
+}

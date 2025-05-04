@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X#X",
+    "RSR",
+    "X#X"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "S": {
+      "item": "minecraft:redstone_torch"
+    },
+    "X": {
+      "tag": "forge:ingots/iron"
+    },
+    "R": {
+      "tag": "forge:dusts/redstone"
+    }
+  },
+  "result": {
+    "item": "minecraft:activator_rail",
+    "count": 8
+  }
+}

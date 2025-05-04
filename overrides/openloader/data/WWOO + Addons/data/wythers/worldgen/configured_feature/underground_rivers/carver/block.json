@@ -1,0 +1,498 @@
+{
+  "type": "minecraft:simple_block",
+  "config": {
+    "to_place": {
+      "Name": "minecraft:air"
+    },
+    "place_on": [
+      {
+        "Name": "minecraft:grass_path"
+      },
+      {
+        "Name": "minecraft:air"
+      },
+      {
+        "Name": "minecraft:cave_air"
+      },
+      {
+        "Name": "minecraft:stone"
+      },
+      {
+        "Name": "minecraft:gravel"
+      },
+      {
+        "Name": "minecraft:dirt"
+      },
+      {
+        "Name": "minecraft:coarse_dirt"
+      },
+      {
+        "Name": "minecraft:grass_block",
+        "Properties": {
+          "snowy": "false"
+        }
+      },
+      {
+        "Name": "minecraft:mycelium",
+        "Properties": {
+          "snowy": "false"
+        }
+      },
+      {
+        "Name": "minecraft:podzol",
+        "Properties": {
+          "snowy": "false"
+        }
+      },
+      {
+        "Name": "minecraft:bamboo",
+        "Properties": {
+          "age": "1",
+          "leaves": "none",
+          "stage": "0"
+        }
+      },
+      {
+        "Name": "minecraft:bamboo",
+        "Properties": {
+          "age": "0",
+          "leaves": "none",
+          "stage": "1"
+        }
+      },
+      {
+        "Name": "minecraft:bamboo",
+        "Properties": {
+          "age": "0",
+          "leaves": "large",
+          "stage": "1"
+        }
+      },
+      {
+        "Name": "minecraft:grass"
+      },
+      {
+        "Name": "minecraft:andesite"
+      },
+      {
+        "Name": "minecraft:diorite"
+      },
+      {
+        "Name": "minecraft:granite"
+      },
+      {
+        "Name": "minecraft:coal_ore"
+      },
+      {
+        "Name": "minecraft:iron_ore"
+      },
+      {
+        "Name": "minecraft:mossy_cobblestone"
+      },
+      {
+        "Name": "minecraft:water",
+        "Properties": {
+          "level": "0"
+        }
+      },
+      {
+        "Name": "minecraft:lily_pad",
+        "Properties": {
+          "level": "0"
+        }
+      },
+      {
+        "Name": "minecraft:sugar_cane",
+        "Properties": {
+          "age": "0"
+        }
+      },
+      {
+        "Name": "minecraft:lily_of_the_valley"
+      },
+      {
+        "Name": "minecraft:fern"
+      },
+      {
+        "Name": "minecraft:seagrass"
+      },
+      {
+        "Name": "minecraft:large_fern",
+        "Properties": {
+          "half": "lower"
+        }
+      },
+      {
+        "Name": "minecraft:large_fern",
+        "Properties": {
+          "half": "upper"
+        }
+      },
+      {
+        "Name": "minecraft:tall_grass",
+        "Properties": {
+          "half": "lower"
+        }
+      },
+      {
+        "Name": "minecraft:tall_grass",
+        "Properties": {
+          "half": "upper"
+        }
+      },
+      {
+        "Name": "minecraft:melon"
+      },
+      {
+        "Name": "minecraft:clay"
+      },
+      {
+        "Name": "minecraft:dead_bush"
+      },
+      {
+        "Name": "minecraft:sand"
+      }
+    ],
+    "place_in": [
+      {
+        "Name": "minecraft:grass_path"
+      },
+      {
+        "Name": "minecraft:cave_air"
+      },
+      {
+        "Name": "minecraft:stone"
+      },
+      {
+        "Name": "minecraft:gravel"
+      },
+      {
+        "Name": "minecraft:dirt"
+      },
+      {
+        "Name": "minecraft:coarse_dirt"
+      },
+      {
+        "Name": "minecraft:grass_block",
+        "Properties": {
+          "snowy": "false"
+        }
+      },
+      {
+        "Name": "minecraft:mycelium",
+        "Properties": {
+          "snowy": "false"
+        }
+      },
+      {
+        "Name": "minecraft:podzol",
+        "Properties": {
+          "snowy": "false"
+        }
+      },
+      {
+        "Name": "minecraft:bamboo",
+        "Properties": {
+          "age": "1",
+          "leaves": "none",
+          "stage": "0"
+        }
+      },
+      {
+        "Name": "minecraft:bamboo",
+        "Properties": {
+          "age": "0",
+          "leaves": "none",
+          "stage": "1"
+        }
+      },
+      {
+        "Name": "minecraft:bamboo",
+        "Properties": {
+          "age": "0",
+          "leaves": "large",
+          "stage": "1"
+        }
+      },
+      {
+        "Name": "minecraft:grass"
+      },
+      {
+        "Name": "minecraft:andesite"
+      },
+      {
+        "Name": "minecraft:diorite"
+      },
+      {
+        "Name": "minecraft:granite"
+      },
+      {
+        "Name": "minecraft:coal_ore"
+      },
+      {
+        "Name": "minecraft:iron_ore"
+      },
+      {
+        "Name": "minecraft:mossy_cobblestone"
+      },
+      {
+        "Name": "minecraft:water",
+        "Properties": {
+          "level": "0"
+        }
+      },
+      {
+        "Name": "minecraft:lily_pad",
+        "Properties": {
+          "level": "0"
+        }
+      },
+      {
+        "Name": "minecraft:sugar_cane",
+        "Properties": {
+          "age": "0"
+        }
+      },
+      {
+        "Name": "minecraft:lily_of_the_valley"
+      },
+      {
+        "Name": "minecraft:fern"
+      },
+      {
+        "Name": "minecraft:seagrass"
+      },
+      {
+        "Name": "minecraft:large_fern",
+        "Properties": {
+          "half": "lower"
+        }
+      },
+      {
+        "Name": "minecraft:large_fern",
+        "Properties": {
+          "half": "upper"
+        }
+      },
+      {
+        "Name": "minecraft:tall_grass",
+        "Properties": {
+          "half": "lower"
+        }
+      },
+      {
+        "Name": "minecraft:tall_grass",
+        "Properties": {
+          "half": "upper"
+        }
+      },
+      {
+        "Name": "minecraft:melon"
+      },
+      {
+        "Name": "minecraft:clay"
+      },
+      {
+        "Name": "minecraft:dead_bush"
+      },
+      {
+        "Name": "minecraft:sand"
+      }
+    ],
+    "place_under": [
+      {
+        "Name": "minecraft:grass_path"
+      },
+      {
+        "Name": "minecraft:jungle_wood",
+        "Properties": {
+          "axis": "y"
+        }
+      },
+      {
+        "Name": "minecraft:dark_oak_wood",
+        "Properties": {
+          "axis": "y"
+        }
+      },
+      {
+        "Name": "minecraft:cave_air"
+      },
+      {
+        "Name": "minecraft:air"
+      },
+      {
+        "Name": "minecraft:stone"
+      },
+      {
+        "Name": "minecraft:gravel"
+      },
+      {
+        "Name": "minecraft:dirt"
+      },
+      {
+        "Name": "minecraft:coarse_dirt"
+      },
+      {
+        "Name": "minecraft:grass_block",
+        "Properties": {
+          "snowy": "false"
+        }
+      },
+      {
+        "Name": "minecraft:mycelium",
+        "Properties": {
+          "snowy": "false"
+        }
+      },
+      {
+        "Name": "minecraft:podzol",
+        "Properties": {
+          "snowy": "false"
+        }
+      },
+      {
+        "Name": "minecraft:bamboo",
+        "Properties": {
+          "age": "1",
+          "leaves": "none",
+          "stage": "0"
+        }
+      },
+      {
+        "Name": "minecraft:bamboo",
+        "Properties": {
+          "age": "0",
+          "leaves": "none",
+          "stage": "1"
+        }
+      },
+      {
+        "Name": "minecraft:bamboo",
+        "Properties": {
+          "age": "0",
+          "leaves": "large",
+          "stage": "1"
+        }
+      },
+      {
+        "Name": "minecraft:oak_leaves",
+        "Properties": {
+          "persistent": "false",
+          "distance": "1"
+        }
+      },
+      {
+        "Name": "minecraft:oak_leaves",
+        "Properties": {
+          "persistent": "false",
+          "distance": "2"
+        }
+      },
+      {
+        "Name": "minecraft:oak_leaves",
+        "Properties": {
+          "persistent": "false",
+          "distance": "3"
+        }
+      },
+      {
+        "Name": "minecraft:oak_leaves",
+        "Properties": {
+          "persistent": "false",
+          "distance": "4"
+        }
+      },
+      {
+        "Name": "minecraft:grass"
+      },
+      {
+        "Name": "minecraft:andesite"
+      },
+      {
+        "Name": "minecraft:diorite"
+      },
+      {
+        "Name": "minecraft:granite"
+      },
+      {
+        "Name": "minecraft:coal_ore"
+      },
+      {
+        "Name": "minecraft:iron_ore"
+      },
+      {
+        "Name": "minecraft:mossy_cobblestone"
+      },
+      {
+        "Name": "minecraft:water",
+        "Properties": {
+          "level": "0"
+        }
+      },
+      {
+        "Name": "minecraft:lily_pad",
+        "Properties": {
+          "level": "0"
+        }
+      },
+      {
+        "Name": "minecraft:sugar_cane",
+        "Properties": {
+          "age": "0"
+        }
+      },
+      {
+        "Name": "minecraft:lily_of_the_valley"
+      },
+      {
+        "Name": "minecraft:fern"
+      },
+      {
+        "Name": "minecraft:seagrass"
+      },
+      {
+        "Name": "minecraft:large_fern",
+        "Properties": {
+          "half": "lower"
+        }
+      },
+      {
+        "Name": "minecraft:large_fern",
+        "Properties": {
+          "half": "upper"
+        }
+      },
+      {
+        "Name": "minecraft:tall_grass",
+        "Properties": {
+          "half": "lower"
+        }
+      },
+      {
+        "Name": "minecraft:tall_grass",
+        "Properties": {
+          "half": "upper"
+        }
+      },
+      {
+        "Name": "minecraft:melon"
+      },
+      {
+        "Name": "minecraft:basalt",
+        "Properties": {
+          "axis": "y"
+        }
+      },
+      {
+        "Name": "minecraft:clay"
+      },
+      {
+        "Name": "minecraft:dead_bush"
+      },
+      {
+        "Name": "minecraft:sand"
+      }
+    ]
+  }
+}

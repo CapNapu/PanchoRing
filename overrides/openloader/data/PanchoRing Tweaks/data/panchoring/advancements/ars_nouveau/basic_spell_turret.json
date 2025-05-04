@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "basic_spell_turret": {
+      "conditions": {
+        "items": [
+          {
+            "item": "ars_nouveau:basic_spell_turret"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.panchoring.ars.basic_spell_turret.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "ars_nouveau:basic_spell_turret"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.panchoring.ars.basic_spell_turret.title"
+    }
+  },
+  "parent": "panchoring:ars_nouveau/mana_jar"
+}

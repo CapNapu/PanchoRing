@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "potion_melder": {
+      "conditions": {
+        "items": [
+          {
+            "item": "ars_nouveau:potion_melder"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.panchoring.ars.potion_melder.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "ars_nouveau:potion_melder"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.panchoring.ars.potion_melder.title"
+    }
+  },
+  "parent": "panchoring:ars_nouveau/potion_jar"
+}

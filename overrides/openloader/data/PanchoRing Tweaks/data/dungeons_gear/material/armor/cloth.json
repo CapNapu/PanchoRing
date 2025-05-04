@@ -1,0 +1,12 @@
+{
+  "type": "dungeons_libraries:dungeons_armor_material",
+  "name": "dungeons_gear:cloth",
+  "durability": 10,
+  "damage_reduction_amounts":  [1, 2, 3, 1],
+  "enchantability": 25,
+  "repair_item":  "iceandfire:dread_shard",
+  "equip_sound": "minecraft:item.armor.equip_leather",
+  "toughness":  0.0,
+  "knockback_resistance": 0.0,
+  "base_type": "cloth"
+}

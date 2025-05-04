@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "backpack_max_upgraded": {
+      "trigger": "improvedbackpacks:backpack_max_upgraded"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.improvedbackpacks.max_upgrade.description"
+    },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "improvedbackpacks:light_blue_backpack"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.improvedbackpacks.max_upgrade.title"
+    }
+  },
+  "parent": "improvedbackpacks:backpack",
+  "requirements": [
+    [
+      "backpack_max_upgraded"
+    ]
+  ],
+  "rewards": {
+    "experience": 75
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "wythers:village/desert_lakes/trader_tents",
+  "fallback": "wythers:village/desert_lakes/trader_tents",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "wythers:village/desert_lakes/trader_tents/blue_1",
+        "processors": "wythers:desert_lakes_trader_camp",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "wythers:village/desert_lakes/trader_tents/red_1",
+        "processors": "wythers:desert_lakes_trader_camp",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 0,
+      "element": {
+        "element_type": "minecraft:empty_pool_element"
+      }
+    }
+  ]
+}

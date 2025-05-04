@@ -1,0 +1,32 @@
+{
+  "conditions": [
+    {
+      "flag": "spring_launcher",
+      "type": "supplementaries:flag"
+    }
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_ingot"
+    },
+    "1": {
+      "tag": "minecraft:planks"
+    },
+    "2": {
+      "item": "minecraft:piston"
+    },
+    "3": {
+      "tag": "forge:ingots/copper"
+    }
+  },
+  "pattern": [
+    "010",
+    "020",
+    "030"
+  ],
+  "result": {
+    "count": 1,
+    "item": "supplementaries:spring_launcher"
+  },
+  "type": "minecraft:crafting_shaped"
+}

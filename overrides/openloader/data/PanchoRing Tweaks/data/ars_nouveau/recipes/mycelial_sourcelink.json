@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " s ",
+    "gig",
+    " s "
+  ],
+  "key": {
+    "g": {
+      "tag": "forge:ingots/gold"
+    },
+    "s": {
+      "tag": "forge:gems/mana"
+    },
+    "i": {
+      "item": "infernalexp:luminous_fungus"
+    }
+  },
+  "result": {
+    "item": "ars_nouveau:mycelial_sourcelink"
+  }
+}

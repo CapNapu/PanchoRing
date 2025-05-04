@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "killed_fire_dragon": {
+      "conditions": {
+        "entity": {
+          "type": "iceandfire:ghost"
+        }
+      },
+      "trigger": "minecraft:player_killed_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.iceandfire.kill_ghost.description"
+    },
+    "icon": {
+      "item": "iceandfire:ectoplasm"
+    },
+    "title": {
+      "translate": "advancements.iceandfire.kill_ghost.title"
+    }
+  },
+  "parent": "iceandfire:iceandfire/root"
+}

@@ -1,0 +1,35 @@
+{
+  "criteria": {
+    "old_eye": {
+      "conditions": {
+        "items": [
+          {
+            "item": "endrem:old_eye"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.main.old_eye.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "endrem:old_eye"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.main.old_eye.title"
+    }
+  },
+  "parent": "minecraft:story/follow_ender_eye",
+  "requirements": [
+    [
+      "old_eye"
+    ]
+  ]
+}

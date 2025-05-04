@@ -1,0 +1,164 @@
+{
+  "scale": 1.2,
+  "effects": {
+    "mood_sound": {
+      "sound": "minecraft:ambient.cave",
+      "tick_delay": 6000,
+      "block_search_extent": 8,
+      "offset": 2.0
+    },
+    "grass_color_modifier": "dark_forest",
+    "sky_color": 7907327,
+    "fog_color": 13158600,
+    "water_color": 3156992,
+    "water_fog_color": 2302743
+  },
+  "surface_builder": "wythers:tepui",
+  "carvers": {
+    "air": [
+      "minecraft:ocean_cave"
+    ],
+    "liquid": [
+      "minecraft:underwater_cave"
+    ]
+  },
+  "features": [
+    [
+      "wythers:jungle/modified_chasm_bottom",
+      "wythers:jungle/modified_chasm_middle",
+      "wythers:jungle/modified_chasm_top"
+    ],
+    [
+      "wythers:jungle/modified_lakes"
+    ],
+    [],
+    [
+      "minecraft:monster_room"
+    ],
+    [],
+    [],
+    [
+      "wythers:jungle/modified_replace_dirt_to_stone",
+      "wythers:generic/heightmap_ore_mossy_cobblestone",
+      "wythers:ores/ore_emerald_120",
+      "wythers:ores/ore_emerald_160",
+      "minecraft:ore_dirt",
+      "minecraft:ore_gravel",
+      "minecraft:ore_granite",
+      "minecraft:ore_diorite",
+      "minecraft:ore_andesite",
+      "minecraft:ore_coal",
+      "minecraft:ore_iron",
+      "minecraft:ore_gold",
+      "minecraft:ore_redstone",
+      "minecraft:ore_diamond",
+      "minecraft:ore_lapis",
+      "minecraft:disk_sand",
+      "minecraft:disk_clay",
+      "minecraft:disk_gravel"
+    ],
+    [],
+    [
+      "wythers:jungle/modified_cnb_rainforest_vegetation",
+	  "wythers:jungle/cnb_sandy_vegetation",
+      "wythers:generic/flower_lily_of_the_valley",
+      "minecraft:patch_grass_jungle",
+      "minecraft:brown_mushroom_normal",
+      "minecraft:red_mushroom_normal",
+      "minecraft:spring_water",
+      "minecraft:vines"
+    ],
+    [
+      "minecraft:freeze_top_layer"
+    ]
+  ],
+  "starts": [
+    "minecraft:mineshaft",
+    "minecraft:stronghold",
+    "minecraft:ruined_portal_jungle"
+  ],
+  "spawners": {
+    "monster": [
+      {
+        "type": "minecraft:spider",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:zombie",
+        "weight": 95,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:zombie_villager",
+        "weight": 5,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "minecraft:skeleton",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:creeper",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:slime",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:enderman",
+        "weight": 10,
+        "minCount": 1,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:witch",
+        "weight": 5,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "minecraft:ocelot",
+        "weight": 2,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ],
+    "creature": [
+      {
+        "type": "minecraft:parrot",
+        "weight": 10,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ],
+    "ambient": [
+      {
+        "type": "minecraft:bat",
+        "weight": 10,
+        "minCount": 8,
+        "maxCount": 8
+      }
+    ],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "player_spawn_friendly": false,
+  "precipitation": "rain",
+  "temperature": 0.5,
+  "downfall": 0.8,
+  "category": "jungle",
+  "depth": 3.7
+}

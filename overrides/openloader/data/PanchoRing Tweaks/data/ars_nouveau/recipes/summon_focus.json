@@ -1,0 +1,31 @@
+{
+  "type": "ars_nouveau:enchanting_apparatus",
+  "item_1": [
+    {
+      "tag": "forge:gems/mana"
+    }
+  ],
+  "item_2": [
+    {
+      "tag": "forge:gems/mana"
+    }
+  ],
+  "item_3": [
+    {
+      "tag": "forge:ingots/gold"
+    }
+  ],
+  "item_4": [
+    {
+      "tag": "forge:ingots/gold"
+    }
+  ],
+  "reagent": [
+    {
+      "item": "ars_nouveau:wilden_tribute"
+    }
+  ],
+  "output": {
+    "item": "ars_nouveau:summon_focus"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "firework_star",
+      "nbt": "{CustomModelData:1}"
+    },
+    "title": {
+      "translate": "advancement.snowgolem.get_orb"
+    },
+    "description": {
+      "translate": "advancement.snowgolem.get_orb.desc"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "damagingsnowmen:snowmen/build",
+  "criteria": {
+    "buttons": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "firework_star",
+            "count": 1,
+            "nbt": "{cc.sg.orb:1}"
+          }
+        ]
+      }
+    }
+  }
+}

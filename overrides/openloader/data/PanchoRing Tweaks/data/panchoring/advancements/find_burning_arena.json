@@ -1,0 +1,29 @@
+{
+  "criteria": {
+    "burning_arena": {
+      "conditions": {
+        "location": {
+          "feature": "cataclysm:burning_arena"
+        }
+      },
+      "trigger": "minecraft:location"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.find_burning_arena.description"
+    },
+    "icon": {
+      "item": "cataclysm:altar_of_fire"
+    },
+    "title": {
+      "translate": "advancements.panchoring.find_burning_arena.title"
+    }
+  },
+  "parent": "minecraft:nether/root",
+  "requirements": [
+    [
+      "burning_arena"
+    ]
+  ]
+}

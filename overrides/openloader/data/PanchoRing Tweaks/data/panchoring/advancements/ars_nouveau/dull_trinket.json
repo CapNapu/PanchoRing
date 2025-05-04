@@ -1,0 +1,57 @@
+{
+  "criteria": {
+    "dull_trinket": {
+      "conditions": {
+        "items": [
+          {
+            "item": "ars_nouveau:dull_trinket"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "mundane_belt": {
+      "conditions": {
+        "items": [
+          {
+            "item": "ars_nouveau:mundane_belt"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "ring_of_potential": {
+      "conditions": {
+        "items": [
+          {
+            "item": "ars_nouveau:ring_of_potential"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.panchoring.dull_trinket.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "ars_nouveau:dull_trinket"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.panchoring.dull_trinket.title"
+    }
+  },
+  "parent": "panchoring:ars_nouveau/enchanting_apparatus",
+  "requirements": [
+    [
+      "dull_trinket",
+      "mundane_belt",
+      "ring_of_potential"
+    ]
+  ]
+}

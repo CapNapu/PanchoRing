@@ -1,0 +1,6 @@
+{
+  "type": "ars_nouveau:glyph_recipe",
+  "tier": "TWO",
+  "input": "iceandfire:stymphalian_bird_feather",
+  "output": "ars_nouveau:glyph_wind_shear"
+}

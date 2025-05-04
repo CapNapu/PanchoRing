@@ -1,0 +1,31 @@
+{
+  "type": "ars_nouveau:enchanting_apparatus",
+  "item_1": [
+    {
+      "item": "minecraft:blaze_powder"
+    }
+  ],
+  "item_2": [
+    {
+      "item": "minecraft:blaze_powder"
+    }
+  ],
+  "item_3": [
+    {
+      "item": "infernalexp:molten_gold_cluster"
+    }
+  ],
+  "item_4": [
+    {
+      "item": "infernalexp:molten_gold_cluster"
+    }
+  ],
+  "reagent": [
+    {
+      "tag": "panchoring:elemental_foci_to_fire"
+    }
+  ],
+  "output": {
+    "item": "ars_elemental:fire_focus"
+  }
+}

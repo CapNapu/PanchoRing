@@ -1,0 +1,22 @@
+{
+    "criteria": {
+        "useitem": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "display": {
+        "announce_to_chat": true,
+        "background": "alexsmobs:textures/advancement_background.png",
+        "description": {
+            "translate": "advancements.alexsmobs.root.desc"
+        },
+        "hidden": false,
+        "icon": {
+            "item": "alexsmobs:animal_dictionary"
+        },
+        "show_toast": true,
+        "title": {
+            "translate": "advancements.alexsmobs.root.title"
+        }
+    }
+}

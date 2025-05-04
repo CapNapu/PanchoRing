@@ -1,0 +1,20 @@
+{
+  "ingredients": [
+    {
+      "item": "minecraft:book"
+    },
+    {
+      "item": "minecraft:book"
+    },
+    {
+      "item": "minecraft:book"
+    },
+    {
+      "item": "minecraft:book"
+    }
+  ],
+  "result": {
+    "item": "dustydecor:books"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

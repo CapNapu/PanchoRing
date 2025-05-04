@@ -1,0 +1,17 @@
+{
+  "key": {
+    "a": {
+      "item": "dustydecor:cuttingboard"
+    },
+    "b": {
+      "item": "dustydecor:wedged_knife"
+    }
+  },
+  "pattern": [
+    "ab"
+  ],
+  "result": {
+    "item": "dustydecor:knife_and_cutting_board"
+  },
+  "type": "minecraft:crafting_shaped"
+}

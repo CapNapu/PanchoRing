@@ -1,0 +1,22 @@
+{
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "display": {
+        "announce_to_chat": true,
+        "description": " Discover the Temple quad dungeon during a thundering",
+        "frame": "challenge",
+        "hidden": false,
+        "icon": {
+            "item": "minecraft:filled_map"
+        },
+        "show_toast": true,
+        "title": "Find: Temple quad"
+    },
+    "parent": "awesomedungeonocean:ocean_temple_quad/find_normal",
+    "rewards": {
+        "experience": 10
+    }
+}

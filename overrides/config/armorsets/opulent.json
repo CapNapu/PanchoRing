@@ -1,0 +1,42 @@
+{
+  "armorSetName": "Opulent",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "dungeons_gear:opulent_helmet",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:opulent_chestplate",
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:opulent_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:opulent_boots",
+    "mustBeEmpty": false
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "effect",
+      "name": "minecraft:luck",
+      "value": 0.0,
+      "interactionType": "self",
+      "interactionDuration": 150,
+      "hideBonusDescription": true
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "name": "minecraft:regeneration",
+      "value": 0.0,
+      "interactionType": "self",
+      "interactionDuration": 150,
+      "hideBonusDescription": true
+    }
+  ],
+  "hideGeneratedTooltip": true
+}

@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "recall_potion": {
+      "conditions": {
+        "item": {
+          "item": "majruszs_difficulty:recall_potion"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.panchoring.recall_potion.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "majruszs_difficulty:recall_potion"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.panchoring.recall_potion.title"
+    }
+  },
+  "parent": "minecraft:adventure/root",
+  "rewards": {
+    "experience": 50
+  }
+}

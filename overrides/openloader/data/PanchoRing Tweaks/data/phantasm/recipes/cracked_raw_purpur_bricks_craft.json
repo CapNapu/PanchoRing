@@ -1,0 +1,8 @@
+{
+  "count": 1,
+  "ingredient": {
+    "item": "phantasm:raw_purpur_bricks"
+  },
+  "result": "phantasm:cracked_raw_purpur_bricks",
+  "type": "minecraft:stonecutting"
+}

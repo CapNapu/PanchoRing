@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "name": "projectvibrantjourneys:sandstone_rocks",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "minecraft:block"
+}

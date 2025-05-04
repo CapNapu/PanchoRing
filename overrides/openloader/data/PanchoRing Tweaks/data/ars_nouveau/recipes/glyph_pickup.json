@@ -1,0 +1,6 @@
+{
+  "type": "ars_nouveau:glyph_recipe",
+  "tier": "ONE",
+  "input": "alexsmobs:spiked_scute",
+  "output": "ars_nouveau:glyph_pickup"
+}

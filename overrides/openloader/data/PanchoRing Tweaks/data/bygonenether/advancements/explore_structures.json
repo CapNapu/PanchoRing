@@ -1,0 +1,23 @@
+{
+  "criteria": {
+    "in_citadel": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.bygonenether.explore_structures.description"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "bygonenether:gilded_netherite_boots"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.bygonenether.explore_structures.title"
+    }
+  },
+  "parent": "bygonenether:root"
+}

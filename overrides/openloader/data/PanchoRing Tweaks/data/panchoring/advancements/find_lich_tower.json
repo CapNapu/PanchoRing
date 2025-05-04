@@ -1,0 +1,29 @@
+{
+  "criteria": {
+    "lich_tower": {
+      "conditions": {
+        "location": {
+          "feature": "bosses_of_mass_destruction:lich_tower"
+        }
+      },
+      "trigger": "minecraft:location"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.find_lich_tower.description"
+    },
+    "icon": {
+      "item": "bosses_of_mass_destruction:chiseled_stone_altar"
+    },
+    "title": {
+      "translate": "advancements.panchoring.find_lich_tower.title"
+    }
+  },
+  "parent": "minecraft:adventure/kill_a_mob",
+  "requirements": [
+    [
+      "lich_tower"
+    ]
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "built_in_enchantments": [
+    {
+      "enchantment": "dungeons_gear:burst_bowstring",
+      "level": 1
+    }
+  ],
+  "default_charge_time": 20,
+  "durability": 384,
+  "rarity": "UNCOMMON",
+  "unique": false
+}

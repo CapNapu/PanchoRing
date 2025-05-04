@@ -1,0 +1,105 @@
+{
+  "criteria": {
+    "cod_bucket": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:cod_bucket"
+        }
+      },
+      "trigger": "minecraft:filled_bucket"
+    },
+    "pufferfish_bucket": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:pufferfish_bucket"
+        }
+      },
+      "trigger": "minecraft:filled_bucket"
+    },
+    "salmon_bucket": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:salmon_bucket"
+        }
+      },
+      "trigger": "minecraft:filled_bucket"
+    },
+    "tropical_fish_bucket": {
+      "conditions": {
+        "item": {
+          "item": "minecraft:tropical_fish_bucket"
+        }
+      },
+      "trigger": "minecraft:filled_bucket"
+    },
+    "blobfish_bucket": {
+      "conditions": {
+        "item": {
+          "item": "alexsmobs:blobfish_bucket"
+        }
+      },
+      "trigger": "minecraft:filled_bucket"
+    },
+    "frilled_shark_bucket": {
+      "conditions": {
+        "item": {
+          "item": "alexsmobs:frilled_shark_bucket"
+        }
+      },
+      "trigger": "minecraft:filled_bucket"
+    },
+    "lobster_bucket": {
+      "conditions": {
+        "item": {
+          "item": "alexsmobs:lobster_bucket"
+        }
+      },
+      "trigger": "minecraft:filled_bucket"
+    },
+    "mimic_octopus_bucket": {
+      "conditions": {
+        "item": {
+          "item": "alexsmobs:mimic_octopus_bucket"
+        }
+      },
+      "trigger": "minecraft:filled_bucket"
+    },
+    "clam_bucket": {
+      "conditions": {
+        "item": {
+          "item": "projectvibrantjourneys:clam_bucket"
+        }
+      },
+      "trigger": "minecraft:filled_bucket"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.husbandry.tactical_fishing.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:pufferfish_bucket"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.husbandry.tactical_fishing.title"
+    }
+  },
+  "parent": "minecraft:husbandry/fishy_business",
+  "requirements": [
+    [
+      "cod_bucket",
+      "tropical_fish_bucket",
+      "pufferfish_bucket",
+      "salmon_bucket",
+      "blobfish_bucket",
+      "frilled_shark_bucket",
+      "lobster_bucket",
+      "mimic_octopus_bucket",
+      "clam_bucket"
+    ]
+  ]
+}

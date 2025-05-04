@@ -1,0 +1,19 @@
+{
+  "attributes": [
+    {
+      "amount": 1,
+      "attribute": "dungeons_libraries:soul_gathering",
+      "operation": 0
+    }
+  ],
+  "built_in_enchantments": [
+    {
+      "enchantment": "dungeons_gear:enigma_resonator",
+      "level": 1
+    }
+  ],
+  "default_charge_time": 25,
+  "durability": 384,
+  "rarity": "RARE",
+  "unique": true
+}

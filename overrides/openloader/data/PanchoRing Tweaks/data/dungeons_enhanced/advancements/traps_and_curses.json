@@ -1,0 +1,28 @@
+{
+  "criteria": {
+    "entered_desert_temple": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.dungeons_enhanced.traps_and_curses.desc"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "minecraft:tnt"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.dungeons_enhanced.traps_and_curses"
+    }
+  },
+  "parent": "dungeons_enhanced:root",
+  "requirements": [
+    [
+      "entered_desert_temple"
+    ]
+  ]
+}

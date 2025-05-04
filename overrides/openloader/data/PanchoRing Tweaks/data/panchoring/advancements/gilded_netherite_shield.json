@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "gilded_netherite_shield": {
+      "conditions": {
+        "items": [
+          {
+            "item": "bygonenether:gilded_netherite_shield"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.gilded_netherite_shield.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "bygonenether:gilded_netherite_shield"
+    },
+    "title": {
+      "translate": "advancements.panchoring.gilded_netherite_shield.title"
+    }
+  },
+  "parent": "bygonenether:ride_wither_skeleton_horse"
+}

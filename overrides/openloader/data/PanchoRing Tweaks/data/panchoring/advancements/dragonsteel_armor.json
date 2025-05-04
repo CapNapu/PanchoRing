@@ -1,0 +1,88 @@
+{
+  "criteria": {
+    "dragonsteel_fire_armor": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:dragonsteel_fire_helmet"
+          },
+          {
+            "item": "iceandfire:dragonsteel_fire_chestplate"
+          },
+          {
+            "item": "iceandfire:dragonsteel_fire_leggings"
+          },
+          {
+            "item": "iceandfire:dragonsteel_fire_boots"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "dragonsteel_ice_armor": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:dragonsteel_ice_helmet"
+          },
+          {
+            "item": "iceandfire:dragonsteel_ice_chestplate"
+          },
+          {
+            "item": "iceandfire:dragonsteel_ice_leggings"
+          },
+          {
+            "item": "iceandfire:dragonsteel_ice_boots"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "dragonsteel_lightning_armor": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:dragonsteel_lightning_helmet"
+          },
+          {
+            "item": "iceandfire:dragonsteel_lightning_chestplate"
+          },
+          {
+            "item": "iceandfire:dragonsteel_lightning_leggings"
+          },
+          {
+            "item": "iceandfire:dragonsteel_lightning_boots"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.panchoring.dragonsteel_armor.description"
+    },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "iceandfire:dragonsteel_fire_chestplate",
+      "nbt": "{Damage:0}"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.panchoring.dragonsteel_armor.title"
+    }
+  },
+  "parent": "iceandfire:iceandfire/dragonsteel",
+  "requirements": [
+    [
+      "dragonsteel_fire_armor",
+      "dragonsteel_ice_armor",
+      "dragonsteel_lightning_armor"
+    ]
+  ],
+  "rewards": {
+    "experience": 250
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "scale": 0.1,
+  "effects": {
+    "mood_sound": {
+      "sound": "minecraft:ambient.cave",
+      "tick_delay": 6000,
+      "block_search_extent": 8,
+      "offset": 2.0
+    },
+    "particle": {
+      "options": {
+        "type": "minecraft:white_ash"
+      },
+      "probability": 0.2
+    },
+    "sky_color": 7907327,
+    "fog_color": 14474485,
+    "water_color": 11517683,
+    "water_fog_color": 8821154
+  },
+  "surface_builder": "wythers:deep_frozen_ocean",
+  "carvers": {
+    "air": [
+      "minecraft:ocean_cave",
+      "minecraft:canyon"
+    ],
+    "liquid": [
+      "minecraft:underwater_canyon",
+      "minecraft:underwater_cave"
+    ]
+  },
+  "features": [
+    [
+      "wythers:icy/ice_surface",
+      "wythers:icy/arctic_snow",
+      "wythers:icy/arctic_snow",
+      "wythers:icy/arctic_snow",
+      "wythers:icy/arctic_snow",
+      "wythers:icy/arctic_snow",
+      "wythers:icy/ice_floe"
+    ],
+    [],
+    [
+      "minecraft:iceberg_packed",
+      "minecraft:iceberg_blue"
+    ],
+    [
+      "minecraft:monster_room"
+    ],
+    [
+      "minecraft:blue_ice"
+    ],
+    [
+      "wythers:oceans/frozen_lower_ice"
+    ],
+    [
+      "minecraft:ore_dirt",
+      "minecraft:ore_gravel",
+      "minecraft:ore_granite",
+      "minecraft:ore_diorite",
+      "minecraft:ore_andesite",
+      "minecraft:ore_coal",
+      "minecraft:ore_iron",
+      "minecraft:ore_gold",
+      "minecraft:ore_redstone",
+      "minecraft:ore_diamond",
+      "minecraft:ore_lapis",
+      "minecraft:disk_sand",
+      "minecraft:disk_clay",
+      "minecraft:disk_gravel",
+      "wythers:oceans/disk_clay_deep_seafloor",
+      "wythers:oceans/frozen_lower_ice"
+    ],
+    [],
+    [
+      "minecraft:spring_water",
+      "wythers:oceans/frozen_lower_ice"
+    ],
+    [
+      "minecraft:freeze_top_layer"
+    ]
+  ],
+  "starts": [
+    "minecraft:ocean_ruin_cold",
+    "minecraft:monument",
+    "minecraft:mineshaft",
+    "minecraft:shipwreck",
+    "minecraft:ruined_portal_ocean"
+  ],
+  "spawners": {
+    "monster": [
+      {
+        "type": "minecraft:zombie",
+        "weight": 95,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:zombie_villager",
+        "weight": 5,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "minecraft:skeleton",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:enderman",
+        "weight": 10,
+        "minCount": 1,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:drowned",
+        "weight": 5,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ],
+    "creature": [
+      {
+        "type": "minecraft:polar_bear",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 2
+      }
+    ],
+    "ambient": [
+      {
+        "type": "minecraft:bat",
+        "weight": 10,
+        "minCount": 8,
+        "maxCount": 8
+      }
+    ],
+    "water_creature": [
+      {
+        "type": "minecraft:squid",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 4
+      }
+    ],
+    "water_ambient": [
+      {
+        "type": "minecraft:salmon",
+        "weight": 15,
+        "minCount": 1,
+        "maxCount": 5
+      }
+    ],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "player_spawn_friendly": false,
+  "precipitation": "snow",
+  "temperature": 0.0,
+  "temperature_modifier": "frozen",
+  "downfall": 0.5,
+  "category": "ocean",
+  "depth": -1.8
+}

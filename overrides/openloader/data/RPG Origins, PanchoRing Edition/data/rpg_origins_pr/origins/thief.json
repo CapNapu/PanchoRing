@@ -1,0 +1,20 @@
+{
+    "powers": [
+        "rpg_origins_pr:equipment_thief",
+        "rpg_origins_pr:stealthy",
+        "rpg_origins_pr:stealthy_speed",
+        "rpg_origins_pr:acrobat",
+        "rpg_origins_pr:thefty",
+        "rpg_origins_pr:better_unnoticed",
+        "rpg_origins_pr:better_unnoticed_proj",
+        "rpg_origins_pr:better_unnoticed_regen",
+        "rpg_origins_pr:no_shield",
+        "rpg_origins_pr:uneasy_alliance",
+        "rpg_origins_pr:mage_robes_not",
+        "rpg_origins_pr:heavy_weapons_not"
+    ],
+    "icon": {
+        "item": "dungeons_gear:dagger"
+    },
+    "impact": 3
+}

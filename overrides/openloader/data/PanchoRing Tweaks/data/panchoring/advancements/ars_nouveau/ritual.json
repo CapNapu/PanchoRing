@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "ritual": {
+      "conditions": {
+        "items": [
+          {
+            "item": "ars_nouveau:ritual"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.panchoring.ars.ritual.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "ars_nouveau:ritual"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.panchoring.ars.ritual.title"
+    }
+  },
+  "parent": "panchoring:ars_nouveau/root"
+}

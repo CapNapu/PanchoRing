@@ -1,0 +1,17 @@
+{
+  "key": {
+    "X": {
+      "item": "extcaves:bricks_snow"
+    }
+  },
+  "pattern": [
+    "X  ",
+    "XX ",
+    "XXX"
+  ],
+  "result": {
+    "count": 6,
+    "item": "extcaves:bricks_snow_stairs"
+  },
+  "type": "minecraft:crafting_shaped"
+}

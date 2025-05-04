@@ -1,0 +1,11 @@
+{
+  "ingredients": [
+    {
+      "item": "dustydecor:corrugated_metal_block"
+    }
+  ],
+  "result": {
+    "item": "dustydecor:corrugated_metal_button"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

@@ -1,0 +1,167 @@
+{
+  "scale": 0.4,
+  "effects": {
+    "mood_sound": {
+      "sound": "minecraft:ambient.cave",
+      "tick_delay": 6000,
+      "block_search_extent": 8,
+      "offset": 2.0
+    },
+    "sky_color": 7907327,
+    "foliage_color": 10387789,
+    "grass_color": 16765810,
+    "fog_color": 14598542,
+    "water_color": 4566514,
+    "water_fog_color": 267827
+  },
+  "surface_builder": "minecraft:desert",
+  "carvers": {
+    "air": [
+      "minecraft:cave",
+      "minecraft:canyon"
+    ]
+  },
+  "features": [
+    [
+      "wythers:caves/desert_hills_ore_sand_cnb",
+      "wythers:caves/desert_hills_ore_air_center",
+      "wythers:caves/desert_hills_ore_air_cnb"
+    ],
+    [],
+    [],
+    [
+      "minecraft:monster_room"
+    ],
+    [],
+    [],
+    [
+      "wythers:desert/hills_ore_replace_sand_to_smooth_sandstone",
+      "wythers:desert/double_squared_sand_edge",
+      "wythers:desert/replace_glacier_to_terracotta",
+      "wythers:desert/replace_glacier_to_smooth_sandstone",
+      "wythers:desert/ore_base_smooth_sandstone",
+      "wythers:ores/ore_lapis_desert_hills",
+      "minecraft:ore_dirt",
+      "minecraft:ore_gravel",
+      "minecraft:ore_granite",
+      "minecraft:ore_diorite",
+      "minecraft:ore_andesite",
+      "minecraft:ore_coal",
+      "minecraft:ore_iron",
+      "minecraft:ore_gold",
+      "minecraft:ore_redstone",
+      "minecraft:ore_diamond",
+      "minecraft:ore_lapis",
+      "wythers:desert/disk_sand_beach"
+    ],
+    [],
+    [
+      "wythers:generic/flowers_plains",
+      "minecraft:patch_dead_bush_2",
+      "minecraft:brown_mushroom_normal",
+      "minecraft:red_mushroom_normal",
+      "minecraft:patch_sugar_cane_badlands",
+      "wythers:caves/desert_hills_simple_air",
+      "wythers:caves/desert_hills_simple_sand"
+    ],
+    [
+      "minecraft:freeze_top_layer"
+    ]
+  ],
+  "starts": [
+    "more_structures:pillager_outpost_desert_hills",
+    "minecraft:desert_pyramid",
+    "minecraft:stronghold",
+    "minecraft:ruined_portal_desert"
+  ],
+  "spawners": {
+    "monster": [
+      {
+        "type": "minecraft:spider",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:zombie",
+        "weight": 95,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:zombie_villager",
+        "weight": 5,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "minecraft:skeleton",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:creeper",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:slime",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:enderman",
+        "weight": 10,
+        "minCount": 1,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:witch",
+        "weight": 5,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ],
+    "creature": [
+      {
+        "type": "minecraft:llama",
+        "weight": 10,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:rabbit",
+        "weight": 10,
+        "minCount": 2,
+        "maxCount": 3
+      },
+      {
+        "type": "minecraft:cat",
+        "weight": 20,
+        "minCount": 1,
+        "maxCount": 2
+      }
+    ],
+    "ambient": [
+      {
+        "type": "minecraft:bat",
+        "weight": 10,
+        "minCount": 8,
+        "maxCount": 8
+      }
+    ],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "player_spawn_friendly": false,
+  "precipitation": "none",
+  "temperature": 2.0,
+  "downfall": 0.0,
+  "category": "desert",
+  "depth": 0.8
+}

@@ -1,0 +1,96 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count_extra",
+      "config": {
+        "count": 20000,
+        "extra_count": 0,
+        "extra_chance": 0
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:decorated",
+          "config": {
+            "outer": {
+              "type": "minecraft:square",
+              "config": {}
+            },
+            "inner": {
+              "type": "minecraft:count_noise_biased",
+              "config": {
+                "noise_to_count_ratio": 1,
+                "noise_factor": 900,
+                "noise_offset": 0.2
+              }
+            }
+          }
+        },
+        "feature": {
+          "type": "minecraft:decorated",
+          "config": {
+            "decorator": {
+              "type": "minecraft:count_noise_biased",
+              "config": {
+                "noise_to_count_ratio": 1,
+                "noise_factor": 300,
+                "noise_offset": 0.04
+              }
+            },
+            "feature": {
+              "type": "minecraft:decorated",
+              "config": {
+                "decorator": {
+                  "type": "minecraft:decorated",
+                  "config": {
+                    "outer": {
+                      "type": "minecraft:count_noise_biased",
+                      "config": {
+                        "noise_to_count_ratio": -1,
+                        "noise_factor": 300,
+                        "noise_offset": -0.04
+                      }
+                    },
+                    "inner": {
+                      "type": "minecraft:decorated",
+                      "config": {
+                        "outer": {
+                          "type": "minecraft:nope",
+                          "config": {}
+                        },
+                        "inner": {
+                          "type": "minecraft:range",
+                          "config": {
+                            "maximum": 15,
+                            "bottom_offset": 105,
+                            "top_offset": 0
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "feature": {
+                  "type": "minecraft:ore",
+                  "config": {
+                    "state": {
+                      "Name": "minecraft:air"
+                    },
+                    "size": 12,
+                    "target": {
+                      "predicate_type": "minecraft:tag_match",
+                      "tag": "wythers:underground_river"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

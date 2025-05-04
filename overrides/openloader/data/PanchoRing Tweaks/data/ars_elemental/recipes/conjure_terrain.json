@@ -1,0 +1,6 @@
+{
+  "input": "extcaves:brick_half",
+  "output": "ars_nouveau:glyph_conjure_terrain",
+  "tier": "ONE",
+  "type": "ars_nouveau:glyph_recipe"
+}

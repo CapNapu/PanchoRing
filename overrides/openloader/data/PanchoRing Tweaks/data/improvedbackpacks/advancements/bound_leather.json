@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "bound_leather": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.improvedbackpacks.bound_leather.description"
+    },
+    "hidden": true,
+    "icon": {
+      "item": "improvedbackpacks:bound_leather"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.improvedbackpacks.bound_leather.title"
+    }
+  },
+  "parent": "improvedbackpacks:sewing_spool",
+  "requirements": [
+    [
+      "bound_leather"
+    ]
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "end_crystal_fragment": {
+      "conditions": {
+        "items": [
+          {
+            "item": "endrem:end_crystal_fragment"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.panchoring.end_crystal_fragment.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "endrem:end_crystal_fragment"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.panchoring.end_crystal_fragment.title"
+    }
+  },
+  "parent": "minecraft:nether/root"
+}

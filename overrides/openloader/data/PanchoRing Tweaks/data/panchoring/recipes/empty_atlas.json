@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "minecraft:misc",
+  "ingredients": [
+    {
+      "item": "minecraft:book"
+    },
+    {
+      "item": "iceandfire:manuscript"
+    },
+    {
+      "item": "iceandfire:manuscript"
+    },
+    {
+      "item": "iceandfire:manuscript"
+    },
+    {
+      "item": "iceandfire:manuscript"
+    },
+    {
+      "item": "iceandfire:manuscript"
+    },
+    {
+      "item": "iceandfire:manuscript"
+    },
+    {
+      "item": "iceandfire:manuscript"
+    },
+    {
+      "item": "minecraft:compass"
+    }
+  ],
+  "result": {
+    "item": "antiqueatlas:empty_antique_atlas"
+  }
+}

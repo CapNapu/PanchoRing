@@ -1,0 +1,121 @@
+
+["Abandoned Church"]
+	#Abandoned Church Spacing
+	abandonedChurch_spacing = 38
+	#Abandoned Church Separation
+	abandonedChurch_separation = 14
+	#Abandoned Church Activation
+	abandonedChurch = true
+
+["Barn House"]
+	#Barn House Separation
+	barnHouse_separation = 8
+	#Barn House Spacing
+	barnHouse_spacing = 38
+	#Barn House Activation
+	barnHouse = true
+
+["Big Pyramid"]
+	#Big Pyramid Separation
+	bigPyramid_separation = 5
+	#Big Pyramid Activation
+	bigPyramid = true
+	#Big Pyramid Spacing
+	bigPyramid_spacing = 25
+
+["Jungle Pyramid"]
+	#Jungle Pyramid Spacing
+	junglePyramid_spacing = 25
+	#Jungle Pyramid Separation
+	junglePyramid_separation = 5
+	#Jungle Pyramid Activation
+	junglePyramid = true
+
+["The Castle In The Sky"]
+	#The Castle In The Sky Activation
+	theCastleInTheSky = true
+	#The Castle In The Sky Spacing
+	theCastleInTheSky_spacing = 30
+	#The Castle In The Sky Separation
+	theCastleInTheSky_separation = 8
+
+["Killer Bunny Castle"]
+	#Killer Bunny Castle Separation
+	killerBunnyCastle_separation = 25
+	#Killer Bunny Castle Activation
+	killerBunnyCastle = false
+	#Killer Bunny Castle Spacing
+	killerBunnyCastle_spacing = 45
+
+["Villager Tower"]
+	#Villager Tower Activation
+	villagerTower = true
+	#Villager Tower Separation
+	villagerTower_separation = 16
+	#Villager Tower Spacing
+	villagerTower_spacing = 34
+
+["Villager Market"]
+	#Villager Market Activation
+	villagerMarket = true
+	#Villager Market Separation
+	villagerMarket_separation = 16
+	#Villager Market Spacing
+	villagerMarket_spacing = 36
+
+["Pillager Factory"]
+	#Pillager Factory Activation
+	pillagerFactory = true
+	#Pillager Factory Spacing
+	pillagerFactory_spacing = 36
+	#Pillager Factory Separation
+	pillagerFactory_separation = 16
+
+["Ice Tower"]
+	#Ice Tower Spacing
+	iceTower_spacing = 28
+	#Ice Tower Activation
+	iceTower = true
+	#Ice Tower Separation
+	iceTower_separation = 8
+
+[Tavern]
+	#Tavern Spacing
+	tavern_spacing = 32
+	#Tavern Activation
+	tavern = true
+	#Tavern Separation
+	tavern_separation = 12
+
+["Pirate Ship"]
+	#Pirate Ship Spacing
+	pirateShip_spacing = 40
+	#Pirate Ship Activation
+	pirateShip = false
+	#Pirate Ship Separation
+	pirateShip_separation = 16
+
+[Lighthouse]
+	#Lighthouse Spacing
+	lighthouse_spacing = 32
+	#Lighthouse Separation
+	lighthouse_separation = 16
+	#Lighthouse Activation
+	lighthouse = false
+
+[Moai]
+	#Moai Separation
+	moai_separation = 2
+	#Moai Activation
+	moai = true
+	#Moai Spacing
+	moai_spacing = 4
+
+["Air Balloon"]
+	#Air Balloon Activation
+	airBalloon = false
+	#Air Balloon Separation
+	airBalloon_separation = 1
+	#Air Balloon Spacing
+	airBalloon_spacing = 6
+

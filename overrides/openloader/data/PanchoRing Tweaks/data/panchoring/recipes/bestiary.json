@@ -1,0 +1,35 @@
+{
+  "ingredients": [
+    {
+      "item": "minecraft:book"
+    },
+    {
+      "item": "iceandfire:manuscript"
+    },
+    {
+      "item": "iceandfire:manuscript"
+    },
+    {
+      "item": "iceandfire:manuscript"
+    },
+    {
+      "item": "iceandfire:manuscript"
+    },
+    {
+      "item": "iceandfire:manuscript"
+    },
+    {
+      "item": "iceandfire:manuscript"
+    },
+    {
+      "item": "iceandfire:manuscript"
+    },
+    {
+      "item": "iceandfire:copper_ingot"
+    }
+  ],
+  "result": {
+    "item": "iceandfire:bestiary"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

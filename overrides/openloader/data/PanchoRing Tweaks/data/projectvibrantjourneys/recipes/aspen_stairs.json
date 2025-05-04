@@ -1,0 +1,18 @@
+{
+  "group": "wooden_stairs",
+  "key": {
+    "#": {
+      "item": "projectvibrantjourneys:aspen_planks"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "item": "projectvibrantjourneys:aspen_stairs"
+  },
+  "type": "minecraft:crafting_shaped"
+}

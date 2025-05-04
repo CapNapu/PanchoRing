@@ -1,0 +1,16 @@
+{
+  "key": {
+    "a": {
+      "item": "dustydecor:corrugated_metal_block"
+    }
+  },
+  "pattern": [
+    "aa ",
+    " aa"
+  ],
+  "result": {
+    "count": 6,
+    "item": "dustydecor:corrugated_metal_roofing"
+  },
+  "type": "minecraft:crafting_shaped"
+}

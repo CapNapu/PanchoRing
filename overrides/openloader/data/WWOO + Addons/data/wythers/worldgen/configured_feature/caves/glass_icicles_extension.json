@@ -1,0 +1,56 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:carving_mask",
+      "config": {
+        "step": "air",
+        "probability": 0.5
+      }
+    },
+    "feature": {
+      "type": "minecraft:simple_random_selector",
+      "config": {
+        "features": [
+          {
+            "type": "minecraft:simple_block",
+            "config": {
+              "to_place": {
+                "Name": "minecraft:light_blue_stained_glass_pane",
+                "Properties": {
+                  "east": "false",
+                  "north": "false",
+                  "south": "false",
+                  "west": "false",
+                  "waterlogged": "false"
+                }
+              },
+              "place_on": [
+                {
+                  "Name": "minecraft:cave_air"
+                }
+              ],
+              "place_in": [
+                {
+                  "Name": "minecraft:cave_air"
+                }
+              ],
+              "place_under": [
+                {
+                  "Name": "minecraft:light_blue_stained_glass_pane",
+                  "Properties": {
+                    "east": "false",
+                    "north": "false",
+                    "south": "false",
+                    "west": "false",
+                    "waterlogged": "false"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}

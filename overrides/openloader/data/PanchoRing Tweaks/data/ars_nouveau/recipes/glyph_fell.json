@@ -1,0 +1,6 @@
+{
+  "type": "ars_nouveau:glyph_recipe",
+  "tier": "TWO",
+  "input": "alexsmobs:banana_peel",
+  "output": "ars_nouveau:glyph_fell"
+}

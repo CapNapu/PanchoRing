@@ -1,0 +1,1 @@
+datapack disable "file/better-golems-v3.3a.zip"

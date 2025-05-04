@@ -1,0 +1,12 @@
+{
+  "addition": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "base": {
+    "tag": "panchoring:diamond_pickaxes"
+  },
+  "result": {
+    "item": "minecraft:netherite_pickaxe"
+  },
+  "type": "minecraft:smithing"
+}

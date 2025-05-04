@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:fill_layer",
+  "config": {
+    "state": {
+      "Name": "minecraft:lava",
+      "Properties": {
+        "level": "0"
+      }
+    },
+    "height": 4
+  }
+}

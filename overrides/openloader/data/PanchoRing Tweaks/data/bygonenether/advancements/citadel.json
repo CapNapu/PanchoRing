@@ -1,0 +1,28 @@
+{
+  "criteria": {
+    "in_citadel": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.bygonenether.citadel.description"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "bygonenether:chiseled_warped_nether_bricks"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.bygonenether.citadel.title"
+    }
+  },
+  "parent": "bygonenether:explore_structures",
+  "requirements": [
+    [
+      "in_citadel"
+    ]
+  ]
+}

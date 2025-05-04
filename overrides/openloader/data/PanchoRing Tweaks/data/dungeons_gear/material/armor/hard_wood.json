@@ -1,0 +1,12 @@
+{
+  "type": "dungeons_libraries:dungeons_armor_material",
+  "name": "dungeons_gear:hard_wood",
+  "durability": 18,
+  "damage_reduction_amounts":  [1, 5, 6, 2],
+  "enchantability": 15,
+  "repair_item":  "iceandfire:dread_shard",
+  "equip_sound": "minecraft:item.armor.equip_leather",
+  "toughness":  1.0,
+  "knockback_resistance": 0.0,
+  "base_type": "wood"
+}

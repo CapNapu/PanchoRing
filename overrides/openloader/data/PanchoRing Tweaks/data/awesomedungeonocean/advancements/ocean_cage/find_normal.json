@@ -1,0 +1,22 @@
+{
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "display": {
+        "announce_to_chat": true,
+        "description": " Discover the Cage dungeon",
+        "frame": "challenge",
+        "hidden": false,
+        "icon": {
+            "item": "minecraft:filled_map"
+        },
+        "show_toast": true,
+        "title": "Find: Cage"
+    },
+    "parent": "awesomedungeonocean:root",
+    "rewards": {
+        "experience": 10
+    }
+}

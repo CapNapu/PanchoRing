@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": [
+    {
+      "item": "iceandfire:dragonarmor_diamond_body"
+    },
+    {
+      "item": "iceandfire:dragonarmor_diamond_head"
+    },
+    {
+      "item": "iceandfire:dragonarmor_diamond_neck"
+    },
+    {
+      "item": "iceandfire:dragonarmor_diamond_tail"
+    }
+  ],
+  "result": "minecraft:diamond_block",
+  "experience": 0.1,
+  "cookingtime": 200
+}

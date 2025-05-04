@@ -1,0 +1,16 @@
+{
+  "key": {
+    "a": {
+      "item": "minecraft:acacia_slab"
+    }
+  },
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "result": {
+    "count": 6,
+    "item": "dustydecor:acacia_large_shelf"
+  },
+  "type": "minecraft:crafting_shaped"
+}

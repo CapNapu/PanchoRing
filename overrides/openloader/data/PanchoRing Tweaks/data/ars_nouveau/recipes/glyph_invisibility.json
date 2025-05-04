@@ -1,0 +1,6 @@
+{
+  "type": "ars_nouveau:glyph_recipe",
+  "tier": "TWO",
+  "input": "infernalexp:blindsight_tongue",
+  "output": "ars_nouveau:glyph_invisibility"
+}

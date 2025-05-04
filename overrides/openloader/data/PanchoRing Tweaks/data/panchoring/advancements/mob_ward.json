@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "mob_ward": {
+      "conditions": {
+        "items": [
+          {
+            "item": "bosses_of_mass_destruction:mob_ward"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.panchoring.mob_ward.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "bosses_of_mass_destruction:mob_ward"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.panchoring.mob_ward.title"
+    }
+  },
+  "parent": "bosses_of_mass_destruction:adventure/night_lich_defeat"
+}

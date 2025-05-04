@@ -1,0 +1,18 @@
+{
+  "group": "pream",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "00 ",
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "phantasm:pream_planks"
+    }
+  },
+  "result": {
+    "item": "phantasm:pream_stairs",
+    "count": 6
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "criteria": {
+        "bestiary": {
+            "conditions": {
+                "items": [
+                    {
+                        "item": "iceandfire:rotten_egg"
+                    }
+                ]
+            },
+            "trigger": "minecraft:inventory_changed"
+        }
+    },
+    "display": {
+        "description": {
+            "translate": "advancements.iceandfire.rotten_egg.description"
+        },
+        "icon": {
+            "item": "iceandfire:rotten_egg"
+        },
+        "title": {
+            "translate": "advancements.iceandfire.rotten_egg.title"
+        }
+    },
+    "parent": "iceandfire:iceandfire/root"
+}

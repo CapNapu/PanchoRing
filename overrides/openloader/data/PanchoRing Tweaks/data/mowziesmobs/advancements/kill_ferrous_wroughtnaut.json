@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "ferrous_wroughtnaut": {
+      "conditions": {
+        "entity": {
+          "type": "mowziesmobs:ferrous_wroughtnaut"
+        }
+      },
+      "trigger": "minecraft:player_killed_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.mowziesmobs.kill_ferrous_wroughtnaut.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "mowziesmobs:wrought_helmet"
+    },
+    "title": {
+      "translate": "advancements.mowziesmobs.kill_ferrous_wroughtnaut.title"
+    }
+  },
+  "parent": "panchoring:find_wrought_chamber"
+}

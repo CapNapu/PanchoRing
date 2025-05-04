@@ -1,0 +1,29 @@
+{
+  "criteria": {
+    "blacksmith": {
+      "conditions": {
+        "location": {
+          "feature": "cataclysm:soul_black_smith"
+        }
+      },
+      "trigger": "minecraft:location"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.cataclysm.find_soul_black_smith.description"
+    },
+    "icon": {
+      "item": "minecraft:blackstone"
+    },
+    "title": {
+      "translate": "advancements.cataclysm.find_soul_black_smith.title"
+    }
+  },
+  "parent": "minecraft:nether/root",
+  "requirements": [
+    [
+      "blacksmith"
+    ]
+  ]
+}

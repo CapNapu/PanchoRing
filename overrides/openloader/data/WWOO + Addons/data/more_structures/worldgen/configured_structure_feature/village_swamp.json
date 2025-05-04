@@ -1,0 +1,7 @@
+{
+  "config": {
+    "start_pool": "kaisyn:village/swamp/town_centre",
+    "size": 5.5
+  },
+  "type": "minecraft:village"
+}

@@ -1,0 +1,62 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count_extra",
+      "config": {
+        "count": 3000,
+        "extra_count": 0,
+        "extra_chance": 0
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:square",
+          "config": {}
+        },
+        "feature": {
+          "type": "minecraft:decorated",
+          "config": {
+            "decorator": {
+              "type": "minecraft:count_noise_biased",
+              "config": {
+                "noise_to_count_ratio": 1,
+                "noise_factor": 180,
+                "noise_offset": 0.09
+              }
+            },
+            "feature": {
+              "type": "minecraft:decorated",
+              "config": {
+                "decorator": {
+                  "type": "minecraft:count_noise_biased",
+                  "config": {
+                    "noise_to_count_ratio": -1,
+                    "noise_factor": 180,
+                    "noise_offset": -0.09
+                  }
+                },
+                "feature": {
+                  "type": "minecraft:decorated",
+                  "config": {
+                    "decorator": {
+                      "type": "minecraft:range",
+                      "config": {
+                        "maximum": 1,
+                        "bottom_offset": 62,
+                        "top_offset": 0
+                      }
+                    },
+                    "feature": "wythers:underground_rivers/carver/water_block"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

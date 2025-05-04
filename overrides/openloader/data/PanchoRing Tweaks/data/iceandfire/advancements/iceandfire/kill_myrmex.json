@@ -1,0 +1,42 @@
+{
+  "criteria": {
+    "desert": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:myrmex_desert_chitin"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "jungle": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:myrmex_jungle_chitin"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.iceandfire.kill_myrmex.description"
+    },
+    "icon": {
+      "item": "iceandfire:myrmex_desert_chitin"
+    },
+    "title": {
+      "translate": "advancements.iceandfire.kill_myrmex.title"
+    }
+  },
+  "parent": "iceandfire:iceandfire/root",
+  "requirements": [
+    [
+      "desert",
+      "jungle"
+    ]
+  ]
+}

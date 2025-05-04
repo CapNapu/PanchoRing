@@ -1,0 +1,19 @@
+{
+  "key": {
+    "a": {
+      "item": "minecraft:cod"
+    },
+    "b": {
+      "item": "dustydecor:empty_barrel"
+    }
+  },
+  "pattern": [
+    "aaa",
+    "aaa",
+    " b "
+  ],
+  "result": {
+    "item": "dustydecor:cod_barrel"
+  },
+  "type": "minecraft:crafting_shaped"
+}

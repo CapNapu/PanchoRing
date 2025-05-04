@@ -1,0 +1,31 @@
+{
+  "armorSetName": "Fire DragonSteel",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "iceandfire:dragonsteel_fire_helmet",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "iceandfire:dragonsteel_fire_chestplate",
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "iceandfire:dragonsteel_fire_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "iceandfire:dragonsteel_fire_boots",
+    "mustBeEmpty": false
+  },
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "name": "cataclysm:blazing_brand",
+      "value": 0.0,
+      "interactionType": "immunity",
+      "interactionDuration": 150,
+      "hideBonusDescription": true
+    }
+  ],
+  "hideGeneratedTooltip": true
+}

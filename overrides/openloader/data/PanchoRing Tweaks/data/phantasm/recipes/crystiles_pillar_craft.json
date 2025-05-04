@@ -1,0 +1,8 @@
+{
+  "count": 1,
+  "ingredient": {
+    "item": "phantasm:crystiles"
+  },
+  "result": "phantasm:crystiles_pillar",
+  "type": "minecraft:stonecutting"
+}
