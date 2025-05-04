@@ -1,0 +1,35 @@
+{
+  "armorSetName": "spider.2",
+  "head": {
+    "itemKey": "dungeons_gear:spider_helmet"
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:spider_chestplate"
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:spider_leggings"
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:spider_boots"
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "epicfight:offhand_max_strikes",
+      "value": 1.0,
+      "modifierUUID": "5fd30a6d-5b6e-4553-a0f3-bc2d01430406",
+      "attributeOperation": 1
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.armor",
+      "value": 0.0,
+      "modifierUUID": "941a4287-9224-49af-84dc-8cb9cc97923c",
+      "attributeOperation": 0
+    }
+  ],
+  "hideGeneratedTooltip": true
+}

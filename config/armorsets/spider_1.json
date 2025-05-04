@@ -1,0 +1,35 @@
+{
+  "armorSetName": "spider",
+  "head": {
+    "itemKey": "dungeons_gear:spider_helmet"
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:spider_chestplate"
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:spider_leggings"
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:spider_boots"
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "attribute",
+      "description": "panchoring.attribute.max_strikes",
+      "name": "epicfight:max_strikes",
+      "value": 1.0,
+      "modifierUUID": "8d7e87d5-4630-405e-a079-e2e0e37df9e3",
+      "attributeOperation": 1
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "description": "alexsmobs.potion.bug_pheromones",
+      "name": "alexsmobs:bug_pheromones",
+      "value": 0.0,
+      "interactionDuration": 120
+    }
+  ]
+}

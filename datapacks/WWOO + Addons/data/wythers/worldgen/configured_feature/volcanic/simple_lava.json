@@ -1,0 +1,127 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count_extra",
+      "config": {
+        "count": 150000,
+        "extra_count": 0,
+        "extra_chance": 0
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:decorated",
+          "config": {
+            "outer": {
+              "type": "minecraft:square",
+              "config": {}
+            },
+            "inner": {
+              "type": "minecraft:square",
+              "config": {}
+            }
+          }
+        },
+        "feature": {
+          "type": "minecraft:decorated",
+          "config": {
+            "decorator": {
+              "type": "minecraft:decorated",
+              "config": {
+                "outer": {
+                  "type": "minecraft:square",
+                  "config": {}
+                },
+                "inner": {
+                  "type": "minecraft:range",
+                  "config": {
+                    "maximum": 8,
+                    "bottom_offset": 3,
+                    "top_offset": 0
+                  }
+                }
+              }
+            },
+            "feature": {
+              "type": "minecraft:simple_block",
+              "config": {
+                "to_place": {
+                  "Name": "minecraft:lava",
+                  "Properties": {
+                    "level": "0"
+                  }
+                },
+                "place_on": [
+                  {
+                    "Name": "minecraft:air"
+                  },
+                  {
+                    "Name": "minecraft:stone"
+                  },
+                  {
+                    "Name": "minecraft:andesite"
+                  },
+                  {
+                    "Name": "minecraft:granite"
+                  },
+                  {
+                    "Name": "minecraft:diorite"
+                  },
+                  {
+                    "Name": "minecraft:gravel"
+                  },
+                  {
+                    "Name": "minecraft:coal_ore"
+                  },
+                  {
+                    "Name": "minecraft:iron_ore"
+                  },
+                  {
+                    "Name": "minecraft:gold_ore"
+                  },
+                  {
+                    "Name": "minecraft:lapis_ore"
+                  },
+                  {
+                    "Name": "minecraft:redstone_ore",
+                    "Properties": {
+                      "lit": "false"
+                    }
+                  },
+                  {
+                    "Name": "minecraft:lava",
+                    "Properties": {
+                      "level": "0"
+                    }
+                  },
+                  {
+                    "Name": "minecraft:stone"
+                  }
+                ],
+                "place_in": [
+                  {
+                    "Name": "minecraft:air"
+                  }
+                ],
+                "place_under": [
+                  {
+                    "Name": "minecraft:lava",
+                    "Properties": {
+                      "level": "0"
+                    }
+                  },
+                  {
+                    "Name": "minecraft:air"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

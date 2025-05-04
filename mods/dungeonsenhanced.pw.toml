@@ -1,0 +1,13 @@
+name = "Dungeons Enhanced"
+filename = "dungeons_enhanced-1.16.5-1.9.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "964764662fb6a94c727331c2c2a01fe1a762f250"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6010642
+project-id = 480715

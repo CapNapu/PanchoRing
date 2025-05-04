@@ -1,0 +1,13 @@
+name = "Global Packs"
+filename = "globaldataandresourcepacks-1.16.5-1.10.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b5258b24f382e2375f30164a8a19787c5fd9b60d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3558485
+project-id = 317134

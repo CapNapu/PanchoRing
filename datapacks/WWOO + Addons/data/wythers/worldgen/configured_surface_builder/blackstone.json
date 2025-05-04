@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:nether_forest",
+  "config": {
+    "top_material": {
+      "Name": "infernalexp:crumbling_blackstone"
+    },
+    "under_material": {
+      "Name": "infernalexp:crumbling_blackstone"
+    },
+    "underwater_material": {
+      "Name": "minecraft:basalt",
+      "Properties": {
+        "axis": "y"
+      }
+    }
+  }
+}

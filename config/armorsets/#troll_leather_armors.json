@@ -1,0 +1,40 @@
+{
+  "armorSetName": "troll_leather.armors",
+  "head": {
+    "itemKey": "iceandfire:forest_troll_leather_helmet",
+    "mixAndMatch": [
+      "iceandfire:mountain_troll_leather_helmet",
+      "iceandfire:frost_troll_leather_helmet"
+    ]
+  },
+  "chest": {
+    "itemKey": "iceandfire:forest_troll_leather_chestplate",
+    "mixAndMatch": [
+      "iceandfire:mountain_troll_leather_chestplate",
+      "iceandfire:frost_troll_leather_chestplate"
+    ]
+  },
+  "legs": {
+    "itemKey": "iceandfire:forest_troll_leather_leggings",
+    "mixAndMatch": [
+      "iceandfire:mountain_troll_leather_leggings",
+      "iceandfire:frost_troll_leather_leggings"
+    ]
+  },
+  "boots": {
+    "itemKey": "iceandfire:forest_troll_leather_boots",
+    "mixAndMatch": [
+      "iceandfire:mountain_troll_leather_boots",
+      "iceandfire:frost_troll_leather_boots"
+    ]
+  },
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "description": "effect.majruszs_difficulty.bleeding_immunity",
+      "name": "majruszs_difficulty:bleeding_immunity",
+      "value": 0.0,
+      "interactionDuration": 120
+    }
+  ]
+}

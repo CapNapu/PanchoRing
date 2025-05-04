@@ -1,0 +1,13 @@
+name = "Resource Pack Overrides"
+filename = "ResourcePackOverrides-v1.0.1-1.16.5-Forge.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "298ef8e0daf1450cbed701fdf1be84735547d86c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4438893
+project-id = 832644

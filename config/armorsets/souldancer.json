@@ -1,0 +1,34 @@
+{
+  "armorSetName": "souldancer",
+  "head": {
+    "itemKey": "dungeons_gear:souldancer_helmet"
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:souldancer_chestplate"
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:souldancer_leggings"
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:souldancer_boots"
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "effect",
+      "description": "panchoring.effect.spell_damage_2",
+      "name": "ars_nouveau:spell_damage",
+      "value": 1.0,
+      "interactionDuration": 120
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "description": "alexsmobs.potion.soulsteal",
+      "name": "alexsmobs:soulsteal",
+      "value": 0.0,
+      "interactionDuration": 120
+    }
+  ]
+}

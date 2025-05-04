@@ -1,0 +1,77 @@
+{
+  "armorSetName": "dragonscale.armors",
+  "head": {
+    "itemKey": "iceandfire:armor_amythest_helmet",
+    "mixAndMatch": [
+      "iceandfire:armor_black_helmet",
+      "iceandfire:armor_blue_helmet",
+      "iceandfire:armor_bronze_helmet",
+      "iceandfire:armor_copper_helmet",
+      "iceandfire:armor_electric_helmet",
+      "iceandfire:armor_gray_helmet",
+      "iceandfire:armor_green_helmet",
+      "iceandfire:armor_red_helmet",
+      "iceandfire:armor_sapphire_helmet",
+      "iceandfire:armor_silver_helmet",
+      "iceandfire:armor_white_helmet"
+    ]
+  },
+  "chest": {
+    "itemKey": "iceandfire:armor_amythest_chestplate",
+    "mixAndMatch": [
+      "iceandfire:armor_black_chestplate",
+      "iceandfire:armor_blue_chestplate",
+      "iceandfire:armor_bronze_chestplate",
+      "iceandfire:armor_copper_chestplate",
+      "iceandfire:armor_electric_chestplate",
+      "iceandfire:armor_gray_chestplate",
+      "iceandfire:armor_green_chestplate",
+      "iceandfire:armor_red_chestplate",
+      "iceandfire:armor_sapphire_chestplate",
+      "iceandfire:armor_silver_chestplate",
+      "iceandfire:armor_white_chestplate"
+    ]
+  },
+  "legs": {
+    "itemKey": "iceandfire:armor_amythest_leggings",
+    "mixAndMatch": [
+      "iceandfire:armor_black_leggings",
+      "iceandfire:armor_blue_leggings",
+      "iceandfire:armor_bronze_leggings",
+      "iceandfire:armor_copper_leggings",
+      "iceandfire:armor_electric_leggings",
+      "iceandfire:armor_gray_leggings",
+      "iceandfire:armor_green_leggings",
+      "iceandfire:armor_red_leggings",
+      "iceandfire:armor_sapphire_leggings",
+      "iceandfire:armor_silver_leggings",
+      "iceandfire:armor_white_leggings"
+    ]
+  },
+  "boots": {
+    "itemKey": "iceandfire:armor_amythest_boots",
+    "mixAndMatch": [
+      "iceandfire:armor_black_boots",
+      "iceandfire:armor_blue_boots",
+      "iceandfire:armor_bronze_boots",
+      "iceandfire:armor_copper_boots",
+      "iceandfire:armor_electric_boots",
+      "iceandfire:armor_gray_boots",
+      "iceandfire:armor_green_boots",
+      "iceandfire:armor_red_boots",
+      "iceandfire:armor_sapphire_boots",
+      "iceandfire:armor_silver_boots",
+      "iceandfire:armor_white_boots"
+    ]
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "description": "panchoring.attribute.armor_5",
+      "name": "minecraft:generic.armor",
+      "value": 5.0,
+      "modifierUUID": "cc50c96e-8c69-480c-a78d-e89445cb0b1c",
+      "attributeOperation": 0
+    }
+  ]
+}

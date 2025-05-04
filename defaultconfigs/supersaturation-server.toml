@@ -1,0 +1,13 @@
+
+#Saturation overflow settings
+[overflow]
+	#Can gain over saturation while over saturated. Default: false
+	canGainWhileOverSaturated = false
+
+#Hunger overflow settings
+[hunger]
+	#Can hunger overflow. Default: false
+	canHungerOverflow = true
+	#Hunger overflow converts to saturation. Default: true
+	hungerOverflowtoSaturation = true
+

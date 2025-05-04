@@ -1,0 +1,13 @@
+name = "Targetato"
+filename = "targetato-1.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "450fdb809019870fd242c39ce3981f3b0919ad31"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4598358
+project-id = 848657

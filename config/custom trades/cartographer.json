@@ -1,0 +1,44 @@
+{
+  "profession": "minecraft:cartographer",
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:filled_map",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 12,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3
+      },
+      "request": {
+        "itemKey": "mapatlases:atlas",
+        "amount": 1
+      },
+      "tradeExp": 30,
+      "maxUses": 12,
+      "tradeLevel": 5
+    },
+    {
+      "offer": {
+        "itemKey": "supplementaries:globe",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 14
+      },
+      "tradeExp": 30,
+      "maxUses": 12,
+      "tradeLevel": 5
+    }
+  ]
+}

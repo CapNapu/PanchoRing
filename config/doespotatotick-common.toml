@@ -1,0 +1,72 @@
+
+[DoesPotatoTickConfig]
+
+	[DoesPotatoTickConfig."Misc Settings"]
+		#If enabled, Does Potato Tick will send a client message to notify the login players about their mob farm.
+		Notification = false
+		#If enabled, Does Potato Tick will auto-detect the mob farms in your worlds.
+		MobFarmDetection = false
+		#The least count of entities that enables the current chunk to be detected as a mob farm.
+		#Range: > 0
+		MobFarmEntitiesCountThreshold = 1
+		#The type of entities that will be detected.
+		#Do note that all the enemies are always detected no matter what is defined here if you don't disable the DetectEnemies config option below.
+		MobFarmTypes = []
+		#If enabled, Does Potato Tick will keep tracking if your worlds have mob farms of enemies.
+		#Require game restart to take effect.
+		DetectEnemies = true
+
+	[DoesPotatoTickConfig."Entity Ticking Settings"]
+
+		[DoesPotatoTickConfig."Entity Ticking Settings"."General Toggle Settings"]
+			#Master switch for the entity optimization system. Disable to turn off all optimizations.
+			EnableGeneralEntityOptimization = true
+
+		[DoesPotatoTickConfig."Entity Ticking Settings"."Distance Settings"]
+			#Maximum vertical chunk distance where entities will continue ticking.
+			#Range: > 1
+			MaxTickableChunkDistanceInVerticalHeight = 2
+			#Maximum horizontal chunk distance where entities will continue ticking.
+			#Range: > 1
+			MaxTickableChunkDistanceInHorizontalWidth = 4
+
+		[DoesPotatoTickConfig."Entity Ticking Settings"."Only Settings"]
+			#Only optimize living entities (excludes items, projectiles, etc.)
+			OnlyLivingEntitiesOptimizable = false
+			#Only optimize enemies entities.
+			OnlyEnemiesOptimizable = false
+			#Only optimize animals and passive mobs.
+			OnlyAnimalsOptimizable = false
+			#Only apply optimization when no raid is active in the current level.
+			OnlyOptimizableWhenTheCurrentLevelHasNoRaids = false
+
+		[DoesPotatoTickConfig."Entity Ticking Settings"."Always Tick Settings"]
+
+			[DoesPotatoTickConfig."Entity Ticking Settings"."Always Tick Settings".Entities]
+
+				[DoesPotatoTickConfig."Entity Ticking Settings"."Always Tick Settings".Entities."Fast Ignore"]
+					#If true, hostile mobs will ALWAYS tick regardless of distance.
+					EnemiesAlwaysTick = false
+					#If true, projectiles will ALWAYS tick (arrows, fireballs, etc.).
+					ProjectilesAlwaysTick = true
+					#If true, entities that are targeted by projectiles will always tick.
+					ProjectileTargetsAlwaysTick = true
+					#If true, item entities will ALWAYS tick.
+					ItemEntitiesAlwaysTick = false
+					#If true, raiders will always tick if the current level has an active raid.
+					RaidersAlwaysTickWhenTheCurrentLevelHasRaids = true
+					#If true, animals will ALWAYS tick regardless of distance.
+					AnimalsAlwaysTick = false
+
+				[DoesPotatoTickConfig."Entity Ticking Settings"."Always Tick Settings".Entities.Blacklist]
+					#A list of specific entities that will always tick no matter what.
+					EntitiesThatWillAlwaysTick = ["minecraft:elder_guardian", "minecraft:ender_dragon", "minecraft:ghast", "minecraft:player", "minecraft:wither", "alexsmobs:cachalot_whale", "alexsmobs:dropbear", "alexsmobs:spectre", "alexsmobs:sunbird", "alexsmobs:void_worm_part", "alexsmobs:void_worm", "alexsmobs:warped_mosco", "ars_nouveau:wilden_boss", "bosses_of_mass_destruction:gauntlet", "bosses_of_mass_destruction:lich", "bosses_of_mass_destruction:obsidilith", "bosses_of_mass_destruction:void_blossom", "cataclysm:ender_golem", "cataclysm:ender_guardian", "cataclysm:ignis", "cataclysm:ignited_revenant", "cataclysm:netherite_monstrosity", "iceandfire:amphithere", "iceandfire:cyclops", "iceandfire:dragon_multipart" , "iceandfire:fire_dragon", "iceandfire:hippocampus", "iceandfire:hippogryph", "iceandfire:hydra", "iceandfire:ice_dragon", "iceandfire:lightning_dragon", "iceandfire:sea_serpent", "mowziesmobs:barako", "mowziesmobs:ferrous_wroughtnaut", "mowziesmobs:frostmaw", "mowziesmobs:naga"]
+					#All entities from these mod IDs will always tick.
+					EntitiesOfTheModsThatWillAlwaysTick = []
+					#A list of raider entities that will always tick.
+					RaidersThatWillAlwaysTick = []
+
+			[DoesPotatoTickConfig."Entity Ticking Settings"."Always Tick Settings".Dimensions]
+				#A whitelist of dimensions where entity optimization is enabled. Leave empty to allow all.
+				OptimizableDimensions = []
+

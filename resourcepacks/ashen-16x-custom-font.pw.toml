@@ -1,0 +1,13 @@
+name = "Ashen 16x Custom Font"
+filename = "Ashen_Custom_Font.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "17d79951b6f0c1afc9f093e96fefae1cd1ee27f3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5960200
+project-id = 1063255

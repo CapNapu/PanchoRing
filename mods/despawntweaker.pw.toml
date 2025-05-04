@@ -1,0 +1,13 @@
+name = "DespawnTweaker"
+filename = "despawn_tweaker-1.16.5-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e76431665940c002b128ec049f65c7e91df77259"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5098398
+project-id = 905468

@@ -1,0 +1,36 @@
+{
+  "armorSetName": "dragonsteel_lightning",
+  "head": {
+    "itemKey": "iceandfire:dragonsteel_lightning_helmet"
+  },
+  "chest": {
+    "itemKey": "iceandfire:dragonsteel_lightning_chestplate"
+  },
+  "legs": {
+    "itemKey": "iceandfire:dragonsteel_lightning_leggings"
+  },
+  "boots": {
+    "itemKey": "iceandfire:dragonsteel_lightning_boots"
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "effect",
+      "description": "effect.ars_nouveau.shocked",
+      "name": "ars_nouveau:shocked",
+      "value": 0.0,
+      "interactionType": "immunity",
+      "interactionDuration": 120
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "description": "panchoring.attribute.armor_5",
+      "name": "minecraft:generic.armor",
+      "value": 0.0,
+      "modifierUUID": "2dc3c1e6-c20e-4925-8785-9114861078bf",
+      "attributeOperation": 0
+    }
+  ]
+}

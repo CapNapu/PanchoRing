@@ -1,0 +1,13 @@
+name = "Inventory Tweaks Renewed"
+filename = "invtweaks-1.16.4-1.0.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "41843818ea8de899a382142acad34cf2d7b8d2b5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3102237
+project-id = 383070

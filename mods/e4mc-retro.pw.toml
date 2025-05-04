@@ -1,0 +1,13 @@
+name = "e4mc Retro"
+filename = "e4mc-retro_forge-1.0.2+1.16.x.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "673e8d1d1863b629aab88607f54ab81813f28a5e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6802000
+project-id = 1302894

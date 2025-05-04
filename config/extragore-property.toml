@@ -1,0 +1,124 @@
+# ExtraGore Particle Group Configuration
+# ------------------------------------------------------
+# This file enables the creation of custom blood particle properties for various entities.
+# Begin by uniquely naming each property group to effectively manage different settings.
+
+# Particle Behavior Options:
+# - Bounce: The particle will bounce off surfaces like a solid object.
+# - Stick: The particle will stick to walls and other surfaces.
+# - Magic: Some particles will fall to the ground while the majority will fly up to the sky.
+# - None: The particle won't have any special effects.
+
+# Particle Weight Options:
+# - Heavy: The particle will sink to the bottom when it's underwater.
+# - Light: The particle will float up to the top of the water.
+
+# Particle State Options:
+# - Liquid: The particle will get larger during its lifetime.
+# - Solid: The particle will remain the same size all the time.
+
+# Color Settings:
+# Set an RGB color value to visually distinguish particles for various entities.
+
+# How to Use:
+# 1. Define a group with a name, including behavior, weight, state, color and entity values.
+# 2. Example:
+#    ["Color Group Name"]
+#    behavior = Choose from "Stuck", "Bounce" or "None"
+#    weight = Choose from "Heavy" or "Light"
+#    state = Choose from "Liquid" or "Solid"
+#    color = "R,G,B"
+#    entities = ["entityID1", "entityID2"]
+# 3. You can modify or delete any predefined groups, except for the red group. The red group is non editable and serves only to show you unused entities which are compatible with different color groups.
+# 4. Add your custom color groups under an already predefined group, except for the red one.
+# 5. Ensure each color group has a unique name and is properly structured.
+
+# Note: Incorrectly formatted lines or unrecognized entity IDs will be ignored.
+# ------------------------------------------------------
+
+["Violet"]
+behavior = "Magic"
+weight = "Light"
+state = "Liquid"
+color = "128,0,128"
+entities = ["minecraft:enderman", "minecraft:endermite", "minecraft:shulker", "alexsmobs:endergrade", "alexsmobs:enderiophage", "alexsmobs:mimicube", "alexsmobs:mungus", "alexsmobs:spectre", "alexsmobs:warped_toad", "bygonenether:warped_enderman", "cataclysm:ender_golem", "cataclysm:endermaptera", "infernalexp:warpbeetle", "majruszs_difficulty:sky_keeper"]
+
+["White"]
+behavior = "Bounce"
+weight = "Heavy"
+state = "Solid"
+color = "255,255,255"
+entities = ["minecraft:iron_golem", "minecraft:skeleton_horse", "minecraft:skeleton", "minecraft:stray", "alexsmobs:bone_serpent_part", "alexsmobs:bone_serpent", "ars_elemental:summon_skelehorse", "majruszs_difficulty:elite_skeleton"]
+
+["Black"]
+behavior = "Bounce"
+weight = "Heavy"
+state = "Solid"
+color = "64,64,64"
+entities = ["minecraft:wither_skeleton", "alexsmobs:soul_vulture", "bygonenether:corpor", "bygonenether:wither_skeleton_horse", "bygonenether:wraither", "epicfight:wither_skeleton_minion"]
+
+["Green"]
+behavior = "Stick"
+weight = "Light"
+state = "Liquid"
+color = "0,255,0"
+entities = ["minecraft:bee", "minecraft:cave_spider", "minecraft:creeper", "minecraft:silverfish", "minecraft:slime", "minecraft:spider", "alexsmobs:centipede_body", "alexsmobs:centipede_head", "alexsmobs:centipede_tail", "alexsmobs:cockroach", "alexsmobs:fly", "alexsmobs:leafcutter_ant", "alexsmobs:tarantula_hawk", "iceandfire:hydra", "majruszs_difficulty:creeperling", "mowziesmobs:baby_foliaath", "mowziesmobs:foliaath", "mowziesmobs:lantern", "mowziesmobs:naga"]
+
+["Yellow"]
+behavior = "Stick"
+weight = "Heavy"
+state = "Liquid"
+color = "255,255,0"
+entities = ["minecraft:blaze", "minecraft:magma_cube", "minecraft:strider", "alexsmobs:dropbear", "alexsmobs:guster", "alexsmobs:straddler", "alexsmobs:stradpole", "alexsmobs:sunbird", "cataclysm:ignited_revenant", "infernalexp:blindsight", "infernalexp:glowsilk_moth", "infernalexp:glowsquito", "infernalexp:voline", "mowziesmobs:grottol"]
+
+["Blue"]
+behavior = "None"
+weight = "Light"
+state = "Liquid"
+color = "0,0,255"
+entities = ["minecraft:elder_guardian", "minecraft:guardian", "minecraft:squid", "alexsmobs:blobfish", "alexsmobs:lobster", "alexsmobs:mantis_shrimp", "alexsmobs:mimic_octopus", "iceandfire:hippocampus", "iceandfire:sea_serpent", "iceandfire:siren"]
+
+["Dark Red"]
+behavior = "None"
+weight = "Light"
+state = "Liquid"
+color = "128,64,0"
+entities = ["minecraft:drowned", "minecraft:husk", "minecraft:ravager", "minecraft:zoglin", "minecraft:zombie_horse", "minecraft:zombie_villager", "minecraft:zombie", "minecraft:zombified_piglin", "ars_elemental:summon_direwolf", "iceandfire:cockatrice", "mowziesmobs:barakoa_sunblocker_player", "mowziesmobs:barakoa_sunblocker", "mowziesmobs:barakoan_barakoana", "mowziesmobs:barakoan_player", "mowziesmobs:barakoana", "mowziesmobs:barakoaya"]
+
+["Cyan"]
+behavior = "Magic"
+weight = "Light"
+state = "Solid"
+color = "0,255,255"
+entities = ["minecraft:vex", "alexsmobs:warped_mosco", "ars_elemental:summon_vhex", "ars_nouveau:ally_vex", "bygonenether:wex", "dungeons_gear:soul_wizard", "iceandfire:ghost", "infernalexp:embody"]
+
+["Magenta"]
+behavior = "None"
+weight = "Light"
+state = "Liquid"
+color = "255,0,255"
+entities = ["ars_nouveau:blazing_weald_walker", "ars_nouveau:carbuncle", "ars_nouveau:cascading_weald_walker", "ars_nouveau:drygmy", "ars_nouveau:familiar_bookwyrm", "ars_nouveau:familiar_carbuncle", "ars_nouveau:familiar_drygmy", "ars_nouveau:familiar_sylph", "ars_nouveau:familiar_wixie", "ars_nouveau:flourishing_weald_walker", "ars_nouveau:sylph", "ars_nouveau:vexing_weald_walker"]
+
+["Fire Dragon"]
+behavior = "None"
+weight = "Heavy"
+state = "Liquid"
+color = "255,64,0"
+entities = ["iceandfire:fire_dragon"]
+
+["Ice Dragon"]
+behavior = "None"
+weight = "Heavy"
+state = "Liquid"
+color = "0,192,192"
+entities = ["iceandfire:ice_dragon"]
+
+["Lightning Dragon"]
+behavior = "None"
+weight = "Heavy"
+state = "Liquid"
+color = "192,0,192"
+entities = ["iceandfire:lightning_dragon"]
+
+# Auto generated red color group - do not edit. Use this as reference for unused entity IDs.
+"255,0,0" = []

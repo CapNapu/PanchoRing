@@ -1,0 +1,13 @@
+name = "Kai Fixes Diorite"
+filename = "Kai Fixes Diorite - 1.20.1.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "031b749e711df11c9b9240886a1d1d813a0a478f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6423064
+project-id = 1242996

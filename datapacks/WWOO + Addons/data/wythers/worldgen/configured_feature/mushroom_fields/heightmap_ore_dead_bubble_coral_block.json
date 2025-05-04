@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count",
+      "config": {
+        "count": 10
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:decorated",
+          "config": {
+            "outer": {
+              "type": "minecraft:square",
+              "config": {}
+            },
+            "inner": {
+              "type": "minecraft:heightmap",
+              "config": {}
+            }
+          }
+        },
+        "feature": {
+          "type": "minecraft:ore",
+          "config": {
+            "state": {
+              "Name": "minecraft:dead_bubble_coral_block"
+            },
+            "size": 15,
+            "target": {
+              "predicate_type": "minecraft:block_match",
+              "block": "minecraft:dead_brain_coral_block"
+            }
+          }
+        }
+      }
+    }
+  }
+}

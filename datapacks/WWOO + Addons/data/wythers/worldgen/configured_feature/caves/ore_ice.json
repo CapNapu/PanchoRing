@@ -1,0 +1,58 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count_extra",
+      "config": {
+        "count": 10000,
+        "extra_count": 0,
+        "extra_chance": 0
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:decorated",
+          "config": {
+            "outer": {
+              "type": "minecraft:square",
+              "config": {}
+            },
+            "inner": {
+              "type": "minecraft:range",
+              "config": {
+                "maximum": 150,
+                "bottom_offset": 65,
+                "top_offset": 0
+              }
+            }
+          }
+        },
+        "feature": {
+          "type": "minecraft:simple_block",
+          "config": {
+            "to_place": {
+              "Name": "minecraft:packed_ice"
+            },
+            "place_on": [
+              {
+                "Name": "minecraft:cave_air"
+              }
+            ],
+            "place_in": [
+              {
+                "Name": "minecraft:stone"
+              }
+            ],
+            "place_under": [
+              {
+                "Name": "minecraft:stone"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

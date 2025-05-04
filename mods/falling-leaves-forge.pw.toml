@@ -1,0 +1,13 @@
+name = "Falling Leaves (NeoForge/Forge)"
+filename = "Fallingleaves-1.16.3-1.2.4.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "c5dcc47754d25632061beda05655138381ea9dec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3616068
+project-id = 463155

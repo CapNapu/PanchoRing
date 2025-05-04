@@ -1,0 +1,13 @@
+name = "Ost Overhaul"
+filename = "ostOverhaul-0.1-1.16-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "309f1af2a3675f9e243d30dfcd52a98f745f394d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3390987
+project-id = 504439

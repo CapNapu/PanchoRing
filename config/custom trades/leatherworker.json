@@ -1,0 +1,476 @@
+{
+  "profession": "minecraft:leatherworker",
+  "removeOtherTrades": true,
+  "trades": [    
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:leather",
+        "amount": 6
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:leather_chestplate",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3
+      },
+      "tradeExp": 1,
+      "maxUses": 12,
+      "priceMultiplier": 0.2,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:leather_leggings",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3
+      },
+      "tradeExp": 1,
+      "maxUses": 12,
+      "priceMultiplier": 0.2,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:leather_helmet",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.2,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:leather_boots",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.2,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:rabbit_hide",
+        "amount": 9
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "alexsmobs:kangaroo_hide",
+        "amount": 4
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:saddle",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 6
+      },
+      "tradeExp": 20,
+      "maxUses": 12,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "majruszs_difficulty:hermes_boots",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 13
+      },
+      "additionalRequest": {
+        "itemKey": "minecraft:leather_boots",
+        "amount": 1
+      },
+      "tradeExp": 20,
+      "maxUses": 3,
+      "priceMultiplier": 0.2,
+      "tradeLevel": 3
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "dungeons_gear:hunters_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:evocation_robes_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:guards_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:phantom_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:soul_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:spelunker_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:thief_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:wolf_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:climbing_helmet",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 8,
+        "amountRange": 11
+      },
+      "tradeExp": 20,
+      "maxUses": 3,
+      "priceMultiplier": 0.2,
+      "tradeLevel": 4
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "dungeons_gear:hunters_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:evocation_robes_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:guards_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:phantom_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:soul_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:spelunker_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:thief_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:wolf_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:climbing_helmet",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 8,
+        "amountRange": 11
+      },
+      "tradeExp": 20,
+      "maxUses": 3,
+      "priceMultiplier": 0.2,
+      "tradeLevel": 4
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "dungeons_gear:hunters_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:evocation_robes_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:guards_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:phantom_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:soul_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:spelunker_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:thief_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:wolf_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:climbing_helmet",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 8,
+        "amountRange": 11
+      },
+      "tradeExp": 20,
+      "maxUses": 3,
+      "priceMultiplier": 0.2,
+      "tradeLevel": 4
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "dungeons_gear:hunters_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:evocation_robes_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:guards_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:phantom_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:soul_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:spelunker_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:thief_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:wolf_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:climbing_helmet",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 8,
+        "amountRange": 11
+      },
+      "tradeExp": 20,
+      "maxUses": 3,
+      "priceMultiplier": 0.2,
+      "tradeLevel": 4
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "dungeons_gear:archers_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:ember_robes_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:curious_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:cave_crawler_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:fox_helmet",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:rugged_climbing_helmet",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 14,
+        "amountRange": 19
+      },
+      "tradeExp": 30,
+      "maxUses": 3,
+      "priceMultiplier": 0.2,
+      "tradeLevel": 5
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "dungeons_gear:archers_chestplate",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:ember_robes_chestplate",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:curious_chestplate",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:cave_crawler_chestplate",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:fox_chestplate",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:rugged_climbing_chestplate",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 14,
+        "amountRange": 19
+      },
+      "tradeExp": 30,
+      "maxUses": 3,
+      "priceMultiplier": 0.2,
+      "tradeLevel": 5
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "dungeons_gear:archers_leggings",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:ember_robes_leggings",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:curious_leggings",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:cave_crawler_leggings",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:fox_leggings",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:rugged_climbing_leggings",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 14,
+        "amountRange": 19
+      },
+      "tradeExp": 30,
+      "maxUses": 3,
+      "priceMultiplier": 0.2,
+      "tradeLevel": 5
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "dungeons_gear:archers_boots",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:ember_robes_boots",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:curious_boots",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:cave_crawler_boots",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:fox_boots",
+          "amount": 1
+        },
+        {
+          "itemKey": "dungeons_gear:rugged_climbing_boots",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 14,
+        "amountRange": 19
+      },
+      "tradeExp": 30,
+      "maxUses": 3,
+      "priceMultiplier": 0.2,
+      "tradeLevel": 5
+    }
+  ]
+}

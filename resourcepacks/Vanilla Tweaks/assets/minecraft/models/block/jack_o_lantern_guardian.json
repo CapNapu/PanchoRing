@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "block/jack_o_lantern_guardian",
+    "north": "block/jack_o_lantern_guardian",
+    "south": "block/pumpkin_side",
+    "east": "block/jack_o_lantern_guardian_side_left",
+    "west": "block/jack_o_lantern_guardian_side_right",
+    "up": "block/pumpkin_top",
+    "down": "block/pumpkin_top"
+  }
+}

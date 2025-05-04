@@ -1,0 +1,13 @@
+name = "End's Phantasm: Brighter oblivion"
+filename = "brighter oblivion.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "2a4266d79d4e028e37fdccabb592994c5fdd0607"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4471017
+project-id = 845525

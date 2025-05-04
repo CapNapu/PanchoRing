@@ -1,0 +1,57 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count_extra",
+      "config": {
+        "count": 30,
+        "extra_count": 0,
+        "extra_chance": 0
+      }
+    },
+    "feature": {
+      "type": "minecraft:random_selector",
+      "config": {
+        "features": [
+          {
+            "chance": 0.05,
+            "feature": "wythers:jungle/tree_component/jungle_tree_foot_1"
+          },
+          {
+            "chance": 0.025,
+            "feature": "wythers:jungle/tree_component/jungle_tree_foot_2"
+          },
+          {
+            "chance": 0.025,
+            "feature": "wythers:jungle/tree_component/jungle_tree_foot_3"
+          },
+          {
+            "chance": 0.2,
+            "feature": "wythers:jungle/tree_component/jungle_tree_trunk_1"
+          },
+          {
+            "chance": 0.2,
+            "feature": "wythers:jungle/tree_component/jungle_tree_trunk_2"
+          },
+          {
+            "chance": 0.2,
+            "feature": "wythers:jungle/tree_component/jungle_tree_top"
+          },
+          {
+            "chance": 0.1,
+            "feature": "wythers:jungle/tree_component/jungle_tree_branch_1"
+          },
+          {
+            "chance": 0.1,
+            "feature": "wythers:jungle/tree_component/jungle_tree_branch_2"
+          },
+          {
+            "chance": 0.1,
+            "feature": "wythers:jungle/tree_component/jungle_tree_branch_3"
+          }
+        ],
+        "default": "wythers:jungle/tree_component/jungle_tree_top"
+      }
+    }
+  }
+}
