@@ -1,0 +1,13 @@
+name = "Food Effects"
+filename = "foodeffects-1.16.5-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a4461f6c11ad8bba2d4b92efc565d8a29cd29fb8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3517930
+project-id = 452816

@@ -1,0 +1,13 @@
+name = "Infernal Expansion"
+filename = "infernal-expansion-1.16.5-2.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a2032508534c84511ed4759eabb9b27378a992da"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3854047
+project-id = 395078

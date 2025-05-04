@@ -1,0 +1,36 @@
+{
+  "armorSetName": "archers",
+  "head": {
+    "itemKey": "dungeons_gear:archers_helmet"
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:archers_chestplate"
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:archers_leggings"
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:archers_boots"
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "attribute",
+      "description": "panchoring.attribute.staminar_25",
+      "name": "epicfight:staminar",
+      "value": 0.25,
+      "modifierUUID": "7b535a50-65a4-4f6f-93d7-af6c442461cf",
+      "attributeOperation": 1
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "description": "panchoring.attribute.staminar_75",
+      "name": "epicfight:staminar",
+      "value": 0.75,
+      "modifierUUID": "b8591b2c-ebdc-4a9b-9884-e881ac5eecd4",
+      "attributeOperation": 1
+    }
+  ]
+}

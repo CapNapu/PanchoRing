@@ -1,0 +1,35 @@
+{
+  "armorSetName": "frost",
+  "head": {
+    "itemKey": "dungeons_gear:frost_helmet"
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:frost_chestplate"
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:frost_leggings"
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:frost_boots"
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "effect",
+      "description": "panchoring.effect.spell_damage_2",
+      "name": "ars_nouveau:spell_damage",
+      "value": 1.0,
+      "interactionDuration": 120
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "description": "effect.cataclysm.blazing_brand",
+      "name": "cataclysm:blazing_brand",
+      "value": 0.0,
+      "interactionType": "immunity",
+      "interactionDuration": 120
+    }
+  ]
+}

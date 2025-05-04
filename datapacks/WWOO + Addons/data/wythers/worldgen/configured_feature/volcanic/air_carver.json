@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:simple_block",
+  "config": {
+    "to_place": {
+      "Name": "minecraft:cave_air"
+    },
+    "place_on": [
+      {
+        "Name": "minecraft:cave_air"
+      },
+      {
+        "Name": "minecraft:lava",
+        "Properties": {
+          "level": "0"
+        }
+      },
+      {
+        "Name": "minecraft:stone"
+      }
+    ],
+    "place_in": [
+      {
+        "Name": "minecraft:stone"
+      }
+    ],
+    "place_under": [
+      {
+        "Name": "minecraft:stone"
+      },
+      {
+        "Name": "minecraft:cave_air"
+      }
+    ]
+  }
+}

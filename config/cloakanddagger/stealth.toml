@@ -1,0 +1,19 @@
+#whether invisibility will be removed on attack
+"attacking dispels invisibility" = false
+#whether you must pass stealth checks to perceive a mob. Currently rather incomplete. I am not responsible for ragequits caused by this option. This physically ceases to work with Optifine installed.
+"use player senses" = false
+#angle of detection on the xz plane
+#Range: 0 ~ 360
+"default mob horizontal FoV" = 120
+#angle of detection on the y axis
+#Range: 0 ~ 360
+"default mob vertical FoV" = 60
+#posture and health damage multiplier for distracted stabs
+#Range: 0.0 ~ 1.7976931348623157E308
+"distracted stab multiplier" = 1.0
+#posture and health damage multiplier for unaware stabs
+#Range: 0.0 ~ 1.7976931348623157E308
+"unaware stab multiplier" = 1.0
+#whether unaware stabs ignore parry, deflection, shatter, and absorption
+"unaware stab defense ignore" = true
+

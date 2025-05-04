@@ -1,0 +1,13 @@
+name = "Kerria"
+filename = "Kerria-1.3.2+1.16.5-forge.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "6ff23b3fb468b15fe722c172b51954449b47eab5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8361802
+project-id = 1503432

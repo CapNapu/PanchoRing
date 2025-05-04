@@ -1,0 +1,14 @@
+{
+  "config": {
+    "top_material": {
+      "Name": "minecraft:snow_block"
+    },
+    "under_material": {
+      "Name": "minecraft:packed_ice"
+    },
+    "underwater_material": {
+      "Name": "minecraft:blue_ice"
+    }
+  },
+  "type": "minecraft:wooded_badlands"
+}

@@ -1,0 +1,13 @@
+name = "Bee Fix"
+filename = "BeeFix-1.16.2-1.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8e114de818ba19761b16a3eca32518fd7f43ade1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4203413
+project-id = 547989

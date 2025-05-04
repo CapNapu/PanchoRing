@@ -1,0 +1,13 @@
+name = "You Died Refreshed"
+filename = "you_died_refresh.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "29d26a6aeea8394e6995541d6f6315e01a1be714"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5620377
+project-id = 1082298

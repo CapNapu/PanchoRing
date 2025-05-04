@@ -1,0 +1,33 @@
+{
+  "name": "wythers:village/jungle/houses",
+  "fallback": "wythers:village/jungle/terminators",
+  "elements": [
+    {
+      "weight": 2,
+      "element": {
+        "location": "wythers:village/jungle/houses/small_1",
+        "processors": "wythers:house_jungle",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "wythers:village/jungle/houses/conical_1",
+        "processors": "wythers:house_jungle",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "wythers:village/jungle/houses/a_frame_1",
+        "processors": "wythers:house_jungle",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

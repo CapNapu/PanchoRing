@@ -1,0 +1,34 @@
+{
+  "armorSetName": "titans_shroud",
+  "head": {
+    "itemKey": "dungeons_gear:titans_shroud_helmet"
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:titans_shroud_chestplate"
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:titans_shroud_leggings"
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:titans_shroud_boots"
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "effect",
+      "description": "effect.minecraft.hero_of_the_village",
+      "name": "minecraft:hero_of_the_village",
+      "value": 0.0,
+      "interactionDuration": 120
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "description": "effect.dungeons_gear.party_starter",
+      "name": "dungeons_gear:party_starter",
+      "value": 0.0,
+      "interactionDuration": 120
+    }
+  ]
+}

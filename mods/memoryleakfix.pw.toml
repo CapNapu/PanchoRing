@@ -1,0 +1,13 @@
+name = "MemoryLeakFix"
+filename = "memoryleakfix-forge-pre1.17-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a18ea3b931126ea3a26cccc7d1b3b6e39f1af443"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4465267
+project-id = 627566

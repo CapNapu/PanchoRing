@@ -1,0 +1,61 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count_noise",
+      "config": {
+        "noise_level": -1,
+        "below_noise": -500,
+        "above_noise": 500
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:decorated",
+          "config": {
+            "outer": {
+              "type": "minecraft:square",
+              "config": {}
+            },
+            "inner": {
+              "type": "minecraft:range",
+              "config": {
+                "maximum": 100,
+                "bottom_offset": 70,
+                "top_offset": 0
+              }
+            }
+          }
+        },
+        "feature": {
+          "type": "minecraft:simple_block",
+          "config": {
+            "to_place": {
+              "Name": "minecraft:mycelium",
+              "Properties": {
+                "snowy": "false"
+              }
+            },
+            "place_on": [
+              {
+                "Name": "minecraft:stone"
+              }
+            ],
+            "place_in": [
+              {
+                "Name": "minecraft:stone"
+              }
+            ],
+            "place_under": [
+              {
+                "Name": "minecraft:cave_air"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

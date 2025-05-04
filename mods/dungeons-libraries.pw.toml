@@ -1,0 +1,13 @@
+name = "Dungeons Libraries"
+filename = "dungeons_libraries-1.16.5-1.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "166a33f385dae770b2d92038f674c144855b481c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4363206
+project-id = 550941

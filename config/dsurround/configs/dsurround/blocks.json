@@ -1,0 +1,73 @@
+[
+  {
+    "blocks": [
+      "minecraft:coarse_dirt",
+      "minecraft:farmland",
+      "minecraft:grass_block",
+      "minecraft:grass_path",
+      "minecraft:mycelium",
+      "minecraft:podzol",
+      "extcaves:marlstone_powder",
+      "iceandfire:graveyard_soil",
+      "slabgen:coarse_dirt_slab",
+      "slabgen:dirt_slab",
+      "slabgen:grass_slab",
+      "slabgen:mycelium_slab",
+      "slabgen:path_slab",
+      "slabgen:podzol_slab"
+    ],
+    "effects": [
+      {
+        "chance": 500,
+        "effect": "dust"
+      }
+    ]
+  },
+  {
+    "acoustics": [
+      {
+        "acoustic": "environs:ice"
+      }
+    ],
+    "blocks": [
+      "minecraft:blue_ice",
+      "iceandfire:dragon_ice"
+    ],
+    "chance": 10000
+  },
+  {
+    "acoustics": [
+      {
+        "acoustic": "soulsand/laughter",
+        "conditions": "dim.getId() == 'minecraft:the_nether'"
+      }
+    ],
+    "blocks": [
+      "minecraft:soul_soil"
+    ],
+    "chance": 8000
+  },
+  {
+    "acoustics": [
+      {
+        "acoustic": "netherbrick/breathing",
+        "conditions": "dim.getId() == 'minecraft:the_nether'"
+      }
+    ],
+    "blocks": [
+      "minecraft:chiseled_nether_bricks",
+      "minecraft:cracked_nether_bricks",
+      "minecraft:nether_brick_slab",
+      "minecraft:nether_brick_wall",
+      "minecraft:red_nether_brick_slab",
+      "minecraft:red_nether_brick_stairs",
+      "minecraft:red_nether_brick_wall",
+      "minecraft:red_nether_bricks",
+      "bygonenether:chiseled_warped_nether_bricks",
+      "bygonenether:warped_nether_brick_slab",
+      "bygonenether:warped_nether_brick_stairs",
+      "bygonenether:warped_nether_bricks"
+    ],
+    "chance": 8000
+  }
+]

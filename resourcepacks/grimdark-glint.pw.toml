@@ -1,0 +1,13 @@
+name = "Kal's Grimdark Enchantment Glints"
+filename = "Gridark-VoidPurple-Glint-v1-0-12.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "62809c7fe80d9eeb9e0e18a7a132c2602f8aae61"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4452712
+project-id = 841003

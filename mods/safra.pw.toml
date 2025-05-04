@@ -1,0 +1,13 @@
+name = "Safra"
+filename = "Safra-forge-1.16.5-3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "34eddb265764b3d08589bdf84bd439ec7be9695c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8638445
+project-id = 1532794

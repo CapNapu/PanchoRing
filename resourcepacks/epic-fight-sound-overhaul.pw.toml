@@ -1,0 +1,13 @@
+name = "Epic Fight Sound Overhaul"
+filename = "EpicFightSoundOverhaul4.0.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "6057bf5a9bd98daac5eb16e6b5103650ec426c0d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7008961
+project-id = 1141714

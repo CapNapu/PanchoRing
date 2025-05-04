@@ -1,0 +1,13 @@
+name = "RPG-Hud [Forge]"
+filename = "[1.16.5][Forge] RPG-HUD-3.9.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "c197b5b834eff8d65ef4a726a1aa0d1be50d8406"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3808188
+project-id = 235670

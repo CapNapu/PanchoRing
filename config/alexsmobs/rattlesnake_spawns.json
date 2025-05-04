@@ -1,0 +1,18 @@
+{
+  "biomes": [
+    [
+      {
+        "negate": false,
+        "type": "REGISTRY_NAME",
+        "value": "minecraft:desert"
+      }
+    ],
+    [
+      {
+        "negate": false,
+        "type": "REGISTRY_NAME",
+        "value": "projectvibrantjourneys:verdant_sands"
+      }
+    ]
+  ]
+}

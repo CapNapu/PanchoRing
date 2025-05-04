@@ -1,0 +1,81 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count_noise_biased",
+      "config": {
+        "noise_to_count_ratio": -1,
+        "noise_factor": 100,
+        "noise_offset": 0.45
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:decorated",
+          "config": {
+            "outer": {
+              "type": "minecraft:square",
+              "config": {}
+            },
+            "inner": {
+              "type": "minecraft:heightmap",
+              "config": {}
+            }
+          }
+        },
+        "feature": {
+          "type": "minecraft:decorated",
+          "config": {
+            "decorator": {
+              "type": "minecraft:count_extra",
+              "config": {
+                "count": 0,
+                "extra_count": 1,
+                "extra_chance": 0.2
+              }
+            },
+            "feature": {
+              "type": "minecraft:block_pile",
+              "config": {
+                "state_provider": {
+                  "type": "minecraft:weighted_state_provider",
+                  "entries": [
+                    {
+                      "weight": 3,
+                      "data": {
+                        "Name": "minecraft:hay_block",
+                        "Properties": {
+                          "axis": "y"
+                        }
+                      }
+                    },
+                    {
+                      "weight": 1,
+                      "data": {
+                        "Name": "minecraft:hay_block",
+                        "Properties": {
+                          "axis": "x"
+                        }
+                      }
+                    },
+                    {
+                      "weight": 1,
+                      "data": {
+                        "Name": "minecraft:hay_block",
+                        "Properties": {
+                          "axis": "z"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

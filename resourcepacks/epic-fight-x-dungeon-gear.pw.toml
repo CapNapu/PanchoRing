@@ -1,0 +1,13 @@
+name = "EPIC FIGHT x DUNGEON GEAR"
+filename = "dungeongearefm-rp.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "e34e8716f04c92f7437993f23bd832565d9ba96a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5043688
+project-id = 963850

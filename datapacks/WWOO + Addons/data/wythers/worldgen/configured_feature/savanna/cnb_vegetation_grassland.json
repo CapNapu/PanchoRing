@@ -1,0 +1,51 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "feature": {
+          "config": {
+            "features": [
+              {
+                "feature": "wythers:savanna/trees_baobabs_bloated",
+                "chance": 0.001
+              },
+              {
+                "feature": "minecraft:acacia",
+                "chance": 0.08
+              },
+              {
+                "feature": "wythers:generic/feature_tree_acacia_bush",
+                "chance": 0.02
+              }
+            ],
+            "default": "wythers:generic/patch_stones_south_1"
+          },
+          "type": "minecraft:random_selector"
+        },
+        "decorator": {
+          "config": {
+            "outer": {
+              "config": {},
+              "type": "minecraft:square"
+            },
+            "inner": {
+              "config": {},
+              "type": "minecraft:heightmap"
+            }
+          },
+          "type": "minecraft:decorated"
+        }
+      },
+      "type": "minecraft:decorated"
+    },
+    "decorator": {
+      "type": "minecraft:count_noise_biased",
+      "config": {
+        "noise_to_count_ratio": 2,
+        "noise_factor": 200,
+        "noise_offset": 1.0
+      }
+    }
+  },
+  "type": "minecraft:decorated"
+}

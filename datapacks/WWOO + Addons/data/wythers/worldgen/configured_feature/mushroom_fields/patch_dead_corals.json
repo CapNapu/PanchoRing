@@ -1,0 +1,154 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:decorated",
+      "config": {
+        "outer": {
+          "type": "minecraft:square",
+          "config": {}
+        },
+        "inner": {
+          "type": "minecraft:heightmap",
+          "config": {}
+        }
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:count",
+          "config": {
+            "count": 10
+          }
+        },
+        "feature": {
+          "type": "minecraft:random_patch",
+          "config": {
+            "can_replace": false,
+            "project": false,
+            "need_water": false,
+            "xspread": 7,
+            "yspread": 3,
+            "zspread": 7,
+            "tries": 32,
+            "state_provider": {
+              "type": "minecraft:weighted_state_provider",
+              "entries": [
+                {
+                  "weight": 4,
+                  "data": {
+                    "Name": "minecraft:dead_tube_coral",
+                    "Properties": {
+                      "waterlogged": "false"
+                    }
+                  }
+                },
+                {
+                  "weight": 4,
+                  "data": {
+                    "Name": "minecraft:dead_horn_coral",
+                    "Properties": {
+                      "waterlogged": "false"
+                    }
+                  }
+                },
+                {
+                  "weight": 4,
+                  "data": {
+                    "Name": "minecraft:dead_fire_coral",
+                    "Properties": {
+                      "waterlogged": "false"
+                    }
+                  }
+                },
+                {
+                  "weight": 4,
+                  "data": {
+                    "Name": "minecraft:dead_brain_coral",
+                    "Properties": {
+                      "waterlogged": "false"
+                    }
+                  }
+                },
+                {
+                  "weight": 4,
+                  "data": {
+                    "Name": "minecraft:dead_bubble_coral",
+                    "Properties": {
+                      "waterlogged": "false"
+                    }
+                  }
+                },
+                {
+                  "weight": 1,
+                  "data": {
+                    "Name": "minecraft:dead_tube_coral_fan",
+                    "Properties": {
+                      "waterlogged": "false"
+                    }
+                  }
+                },
+                {
+                  "weight": 1,
+                  "data": {
+                    "Name": "minecraft:dead_horn_coral_fan",
+                    "Properties": {
+                      "waterlogged": "false"
+                    }
+                  }
+                },
+                {
+                  "weight": 1,
+                  "data": {
+                    "Name": "minecraft:dead_fire_coral_fan",
+                    "Properties": {
+                      "waterlogged": "false"
+                    }
+                  }
+                },
+                {
+                  "weight": 1,
+                  "data": {
+                    "Name": "minecraft:dead_brain_coral_fan",
+                    "Properties": {
+                      "waterlogged": "false"
+                    }
+                  }
+                },
+                {
+                  "weight": 1,
+                  "data": {
+                    "Name": "minecraft:dead_bubble_coral_fan",
+                    "Properties": {
+                      "waterlogged": "false"
+                    }
+                  }
+                }
+              ]
+            },
+            "block_placer": {
+              "type": "minecraft:simple_block_placer"
+            },
+            "whitelist": [
+              {
+                "Name": "minecraft:mossy_cobblestone"
+              },
+              {
+                "Name": "minecraft:dead_brain_coral_block"
+              },
+              {
+                "Name": "minecraft:mycelium",
+                "Properties": {
+                  "snowy": "false"
+                }
+              }
+            ],
+            "blacklist": []
+          }
+        }
+      }
+    }
+  }
+}

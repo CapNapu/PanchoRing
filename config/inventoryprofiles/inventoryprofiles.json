@@ -1,0 +1,33 @@
+{
+  "ModSettings": {
+    "enable_lock_slots": false,
+    "lock_slots_switch_config_modifier": {
+      "main": {
+        "keys": ""
+      }
+    },
+    "lock_slots_config_key": {
+      "main": {
+        "keys": ""
+      }
+    },
+    "disable_for_drop_item": true,
+    "refill_armor": false,
+    "refill_before_tool_break": false
+  },
+  "Hotkeys": {
+    "open_config_menu": {
+      "main": {
+        "keys": ""
+      }
+    },
+    "sort_inventory": {
+      "main": {
+        "keys": ""
+      }
+    }
+  },
+  "Tweaks": {
+    "prevent_close_gui_drop_item": true
+  }
+}

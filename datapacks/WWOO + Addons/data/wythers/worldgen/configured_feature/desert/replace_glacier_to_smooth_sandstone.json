@@ -1,0 +1,110 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count_extra",
+      "config": {
+        "count": 500,
+        "extra_count": 0,
+        "extra_chance": 0
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:square",
+          "config": {}
+        },
+        "feature": {
+          "type": "minecraft:decorated",
+          "config": {
+            "decorator": {
+              "type": "minecraft:nope",
+              "config": {}
+            },
+            "feature": {
+              "type": "minecraft:simple_random_selector",
+              "config": {
+                "features": [
+                  {
+                    "type": "minecraft:decorated",
+                    "config": {
+                      "decorator": {
+                        "type": "minecraft:heightmap",
+                        "config": {}
+                      },
+                      "feature": {
+                        "type": "minecraft:netherrack_replace_blobs",
+                        "config": {
+                          "state": {
+                            "Name": "minecraft:smooth_sandstone"
+                          },
+                          "target": {
+                            "Name": "minecraft:packed_ice"
+                          },
+                          "radius": {
+                            "base": 120,
+                            "spread": 5
+                          }
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "type": "minecraft:decorated",
+                    "config": {
+                      "decorator": {
+                        "type": "minecraft:heightmap",
+                        "config": {}
+                      },
+                      "feature": {
+                        "type": "minecraft:netherrack_replace_blobs",
+                        "config": {
+                          "state": {
+                            "Name": "minecraft:sand"
+                          },
+                          "target": {
+                            "Name": "minecraft:snow_block"
+                          },
+                          "radius": {
+                            "base": 120,
+                            "spread": 5
+                          }
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "type": "minecraft:decorated",
+                    "config": {
+                      "decorator": {
+                        "type": "minecraft:heightmap",
+                        "config": {}
+                      },
+                      "feature": {
+                        "type": "minecraft:netherrack_replace_blobs",
+                        "config": {
+                          "state": {
+                            "Name": "minecraft:smooth_sandstone"
+                          },
+                          "target": {
+                            "Name": "minecraft:blue_ice"
+                          },
+                          "radius": {
+                            "base": 120,
+                            "spread": 5
+                          }
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

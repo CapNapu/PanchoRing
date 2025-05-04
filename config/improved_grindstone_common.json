@@ -1,0 +1,38 @@
+{
+  "xpCostType": {
+    "description": "Choose between cost types: -VANILLA_COST: the costs of the levels will be similar to the anvil -SPECIFIC_COST: determine a specific cost to disenchant items -NO_COST: there will be no cost to disenchant items",
+    "availableValues": "NO_COST, SPECIFIC_COST, VANILLA_COST",
+    "defaultValue": "VANILLA_COST",
+    "value": "VANILLA_COST"
+  },
+  "specificCostValue": {
+    "description": "Specifies the value of SPECIFIC_COST, the type must be selected for this value can work",
+    "defaultValue": 3,
+    "value": 3
+  },
+  "damagePercentageWhenGrind": {
+    "description": "Specifies the value of the damage percent for the item when you use the grindstone",
+    "defaultValue": 10,
+    "value": 10
+  },
+  "allowGrindCurses": {
+    "description": "Defines whether to allow transferring curses by using the grindstone",
+    "defaultValue": false,
+    "value": false
+  },
+  "allowReduceRepairCost": {
+    "description": "Defines whether it is allowed to reduce the repair cost by using the grindstone",
+    "defaultValue": true,
+    "value": true
+  },
+  "showExperienceCostTooltip": {
+    "description": "Defines whether the choose enchantment tooltip displays experience levels (this only works with VANILLA_COST type)",
+    "defaultValue": true,
+    "value": true
+  },
+  "taxFreeLevelsCompatibility": {
+    "description": "Defines compatibility with the TaxFreeLevels mod (will work only if installed)",
+    "defaultValue": true,
+    "value": true
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "name": "wythers:village/jungle/streets",
+  "fallback": "wythers:village/jungle/terminators",
+  "elements": [
+    {
+      "weight": 2,
+      "element": {
+        "location": "wythers:village/jungle/streets/corner_01",
+        "processors": "wythers:street_jungle",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "wythers:village/jungle/streets/corner_03",
+        "processors": "wythers:street_jungle",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "location": "wythers:village/jungle/streets/straight_02",
+        "processors": "wythers:street_jungle",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 7,
+      "element": {
+        "location": "wythers:village/jungle/streets/straight_04",
+        "processors": "wythers:street_jungle",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "wythers:village/jungle/streets/straight_05",
+        "processors": "wythers:street_jungle",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "location": "wythers:village/jungle/streets/straight_06",
+        "processors": "wythers:street_jungle",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "location": "wythers:village/jungle/streets/straight_08",
+        "processors": "wythers:street_jungle",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "location": "wythers:village/jungle/streets/straight_09",
+        "processors": "wythers:street_jungle",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "location": "wythers:village/jungle/streets/straight_10",
+        "processors": "wythers:street_jungle",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "location": "wythers:village/jungle/streets/straight_11",
+        "processors": "wythers:street_jungle",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "wythers:village/jungle/streets/crossroad_02",
+        "processors": "wythers:street_jungle",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "wythers:village/jungle/streets/crossroad_03",
+        "processors": "wythers:street_jungle",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "wythers:village/jungle/streets/crossroad_04",
+        "processors": "wythers:street_jungle",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "wythers:village/jungle/streets/crossroad_05",
+        "processors": "wythers:street_jungle",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "wythers:village/jungle/streets/crossroad_06",
+        "processors": "wythers:street_jungle",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "wythers:village/jungle/streets/crossroad_07",
+        "processors": "wythers:street_jungle",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "wythers:village/jungle/streets/split_01",
+        "processors": "wythers:street_jungle",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "wythers:village/jungle/streets/split_02",
+        "processors": "wythers:street_jungle",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "wythers:village/jungle/streets/turn_01",
+        "processors": "wythers:street_jungle",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

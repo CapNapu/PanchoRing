@@ -1,0 +1,13 @@
+name = "Epic Fight Animations"
+filename = "EF_anmation_1.16_v1.6.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "4cf62f09d12270f50e2cc470af2b2e09c03ea9e4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4017369
+project-id = 529529

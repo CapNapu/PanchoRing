@@ -1,0 +1,67 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "feature": {
+          "config": {
+            "features": [
+              {
+                "feature": "wythers:swamp/cypress/1",
+                "chance": 0.1
+              },
+              {
+                "feature": "wythers:swamp/cypress/2_x",
+                "chance": 0.0475
+              },
+              {
+                "feature": "wythers:swamp/cypress/2_z",
+                "chance": 0.05
+              },
+              {
+                "feature": "wythers:swamp/cypress/3_x",
+                "chance": 0.15
+              },
+              {
+                "feature": "wythers:swamp/cypress/3_z",
+                "chance": 0.175
+              },
+              {
+                "feature": "wythers:swamp/cypress/4",
+                "chance": 0.2
+              },
+              {
+                "feature": "wythers:swamp/cypress/5_x",
+                "chance": 0.1
+              }
+            ],
+            "default": "wythers:swamp/cypress/5_z"
+          },
+          "type": "minecraft:random_selector"
+        },
+        "decorator": {
+          "config": {
+            "outer": {
+              "config": {},
+              "type": "minecraft:square"
+            },
+            "inner": {
+              "config": {},
+              "type": "minecraft:heightmap"
+            }
+          },
+          "type": "minecraft:decorated"
+        }
+      },
+      "type": "minecraft:decorated"
+    },
+    "decorator": {
+      "config": {
+        "count": 4,
+        "extra_chance": 0.1,
+        "extra_count": 1
+      },
+      "type": "minecraft:count_extra"
+    }
+  },
+  "type": "minecraft:decorated"
+}

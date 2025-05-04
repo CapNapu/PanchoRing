@@ -1,0 +1,20 @@
+{
+  "config": {
+    "top_material": {
+      "Properties": {
+        "snowy": "false"
+      },
+      "Name": "minecraft:grass_block"
+    },
+    "under_material": {
+      "Properties": {
+		"axis": "y"
+	  },
+	  "Name": "minecraft:basalt"
+    },
+    "underwater_material": {
+      "Name": "minecraft:coarse_dirt"
+    }
+  },
+  "type": "minecraft:default"
+}

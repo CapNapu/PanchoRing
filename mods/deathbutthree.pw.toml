@@ -1,0 +1,13 @@
+name = "DeathButThree"
+filename = "deathbutthree-1.16.5-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aa3202d0f9fcd4ba50a5814b296739e1a3a21c4a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4965898
+project-id = 881336

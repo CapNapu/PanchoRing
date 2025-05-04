@@ -1,0 +1,16 @@
+#enable displaying this feature
+"enable stealth" = false
+#the point from which offsets will calculate
+#Allowed Values: TOPLEFT, TOPCENTER, TOPRIGHT, MIDDLELEFT, CROSSHAIR, MIDDLERIGHT, BOTTOMLEFT, BOTTOMCENTER, BOTTOMRIGHT
+"stealth anchor point" = "CROSSHAIR"
+#where the center of the HUD element should be in relation to the anchor point
+#Range: > -2147483647
+"stealth x offset" = 0
+#where the center of the HUD element should be in relation to the anchor point
+#Range: > -2147483647
+"stealth y offset" = 0
+#Renders the stealth eye above every mob that can be seen. If this is enabled with the mouseover stealth eye render, the mouseover eye will replace the overhead stealth eye when you are looking directly at an entity.
+"all stealth" = false
+#Change what sound you make when you shout. This is purely cosmetic and the sound will always be of volume 2.
+"shout sound" = ""
+

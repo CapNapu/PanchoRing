@@ -1,0 +1,125 @@
+{
+  "scale": 1.5,
+  "effects": {
+    "mood_sound": {
+      "sound": "minecraft:ambient.cave",
+      "tick_delay": 6000,
+      "block_search_extent": 8,
+      "offset": 2.0
+    },
+    "sky_color": 7907327,
+    "fog_color": 13882581,
+    "water_color": 7499128,
+    "water_fog_color": 4341314
+  },
+  "surface_builder": "wythers:mushroom_fields",
+  "carvers": {
+    "air": [
+      "minecraft:ocean_cave"
+    ],
+    "liquid": [
+      "minecraft:underwater_canyon",
+      "minecraft:underwater_cave"
+    ]
+  },
+  "starts": [
+    "minecraft:mineshaft",
+    "minecraft:stronghold",
+    "minecraft:ruined_portal"
+  ],
+  "features": [
+    [
+      "minecraft:warm_ocean_vegetation"
+    ],
+    [
+      "wythers:mushroom_fields/simple_weeping_vines",
+      "wythers:mushroom_fields/simple_weeping_vines_plant",
+      "wythers:mushroom_fields/simple_weeping_vines_plant",
+      "wythers:mushroom_fields/simple_weeping_vines_plant",
+      "wythers:mushroom_fields/simple_weeping_vines_plant"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "wythers:mushroom_fields/ore_base_dead_brain_coral_block",
+      "wythers:mushroom_fields/ore_mycelium_to_dead_coral",
+      "wythers:mushroom_fields/ore_mycelium_to_mossy_cobblestone",
+      "wythers:mushroom_fields/ore_kill_brain_coral_block",
+      "wythers:mushroom_fields/ore_kill_bubble_coral_block",
+      "wythers:mushroom_fields/ore_kill_fire_coral_block",
+      "wythers:mushroom_fields/ore_kill_tube_coral_block",
+      "wythers:mushroom_fields/ore_kill_horn_coral_block",
+      "wythers:mushroom_fields/ore_kill_corals",
+      "wythers:mushroom_fields/ore_kill_wall_corals",
+      "wythers:mushroom_fields/replace_warped_nylium_to_prismarine",
+      "wythers:mushroom_fields/heightmap_ore_dead_fire_coral_block",
+      "wythers:mushroom_fields/heightmap_ore_dead_horn_coral_block",
+      "wythers:mushroom_fields/heightmap_ore_dead_tube_coral_block",
+      "wythers:mushroom_fields/heightmap_ore_dead_bubble_coral_block",
+      "minecraft:ore_gravel",
+      "minecraft:ore_andesite",
+      "minecraft:ore_coal",
+      "minecraft:ore_iron",
+      "minecraft:ore_gold",
+      "minecraft:ore_redstone",
+      "minecraft:ore_diamond",
+      "minecraft:ore_lapis"
+    ],
+    [
+      "wythers:mushroom_fields/patch_dead_corals",
+      "wythers:mushroom_fields/vegetation",
+      "wythers:mushroom_fields/simple_red_mushroom",
+      "minecraft:brown_mushroom_taiga",
+      "minecraft:brown_mushroom_normal",
+      "minecraft:spring_water",
+      "minecraft:spring_water",
+      "minecraft:spring_water",
+      "minecraft:seagrass_simple",
+      "minecraft:seagrass_warm",
+      "minecraft:kelp_cold"
+    ]
+  ],
+  "spawners": {
+    "monster": [
+      {
+        "type": "minecraft:drowned",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ],
+    "creature": [
+      {
+        "type": "minecraft:mooshroom",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 8
+      },
+      {
+        "type": "alexsmobs:mungus",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 8
+      }
+    ],
+    "ambient": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {
+    "minecraft:drowned": {
+      "energy_budget": 0.18,
+      "charge": 1.0
+    }
+  },
+  "player_spawn_friendly": false,
+  "precipitation": "rain",
+  "temperature": 2.0,
+  "downfall": 0.0,
+  "category": "ocean",
+  "depth": -0.5
+}

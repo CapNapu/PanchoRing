@@ -1,0 +1,113 @@
+
+{
+  "config":
+  {
+    "feature":
+    {
+      "config":
+      {
+        "feature":
+        {
+          "config":
+          {
+            "feature":
+            {
+              "config":
+              {
+
+                "feature":
+                {
+                  "config":
+                  {
+                    "to_place":
+                    {
+						"Properties": {
+						  "layers": "1"
+						},
+						"Name": "minecraft:snow"
+					  },
+                    "place_on": [
+                      {
+						"Name": "minecraft:stone"
+					  }
+                    ],
+                    "place_in": [
+                      {
+                        "Name": "minecraft:air"
+                      },
+                      {
+                        "Name": "minecraft:cave_air"
+                      }
+                    ],
+                    "place_under": [
+                      {
+                        "Name": "minecraft:air"
+                      },
+                      {
+                        "Name": "minecraft:cave_air"
+                      }
+                    ]
+                  },
+                  "type": "minecraft:simple_block"
+                },
+                "decorator":
+                {
+                  "config": {},
+                  "type": "minecraft:nope"
+                }
+              },
+              "type": "minecraft:decorated"
+            },
+            "decorator":
+            {
+
+              "config":
+              {
+                "outer":
+                {
+                  "config": {},
+                  "type": "minecraft:square"
+                },
+                "inner":
+                {
+                  "config":
+                  {
+                    "bottom_offset": 55,
+                    "top_offset": 0,
+                    "maximum": 64
+                  },
+                  "type": "minecraft:range"
+                }
+              },
+              "type": "minecraft:decorated"
+
+            }
+          },
+          "type": "minecraft:decorated"
+        },
+        "decorator":
+        {
+
+          "config":
+          {
+            "count": 64
+          },
+          "type": "minecraft:count"
+
+        }
+      },
+      "type": "minecraft:decorated"
+    },
+    "decorator":
+    {
+      "config":
+      {
+        "noise_level": -1.0,
+        "below_noise": -250,
+        "above_noise": 250
+      },
+      "type": "minecraft:count_noise"
+    }
+  },
+  "type": "minecraft:decorated"
+}

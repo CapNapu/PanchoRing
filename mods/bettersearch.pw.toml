@@ -1,0 +1,13 @@
+name = "Better Search"
+filename = "bettersearch-forge-1.16.5-1.5.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "de37f7e683ac315fd83a0c191b7bab897e2dbcae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9033647
+project-id = 1640741

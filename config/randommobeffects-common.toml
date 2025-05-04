@@ -1,0 +1,10 @@
+
+[General]
+	#The default level of the effects the mod applies, by default 1.
+	#Range: 1 ~ 50
+	potionEffectLevel = 2
+	#When enabled, hides the particles from the mobs with an effect.
+	hideEffectParticles = true
+	#Creepers can create infinite lingering potion effects which is probably not what you want. When enabled, the mod doesn't give creepers a random effect.
+	disableCreepers = true
+

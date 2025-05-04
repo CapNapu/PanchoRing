@@ -1,0 +1,18 @@
+{
+  "biomes": [
+    [
+      {
+        "negate": false,
+        "type": "REGISTRY_NAME",
+        "value": "minecraft:desert_lakes"
+      }
+    ],
+    [
+      {
+        "negate": false,
+        "type": "REGISTRY_NAME",
+        "value": "minecraft:swamp"
+      }
+    ]
+  ]
+}

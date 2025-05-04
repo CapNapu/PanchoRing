@@ -1,0 +1,13 @@
+name = "Refined Armor"
+filename = "Refined-Armor-1.0-1.16.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "d73466f38151f8e2121439c5dd99e39a1e81864d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4062941
+project-id = 696109

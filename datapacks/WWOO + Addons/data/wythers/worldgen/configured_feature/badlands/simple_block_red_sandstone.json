@@ -1,0 +1,130 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count_extra",
+      "config": {
+        "count": 50000,
+        "extra_count": 0,
+        "extra_chance": 0
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:square",
+          "config": {}
+        },
+        "feature": {
+          "type": "minecraft:decorated",
+          "config": {
+            "decorator": {
+              "type": "minecraft:range",
+              "config": {
+                "maximum": 13,
+                "bottom_offset": 50,
+                "top_offset": 0
+              }
+            },
+            "feature": {
+              "type": "minecraft:simple_block",
+              "config": {
+                "to_place": {
+                  "Name": "minecraft:smooth_red_sandstone"
+                },
+                "place_on": [
+                  {
+                    "Name": "minecraft:brown_terracotta"
+                  },
+                  {
+                    "Name": "minecraft:yellow_terracotta"
+                  },
+                  {
+                    "Name": "minecraft:red_terracotta"
+                  },
+                  {
+                    "Name": "minecraft:light_gray_terracotta"
+                  },
+                  {
+                    "Name": "minecraft:smooth_red_sandstone"
+                  },
+                  {
+                    "Name": "minecraft:red_sand"
+                  },
+                  {
+                    "Name": "minecraft:terracotta"
+                  },
+                  {
+                    "Name": "minecraft:orange_terracotta"
+                  },
+                  {
+                    "Name": "minecraft:white_terracotta"
+                  },
+                  {
+                    "Name": "minecraft:water",
+                    "Properties": {
+                      "level": "0"
+                    }
+                  },
+                  {
+                    "Name": "minecraft:gravel",
+                    "Properties": {
+                      "axis": "y"
+                    }
+                  }
+                ],
+                "place_in": [
+                  {
+                    "Name": "minecraft:water",
+                    "Properties": {
+                      "level": "0"
+                    }
+                  }
+                ],
+                "place_under": [
+                  {
+                    "Name": "minecraft:brown_terracotta"
+                  },
+                  {
+                    "Name": "minecraft:yellow_terracotta"
+                  },
+                  {
+                    "Name": "minecraft:red_terracotta"
+                  },
+                  {
+                    "Name": "minecraft:light_gray_terracotta"
+                  },
+                  {
+                    "Name": "minecraft:coarse_dirt"
+                  },
+                  {
+                    "Name": "minecraft:orange_terracotta"
+                  },
+                  {
+                    "Name": "minecraft:white_terracotta"
+                  },
+                  {
+                    "Name": "minecraft:terracotta"
+                  },
+                  {
+                    "Name": "minecraft:smooth_red_sandstone"
+                  },
+                  {
+                    "Name": "minecraft:red_sand"
+                  },
+                  {
+                    "Name": "minecraft:grass_block",
+                    "Properties": {
+                      "snowy": "false"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

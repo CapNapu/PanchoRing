@@ -1,0 +1,12 @@
+{
+  "openToLanP2pEnabled": true,
+  "openToLanOnlineModeEnabled": true,
+  "openToLanAllowCommandsEnabled": false,
+  "openToLanFixedCodeEnabled": true,
+  "openToLanFixedCode": "",
+  "openToLanGameRules": {},
+  "directConnectP2pEnabled": true,
+  "neverUseRelayServer": false,
+  "rendezvousUrl": "https://safra.randdcodes.com",
+  "siteApiVersion": "3.0"
+}

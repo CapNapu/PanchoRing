@@ -1,0 +1,13 @@
+name = "Rarities"
+filename = "Rarities-1.16.5-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f736375a033f8d6c350bc843f13316653a9bade4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3351548
+project-id = 493166

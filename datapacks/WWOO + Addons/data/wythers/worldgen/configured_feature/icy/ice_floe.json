@@ -1,0 +1,53 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "feature": {
+          "config": {
+            "feature": {
+      "config": {
+        "contents": {
+          "Name": "minecraft:snow_block"
+        },
+        "rim": {
+          "Name": "minecraft:snow_block"
+        },
+        "size": {
+          "base": 6,
+          "spread": 3
+        },
+        "rim_size": {
+          "base": 2,
+          "spread": 2
+        }
+      },
+      "type": "minecraft:delta_feature",
+      "name": "custom:ice_floe"
+    },
+            "decorator": {
+              "config": {
+                "bottom_offset": 40,
+                "top_offset": 0,
+                "maximum": 40
+              },
+              "type": "minecraft:range"
+            }
+          },
+          "type": "minecraft:decorated"
+        },
+        "decorator": {
+          "config": {},
+          "type": "minecraft:square"
+        }
+      },
+      "type": "minecraft:decorated"
+    },
+    "decorator": {
+      "config": {
+        "count": 20
+      },
+      "type": "minecraft:count_multilayer"
+    }
+  },
+  "type": "minecraft:decorated"
+}

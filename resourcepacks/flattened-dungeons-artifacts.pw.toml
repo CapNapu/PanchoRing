@@ -1,0 +1,13 @@
+name = "Flattened Dungeons Artifacts"
+filename = "flattened_dungeons_artifacts_v1.0.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "cffda37374237adb3fc31c9dc7a7537712aa6b6b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3458782
+project-id = 527178

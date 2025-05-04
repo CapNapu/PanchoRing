@@ -1,0 +1,13 @@
+name = "EnhancedVisuals"
+filename = "EnhancedVisuals_v1.3.32_mc1.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e79f64436193064576285d277d7bcd0830d99b9e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3419985
+project-id = 255389

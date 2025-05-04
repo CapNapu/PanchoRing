@@ -1,0 +1,13 @@
+name = "Cloak and Dagger"
+filename = "cloakanddagger-0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ccd1d0cc7df8aa68b8b7c59b09a81e2f7d6c9827"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3956167
+project-id = 640738

@@ -1,0 +1,48 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count_extra",
+      "config": {
+        "count": 1000,
+        "extra_count": 0,
+        "extra_chance": 0
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:square",
+          "config": {}
+        },
+        "feature": {
+          "type": "minecraft:decorated",
+          "config": {
+            "decorator": {
+              "type": "minecraft:range",
+              "config": {
+                "maximum": 10,
+                "bottom_offset": 90,
+                "top_offset": 1
+              }
+            },
+            "feature": {
+              "type": "minecraft:ore",
+              "config": {
+                "state": {
+                  "Name": "minecraft:packed_ice"
+                },
+                "size": 32,
+                "target": {
+                  "predicate_type": "minecraft:block_match",
+                  "block": "minecraft:grass_block"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

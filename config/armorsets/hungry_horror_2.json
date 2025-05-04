@@ -1,0 +1,35 @@
+{
+  "armorSetName": "hungry_horror.2",
+  "head": {
+    "itemKey": "dungeons_gear:hungry_horror_helmet"
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:hungry_horror_chestplate"
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:hungry_horror_leggings"
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:hungry_horror_boots"
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "epicfight:offhand_impact",
+      "value": 0.25,
+      "modifierUUID": "c73bd9e2-53f4-47cc-9517-40c9b6d457c4",
+      "attributeOperation": 1
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.armor",
+      "value": 0.0,
+      "modifierUUID": "4e8ab600-be0e-4f8e-9027-fdd0fd492434",
+      "attributeOperation": 0
+    }
+  ],
+  "hideGeneratedTooltip": true
+}

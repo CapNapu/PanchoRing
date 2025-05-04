@@ -1,0 +1,13 @@
+name = "Stonier Stone Bricks"
+filename = "stonier_stone_bricks-1.16.2-1.16.3.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "cb497d9d12547a5c2c95132baa40cf334ea52595"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3092819
+project-id = 415481

@@ -1,0 +1,6 @@
+
+[Enchantato-Loot]
+	#If you enable this, the 'DisabledEnchantments' will become 'AllowedEnchantments'
+	InvertedMode = false
+	DisabledEnchantments = ["minecraft:binding_curse", "minecraft:knockback", "minecraft:infinity", "minecraft:mending", "minecraft:sweeping", "minecraft:vanishing_curse", "cursed:midas", "cursed:misfortune", "origins:water_protection"]
+

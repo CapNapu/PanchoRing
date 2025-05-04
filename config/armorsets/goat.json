@@ -1,0 +1,34 @@
+{
+  "armorSetName": "goat",
+  "head": {
+    "itemKey": "dungeons_gear:goat_helmet"
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:goat_chestplate"
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:goat_leggings"
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:goat_boots"
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "effect",
+      "description": "panchoring.effect.jump_boost_2",
+      "name": "minecraft:jump_boost",
+      "value": 1.0,
+      "interactionDuration": 120
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "description": "panchoring.effect.jump_boost_5",
+      "name": "minecraft:jump_boost",
+      "value": 4.0,
+      "interactionDuration": 120
+    }
+  ]
+}

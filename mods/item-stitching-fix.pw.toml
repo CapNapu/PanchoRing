@@ -1,0 +1,13 @@
+name = "Item Stitching Fix"
+filename = "itemstitchingfix-1.16.5-1.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "d4ee32d3bbfd41141de172fdd639c5942689f618"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3838602
+project-id = 499326

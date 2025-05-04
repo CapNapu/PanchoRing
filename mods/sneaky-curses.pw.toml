@@ -1,0 +1,13 @@
+name = "Sneaky Curses"
+filename = "SneakyMagic-v1.3.2-1.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "22ae12400438e5bebda8189cfeeb8cf0783c1efc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3238487
+project-id = 322733

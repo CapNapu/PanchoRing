@@ -1,0 +1,47 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "feature": {
+          "config": {
+            "features": [
+              {
+                "feature": "wythers:taiga/feature_tree_fir",
+                "chance": 0.1
+              },
+              {
+                "feature": "wythers:taiga/feature_tree_spruce",
+                "chance": 0.1
+              }
+            ],
+            "default": "wythers:taiga/feature_tree_larch"
+          },
+          "type": "minecraft:random_selector"
+        },
+        "decorator": {
+          "config": {
+            "outer": {
+              "config": {},
+              "type": "minecraft:square"
+            },
+            "inner": {
+              "config": {},
+              "type": "minecraft:heightmap"
+            }
+          },
+          "type": "minecraft:decorated"
+        }
+      },
+      "type": "minecraft:decorated"
+    },
+    "decorator": {
+      "type": "minecraft:count_noise_biased",
+      "config": {
+        "noise_to_count_ratio": 30,
+        "noise_factor": 200,
+        "noise_offset": -0.5
+      }
+    }
+  },
+  "type": "minecraft:decorated"
+}

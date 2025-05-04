@@ -1,0 +1,13 @@
+name = "Kai Fixes Granite"
+filename = "Kai Fixes Granite - 1.20.1.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "51d62603366c09e8e1a30eaeef30c363bf2835b6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6423072
+project-id = 1242997

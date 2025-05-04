@@ -1,0 +1,13 @@
+name = "Enchantato - Loot"
+filename = "enchantato_loot-1.16.5-0.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6d6cc5b2ff7943a6e36aae6d990e2132cfee7a2e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4817677
+project-id = 919380

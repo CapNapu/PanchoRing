@@ -1,0 +1,56 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "feature": {
+          "config": {
+            "can_replace": true,
+            "project": true,
+            "need_water": false,
+            "xspread": 7,
+            "yspread": 3,
+            "zspread": 7,
+            "whitelist": [
+			{
+                "Name": "minecraft:mossy_cobblestone"
+              }
+            ],
+            "blacklist": [],
+            "tries": 64,
+            "state_provider": {
+              "state": {
+                "Name": "minecraft:mossy_cobblestone"
+              },
+              "type": "minecraft:simple_state_provider"
+            },
+            "block_placer": {
+              "type": "minecraft:simple_block_placer"
+            }
+          },
+          "type": "minecraft:random_patch"
+        },
+        "decorator": {
+          "config": {
+            "outer": {
+              "config": {},
+              "type": "minecraft:square"
+            },
+            "inner": {
+              "config": {},
+              "type": "minecraft:heightmap"
+            }
+          },
+          "type": "minecraft:decorated"
+        }
+      },
+      "type": "minecraft:decorated"
+    },
+    "decorator": {
+      "config": {
+        "count": 10
+      },
+      "type": "minecraft:count"
+    }
+  },
+  "type": "minecraft:decorated"
+}

@@ -1,0 +1,13 @@
+name = "No Lakes in Forge"
+filename = "nolakes-0.1-1.16.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d11cbc8dbbb6fb22bacc28dd62c34ae201e73758"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3152473
+project-id = 432072

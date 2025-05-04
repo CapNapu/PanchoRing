@@ -1,0 +1,13 @@
+name = "Better Drowning"
+filename = "BetterDrowning-1.16.5-2.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8d77444d7dc7da8b862d665456920a9c56be801e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3348584
+project-id = 376809

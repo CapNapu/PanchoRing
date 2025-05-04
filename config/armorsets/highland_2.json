@@ -1,0 +1,35 @@
+{
+  "armorSetName": "highland.2",
+  "head": {
+    "itemKey": "dungeons_gear:highland_helmet"
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:highland_chestplate"
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:highland_leggings"
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:highland_boots"
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "epicfight:offhand_impact",
+      "value": 0.25,
+      "modifierUUID": "a779b1f8-ee9d-4727-8064-399fa237bf9d",
+      "attributeOperation": 1
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "epicfight:offhand_impact",
+      "value": 0.75,
+      "modifierUUID": "354907e4-e09e-4078-8a04-426102cb415b",
+      "attributeOperation": 1
+    }
+  ],
+  "hideGeneratedTooltip": true
+}

@@ -1,0 +1,34 @@
+{
+  "armorSetName": "apprentice",
+  "head": {
+    "itemKey": "ars_nouveau:apprentice_hood"
+  },
+  "chest": {
+    "itemKey": "ars_nouveau:apprentice_robes"
+  },
+  "legs": {
+    "itemKey": "ars_nouveau:apprentice_leggings"
+  },
+  "boots": {
+    "itemKey": "ars_nouveau:apprentice_boots"
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "effect",
+      "description": "effect.ars_nouveau.mana_regen",
+      "name": "ars_nouveau:mana_regen",
+      "value": 0.0,
+      "interactionDuration": 120
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "description": "panchoring.effect.mana_regen_3",
+      "name": "ars_nouveau:mana_regen",
+      "value": 2.0,
+      "interactionDuration": 120
+    }
+  ]
+}

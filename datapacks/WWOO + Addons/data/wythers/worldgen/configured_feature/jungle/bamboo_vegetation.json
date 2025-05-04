@@ -1,0 +1,36 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "features": [
+          {
+            "feature": "minecraft:acacia",
+            "chance": 0.05
+          },
+          {
+            "feature": "wythers:jungle/feature_tree_acacia_bees",
+            "chance": 0.1
+          },
+          {
+            "feature": "wythers:jungle/feature_tree_palm_vines",
+            "chance": 0.25
+          },
+          {
+            "feature": "wythers:jungle/feature_tree_palm",
+            "chance": 0.45
+          },
+          {
+            "feature": "wythers:jungle/feature_tree_banyan",
+            "chance": 0.1          }
+        ],
+        "default": "wythers:generic/feature_tree_oak_bush"
+      },
+      "type": "minecraft:random_selector"
+    },
+    "decorator": {
+      "config": {},
+      "type": "minecraft:dark_oak_tree"
+    }
+  },
+  "type": "minecraft:decorated"
+}

@@ -1,0 +1,76 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count_extra",
+      "config": {
+        "count": 30000,
+        "extra_count": 0,
+        "extra_chance": 0
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:square",
+          "config": {}
+        },
+        "feature": {
+          "type": "minecraft:decorated",
+          "config": {
+            "decorator": {
+              "type": "minecraft:range",
+              "config": {
+                "maximum": 25,
+                "bottom_offset": 60,
+                "top_offset": 0
+              }
+            },
+            "feature": {
+              "type": "minecraft:simple_block",
+              "config": {
+                "to_place": {
+                  "Name": "minecraft:cactus",
+                  "Properties": {
+                    "age": "10"
+                  }
+                },
+                "place_on": [
+                  {
+                    "Name": "minecraft:cactus",
+                    "Properties": {
+                      "age": "12"
+                    }
+                  },
+                  {
+                    "Name": "minecraft:cactus",
+                    "Properties": {
+                      "age": "11"
+                    }
+                  },
+                  {
+                    "Name": "minecraft:cactus",
+                    "Properties": {
+                      "age": "7"
+                    }
+                  }
+                ],
+                "place_in": [
+                  {
+                    "Name": "minecraft:air"
+                  }
+                ],
+                "place_under": [
+                  {
+                    "Name": "minecraft:air"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

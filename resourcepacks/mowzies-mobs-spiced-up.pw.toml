@@ -1,0 +1,13 @@
+name = "Mowzie's Revamped"
+filename = "Mowzies Mobs - Spiced Up-1.0.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "a6813e36ab8a34d856c047ca69c542275d252ad6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3398704
+project-id = 507635

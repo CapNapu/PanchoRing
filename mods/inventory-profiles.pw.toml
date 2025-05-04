@@ -1,0 +1,13 @@
+name = "Inventory Profiles"
+filename = "inventoryprofiles-forge-1.16.2-0.4.2.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "9a8dffa558a1147a1d0dc56d56b58d264c5daf33"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3042791
+project-id = 347463

@@ -1,0 +1,46 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "feature": {
+          "config": {
+            "feature": {
+              "config": {
+                "target": {
+                  "Name": "minecraft:dirt"
+                },
+                "state": {
+                  "Name": "minecraft:stone"
+                },
+                "radius": {
+                  "base": 20,
+                  "spread": 5                }
+              },
+              "type": "minecraft:netherrack_replace_blobs"
+            },
+            "decorator": {
+              "config": {
+                "bottom_offset": 80,
+                "top_offset": 0,
+                "maximum": 128
+              },
+              "type": "minecraft:range"
+            }
+          },
+          "type": "minecraft:decorated"
+        },
+        "decorator": {
+          "config": {},
+          "type": "minecraft:square"
+        }
+      },
+      "type": "minecraft:decorated"
+    },
+    "decorator": {
+      "config": {
+        "count": 128      },
+      "type": "minecraft:count"
+    }
+  },
+  "type": "minecraft:decorated"
+}

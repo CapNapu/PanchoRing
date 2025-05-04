@@ -1,0 +1,42 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "feature": {
+          "config": {
+            "target": {
+              "block": "minecraft:gravel",
+              "predicate_type": "minecraft:block_match"
+            },
+            "state": {
+              "Name": "minecraft:crimson_nylium"
+            },
+            "size": 20
+          },
+          "type": "minecraft:ore"
+        },
+        "decorator": {
+          "config": {
+            "outer": {
+              "config": {},
+              "type": "minecraft:square"
+            },
+            "inner": {
+              "config": {},
+              "type": "minecraft:heightmap"
+            }
+          },
+          "type": "minecraft:decorated"
+        }
+      },
+      "type": "minecraft:decorated"
+    },
+    "decorator": {
+      "config": {
+        "count": 1
+      },
+      "type": "minecraft:count"
+    }
+  },
+  "type": "minecraft:decorated"
+}

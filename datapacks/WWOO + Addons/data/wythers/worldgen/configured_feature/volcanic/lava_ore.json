@@ -1,0 +1,69 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count_extra",
+      "config": {
+        "count": 10000,
+        "extra_count": 0,
+        "extra_chance": 0
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:decorated",
+          "config": {
+            "outer": {
+              "type": "minecraft:square",
+              "config": {}
+            },
+            "inner": {
+              "type": "minecraft:square",
+              "config": {}
+            }
+          }
+        },
+        "feature": {
+          "type": "minecraft:decorated",
+          "config": {
+            "decorator": {
+              "type": "minecraft:decorated",
+              "config": {
+                "outer": {
+                  "type": "minecraft:square",
+                  "config": {}
+                },
+                "inner": {
+                  "type": "minecraft:range",
+                  "config": {
+                    "maximum": 3,
+                    "bottom_offset": 5,
+                    "top_offset": 0
+                  }
+                }
+              }
+            },
+            "feature": {
+              "type": "minecraft:ore",
+              "config": {
+                "state": {
+                  "Name": "minecraft:lava",
+                  "Properties": {
+                    "level": "0"
+                  }
+                },
+                "size": 8,
+                "target": {
+                  "predicate_type": "minecraft:block_match",
+                  "block": "minecraft:air"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

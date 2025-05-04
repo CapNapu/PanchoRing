@@ -1,0 +1,21 @@
+{
+  "name": "wythers:village/desert_lakes/llama_pens",
+  "fallback": "wythers:village/desert_lakes/llama_pens",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "wythers:village/desert_lakes/llama_pens/llama_pen_1",
+        "processors": "wythers:desert_lakes_trader_camp",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 0,
+      "element": {
+        "element_type": "minecraft:empty_pool_element"
+      }
+    }
+  ]
+}

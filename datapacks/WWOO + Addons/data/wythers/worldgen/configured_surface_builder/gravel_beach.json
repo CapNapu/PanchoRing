@@ -1,0 +1,14 @@
+{
+  "config": {
+    "top_material": {
+      "Name": "minecraft:coarse_dirt"
+    },
+    "under_material": {
+      "Name": "minecraft:gravel"
+    },
+    "underwater_material": {
+      "Name": "minecraft:mossy_cobblestone"
+    }
+  },
+  "type": "minecraft:nether_forest"
+}

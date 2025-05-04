@@ -1,0 +1,48 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count_noise_biased",
+      "config": {
+        "noise_to_count_ratio": 300,
+        "noise_factor": 500,
+        "noise_offset": -0.4
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:decorated",
+          "config": {
+            "outer": {
+              "type": "minecraft:square",
+              "config": {}
+            },
+            "inner": {
+              "type": "minecraft:range",
+              "config": {
+                "maximum": 3,
+                "bottom_offset": 62,
+                "top_offset": 0
+              }
+            }
+          }
+        },
+        "feature": {
+          "type": "minecraft:ore",
+          "config": {
+            "state": {
+              "Name": "minecraft:grass_path"
+            },
+            "size": 5,
+            "target": {
+              "predicate_type": "minecraft:block_match",
+              "block": "minecraft:grass_block"
+            }
+          }
+        }
+      }
+    }
+  }
+}

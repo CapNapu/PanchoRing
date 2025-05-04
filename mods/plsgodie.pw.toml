@@ -1,0 +1,13 @@
+name = "PlsGoDie - Fake Death Fixer"
+filename = "plsgodie-1.16.5-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fdd5730332d65d1659bcd9ce8f8aa1461931d000"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6919079
+project-id = 1333170

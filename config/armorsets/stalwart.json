@@ -1,0 +1,35 @@
+{
+  "armorSetName": "stalwart",
+  "head": {
+    "itemKey": "dungeons_gear:stalwart_helmet"
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:stalwart_chestplate"
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:stalwart_leggings"
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:stalwart_boots"
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "attribute",
+      "description": "panchoring.attribute.staminar_25",
+      "name": "epicfight:staminar",
+      "value": 0.25,
+      "modifierUUID": "a9b13622-5ea4-433a-b0d6-006b53eb52f9",
+      "attributeOperation": 1
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "description": "effect.dungeons_gear.shielding",
+      "name": "dungeons_gear:shielding",
+      "value": 0.0,
+      "interactionDuration": 120
+    }
+  ]
+}
