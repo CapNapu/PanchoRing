@@ -24,7 +24,7 @@
       "name": "minecraft:jump_boost",
       "value": 1.0,
       "interactionType": "self",
-      "interactionDuration": 150,
+      "interactionDuration": 200,
       "hideBonusDescription": true
     }
   ],
@@ -34,7 +34,7 @@
       "name": "minecraft:slowness",
       "value": 0.0,
       "interactionType": "immunity",
-      "interactionDuration": 150,
+      "interactionDuration": 200,
       "hideBonusDescription": true
     }
   ],

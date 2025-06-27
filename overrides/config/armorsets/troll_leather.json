@@ -43,7 +43,7 @@
       "name": "dungeons_gear:shielding",
       "value": 0.0,
       "interactionType": "self",
-      "interactionDuration": 150,
+      "interactionDuration": 200,
       "hideBonusDescription": true
     }
   ],

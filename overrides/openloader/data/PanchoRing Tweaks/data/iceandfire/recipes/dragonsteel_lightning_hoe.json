@@ -3,7 +3,7 @@
     "tag": "forge:ingots/dragonsteel_lightning"
   },
   "base": {
-    "item": "minecraft:netherite_hoe"
+    "item": "minecraft:iron_hoe"
   },
   "result": {
     "item": "iceandfire:dragonsteel_lightning_hoe"

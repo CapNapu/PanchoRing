@@ -3,7 +3,7 @@
     "tag": "forge:ingots/dragonsteel_fire"
   },
   "base": {
-    "item": "minecraft:netherite_pickaxe"
+    "item": "minecraft:iron_pickaxe"
   },
   "result": {
     "item": "iceandfire:dragonsteel_fire_pickaxe"

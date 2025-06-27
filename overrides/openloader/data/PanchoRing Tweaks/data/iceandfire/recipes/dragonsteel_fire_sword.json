@@ -3,7 +3,7 @@
     "tag": "forge:ingots/dragonsteel_fire"
   },
   "base": {
-    "item": "minecraft:netherite_sword"
+    "item": "minecraft:iron_sword"
   },
   "result": {
     "item": "iceandfire:dragonsteel_fire_sword"

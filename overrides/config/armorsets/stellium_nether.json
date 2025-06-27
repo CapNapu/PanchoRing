@@ -26,7 +26,7 @@
       "modifierUUID": "16f8b28b-6543-4b5f-9d22-a95357b12f28",
       "attributeOperation": 0,
       "interactionType": "self",
-      "interactionDuration": 150,
+      "interactionDuration": 200,
       "hideBonusDescription": true,
       "conditions": [
         {
@@ -44,7 +44,7 @@
       "modifierUUID": "bd5eb78b-1518-4545-b9de-710ba927f9aa",
       "attributeOperation": 0,
       "interactionType": "self",
-      "interactionDuration": 150,
+      "interactionDuration": 200,
       "hideBonusDescription": true,
       "conditions": [
         {

@@ -3,7 +3,7 @@
     "tag": "forge:ingots/dragonsteel_ice"
   },
   "base": {
-    "tag": "panchoring:iron_boots"
+    "item": "minecraft:iron_boots"
   },
   "result": {
     "item": "iceandfire:dragonsteel_ice_boots"

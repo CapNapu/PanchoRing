@@ -3,7 +3,7 @@
     "tag": "forge:ingots/dragonsteel_lightning"
   },
   "base": {
-    "tag": "panchoring:iron_helmets"
+    "item": "minecraft:iron_helmet"
   },
   "result": {
     "item": "iceandfire:dragonsteel_lightning_helmet"

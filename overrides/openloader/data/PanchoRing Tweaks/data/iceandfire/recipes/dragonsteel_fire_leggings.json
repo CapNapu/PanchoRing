@@ -3,7 +3,7 @@
     "tag": "forge:ingots/dragonsteel_fire"
   },
   "base": {
-    "tag": "panchoring:iron_leggings"
+    "item": "minecraft:iron_leggings"
   },
   "result": {
     "item": "iceandfire:dragonsteel_fire_leggings"

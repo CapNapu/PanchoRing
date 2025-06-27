@@ -23,7 +23,7 @@
       "name": "minecraft:hero_of_the_village",
       "value": 0.0,
       "interactionType": "self",
-      "interactionDuration": 150,
+      "interactionDuration": 200,
       "hideBonusDescription": true
     }
   ],

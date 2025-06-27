@@ -23,7 +23,7 @@
       "name": "cataclysm:blazing_brand",
       "value": 0.0,
       "interactionType": "immunity",
-      "interactionDuration": 150,
+      "interactionDuration": 200,
       "hideBonusDescription": true
     }
   ],

@@ -26,7 +26,7 @@
       "modifierUUID": "a311d0a8-8356-450c-aaf2-b8c5dfe0924e",
       "attributeOperation": 0,
       "interactionType": "self",
-      "interactionDuration": 150,
+      "interactionDuration": 200,
       "hideBonusDescription": true
     }
   ],
@@ -36,7 +36,7 @@
       "name": "minecraft:fire_resistance",
       "value": 0.0,
       "interactionType": "self",
-      "interactionDuration": 150,
+      "interactionDuration": 200,
       "hideBonusDescription": true
     }
   ],

@@ -23,7 +23,7 @@
       "name": "ars_nouveau:mana_regen",
       "value": 2.0,
       "interactionType": "self",
-      "interactionDuration": 150,
+      "interactionDuration": 200,
       "hideBonusDescription": true
     }
   ],

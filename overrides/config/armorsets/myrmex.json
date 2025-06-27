@@ -40,7 +40,7 @@
       "name": "alexsmobs:bug_pheromones",
       "value": 0.0,
       "interactionType": "self",
-      "interactionDuration": 150,
+      "interactionDuration": 200,
       "hideBonusDescription": true
     }
   ],
@@ -50,7 +50,7 @@
       "name": "mowziesmobs:poison_resist",
       "value": 0.0,
       "interactionType": "self",
-      "interactionDuration": 150,
+      "interactionDuration": 200,
       "hideBonusDescription": true
     }
   ],

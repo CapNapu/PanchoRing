@@ -3,7 +3,7 @@
     "tag": "forge:ingots/dragonsteel_fire"
   },
   "base": {
-    "item": "minecraft:netherite_shovel"
+    "item": "minecraft:iron_shovel"
   },
   "result": {
     "item": "iceandfire:dragonsteel_fire_shovel"

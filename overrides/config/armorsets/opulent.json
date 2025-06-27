@@ -24,7 +24,7 @@
       "name": "minecraft:luck",
       "value": 0.0,
       "interactionType": "self",
-      "interactionDuration": 150,
+      "interactionDuration": 200,
       "hideBonusDescription": true
     }
   ],
@@ -34,7 +34,7 @@
       "name": "minecraft:regeneration",
       "value": 0.0,
       "interactionType": "self",
-      "interactionDuration": 150,
+      "interactionDuration": 200,
       "hideBonusDescription": true
     }
   ],

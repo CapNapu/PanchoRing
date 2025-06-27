@@ -3,7 +3,7 @@
     "tag": "forge:ingots/dragonsteel_lightning"
   },
   "base": {
-    "tag": "panchoring:iron_chestplates"
+    "item": "minecraft:iron_chestplate"
   },
   "result": {
     "item": "iceandfire:dragonsteel_lightning_chestplate"

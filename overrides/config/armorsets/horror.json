@@ -23,7 +23,7 @@
       "name": "epicfight:stun_immunity",
       "value": 0.0,
       "interactionType": "self",
-      "interactionDuration": 150,
+      "interactionDuration": 200,
       "hideBonusDescription": true
     }
   ],

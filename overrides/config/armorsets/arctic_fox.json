@@ -26,7 +26,7 @@
       "modifierUUID": "f6d64705-5cab-4b42-a001-8bb61419446c",
       "attributeOperation": 0,
       "interactionType": "self",
-      "interactionDuration": 150,
+      "interactionDuration": 200,
       "hideBonusDescription": true
     }
   ],
@@ -36,7 +36,7 @@
       "name": "minecraft:slowness",
       "value": 0.0,
       "interactionType": "immunity",
-      "interactionDuration": 150,
+      "interactionDuration": 200,
       "hideBonusDescription": true
     }
   ],
