@@ -8,6 +8,6 @@
 	weightPenalty = 100
 
 [loot]
-	skill_book_mob_loot = false
-	skill_book_chest_loot = true
+	skill_book_mob_loot = true
+	skill_book_chest_loot = false
 
