@@ -1,3 +1,8 @@
-This pack incorporates several different projects, each with its own license (more details in the credits section). Everything else falls under All Rights Reserved.
+1- This modpack includes and depends on several different projects.
 
-Contributions to the pack are allowed via Pull Requests.
+2- Projects not hosted in [CurseForge](https://www.curseforge.com/) are listed in the credits section.
+
+3- For everything else not in CurseForge nor listed in the credits:
+    A: Automatic config files (Credits to the Mod autors.)
+    B: Modified models & textures (Credits to the Mod autors.)
+    C: Original content for PanchoRing (All Rights Reserved.)
