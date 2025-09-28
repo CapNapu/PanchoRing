@@ -20,10 +20,5 @@
       "translate": "advancements.panchoring.find_lich_tower.title"
     }
   },
-  "parent": "minecraft:adventure/kill_a_mob",
-  "requirements": [
-    [
-      "lich_tower"
-    ]
-  ]
+  "parent": "minecraft:adventure/kill_a_mob"
 }

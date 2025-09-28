@@ -1,8 +1,7 @@
 {
 	"attributes": {
 		"common": {
-			"damage_bonus": 3,
-			"speed_bonus": -0.2
+			"damage_bonus": 2
 		}
 	},
 	"type": "axe"

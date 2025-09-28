@@ -1,0 +1,19 @@
+{
+  "key": {
+    "0": {
+      "item": "iceandfire:copper_nugget"
+    },
+    "1": {
+      "item": "minecraft:torch"
+    }
+  },
+  "pattern": [
+    "000",
+    "010",
+    "000"
+  ],
+  "result": {
+    "item": "supplementaries:copper_lantern"
+  },
+  "type": "minecraft:crafting_shaped"
+}

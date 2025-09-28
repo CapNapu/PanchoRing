@@ -26,10 +26,5 @@
       "translate": "advancements.panchoring.find_void_blossom.title"
     }
   },
-  "parent": "minecraft:adventure/kill_a_mob",
-  "requirements": [
-    [
-      "void_blossom"
-    ]
-  ]
+  "parent": "minecraft:adventure/kill_a_mob"
 }

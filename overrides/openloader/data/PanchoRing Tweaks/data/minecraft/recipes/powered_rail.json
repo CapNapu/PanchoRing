@@ -1,26 +1,26 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "S": {
+      "item": "minecraft:gold_ingot"
+    },
+    "X": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
   "pattern": [
     "X#X",
     "SRS",
     "X#X"
   ],
-  "key": {
-    "R": {
-      "tag": "forge:dusts/redstone"
-    },
-    "#": {
-      "item": "minecraft:stick"
-    },
-    "X": {
-      "tag": "forge:ingots/iron"
-    },
-    "S": {
-      "tag": "forge:ingots/gold"
-    }
-  },
   "result": {
-    "item": "minecraft:powered_rail",
-    "count": 8
-  }
+    "count": 8,
+    "item": "minecraft:powered_rail"
+  },
+  "type": "minecraft:crafting_shaped"
 }

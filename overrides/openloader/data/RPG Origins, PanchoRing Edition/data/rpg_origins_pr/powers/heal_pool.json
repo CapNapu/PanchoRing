@@ -3,12 +3,12 @@
     "entity_action": {
         "type": "origins:spawn_effect_cloud",
         "radius": 5,
-        "radius_on_use": -0.25,
+        "radius_on_use": -0.2,
         "wait_time": 0,
         "effect": {
             "effect": "minecraft:regeneration",
-            "duration": 40,
-            "amplifier": 3,
+            "duration": 30,
+            "amplifier": 2,
             "show_particles": true,
             "show_icon": true
         }

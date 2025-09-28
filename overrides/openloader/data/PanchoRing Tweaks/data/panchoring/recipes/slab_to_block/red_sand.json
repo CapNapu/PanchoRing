@@ -1,0 +1,14 @@
+{
+  "key": {
+    "0": {
+      "item": "slabgen:red_sand_slab"
+    }
+  },
+  "pattern": [
+    "00"
+  ],
+  "result": {
+    "item": "minecraft:red_sand"
+  },
+  "type": "minecraft:crafting_shaped"
+}

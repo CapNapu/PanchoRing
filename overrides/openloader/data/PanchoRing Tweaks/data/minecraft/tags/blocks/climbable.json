@@ -1,16 +1,16 @@
 {
   "replace": true,
   "values": [
-    "minecraft:ladder",
-    "minecraft:vine",
-    "minecraft:scaffolding",
-    "minecraft:weeping_vines",
-    "minecraft:weeping_vines_plant",
-    "minecraft:twisting_vines",
-    "minecraft:twisting_vines_plant",
     "minecraft:chain",
-    "extcaves:cave_vine",
+    "minecraft:ladder",
+    "minecraft:scaffolding",
+    "minecraft:twisting_vines_plant",
+    "minecraft:twisting_vines",
+    "minecraft:vine",
+    "minecraft:weeping_vines_plant",
+    "minecraft:weeping_vines",
     "extcaves:cave_vine_end",
+    "extcaves:cave_vine",
     "projectvibrantjourneys:cindercane"
   ]
 }

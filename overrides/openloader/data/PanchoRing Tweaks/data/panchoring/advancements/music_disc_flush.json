@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "music_disc_flush": {
+      "conditions": {
+        "items": [
+          {
+            "item": "infernalexp:music_disc_flush"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.music_disc_flush.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "infernalexp:music_disc_flush"
+    },
+    "title": {
+      "translate": "advancements.panchoring.music_disc_flush.title"
+    }
+  },
+  "parent": "panchoring:music_discs_normal"
+}

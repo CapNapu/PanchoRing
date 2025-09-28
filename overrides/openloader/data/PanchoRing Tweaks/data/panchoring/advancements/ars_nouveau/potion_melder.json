@@ -12,18 +12,14 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
-      "translate": "advancements.panchoring.ars.potion_melder.description"
+      "translate": "advancements.panchoring.potion_melder.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
       "item": "ars_nouveau:potion_melder"
     },
-    "show_toast": true,
     "title": {
-      "translate": "advancements.panchoring.ars.potion_melder.title"
+      "translate": "advancements.panchoring.potion_melder.title"
     }
   },
   "parent": "panchoring:ars_nouveau/potion_jar"

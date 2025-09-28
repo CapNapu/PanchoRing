@@ -1,12 +1,17 @@
 {
-  "type": "dungeons_libraries:dungeons_armor_material",
-  "name": "dungeons_gear:wood",
+  "base_type": "wood",
+  "damage_reduction_amounts": [
+    1,
+    4,
+    5,
+    2
+  ],
   "durability": 15,
-  "damage_reduction_amounts":  [1, 4, 5, 2],
   "enchantability": 15,
-  "repair_item":  "iceandfire:dread_shard",
   "equip_sound": "minecraft:item.armor.equip_leather",
-  "toughness":  0.0,
   "knockback_resistance": 0.0,
-  "base_type": "wood"
+  "name": "dungeons_gear:wood",
+  "repair_item": "iceandfire:dread_shard",
+  "toughness": 0.0,
+  "type": "dungeons_libraries:dungeons_armor_material"
 }

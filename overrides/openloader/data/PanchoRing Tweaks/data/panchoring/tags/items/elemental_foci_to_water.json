@@ -1,9 +1,8 @@
 {
-  "replace": false,
   "values": [
-    "ars_nouveau:summon_focus",
-    "ars_elemental:fire_focus",
     "ars_elemental:air_focus",
-    "ars_elemental:earth_focus"
+    "ars_elemental:earth_focus",
+    "ars_elemental:fire_focus",
+    "ars_nouveau:summon_focus"
   ]
 }

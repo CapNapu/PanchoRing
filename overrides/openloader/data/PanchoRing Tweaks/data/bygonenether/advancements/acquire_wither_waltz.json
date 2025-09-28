@@ -1,6 +1,6 @@
 {
   "criteria": {
-    "music_disc": {
+    "music_disc_wither_waltz": {
       "conditions": {
         "items": [
           {
@@ -12,24 +12,16 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
-      "translate": "advancements.bygonenether.acquire_wither_waltz.desc"
+      "translate": "advancements.bygonenether.acquire_wither_waltz.description"
     },
     "frame": "goal",
-    "hidden": false,
     "icon": {
       "item": "bygonenether:wither_waltz_music_disc"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.bygonenether.acquire_wither_waltz.title"
     }
   },
-  "parent": "bygonenether:rescue_piglin_prisoner",
-  "requirements": [
-    [
-      "music_disc"
-    ]
-  ]
+  "parent": "panchoring:music_disc_flush"
 }

@@ -1,0 +1,101 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 16.0,
+                "min": 8.0,
+                "type": "minecraft:uniform"
+              },
+              "function": "minecraft:set_count"
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Potion:\"minecraft:harming\"}"
+            }
+          ],
+          "name": "minecraft:tipped_arrow",
+          "type": "minecraft:item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 16.0,
+                "min": 8.0,
+                "type": "minecraft:uniform"
+              },
+              "function": "minecraft:set_count"
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Potion:\"minecraft:poison\"}"
+            }
+          ],
+          "name": "minecraft:tipped_arrow",
+          "type": "minecraft:item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 16.0,
+                "min": 8.0,
+                "type": "minecraft:uniform"
+              },
+              "function": "minecraft:set_count"
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Potion:\"minecraft:slowness\"}"
+            }
+          ],
+          "name": "minecraft:tipped_arrow",
+          "type": "minecraft:item"
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 16.0,
+                "min": 8.0,
+                "type": "minecraft:uniform"
+              },
+              "function": "minecraft:set_count"
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Potion:\"minecraft:weakness\"}"
+            }
+          ],
+          "name": "minecraft:tipped_arrow",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 24.0,
+                "min": 16.0,
+                "type": "minecraft:uniform"
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "cataclysm:void_scatter_arrow",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "minecraft:chest"
+}

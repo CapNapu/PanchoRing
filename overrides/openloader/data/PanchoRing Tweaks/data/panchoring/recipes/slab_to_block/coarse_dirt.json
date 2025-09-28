@@ -1,0 +1,14 @@
+{
+  "key": {
+    "0": {
+      "item": "slabgen:coarse_dirt_slab"
+    }
+  },
+  "pattern": [
+    "00"
+  ],
+  "result": {
+    "item": "minecraft:coarse_dirt"
+  },
+  "type": "minecraft:crafting_shaped"
+}

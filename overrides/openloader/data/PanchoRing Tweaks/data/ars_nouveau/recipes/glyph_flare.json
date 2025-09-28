@@ -1,6 +1,6 @@
 {
-  "type": "ars_nouveau:glyph_recipe",
+  "input": "iceandfire:fire_dragon_heart",
+  "output": "ars_nouveau:glyph_flare",
   "tier": "TWO",
-  "input": "iceandfire:fire_dragon_blood",
-  "output": "ars_nouveau:glyph_flare"
+  "type": "ars_nouveau:glyph_recipe"
 }

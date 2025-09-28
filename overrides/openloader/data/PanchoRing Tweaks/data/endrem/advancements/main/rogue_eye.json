@@ -12,24 +12,16 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.main.rogue_eye.description"
     },
     "frame": "goal",
-    "hidden": false,
     "icon": {
       "item": "endrem:rogue_eye"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.main.rogue_eye.title"
     }
   },
-  "parent": "endrem:main/old_eye",
-  "requirements": [
-    [
-      "rogue_eye"
-    ]
-  ]
+  "parent": "endrem:main/old_eye"
 }

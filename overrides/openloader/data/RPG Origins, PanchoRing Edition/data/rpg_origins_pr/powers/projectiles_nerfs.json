@@ -1,0 +1,37 @@
+{
+    "hidden": true,
+    "type": "origins:multiple",
+    "dragon.arrow": {
+        "type": "origins:modify_projectile_damage",
+        "modifier": {
+            "operation": "multiply_base",
+            "value": -0.5
+        },
+        "damage_condition": {
+            "type": "origins:projectile",
+            "projectile": "iceandfire:dragon_arrow"
+        }
+    },
+    "mosquito.spit": {
+        "type": "origins:modify_projectile_damage",
+        "modifier": {
+            "operation": "multiply_base",
+            "value": -0.5
+        },
+        "damage_condition": {
+            "type": "origins:projectile",
+            "projectile": "alexsmobs:mosquito_spit"
+        }
+    },
+    "hemolymph": {
+        "type": "origins:modify_projectile_damage",
+        "modifier": {
+            "operation": "multiply_base",
+            "value": -0.5
+        },
+        "damage_condition": {
+            "type": "origins:projectile",
+            "projectile": "alexsmobs:hemolymph"
+        }
+    }
+}

@@ -1,7 +1,7 @@
 
 ["Functionality Handler"]
 	#Entity list which will be blacklisted from getting blood particle effect.
-	Blacklisted_Entity = ["minecraft:ender_dragon", "minecraft:wither", "cataclysm:ignis", "cataclysm:netherite_monstrosity", "cataclysm:ender_guardian", "alexsmobs:void_worm", "ars_nouveau:wilden_boss", "mowziesmobs:barako", "mowziesmobs:ferrous_wroughtnaut", "mowziesmobs:frostmaw", "bosses_of_mass_destruction:lich", "bosses_of_mass_destruction:gaunlet", "bosses_of_mass_destruction:obsidilith", "bosses_of_mass_destruction:void_blossom"]
+	Blacklisted_Entity = ["minecraft:ender_dragon", "minecraft:wither", "alexsmobs:void_worm", "ars_nouveau:wilden_boss", "bosses_of_mass_destruction:gaunlet", "bosses_of_mass_destruction:lich", "bosses_of_mass_destruction:obsidilith", "bosses_of_mass_destruction:void_blossom", "cataclysm:ender_guardian", "cataclysm:ignis", "cataclysm:netherite_monstrosity", "mowziesmobs:barako", "mowziesmobs:ferrous_wroughtnaut", "mowziesmobs:frostmaw"]
 	#Enable blood particle effect for players only.
 	Only_Player = false
 	#Enable blood particle effect for mobs only.

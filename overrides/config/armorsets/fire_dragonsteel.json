@@ -1,5 +1,5 @@
 {
-  "armorSetName": "Fire DragonSteel",
+  "armorSetName": "Fire DragonSteel Set",
   "performanceMode": true,
   "head": {
     "itemKey": "iceandfire:dragonsteel_fire_helmet",
@@ -20,23 +20,23 @@
   "partialBonusRequiredAmount": 2,
   "partialSetBonuses": [
     {
-      "type": "attribute",
-      "name": "minecraft:generic.attack_damage",
-      "value": 3.0,
-      "modifierUUID": "a311d0a8-8356-450c-aaf2-b8c5dfe0924e",
-      "attributeOperation": 0,
-      "interactionType": "self",
-      "interactionDuration": 200,
+      "type": "effect",
+      "name": "ars_elemental:hellfire",
+      "value": 0.0,
+      "interactionType": "immunity",
+      "interactionDuration": 120,
       "hideBonusDescription": true
     }
   ],
   "fullSetBonuses": [
     {
-      "type": "effect",
-      "name": "minecraft:fire_resistance",
+      "type": "attribute",
+      "name": "minecraft:generic.armor",
       "value": 0.0,
+      "modifierUUID": "acffe407-b470-4668-b2c4-c2896bdf605b",
+      "attributeOperation": 0,
       "interactionType": "self",
-      "interactionDuration": 200,
+      "interactionDuration": 120,
       "hideBonusDescription": true
     }
   ],

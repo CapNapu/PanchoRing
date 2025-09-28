@@ -1,17 +1,17 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "epicfight:knuckle"
     },
     {
-      "tag": "forge:leather"
+      "item": "minecraft:leather"
     },
     {
-      "tag": "forge:leather"
+      "item": "minecraft:leather"
     }
   ],
   "result": {
     "item": "dungeons_gear:gauntlet"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

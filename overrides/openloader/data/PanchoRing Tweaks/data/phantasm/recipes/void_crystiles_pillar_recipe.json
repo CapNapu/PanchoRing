@@ -1,0 +1,17 @@
+{
+  "group": "crystal",
+  "key": {
+    "0": {
+      "item": "phantasm:void_crystiles"
+    }
+  },
+  "pattern": [
+    "0",
+    "0"
+  ],
+  "result": {
+    "count": 2,
+    "item": "phantasm:void_crystiles_pillar"
+  },
+  "type": "minecraft:crafting_shaped"
+}

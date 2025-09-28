@@ -1,10 +1,10 @@
 {
 	"attributes": {
 		"common": {
-			"damage_bonus": -1,
+			"damage_bonus": 1,
 			"impact": 2,
 			"max_strikes": 2
 		}
 	},
-	"type": "axe"
+	"type": "sword"
 }

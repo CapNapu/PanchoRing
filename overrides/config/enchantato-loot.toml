@@ -2,5 +2,5 @@
 [Enchantato-Loot]
 	#If you enable this, the 'DisabledEnchantments' will become 'AllowedEnchantments'
 	InvertedMode = false
-	DisabledEnchantments = ["dungeons_gear:critical_hit", "dungeons_gear:echo", "dungeons_gear:refreshment", "dungeons_gear:shockwave", "dungeons_gear:shock_web", "dungeons_gear:swirling", "dungeons_gear:accelerate", "dungeons_gear:cooldown_shot", "dungeons_gear:freezing_shot", "dungeons_gear:gale_shot", "dungeons_gear:replenish", "dungeons_gear:velocity", "dungeons_gear:wild_rage", "dungeons_gear:acrobat", "dungeons_gear:bag_of_souls", "dungeons_gear:beast_boss", "dungeons_gear:beast_burst", "dungeons_gear:electrified", "dungeons_gear:fire_focus", "dungeons_gear:life_boost", "dungeons_gear:lightning_focus", "dungeons_gear:lucky_explorer", "dungeons_gear:multi_roll", "dungeons_gear:opulent_shield", "dungeons_gear:poison_focus", "dungeons_gear:reckless", "dungeons_gear:recycler", "minecraft:mending", "minecraft:infinity", "minecraft:sweeping", "origins:water_protection"]
+	DisabledEnchantments = ["minecraft:infinity", "minecraft:mending", "minecraft:sweeping", "enchantmenttweak:magic_protection", "origins:water_protection"]
 

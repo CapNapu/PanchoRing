@@ -1,12 +1,12 @@
 {
-  "type": "minecraft:smithing",
+  "addition": {
+    "item": "minecraft:iron_ingot"
+  },
   "base": {
     "item": "minecraft:iron_shovel"
   },
-  "addition": {
-    "tag": "forge:ingots/iron"
-  },
   "result": {
     "item": "dungeons_gear:mace"
-  }
+  },
+  "type": "minecraft:smithing"
 }

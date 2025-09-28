@@ -17,7 +17,7 @@
 			[Settings."Mob Settings"."Mob Toggles"."Mob Spawn Weights"]
 				"Clam Spawn Weight" = 10
 				"Slug Spawn Weight" = 25
-				"Frog Spawn Weight" = 30
+				"Frog Spawn Weight" = 10
 				"Starfish Spawn Weight" = 30
 				"Fly Spawn Weight" = 15
 				"Firefly Spawn Weight" = 30
@@ -53,7 +53,7 @@
 		[Settings."World Gen".Groundcover]
 			iceChunks = true
 			#Groundcover Biome Blacklist, example: ["minecraft:plains", "minecraft:beach"]
-			groundcoverBlacklist = ["minecraft:snowy_tundra", "minecraft:snowy_mountains"]
+			groundcoverBlacklist = ["minecraft:deep_frozen_ocean", "minecraft:frozen_ocean", "minecraft:frozen_river", "minecraft:gravelly_mountains", "minecraft:ice_spikes", "minecraft:modified_gravelly_mountains", "minecraft:snowy_beach", "minecraft:snowy_mountains", "minecraft:snowy_taiga_hills", "minecraft:snowy_taiga_mountains", "minecraft:snowy_taiga", "minecraft:snowy_tundra", "projectvibrantjourneys:alpine_heights", "projectvibrantjourneys:boreal_plateau", "projectvibrantjourneys:snowy_boreal_forest", "projectvibrantjourneys:snowy_redwoods"]
 			rocks = true
 			seashells = true
 			bones = true

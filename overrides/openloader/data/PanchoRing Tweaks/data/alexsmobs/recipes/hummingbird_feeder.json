@@ -7,7 +7,7 @@
       "item": "minecraft:glass_bottle"
     },
     "P": {
-      "tag": "forge:ingots/copper"
+      "item": "iceandfire:copper_nugget"
     }
   },
   "pattern": [
@@ -16,7 +16,6 @@
     "FPF"
   ],
   "result": {
-    "count": 1,
     "item": "alexsmobs:hummingbird_feeder"
   },
   "type": "minecraft:crafting_shaped"

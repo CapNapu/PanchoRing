@@ -1,51 +1,51 @@
 {
-  "type": "ars_nouveau:enchanting_apparatus",
   "item_1": [
     {
-      "item": "alexsmobs:lava_bottle"
+      "item": "minecraft:iron_nugget"
     }
   ],
   "item_2": [
     {
-      "item": "minecraft:bucket"
+      "item": "minecraft:iron_nugget"
     }
   ],
   "item_3": [
     {
-      "item": "ars_nouveau:allow_scroll"
+      "item": "minecraft:iron_nugget"
     }
   ],
   "item_4": [
     {
-      "tag": "forge:ender_pearls"
+      "item": "phantasm:putac_shroom"
     }
   ],
   "item_5": [
     {
-      "tag": "forge:glass"
+      "item": "phantasm:putac_shroom"
     }
   ],
   "item_6": [
     {
-      "tag": "forge:glass"
+      "item": "ars_nouveau:mana_gem"
     }
   ],
   "item_7": [
     {
-      "tag": "forge:glass"
+      "item": "ars_nouveau:mana_gem"
     }
   ],
   "item_8": [
     {
-      "tag": "forge:glass"
+      "item": "ars_nouveau:mana_gem"
     }
   ],
+  "output": {
+    "item": "ars_nouveau:void_jar"
+  },
   "reagent": [
     {
       "item": "minecraft:glass_bottle"
     }
   ],
-  "output": {
-    "item": "ars_nouveau:void_jar"
-  }
+  "type": "ars_nouveau:enchanting_apparatus"
 }

@@ -35,7 +35,7 @@
 				"minecraft:drowned",
 				"minecraft:zombie_villager"
 			],
-			"numEntitiesKilledToDropSoulStar": 500
+			"numEntitiesKilledToDropSoulStar": 250
 		}
 	},
 	"obsidilithConfig": {

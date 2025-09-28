@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "frontier_cap": {
+      "conditions": {
+        "items": [
+          {
+            "item": "alexsmobs:frontier_cap"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.frontier_cap.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "alexsmobs:frontier_cap"
+    },
+    "title": {
+      "translate": "advancements.panchoring.frontier_cap.title"
+    }
+  },
+  "parent": "panchoring:raccoon"
+}

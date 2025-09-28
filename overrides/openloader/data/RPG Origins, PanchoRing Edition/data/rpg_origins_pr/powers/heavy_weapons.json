@@ -1,18 +1,18 @@
 {
     "type": "origins:conditioned_attribute",
     "modifier": {
-        "attribute": "minecraft:generic.movement_speed",
-        "operation": "multiply_base",
-        "value": 0.2
+        "attribute": "minecraft:generic.attack_speed",
+        "operation": "addition",
+        "value": 0.4
     },
-    "tick_rate": 10,
+    "tick_rate": 5,
     "condition": {
         "type": "origins:equipped_item",
         "equipment_slot": "mainhand",
         "item_condition": {
             "type": "origins:ingredient",
             "ingredient": {
-                "tag": "panchoring:heavy_weapons"
+                "tag": "panchoring:superheavy_weapons"
             }
         }
     }

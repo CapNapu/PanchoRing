@@ -1,0 +1,67 @@
+{
+  "criteria": {
+    "crystalline_axe": {
+      "conditions": {
+        "items": [
+          {
+            "item": "phantasm:crystalline_axe"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "crystalline_hoe": {
+      "conditions": {
+        "items": [
+          {
+            "item": "phantasm:crystalline_hoe"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "crystalline_pickaxe": {
+      "conditions": {
+        "items": [
+          {
+            "item": "phantasm:crystalline_pickaxe"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "crystalline_shovel": {
+      "conditions": {
+        "items": [
+          {
+            "item": "phantasm:crystalline_shovel"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "crystalline_sword": {
+      "conditions": {
+        "items": [
+          {
+            "item": "phantasm:crystalline_sword"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.get_crystal_full_set.descr"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "phantasm:crystalline_sword"
+    },
+    "title": {
+      "translate": "advancements.get_crystal_full_set.title"
+    }
+  },
+  "parent": "phantasm:get_void_crystal"
+}

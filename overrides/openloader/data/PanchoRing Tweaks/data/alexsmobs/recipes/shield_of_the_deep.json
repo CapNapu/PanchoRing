@@ -1,25 +1,18 @@
 {
   "key": {
-    "H": {
-      "item": "minecraft:heart_of_the_sea"
-    },
     "P": {
       "item": "minecraft:prismarine_bricks"
     },
     "S": {
       "item": "alexsmobs:serrated_shark_tooth"
-    },
-    "T": {
-      "item": "alexsmobs:shark_tooth"
     }
   },
   "pattern": [
     "SSS",
-    "PHP",
-    "TPT"
+    "PPP",
+    " P "
   ],
   "result": {
-    "count": 1,
     "item": "majruszs_difficulty:ocean_shield"
   },
   "type": "minecraft:crafting_shaped"

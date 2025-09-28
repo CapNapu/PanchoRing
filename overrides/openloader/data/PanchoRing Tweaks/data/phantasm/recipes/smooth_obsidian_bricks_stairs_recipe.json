@@ -1,18 +1,18 @@
 {
   "group": "smooth_obsidian",
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "0  ",
-    "00 ",
-    "000"
-  ],
   "key": {
     "0": {
       "item": "phantasm:smooth_obsidian_bricks"
     }
   },
+  "pattern": [
+    "0  ",
+    "00 ",
+    "000"
+  ],
   "result": {
-    "item": "phantasm:smooth_obsidian_bricks_stairs",
-    "count": 6
-  }
+    "count": 6,
+    "item": "phantasm:smooth_obsidian_bricks_stairs"
+  },
+  "type": "minecraft:crafting_shaped"
 }

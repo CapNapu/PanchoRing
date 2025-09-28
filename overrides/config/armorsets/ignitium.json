@@ -1,5 +1,5 @@
 {
-  "armorSetName": "Ignitium",
+  "armorSetName": "Ignitium Set",
   "performanceMode": true,
   "head": {
     "itemKey": "cataclysm:ignitium_helmet",
@@ -21,20 +21,20 @@
   "partialSetBonuses": [
     {
       "type": "effect",
-      "name": "minecraft:resistance",
+      "name": "minecraft:regeneration",
       "value": 0.0,
       "interactionType": "self",
-      "interactionDuration": 200,
+      "interactionDuration": 120,
       "hideBonusDescription": true
     }
   ],
   "fullSetBonuses": [
     {
       "type": "effect",
-      "name": "dungeons_gear:shielding",
+      "name": "minecraft:resistance",
       "value": 0.0,
       "interactionType": "self",
-      "interactionDuration": 200,
+      "interactionDuration": 120,
       "hideBonusDescription": true
     }
   ],

@@ -1,0 +1,19 @@
+{
+  "armorSetName": "Ignitium Chestplate",
+  "performanceMode": true,
+  "chest": {
+    "itemKey": "cataclysm:ignitium_chestplate",
+    "mustBeEmpty": false
+  },
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "name": "minecraft:fire_resistance",
+      "value": 0.0,
+      "interactionType": "self",
+      "interactionDuration": 120,
+      "hideBonusDescription": true
+    }
+  ],
+  "hideGeneratedTooltip": true
+}

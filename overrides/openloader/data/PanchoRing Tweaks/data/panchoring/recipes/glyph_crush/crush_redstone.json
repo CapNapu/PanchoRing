@@ -1,18 +1,18 @@
 {
-  "type": "ars_nouveau:crush",
   "input": {
     "item": "minecraft:redstone_ore"
   },
   "output": [
     {
-      "item": "minecraft:redstone",
       "chance": 1.0,
-      "count": 5
+      "count": 5,
+      "item": "minecraft:redstone"
     },
     {
-      "item": "minecraft:redstone",
       "chance": 0.5,
-      "count": 3
+      "count": 3,
+      "item": "minecraft:redstone"
     }
-  ]
+  ],
+  "type": "ars_nouveau:crush"
 }

@@ -1,0 +1,209 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 4,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "minecraft:diamond",
+          "type": "item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 4,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "iceandfire:sapphire_gem",
+          "type": "item",
+          "weight": 7
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 10,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "minecraft:iron_ingot",
+          "type": "item",
+          "weight": 20
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 10,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "minecraft:bone",
+          "type": "item",
+          "weight": 20
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 2,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "minecraft:book",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 2,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "minecraft:chain",
+          "type": "item",
+          "weight": 20
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "iceandfire:manuscript",
+          "type": "item",
+          "weight": 20
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 10,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "iceandfire:silver_ingot",
+          "type": "item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 16,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "iceandfire:silver_nugget",
+          "type": "item",
+          "weight": 15
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 1,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "minecraft:skeleton_skull",
+          "type": "item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "minecraft:cobweb",
+          "type": "item",
+          "weight": 15
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 1,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "iceandfire:silver_sword",
+          "type": "item",
+          "weight": 5
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "minecraft:packed_ice",
+          "type": "item",
+          "weight": 7
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 5,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "minecraft:experience_bottle",
+          "type": "item",
+          "weight": 1
+        }
+      ],
+      "name": "ice_dragon_cave",
+      "rolls": {
+        "max": 4,
+        "min": 1
+      }
+    }
+  ]
+}

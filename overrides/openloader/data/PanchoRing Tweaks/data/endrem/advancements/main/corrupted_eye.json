@@ -12,24 +12,16 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.main.corrupted_eye.description"
     },
     "frame": "goal",
-    "hidden": false,
     "icon": {
       "item": "endrem:corrupted_eye"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.main.corrupted_eye.title"
     }
   },
-  "parent": "minecraft:story/follow_ender_eye",
-  "requirements": [
-    [
-      "corrupted_eye"
-    ]
-  ]
+  "parent": "minecraft:story/enter_the_end"
 }

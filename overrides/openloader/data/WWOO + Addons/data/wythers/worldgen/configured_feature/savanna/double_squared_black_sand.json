@@ -36,7 +36,7 @@
               "type": "minecraft:ore",
               "config": {
                 "state": {
-                  "Name": "minecraft:black_concrete_powder"
+                  "Name": "infernalexp:silt"
                 },
                 "size": 10,
                 "target": {

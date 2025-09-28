@@ -12,18 +12,15 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
-      "translate": "advancements.panchoring.ars.mana_fiber.description"
+      "translate": "advancements.panchoring.mana_fiber.description"
     },
     "frame": "goal",
-    "hidden": false,
     "icon": {
       "item": "ars_nouveau:mana_fiber"
     },
-    "show_toast": true,
     "title": {
-      "translate": "advancements.panchoring.ars.mana_fiber.title"
+      "translate": "advancements.panchoring.mana_fiber.title"
     }
   },
   "parent": "panchoring:ars_nouveau/mana_bloom_crop"

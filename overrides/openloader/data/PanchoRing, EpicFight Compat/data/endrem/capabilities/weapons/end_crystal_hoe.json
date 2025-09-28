@@ -1,8 +1,9 @@
 {
 	"attributes": {
 		"common": {
-			"armor_negation": 10,
-			"impact": -0.1
+			"damage_bonus": 3,
+			"impact": 1.0,
+			"speed_bonus": -0.4
 		}
 	},
 	"type": "hoe"

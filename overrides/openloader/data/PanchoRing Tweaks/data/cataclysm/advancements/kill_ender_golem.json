@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "endergolem": {
+      "conditions": {
+        "entity": {
+          "type": "cataclysm:ender_golem"
+        }
+      },
+      "trigger": "minecraft:player_killed_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.cataclysm.kill_ender_golem.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "cataclysm:void_core"
+    },
+    "title": {
+      "translate": "advancements.cataclysm.kill_ender_golem.title"
+    }
+  },
+  "parent": "cataclysm:find_ruined_citadel"
+}

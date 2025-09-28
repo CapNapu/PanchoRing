@@ -1,30 +1,30 @@
 {
-    "display": {
-        "icon": {
-            "item": "iceandfire:tide_trident"
-        },
-        "frame": "goal",
-        "title": {
-            "translate": "advancements.iceandfire.tide_trident.title"
-        },
-        "description": {
-            "translate": "advancements.iceandfire.tide_trident.description"
-        }
-    },
-    "parent": "iceandfire:iceandfire/kill_sea_serpent",
     "criteria": {
         "shot_arrow": {
-            "trigger": "minecraft:player_hurt_entity",
             "conditions": {
                 "damage": {
                     "type": {
-                        "is_projectile": true,
                         "direct_entity": {
                             "type": "iceandfire:tide_trident"
-                        }
+                        },
+                        "is_projectile": true
                     }
                 }
-            }
+            },
+            "trigger": "minecraft:player_hurt_entity"
         }
-    }
+    },
+    "display": {
+        "description": {
+            "translate": "advancements.iceandfire.tide_trident.description"
+        },
+        "frame": "goal",
+        "icon": {
+            "item": "iceandfire:tide_trident"
+        },
+        "title": {
+            "translate": "advancements.iceandfire.tide_trident.title"
+        }
+    },
+    "parent": "iceandfire:iceandfire/kill_sea_serpent"
 }

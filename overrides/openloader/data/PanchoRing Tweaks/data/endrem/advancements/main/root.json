@@ -1,28 +1,16 @@
 {
-  "criteria": {
-    "old_eye": {
-      "trigger": "minecraft:impossible"
-    }
-  },
-  "display": {
-    "announce_to_chat": true,
-    "background": "endrem:textures/backgrounds/advance_back.png",
-    "description": {
-      "translate": "advancements.main.root.description"
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
     },
-    "frame": "goal",
-    "hidden": false,
-    "icon": {
-      "item": "endrem:ancient_portal_frame"
+    "display": {
+        "description": "",
+        "hidden": true,
+        "icon": {
+            "item": "minecraft:filled_map"
+        },
+        "title": ""
     },
-    "show_toast": false,
-    "title": {
-      "translate": "advancements.main.root.title"
-    }
-  },
-  "requirements": [
-    [
-      "old_eye"
-    ]
-  ]
+    "parent": "awesomedungeonocean:root"
 }

@@ -1,5 +1,5 @@
 {
-  "armorSetName": "Stellium",
+  "armorSetName": "Stellium Set",
   "performanceMode": true,
   "head": {
     "itemKey": "phantasm:stellium_helmet",
@@ -26,7 +26,7 @@
       "modifierUUID": "16f8b28b-6543-4b5f-9d22-a95357b12f28",
       "attributeOperation": 0,
       "interactionType": "self",
-      "interactionDuration": 200,
+      "interactionDuration": 120,
       "hideBonusDescription": true,
       "conditions": [
         {
@@ -44,7 +44,7 @@
       "modifierUUID": "bd5eb78b-1518-4545-b9de-710ba927f9aa",
       "attributeOperation": 0,
       "interactionType": "self",
-      "interactionDuration": 200,
+      "interactionDuration": 120,
       "hideBonusDescription": true,
       "conditions": [
         {

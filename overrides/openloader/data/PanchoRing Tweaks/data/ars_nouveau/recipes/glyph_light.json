@@ -1,6 +1,6 @@
 {
-  "type": "ars_nouveau:glyph_recipe",
-  "tier": "ONE",
   "input": "mowziesmobs:glowing_jelly",
-  "output": "ars_nouveau:glyph_light"
+  "output": "ars_nouveau:glyph_light",
+  "tier": "ONE",
+  "type": "ars_nouveau:glyph_recipe"
 }

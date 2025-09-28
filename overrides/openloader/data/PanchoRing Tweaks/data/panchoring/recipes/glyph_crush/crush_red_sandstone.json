@@ -1,13 +1,13 @@
 {
-  "type": "ars_nouveau:crush",
   "input": {
     "item": "minecraft:red_sandstone"
   },
   "output": [
     {
-      "item": "minecraft:red_sand",
       "chance": 1.0,
-      "count": 1
+      "count": 1,
+      "item": "minecraft:red_sand"
     }
-  ]
+  ],
+  "type": "ars_nouveau:crush"
 }

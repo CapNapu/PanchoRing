@@ -1,6 +1,6 @@
 {
   "criteria": {
-    "entered_nether": {
+    "impossible": {
       "trigger": "minecraft:impossible"
     }
   },
@@ -10,19 +10,12 @@
     "description": {
       "translate": "advancements.nether.root.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
-      "item": "minecraft:red_nether_bricks"
+      "item": "minecraft:netherrack"
     },
     "show_toast": false,
     "title": {
       "translate": "advancements.nether.root.title"
     }
-  },
-  "requirements": [
-    [
-      "entered_nether"
-    ]
-  ]
+  }
 }

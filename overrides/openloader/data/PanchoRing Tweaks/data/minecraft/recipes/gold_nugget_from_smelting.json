@@ -1,5 +1,6 @@
 {
-  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.1,
   "ingredient": [
     {
       "item": "minecraft:golden_pickaxe"
@@ -33,9 +34,17 @@
     },
     {
       "item": "supplementaries:crimson_lantern"
+    },
+    {
+      "item": "supplementaries:hourglass"
+    },
+    {
+      "item": "supplementaries:candelabra"
+    },
+    {
+      "item": "supplementaries:clock_block"
     }
   ],
   "result": "minecraft:gold_nugget",
-  "experience": 0.1,
-  "cookingtime": 200
+  "type": "minecraft:smelting"
 }

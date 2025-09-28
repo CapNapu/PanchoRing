@@ -1,0 +1,20 @@
+{
+  "ingredients": [
+    {
+      "item": "ars_nouveau:purple_archwood_log"
+    },
+    {
+      "item": "iceandfire:sapphire_gem"
+    },
+    {
+      "item": "iceandfire:sapphire_gem"
+    },
+    {
+      "item": "iceandfire:sapphire_gem"
+    }
+  ],
+  "result": {
+    "item": "ars_nouveau:ritual_warping"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

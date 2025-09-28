@@ -32,7 +32,7 @@
 	#Spawn Arcane Ore in the world
 	genOre = true
 	#Spawn a book in the players inventory on login
-	spawnBook = true
+	spawnBook = false
 	#Spawn Mana Berry Bushes in the world
 	genBerries = true
 	#How often Wilden Guardians spawn
@@ -40,7 +40,7 @@
 	wguardianWeight = 0
 	#Rate of tree spawn per chunk
 	#Range: 0.0 ~ 1.0
-	genTrees = 0.002
+	genTrees = 0.0
 	#How often Carbuncles spawn
 	#Range: 0 ~ 100
 	carbuncleWeight = 5

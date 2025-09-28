@@ -12,22 +12,15 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.panchoring.stellium_nugget.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
       "item": "phantasm:stellium_nugget"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.panchoring.stellium_nugget.title"
     }
   },
-  "parent": "phantasm:enter_dreaming_den",
-  "rewards": {
-    "experience": 50
-  }
+  "parent": "phantasm:enter_dreaming_den"
 }

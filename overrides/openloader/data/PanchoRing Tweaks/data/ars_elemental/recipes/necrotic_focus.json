@@ -1,31 +1,31 @@
 {
-  "type": "ars_nouveau:enchanting_apparatus",
   "item_1": [
-    {
-      "item": "iceandfire:witherbone"
-    }
-  ],
-  "item_2": [
     {
       "item": "minecraft:wither_rose"
     }
   ],
-  "item_3": [
+  "item_2": [
     {
       "item": "majruszs_difficulty:wither_sword"
     }
   ],
-  "item_4": [
+  "item_3": [
     {
       "item": "minecraft:wither_skeleton_skull"
     }
   ],
+  "item_4": [
+    {
+      "item": "iceandfire:cockatrice_eye"
+    }
+  ],
+  "output": {
+    "item": "ars_elemental:necrotic_focus"
+  },
   "reagent": [
     {
       "tag": "panchoring:elemental_foci_to_necrotic"
     }
   ],
-  "output": {
-    "item": "ars_elemental:necrotic_focus"
-  }
+  "type": "ars_nouveau:enchanting_apparatus"
 }

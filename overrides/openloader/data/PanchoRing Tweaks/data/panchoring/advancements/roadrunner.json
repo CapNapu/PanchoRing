@@ -1,0 +1,48 @@
+{
+  "criteria": {
+    "interact": {
+      "conditions": {
+        "entity": {
+          "type": "alexsmobs:roadrunner"
+        }
+      },
+      "trigger": "minecraft:player_interacted_with_entity"
+    },
+    "killed": {
+      "conditions": {
+        "entity": {
+          "type": "alexsmobs:roadrunner"
+        }
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "killed_by": {
+      "conditions": {
+        "entity": {
+          "type": "alexsmobs:roadrunner"
+        }
+      },
+      "trigger": "minecraft:player_hurt_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.roadrunner.description"
+    },
+    "icon": {
+      "item": "alexsmobs:tab_icon",
+      "nbt": "{DisplayEntityType:\"alexsmobs:roadrunner\"}"
+    },
+    "title": {
+      "translate": "advancements.panchoring.roadrunner.title"
+    }
+  },
+  "parent": "alexsmobs:alexsmobs/root",
+  "requirements": [
+    [
+      "killed",
+      "killed_by",
+      "interact"
+    ]
+  ]
+}

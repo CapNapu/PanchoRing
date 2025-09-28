@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "centipede_leggings": {
+      "conditions": {
+        "items": [
+          {
+            "item": "alexsmobs:centipede_leggings"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.centipede_leggings.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "alexsmobs:centipede_leggings"
+    },
+    "title": {
+      "translate": "advancements.panchoring.centipede_leggings.title"
+    }
+  },
+  "parent": "panchoring:centipede"
+}

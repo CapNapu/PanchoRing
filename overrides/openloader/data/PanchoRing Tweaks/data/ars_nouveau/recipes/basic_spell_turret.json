@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "key": {
+    "x": {
+      "item": "ars_nouveau:mana_gem"
+    },
+    "y": {
+      "item": "minecraft:gold_ingot"
+    },
+    "z": {
+      "item": "minecraft:redstone_block"
+    }
+  },
   "pattern": [
     " y ",
     "yxy",
     "xzx"
   ],
-  "key": {
-    "z": {
-      "tag": "forge:storage_blocks/redstone"
-    },
-    "x": {
-      "tag": "forge:gems/mana"
-    },
-    "y": {
-      "tag": "forge:ingots/gold"
-    }
-  },
   "result": {
     "item": "ars_nouveau:basic_spell_turret"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

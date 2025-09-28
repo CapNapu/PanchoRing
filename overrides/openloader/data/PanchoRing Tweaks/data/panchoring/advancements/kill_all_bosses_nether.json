@@ -1,13 +1,13 @@
 {
   "criteria": {
-    "Wither": {
+    "Ignis": {
       "conditions": {
         "entity": [
           {
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type": "minecraft:wither"
+              "type": "cataclysm:ignis"
             }
           }
         ]
@@ -28,20 +28,6 @@
       },
       "trigger": "minecraft:player_killed_entity"
     },
-    "Ignis": {
-      "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "cataclysm:ignis"
-            }
-          }
-        ]
-      },
-      "trigger": "minecraft:player_killed_entity"
-    },
     "Netherite Monstrosity": {
       "conditions": {
         "entity": [
@@ -55,20 +41,30 @@
         ]
       },
       "trigger": "minecraft:player_killed_entity"
+    },
+    "Wither": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:wither"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.panchoring.kill_all_bosses_nether.description"
     },
     "frame": "challenge",
-    "hidden": false,
     "icon": {
-      "item": "dungeons_gear:diamond_sword",
-      "nbt": "{Damage:0}"
+      "item": "dungeons_gear:diamond_sword"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.panchoring.kill_all_bosses_nether.title"
     }

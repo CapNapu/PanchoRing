@@ -1,9 +1,0 @@
-{
-    "hidden": true,
-    "type": "origins:attribute",
-    "modifier": {
-        "attribute": "epicfight:stun_armor",
-        "operation": "multiply_base",
-        "value": 0.5
-    }
-}

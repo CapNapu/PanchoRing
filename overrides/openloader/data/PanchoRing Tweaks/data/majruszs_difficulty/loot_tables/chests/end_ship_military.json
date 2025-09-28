@@ -32,7 +32,7 @@
               "treasure": true
             }
           ],
-          "name": "phantasm:stellium_shovel",
+          "name": "phantasm:crystalline_shovel",
           "type": "minecraft:item"
         },
         {
@@ -50,7 +50,7 @@
               "treasure": true
             }
           ],
-          "name": "phantasm:stellium_pickaxe",
+          "name": "phantasm:crystalline_pickaxe",
           "type": "minecraft:item"
         },
         {
@@ -68,7 +68,7 @@
               "treasure": true
             }
           ],
-          "name": "phantasm:stellium_axe",
+          "name": "phantasm:crystalline_axe",
           "type": "minecraft:item"
         },
         {
@@ -86,7 +86,7 @@
               "treasure": true
             }
           ],
-          "name": "phantasm:stellium_hoe",
+          "name": "phantasm:crystalline_sword",
           "type": "minecraft:item"
         }
       ],

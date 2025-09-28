@@ -1,12 +1,12 @@
 {
-    "type": "minecraft:smithing",
-    "base": {
-        "tag": "panchoring:dragonsteel_chestplates"
-    },
     "addition": {
         "item": "cataclysm:ignitium_ingot"
     },
+    "base": {
+        "tag": "panchoring:netherite_chestplates"
+    },
     "result": {
         "item": "cataclysm:ignitium_chestplate"
-    }
+    },
+    "type": "minecraft:smithing"
 }

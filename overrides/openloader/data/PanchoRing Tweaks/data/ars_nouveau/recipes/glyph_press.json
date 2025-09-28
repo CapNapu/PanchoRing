@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "bxb",
-    " y ",
-    "bxb"
-  ],
   "key": {
+    "b": {
+      "item": "minecraft:gold_ingot"
+    },
     "x": {
       "item": "ars_nouveau:arcane_stone"
     },
     "y": {
       "item": "minecraft:piston"
-    },
-    "b": {
-      "tag": "forge:ingots/gold"
     }
   },
+  "pattern": [
+    "bxb",
+    " y ",
+    "bxb"
+  ],
   "result": {
     "item": "ars_nouveau:glyph_press"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

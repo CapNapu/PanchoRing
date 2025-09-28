@@ -1,10 +1,10 @@
 {
 	"attributes": {
 		"common": {
-			"armor_negation": 50,
+			"armor_negation": 40,
 			"damage_bonus": 6,
 			"impact": 3.1,
-			"speed_bonus": 0.1
+			"speed_bonus": 0.7
 		}
 	},
 	"type": "trident"

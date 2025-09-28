@@ -5,16 +5,15 @@
         }
     },
     "display": {
-        "announce_to_chat": true,
+        "announce_to_chat": false,
         "background": "alexsmobs:textures/advancement_background.png",
         "description": {
             "translate": "advancements.alexsmobs.root.desc"
         },
-        "hidden": false,
         "icon": {
             "item": "alexsmobs:animal_dictionary"
         },
-        "show_toast": true,
+        "show_toast": false,
         "title": {
             "translate": "advancements.alexsmobs.root.title"
         }

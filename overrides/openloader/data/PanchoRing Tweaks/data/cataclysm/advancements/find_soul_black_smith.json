@@ -20,10 +20,5 @@
       "translate": "advancements.cataclysm.find_soul_black_smith.title"
     }
   },
-  "parent": "minecraft:nether/root",
-  "requirements": [
-    [
-      "blacksmith"
-    ]
-  ]
+  "parent": "minecraft:nether/root"
 }

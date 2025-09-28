@@ -1,18 +1,13 @@
 {
-  "type": "ars_nouveau:crush",
   "input": {
     "item": "infernalexp:basalt_cobbled"
   },
   "output": [
     {
-      "item": "minecraft:gravel",
       "chance": 1.0,
-      "count": 1
-    },
-    {
-      "item": "minecraft:iron_nugget",
-      "chance": 0.1,
-      "count": 1
+      "count": 1,
+      "item": "infernalexp:silt"
     }
-  ]
+  ],
+  "type": "ars_nouveau:crush"
 }

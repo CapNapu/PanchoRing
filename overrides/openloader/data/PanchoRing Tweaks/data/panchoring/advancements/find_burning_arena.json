@@ -20,10 +20,5 @@
       "translate": "advancements.panchoring.find_burning_arena.title"
     }
   },
-  "parent": "minecraft:nether/root",
-  "requirements": [
-    [
-      "burning_arena"
-    ]
-  ]
+  "parent": "minecraft:nether/root"
 }

@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "emu_leggings": {
+      "conditions": {
+        "items": [
+          {
+            "item": "alexsmobs:emu_leggings"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.emu_leggings.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "alexsmobs:emu_leggings"
+    },
+    "title": {
+      "translate": "advancements.panchoring.emu_leggings.title"
+    }
+  },
+  "parent": "alexsmobs:alexsmobs/emu"
+}

@@ -18,7 +18,7 @@
 	#----------------------------------------------------------------------------------------------------+
 	# Makes the entire dungeon solid, preventing caves, ravines, etc... from interfering with the dungeon.
 	#
-	solid = true
+	solid = false
 	#----------------------------------------------------------------------------------------------------+
 	# Whether falling blocks like sand or gravel should drop down after being placed during dungeon generation.
 	#
@@ -33,7 +33,7 @@
 	# Halving it will quadruple the amount of dungeons, doubling it would have the opposite effect.
 	#
 	#Range: 9 ~ 4096
-	spacing = 32
+	spacing = 64
 	#----------------------------------------------------------------------------------------------------+
 	# The minimum distance between two adjacent dungeons in chunks. Has to be lower than the spacing!
 	# The closer the separation is to the spacing, the more grid-aligned and predictable the dungeon placement will be.
@@ -41,7 +41,7 @@
 	# !! Has to be lower than the spacing! !!
 	#
 	#Range: 8 ~ 4095
-	separation = 12
+	separation = 32
 
 	["Dungeon Placement".Biomes]
 		#----------------------------------------------------------------------------------------------------+
@@ -98,11 +98,11 @@
 	# The number of different entities per spawner. Increasing the number increases the diversity of the monster equipment.
 	#
 	#Range: 1 ~ 128
-	spawner_entities = 6
+	spawner_entities = 4
 	#----------------------------------------------------------------------------------------------------+
 	# Whether custom mob spawners with equipment, etc.. should be used.
 	#
-	custom_spawners = true
+	custom_spawners = false
 	#----------------------------------------------------------------------------------------------------+
 	# Whether mobs from spawners should despawn naturally or not.
 	#

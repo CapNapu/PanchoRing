@@ -1,22 +1,16 @@
 {
     "criteria": {
-        "requirement": {
+        "impossible": {
             "trigger": "minecraft:impossible"
         }
     },
     "display": {
-        "announce_to_chat": true,
-        "description": " Discover the Warn temple dungeon during a rain",
-        "frame": "challenge",
-        "hidden": false,
+        "description": "",
+        "hidden": true,
         "icon": {
             "item": "minecraft:filled_map"
         },
-        "show_toast": true,
-        "title": "Find: Warn temple"
+        "title": ""
     },
-    "parent": "awesomedungeonocean:ocean_warn_temple/find_normal",
-    "rewards": {
-        "experience": 10
-    }
+    "parent": "awesomedungeonocean:root"
 }

@@ -1,6 +1,6 @@
 {
-  "type": "ars_nouveau:glyph_recipe",
+  "input": "iceandfire:lightning_dragon_heart",
+  "output": "ars_nouveau:glyph_lightning",
   "tier": "THREE",
-  "input": "iceandfire:lightning_dragon_blood",
-  "output": "ars_nouveau:glyph_lightning"
+  "type": "ars_nouveau:glyph_recipe"
 }

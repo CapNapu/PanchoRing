@@ -1,0 +1,27 @@
+{
+    "criteria": {
+        "echolocator": {
+            "conditions": {
+                "items": [
+                    {
+                        "item": "alexsmobs:echolocator"
+                    }
+                ]
+            },
+            "trigger": "minecraft:inventory_changed"
+        }
+    },
+    "display": {
+        "description": {
+            "translate": "advancements.alexsmobs.echolocator.desc"
+        },
+        "frame": "goal",
+        "icon": {
+            "item": "alexsmobs:echolocator"
+        },
+        "title": {
+            "translate": "advancements.alexsmobs.echolocator.title"
+        }
+    },
+    "parent": "alexsmobs:alexsmobs/save_cachalot_whale"
+}

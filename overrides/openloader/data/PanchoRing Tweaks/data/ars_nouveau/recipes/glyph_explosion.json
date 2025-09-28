@@ -1,6 +1,6 @@
 {
-  "type": "ars_nouveau:glyph_recipe",
+  "input": "alexsmobs:straddlite",
+  "output": "ars_nouveau:glyph_explosion",
   "tier": "TWO",
-  "input": "infernalexp:ascus_bomb",
-  "output": "ars_nouveau:glyph_explosion"
+  "type": "ars_nouveau:glyph_recipe"
 }

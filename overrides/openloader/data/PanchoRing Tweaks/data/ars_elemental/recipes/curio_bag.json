@@ -1,0 +1,13 @@
+{
+  "first": {
+    "item": "ars_nouveau:mana_fiber"
+  },
+  "first_count": 16,
+  "result": "ars_elemental:curio_bag",
+  "second": {
+    "item": "minecraft:experience_bottle"
+  },
+  "second_count": 1,
+  "spools_count": 1,
+  "type": "improvedbackpacks:sewing"
+}

@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "music_disc_weird_realm": {
+      "conditions": {
+        "items": [
+          {
+            "item": "ostoverhaul:weird_realm_disc"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.music_disc_weird_realm.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "ostoverhaul:weird_realm_disc"
+    },
+    "title": {
+      "translate": "advancements.panchoring.music_disc_weird_realm.title"
+    }
+  },
+  "parent": "bygonenether:acquire_wither_waltz"
+}

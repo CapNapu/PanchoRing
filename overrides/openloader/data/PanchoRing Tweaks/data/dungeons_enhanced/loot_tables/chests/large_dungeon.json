@@ -1,0 +1,294 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:iron_ingot",
+          "type": "minecraft:item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3.0,
+                "min": 1.0,
+                "type": "minecraft:uniform"
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:iron_nugget",
+          "type": "minecraft:item",
+          "weight": 6
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:gold_ingot",
+          "type": "minecraft:item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3.0,
+                "min": 1.0,
+                "type": "minecraft:uniform"
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:gold_nugget",
+          "type": "minecraft:item",
+          "weight": 6
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:rotten_flesh",
+          "type": "minecraft:item",
+          "weight": 13
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:bone",
+          "type": "minecraft:item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:brown_mushroom",
+          "type": "minecraft:item",
+          "weight": 4
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:red_mushroom",
+          "type": "minecraft:item",
+          "weight": 4
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:carrot",
+          "type": "minecraft:item",
+          "weight": 4
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:potato",
+          "type": "minecraft:item",
+          "weight": 4
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:poisonous_potato",
+          "type": "minecraft:item",
+          "weight": 6
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:string",
+          "type": "minecraft:item",
+          "weight": 7
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "minecraft:set_count"
+            },
+            {
+              "effects": [
+                {
+                  "duration": {
+                    "max": 20.0,
+                    "min": 10.0
+                  },
+                  "type": "minecraft:poison"
+                },
+                {
+                  "duration": {
+                    "max": 10.0,
+                    "min": 7.0
+                  },
+                  "type": "minecraft:night_vision"
+                },
+                {
+                  "duration": {
+                    "max": 7.0,
+                    "min": 5.0
+                  },
+                  "type": "minecraft:blindness"
+                },
+                {
+                  "duration": {
+                    "max": 10.0,
+                    "min": 7.0
+                  },
+                  "type": "minecraft:jump_boost"
+                },
+                {
+                  "duration": {
+                    "max": 8.0,
+                    "min": 6.0
+                  },
+                  "type": "minecraft:weakness"
+                },
+                {
+                  "duration": {
+                    "max": 10.0,
+                    "min": 7.0
+                  },
+                  "type": "minecraft:saturation"
+                }
+              ],
+              "function": "minecraft:set_stew_effect"
+            }
+          ],
+          "name": "minecraft:suspicious_stew",
+          "type": "minecraft:item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:spider_eye",
+          "type": "minecraft:item",
+          "weight": 3
+        }
+      ],
+      "rolls": {
+        "max": 14.0,
+        "min": 8.0,
+        "type": "minecraft:uniform"
+      }
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:diamond",
+          "type": "minecraft:item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:golden_apple",
+          "type": "minecraft:item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:diamond_helmet",
+          "type": "minecraft:item"
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:diamond_chestplate",
+          "type": "minecraft:item"
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:diamond_leggings",
+          "type": "minecraft:item"
+        },
+        {
+          "functions": [
+            {
+              "count": 1,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:diamond_boots",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": {
+        "max": 2.0,
+        "min": 0.0,
+        "type": "minecraft:uniform"
+      }
+    }
+  ],
+  "type": "minecraft:chest"
+}

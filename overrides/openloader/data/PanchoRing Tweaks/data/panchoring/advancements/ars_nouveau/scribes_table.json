@@ -12,18 +12,14 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
-      "translate": "advancements.panchoring.ars.scribes_table.description"
+      "translate": "advancements.panchoring.scribes_table.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
       "item": "ars_nouveau:scribes_table"
     },
-    "show_toast": true,
     "title": {
-      "translate": "advancements.panchoring.ars.scribes_table.title"
+      "translate": "advancements.panchoring.scribes_table.title"
     }
   },
   "parent": "panchoring:ars_nouveau/root"

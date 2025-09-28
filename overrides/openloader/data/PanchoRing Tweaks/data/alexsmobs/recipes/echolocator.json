@@ -1,10 +1,4 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "CPC",
-    "PAP",
-    " P "
-  ],
   "key": {
     "A": {
       "item": "alexsmobs:ambergris"
@@ -13,11 +7,16 @@
       "item": "alexsmobs:cachalot_whale_tooth"
     },
     "P": {
-      "tag": "forge:ingots/silver"
+      "item": "iceandfire:silver_ingot"
     }
   },
+  "pattern": [
+    "CPC",
+    "PAP",
+    " P "
+  ],
   "result": {
-    "item": "alexsmobs:echolocator",
-    "count": 1
-  }
+    "item": "alexsmobs:echolocator"
+  },
+  "type": "minecraft:crafting_shaped"
 }

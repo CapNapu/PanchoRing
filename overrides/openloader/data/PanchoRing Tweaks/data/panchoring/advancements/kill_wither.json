@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "kill_wither": {
+      "conditions": {
+        "entity": {
+          "type": "minecraft:wither"
+        }
+      },
+      "trigger": "minecraft:player_killed_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.kill_wither.description"
+    },
+    "frame": "goal",
+    "hidden": true,
+    "icon": {
+      "item": "minecraft:nether_star"
+    },
+    "title": {
+      "translate": "advancements.panchoring.kill_wither.title"
+    }
+  },
+  "parent": "minecraft:nether/get_wither_skull"
+}

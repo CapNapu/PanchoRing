@@ -1,0 +1,14 @@
+{
+  "key": {
+    "0": {
+      "item": "slabgen:dirt_slab"
+    }
+  },
+  "pattern": [
+    "00"
+  ],
+  "result": {
+    "item": "minecraft:dirt"
+  },
+  "type": "minecraft:crafting_shaped"
+}

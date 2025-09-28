@@ -1,24 +1,24 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "tag": "forge:gems/lapis"
+      "item": "minecraft:lapis_lazuli"
     },
     {
-      "tag": "forge:gems/lapis"
+      "item": "minecraft:lapis_lazuli"
     },
     {
-      "tag": "forge:gems/lapis"
+      "item": "minecraft:lapis_lazuli"
     },
     {
-      "tag": "forge:gems/sapphire"
+      "item": "iceandfire:sapphire_gem"
     },
     {
       "item": "ars_nouveau:blank_parchment"
     }
   ],
   "result": {
-    "item": "ars_nouveau:warp_scroll",
-    "count": 3
-  }
+    "count": 3,
+    "item": "ars_nouveau:warp_scroll"
+  },
+  "type": "minecraft:crafting_shapeless"
 }

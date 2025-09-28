@@ -1,0 +1,14 @@
+{
+  "key": {
+    "0": {
+      "item": "phantasm:raw_purpur_bricks_slab"
+    }
+  },
+  "pattern": [
+    "00"
+  ],
+  "result": {
+    "item": "phantasm:raw_purpur_bricks"
+  },
+  "type": "minecraft:crafting_shaped"
+}

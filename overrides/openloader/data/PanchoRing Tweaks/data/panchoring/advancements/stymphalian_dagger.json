@@ -13,14 +13,14 @@
   },
   "display": {
     "description": {
-      "translate": "advancements.panchoring.stymphalian_bird_dagger.description"
+      "translate": "advancements.panchoring.stymphalian_dagger.description"
     },
     "frame": "goal",
     "icon": {
       "item": "iceandfire:stymphalian_bird_dagger"
     },
     "title": {
-      "translate": "advancements.panchoring.stymphalian_bird_dagger.title"
+      "translate": "advancements.panchoring.stymphalian_dagger.title"
     }
   },
   "parent": "iceandfire:iceandfire/kill_stymphalian_bird"

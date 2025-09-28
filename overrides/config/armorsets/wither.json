@@ -1,5 +1,5 @@
 {
-  "armorSetName": "Wither",
+  "armorSetName": "Wither Set",
   "performanceMode": true,
   "head": {
     "itemKey": "dungeons_gear:wither_helmet",
@@ -20,13 +20,11 @@
   "partialBonusRequiredAmount": 2,
   "partialSetBonuses": [
     {
-      "type": "attribute",
-      "name": "epicfight:stun_armor",
-      "value": 5.0,
-      "modifierUUID": "8a7a6627-92f4-4cae-bb51-88430a84a08c",
-      "attributeOperation": 0,
+      "type": "effect",
+      "name": "minecraft:haste",
+      "value": 1.0,
       "interactionType": "self",
-      "interactionDuration": 200,
+      "interactionDuration": 120,
       "hideBonusDescription": true
     }
   ],
@@ -36,7 +34,7 @@
       "name": "minecraft:wither",
       "value": 0.0,
       "interactionType": "immunity",
-      "interactionDuration": 200,
+      "interactionDuration": 120,
       "hideBonusDescription": true
     }
   ],

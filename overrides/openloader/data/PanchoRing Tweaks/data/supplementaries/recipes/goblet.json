@@ -1,0 +1,19 @@
+{
+  "key": {
+    "0": {
+      "item": "iceandfire:silver_nugget"
+    },
+    "1": {
+      "item": "iceandfire:silver_ingot"
+    }
+  },
+  "pattern": [
+    "0 0",
+    "010",
+    " 0 "
+  ],
+  "result": {
+    "item": "supplementaries:goblet"
+  },
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,8 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "firework_star",
-      "nbt": "{CustomModelData:1}"
+      "item": "iceandfire:dread_key"
     },
     "title": {
       "translate": "advancement.snowgolem.get_orb"
@@ -22,7 +21,7 @@
       "conditions": {
         "items": [
           {
-            "item": "firework_star",
+            "item": "iceandfire:dread_key",
             "count": 1,
             "nbt": "{cc.sg.orb:1}"
           }

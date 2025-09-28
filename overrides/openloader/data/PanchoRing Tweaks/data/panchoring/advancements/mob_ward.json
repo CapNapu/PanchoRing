@@ -12,16 +12,13 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.panchoring.mob_ward.description"
     },
     "frame": "goal",
-    "hidden": false,
     "icon": {
       "item": "bosses_of_mass_destruction:mob_ward"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.panchoring.mob_ward.title"
     }

@@ -1,17 +1,17 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "dungeons_gear:shortbow"
     },
     {
-      "tag": "forge:rods/wooden"
+      "item": "minecraft:stick"
     },
     {
-      "tag": "forge:string"
+      "item": "minecraft:string"
     }
   ],
   "result": {
     "item": "minecraft:bow"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

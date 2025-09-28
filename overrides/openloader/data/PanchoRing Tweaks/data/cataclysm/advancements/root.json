@@ -1,21 +1,16 @@
 {
-  "criteria": {
-    "custom_test_name": {
-      "trigger": "minecraft:impossible"
-    }
-  },
-  "display": {
-    "announce_to_chat": false,
-    "background": "cataclysm:textures/blocks/obsidian_bricks.png",
-    "description": {
-      "translate": "advancements.cataclysm.root.description"
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
     },
-    "icon": {
-      "item": "cataclysm:final_fractal"
+    "display": {
+        "description": "",
+        "hidden": true,
+        "icon": {
+            "item": "minecraft:filled_map"
+        },
+        "title": ""
     },
-    "show_toast": false,
-    "title": {
-      "translate": "advancements.cataclysm.root.title"
-    }
-  }
+    "parent": "awesomedungeonocean:root"
 }

@@ -4,13 +4,13 @@
 	#Sneaking while attacking with End Sword inflicts levitation.
 	[Features.EndSwordLevitation]
 		#Is this feature enabled?
-		is_enabled = true
+		is_enabled = false
 		#Effect duration in seconds.
 		#Range: 1.0 ~ 600.0
-		duration = 4.0
+		duration = 1.0
 		#Chance of this feature to happen. 
 		#Range: 0.0 ~ 1.0
-		chance = 0.5
+		chance = 0.0
 
 	#Increases size of all explosions. (creeper, tnt, ghast ball etc.)
 	[Features.BiggerExplosionSize]
@@ -33,7 +33,7 @@
 		#Is applying Slowness enabled?
 		slowness = true
 		#Is applying Nausea enabled?
-		nausea = true
+		nausea = false
 
 	#Wither Skeleton spawns with Wither Sword.
 	[Features.WitherSkeletonSword]
@@ -94,7 +94,7 @@
 		#Range: 0.0 ~ 20.0
 		damage = 1.0
 		#List of entities that are immune to Bleeding effect. (only human-like mobs and animals)
-		black_list = ["minecraft:skeleton", "minecraft:iron_golem", "minecraft:skeleton_horse", "minecraft:stray", "alexsmobs:bone_serpent", "alexsmobs:bone_serpent_part", "alexsmobs:dropbear", "ars_elemental:summon_skelehorse", "bosses_of_mass_destruction:lich", "bygonenether:wither_skeleton_horse", "majruszs_difficulty:elite_skeleton", "mowziesmobs:ferrous_wroughtnaut", "mowziesmobs:grottol", "minecraft:wither_skeleton", "minecraft:wither", "alexsmobs:soul_vulture", "bygonenether:corpor", "bygonenether:wither_skeleton_horse", "bygonenether:wraither", "epicfight:wither_ghost", "epicfight:wither_skeleton_minion"]
+		black_list = ["minecraft:ender_dragon", "minecraft:iron_golem", "minecraft:skeleton_horse", "minecraft:skeleton", "minecraft:snow_golem", "minecraft:stray", "minecraft:vex", "minecraft:wither_skeleton", "minecraft:wither", "alexsmobs:bone_serpent_part", "alexsmobs:bone_serpent", "alexsmobs:dropbear", "alexsmobs:soul_vulture", "alexsmobs:void_worm", "alexsmobs:warped_mosco", "ars_elemental:summon_skelehorse", "ars_elemental:summon_vhex", "ars_nouveau:ally_vex", "ars_nouveau:wilden_boss", "bosses_of_mass_destruction:gaunlet", "bosses_of_mass_destruction:lich", "bosses_of_mass_destruction:obsidilith", "bosses_of_mass_destruction:void_blossom", "bygonenether:corpor", "bygonenether:wex", "bygonenether:wither_skeleton_horse", "bygonenether:wither_skeleton_horse", "bygonenether:wraither", "cataclysm:ender_guardian", "cataclysm:ignis", "cataclysm:netherite_monstrosity", "dungeons_gear:soul_wizard", "epicfight:wither_skeleton_minion", "iceandfire:ghost", "infernalexp:embody", "majruszs_difficulty:elite_skeleton", "mowziesmobs:barako", "mowziesmobs:ferrous_wroughtnaut", "mowziesmobs:frostmaw"]
 		#Cooldown between attacking entity.
 		#Range: 0.0 ~ 20.0
 		cooldown = 6.0
@@ -106,10 +106,10 @@
 		[Features.Bleeding.amplifier]
 			#Normal Mode
 			#Range: 0 ~ 10
-			normal = 2
+			normal = 0
 			#Expert Mode
 			#Range: 0 ~ 10
-			expert = 2
+			expert = 1
 			#Master Mode
 			#Range: 0 ~ 10
 			master = 2
@@ -167,13 +167,13 @@
 		[Features.SplitCreeper.maximum_creeperlings]
 			#Normal Mode
 			#Range: 0 ~ 10
-			normal = 2
+			normal = 3
 			#Expert Mode
 			#Range: 0 ~ 10
-			expert = 3
+			expert = 5
 			#Master Mode
 			#Range: 0 ~ 10
-			master = 5
+			master = 10
 
 	#Configuration for Bandage item.
 	[Features.Bandage]
@@ -192,7 +192,7 @@
 		is_enabled = true
 		#Effect duration in seconds.
 		#Range: 1.0 ~ 600.0
-		duration = 600.0
+		duration = 60.0
 		#Chance of this feature to happen. 
 		#Range: 0.0 ~ 1.0
 		chance = 0.1
@@ -254,9 +254,9 @@
 		#Is treasure bag from Fishing available in survival mode?
 		fishing = true
 		#Is treasure bag from Elder Guardian available in survival mode?
-		elder_guardian = true
+		elder_guardian = false
 		#Is treasure bag from Wither available in survival mode?
-		wither = true
+		wither = false
 
 	#Makes all Creepers ignite every nearby Creeper when exploding.
 	[Features.CreeperIgnite]
@@ -280,7 +280,7 @@
 		stone_sword_chance = 0.0
 		#Chance of this feature to happen. (this value is scaled by Clamped Regional Difficulty)
 		#Range: 0.0 ~ 1.0
-		chance = 0.0
+		chance = 0.25
 		#Chance for followers to have a Wooden Axe.
 		#Range: 0.0 ~ 0.5
 		wooden_axe_chance = 0.0
@@ -302,7 +302,7 @@
 		chance = 1.0
 		#Extra damage and health multiplier at night.
 		#Range: 1.0 ~ 10.0
-		night_multiplier = 1.5
+		night_multiplier = 1.0
 
 		#Extra damage multiplier.
 		[Features.SpawnBonuses.DamageMultiplier]
@@ -311,7 +311,7 @@
 			normal = 0.0
 			#Expert Mode
 			#Range: 0.0 ~ 10.0
-			expert = 0.35
+			expert = 0.33
 			#Master Mode
 			#Range: 0.0 ~ 10.0
 			master = 1.0
@@ -326,7 +326,7 @@
 			expert = 0.2
 			#Master Mode
 			#Range: 0.0 ~ 10.0
-			master = 0.4
+			master = 0.5
 
 	#Configuration for GoldenBandage item.
 	[Features.GoldenBandage]
@@ -348,10 +348,10 @@
 		is_enabled = true
 		#Effect duration in seconds.
 		#Range: 1.0 ~ 600.0
-		duration = 600.0
+		duration = 120.0
 		#Chance of this feature to happen. 
 		#Range: 0.0 ~ 1.0
-		chance = 0.2
+		chance = 0.33
 
 	#Slime inflicts Slowness.
 	[Features.SlimeSlowness]
@@ -384,7 +384,7 @@
 		is_enabled = true
 		#Chance of this feature to happen. (this value is scaled by Clamped Regional Difficulty)
 		#Range: 0.0 ~ 1.0
-		chance = 0.35
+		chance = 0.33
 
 	#Skeleton spawns in groups.
 	[Features.SkeletonGroup]
@@ -410,10 +410,10 @@
 			normal = 0.0
 			#Expert Mode
 			#Range: 0.0 ~ 10.0
-			expert = 0.0
+			expert = 0.2
 			#Master Mode
 			#Range: 0.0 ~ 10.0
-			master = 0.0
+			master = 0.5
 
 	#Makes all Creepers take less damage from other Creepers.
 	[Features.CreeperExplosionReduction]
@@ -429,7 +429,7 @@
 		is_enabled = false
 		#Effect duration in seconds.
 		#Range: 1.0 ~ 600.0
-		duration = 6.0
+		duration = 1.0
 		#Chance of this feature to happen. (this value is scaled by Clamped Regional Difficulty)
 		#Range: 0.0 ~ 1.0
 		chance = 0.0
@@ -446,7 +446,7 @@
 	[Features.EndLeggings]
 		#Armor bonus for every enchantment level.
 		#Range: 0.0 ~ 10.0
-		armor_bonus = 0.25
+		armor_bonus = 0.2
 
 	#Pillager spawns in groups with Pillager's Wolves.
 	[Features.PillagerGroup]
@@ -565,9 +565,9 @@
 		#Should entering any dimension start Expert Mode?
 		any_dimension_expert = false
 		#List of entities starting Expert Mode after killing them.
-		entities_expert = ["none"]
+		entities_expert = ["minecraft:wither", "ars_nouveau:wilden_boss", "bosses_of_mass_destruction:gaunlet", "bosses_of_mass_destruction:lich", "bosses_of_mass_destruction:void_blossom", "cataclysm:ignis", "cataclysm:netherite_monstrosity", "mowziesmobs:barako", "mowziesmobs:ferrous_wroughtnaut", "mowziesmobs:frostmaw"]
 		#List of dimensions starting Master Mode when a player enters it for the first time.
-		dimensions_master = ["cataclysm:ignis", "cataclysm:netherite_monstrosity", "cataclysm:ender_guardian", "alexsmobs:void_worm", "ars_nouveau:wilden_boss", "mowziesmobs:barako", "mowziesmobs:ferrous_wroughtnaut", "mowziesmobs:frostmaw", "bosses_of_mass_destruction:lich", "bosses_of_mass_destruction:gaunlet", "bosses_of_mass_destruction:obsidilith", "bosses_of_mass_destruction:void_blossom", "minecraft:wither"]
+		dimensions_master = ["none"]
 		#List of entities starting Master Mode after killing them.
 		entities_master = ["minecraft:ender_dragon"]
 		#List of dimensions starting Expert Mode when a player enters it for the first time. (ignored when any_dimension_expert is set to true)
@@ -581,7 +581,7 @@
 	player_scale = 0.75
 	#Required amount of killed undead to start the Undead Army.
 	#Range: 10 ~ 1000
-	kill_requirement = 50
+	kill_requirement = 75
 	#The maximum duration before Undead Army will end if there is no player. (in seconds) (requires game/world restart!) 
 	#Range: 300.0 ~ 3200.0
 	inactive_duration = 900.0

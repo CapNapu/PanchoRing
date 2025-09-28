@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "music_disc_petiole": {
+      "conditions": {
+        "items": [
+          {
+            "item": "mowziesmobs:music_disc_petiole"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.music_disc_petiole.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "mowziesmobs:music_disc_petiole"
+    },
+    "title": {
+      "translate": "advancements.panchoring.music_disc_petiole.title"
+    }
+  },
+  "parent": "ostoverhaul:ostoverhaul/shocked"
+}

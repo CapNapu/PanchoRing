@@ -13,7 +13,7 @@
     "description": {
       "translate": "advancements.cataclysm.kill_ender_guardian.description"
     },
-    "frame": "goal",
+    "frame": "challenge",
     "hidden": true,
     "icon": {
       "item": "cataclysm:gauntlet_of_guard"
@@ -22,5 +22,8 @@
       "translate": "advancements.cataclysm.kill_ender_guardian.title"
     }
   },
-  "parent": "cataclysm:kill_ender_golem"
+  "parent": "cataclysm:kill_ender_golem",
+  "rewards": {
+    "experience": 100
+  }
 }

@@ -1,31 +1,31 @@
 {
-  "type": "ars_nouveau:enchanting_apparatus",
   "item_1": [
     {
-      "tag": "forge:gems/diamond"
+      "item": "minecraft:diamond"
     }
   ],
   "item_2": [
     {
-      "tag": "forge:gems/diamond"
+      "item": "minecraft:diamond"
     }
   ],
   "item_3": [
     {
-      "tag": "forge:gems/amethyst"
+      "item": "minecraft:lapis_lazuli"
     }
   ],
   "item_4": [
     {
-      "tag": "forge:gems/amethyst"
+      "item": "iceandfire:amythest_gem"
     }
   ],
+  "output": {
+    "item": "ars_nouveau:amulet_of_mana_boost"
+  },
   "reagent": [
     {
       "item": "ars_nouveau:dull_trinket"
     }
   ],
-  "output": {
-    "item": "ars_nouveau:amulet_of_mana_boost"
-  }
+  "type": "ars_nouveau:enchanting_apparatus"
 }

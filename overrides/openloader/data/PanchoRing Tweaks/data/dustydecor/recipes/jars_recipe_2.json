@@ -1,7 +1,7 @@
 {
   "key": {
     "a": {
-      "item": "minecraft:glass"
+      "tag": "forge:glass"
     },
     "b": {
       "item": "extcaves:brick_half"

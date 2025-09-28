@@ -107,7 +107,7 @@
 		#
 		#Cave Vine Spawn Rate (default=10)
 		#Range: 1 ~ 50
-		spawnrate_cave_vine = 50
+		spawnrate_cave_vine = 1
 
 	[Spawn_Rates.Mushrooms]
 		#

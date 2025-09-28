@@ -1,23 +1,16 @@
 {
-  "criteria": {
-    "in_citadel": {
-      "trigger": "minecraft:impossible"
-    }
-  },
-  "display": {
-    "announce_to_chat": false,
-    "description": {
-      "translate": "advancements.bygonenether.explore_structures.description"
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
     },
-    "frame": "task",
-    "hidden": true,
-    "icon": {
-      "item": "bygonenether:gilded_netherite_boots"
+    "display": {
+        "description": "",
+        "hidden": true,
+        "icon": {
+            "item": "minecraft:filled_map"
+        },
+        "title": ""
     },
-    "show_toast": false,
-    "title": {
-      "translate": "advancements.bygonenether.explore_structures.title"
-    }
-  },
-  "parent": "bygonenether:root"
+    "parent": "awesomedungeonocean:root"
 }

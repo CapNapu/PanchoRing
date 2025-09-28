@@ -1,0 +1,306 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "minecraft:golden_apple",
+          "type": "minecraft:item",
+          "weight": 5
+        },
+        {
+          "name": "minecraft:saddle",
+          "type": "minecraft:item",
+          "weight": 5
+        },
+        {
+          "name": "minecraft:name_tag",
+          "type": "minecraft:item",
+          "weight": 5
+        },
+        {
+          "name": "minecraft:experience_bottle",
+          "type": "minecraft:item",
+          "weight": 10
+        },
+        {
+          "name": "minecraft:enchanted_golden_apple",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly"
+            }
+          ],
+          "name": "minecraft:book",
+          "type": "minecraft:item",
+          "weight": 20
+        }
+      ],
+      "rolls": {
+        "max": 2.0,
+        "min": 0.0,
+        "type": "minecraft:uniform"
+      }
+    },
+    {
+      "entries": [
+        {
+          "name": "dungeons_gear:sword",
+          "type": "minecraft:item",
+          "weight": 3
+        },
+        {
+          "name": "dungeons_gear:axe",
+          "type": "minecraft:item",
+          "weight": 3
+        },
+        {
+          "name": "dungeons_gear:pickaxe",
+          "type": "minecraft:item",
+          "weight": 3
+        },
+        {
+          "name": "dungeons_gear:spear",
+          "type": "minecraft:item",
+          "weight": 2
+        },
+        {
+          "name": "dungeons_gear:glaive",
+          "type": "minecraft:item",
+          "weight": 2
+        },
+        {
+          "name": "dungeons_gear:dagger",
+          "type": "minecraft:item",
+          "weight": 2
+        },
+        {
+          "name": "iceandfire:armor_copper_metal_helmet",
+          "type": "minecraft:item",
+          "weight": 2
+        },
+        {
+          "name": "iceandfire:armor_copper_metal_chestplate",
+          "type": "minecraft:item",
+          "weight": 2
+        },
+        {
+          "name": "iceandfire:armor_copper_metal_leggings",
+          "type": "minecraft:item",
+          "weight": 2
+        },
+        {
+          "name": "iceandfire:armor_copper_metal_boots",
+          "type": "minecraft:item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 3.0,
+                "type": "minecraft:uniform"
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:iron_ingot",
+          "type": "minecraft:item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 3.0,
+                "type": "minecraft:uniform"
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "iceandfire:copper_ingot",
+          "type": "minecraft:item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 3.0,
+                "type": "minecraft:uniform"
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:diamond",
+          "type": "minecraft:item",
+          "weight": 1
+        }
+      ],
+      "rolls": {
+        "max": 2.0,
+        "min": 1.0,
+        "type": "minecraft:uniform"
+      }
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3.0,
+                "min": 1.0,
+                "type": "minecraft:uniform"
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:apple",
+          "type": "minecraft:item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 3.0,
+                "type": "minecraft:uniform"
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:coal",
+          "type": "minecraft:item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6.0,
+                "min": 4.0,
+                "type": "minecraft:uniform"
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:torch",
+          "type": "minecraft:item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 4.0,
+                "min": 2.0,
+                "type": "minecraft:uniform"
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "majruszs_difficulty:tattered_cloth",
+          "type": "minecraft:item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 4.0,
+                "min": 2.0,
+                "type": "minecraft:uniform"
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:wheat_seeds",
+          "type": "minecraft:item",
+          "weight": 3
+        },
+        {
+          "name": "minecraft:brown_mushroom",
+          "type": "minecraft:item",
+          "weight": 3
+        },
+        {
+          "name": "minecraft:red_mushroom",
+          "type": "minecraft:item",
+          "weight": 3
+        },
+        {
+          "name": "minecraft:dead_bush",
+          "type": "minecraft:item",
+          "weight": 3
+        }
+      ],
+      "rolls": {
+        "max": 4.0,
+        "min": 3.0,
+        "type": "minecraft:uniform"
+      }
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3.0,
+                "min": 1.0,
+                "type": "minecraft:uniform"
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:rotten_flesh",
+          "type": "minecraft:item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 2.0,
+                "min": 1.0,
+                "type": "minecraft:uniform"
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:carrot",
+          "type": "minecraft:item",
+          "weight": 5
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 2.0,
+                "min": 1.0,
+                "type": "minecraft:uniform"
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:potato",
+          "type": "minecraft:item",
+          "weight": 5
+        }
+      ],
+      "rolls": {
+        "max": 3.0,
+        "min": 1.0,
+        "type": "minecraft:uniform"
+      }
+    }
+  ],
+  "type": "minecraft:chest"
+}

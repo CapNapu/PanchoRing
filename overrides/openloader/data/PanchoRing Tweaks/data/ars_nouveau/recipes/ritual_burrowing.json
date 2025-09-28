@@ -1,17 +1,20 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "ars_nouveau:green_archwood_log"
     },
     {
-      "tag": "forge:storage_blocks/copper"
+      "item": "minecraft:iron_ingot"
     },
     {
-      "item": "minecraft:blue_dye"
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
     }
   ],
   "result": {
     "item": "ars_nouveau:ritual_burrowing"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

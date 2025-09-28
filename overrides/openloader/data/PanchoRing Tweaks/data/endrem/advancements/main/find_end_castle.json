@@ -10,24 +10,16 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.main.find_end_castle.description"
     },
-    "frame": "task",
-    "hidden": false,
+    "frame": "goal",
     "icon": {
       "item": "minecraft:writable_book"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.main.find_end_castle.title"
     }
   },
-  "parent": "minecraft:story/enter_the_nether",
-  "requirements": [
-    [
-      "in_end_castle"
-    ]
-  ]
+  "parent": "minecraft:story/enter_the_nether"
 }

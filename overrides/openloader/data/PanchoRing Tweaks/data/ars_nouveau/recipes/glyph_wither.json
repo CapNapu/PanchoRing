@@ -1,6 +1,6 @@
 {
-  "type": "ars_nouveau:glyph_recipe",
-  "tier": "THREE",
   "input": "iceandfire:cockatrice_eye",
-  "output": "ars_nouveau:glyph_wither"
+  "output": "ars_nouveau:glyph_wither",
+  "tier": "THREE",
+  "type": "ars_nouveau:glyph_recipe"
 }

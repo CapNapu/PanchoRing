@@ -70,7 +70,6 @@
     ]
   ],
   "starts": [
-    "more_structures:village_sunflower_plains",
     "minecraft:mineshaft",
     "minecraft:stronghold",
     "minecraft:ruined_portal"

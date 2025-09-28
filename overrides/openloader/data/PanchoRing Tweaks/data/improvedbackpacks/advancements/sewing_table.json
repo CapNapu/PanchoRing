@@ -12,23 +12,15 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.improvedbackpacks.sewing_table.description"
     },
-    "hidden": false,
     "icon": {
       "item": "improvedbackpacks:sewing_table"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.improvedbackpacks.sewing_table.title"
     }
   },
-  "parent": "minecraft:husbandry/root",
-  "requirements": [
-    [
-      "sewing_table"
-    ]
-  ]
+  "parent": "minecraft:husbandry/root"
 }

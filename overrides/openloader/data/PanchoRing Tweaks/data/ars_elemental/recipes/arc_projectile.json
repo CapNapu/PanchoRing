@@ -1,6 +1,6 @@
 {
-  "input": "infernalexp:glowsilk",
+  "input": "projectvibrantjourneys:pearl",
   "output": "ars_nouveau:glyph_arc_projectile",
-  "tier": "TWO",
+  "tier": "ONE",
   "type": "ars_nouveau:glyph_recipe"
 }

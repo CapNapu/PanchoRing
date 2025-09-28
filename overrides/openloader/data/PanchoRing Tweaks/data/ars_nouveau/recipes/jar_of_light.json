@@ -1,51 +1,51 @@
 {
-  "type": "ars_nouveau:enchanting_apparatus",
   "item_1": [
     {
-      "item": "minecraft:glowstone"
+      "item": "minecraft:iron_nugget"
     }
   ],
   "item_2": [
     {
-      "item": "minecraft:glowstone"
+      "item": "minecraft:iron_nugget"
     }
   ],
   "item_3": [
     {
-      "item": "minecraft:glowstone"
+      "item": "minecraft:iron_nugget"
     }
   ],
   "item_4": [
     {
-      "item": "minecraft:glowstone"
+      "item": "infernalexp:glowcoal"
     }
   ],
   "item_5": [
     {
-      "tag": "forge:glass"
+      "item": "infernalexp:glowcoal"
     }
   ],
   "item_6": [
     {
-      "tag": "forge:glass"
+      "item": "ars_nouveau:mana_gem"
     }
   ],
   "item_7": [
     {
-      "tag": "forge:glass"
+      "item": "ars_nouveau:mana_gem"
     }
   ],
   "item_8": [
     {
-      "tag": "forge:glass"
+      "item": "ars_nouveau:mana_gem"
     }
   ],
+  "output": {
+    "item": "ars_nouveau:jar_of_light"
+  },
   "reagent": [
     {
       "item": "minecraft:glass_bottle"
     }
   ],
-  "output": {
-    "item": "ars_nouveau:jar_of_light"
-  }
+  "type": "ars_nouveau:enchanting_apparatus"
 }

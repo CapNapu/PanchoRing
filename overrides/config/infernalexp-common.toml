@@ -106,7 +106,7 @@
 [Miscellaneous]
 	#Determines the duration in seconds of the effect that Cured Jerky gives
 	#Range: > 0
-	jerkyEffectDuration = 8
+	jerkyEffectDuration = 10
 	#Determines if bricks are throwable or not
 	useThrowableBricks = false
 	#Determines the amplifier of the effect that Cured Jerky gives

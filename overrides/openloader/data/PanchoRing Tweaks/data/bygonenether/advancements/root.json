@@ -1,28 +1,16 @@
 {
-  "criteria": {
-    "entered_nether": {
-      "trigger": "minecraft:impossible"
-    }
-  },
-  "display": {
-    "announce_to_chat": false,
-    "background": "bygonenether:textures/block/soul_stone.png",
-    "description": {
-      "translate": "advancements.bygonenether.root.description"
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
     },
-    "frame": "task",
-    "hidden": true,
-    "icon": {
-      "item": "bygonenether:chiseled_withered_blackstone"
+    "display": {
+        "description": "",
+        "hidden": true,
+        "icon": {
+            "item": "minecraft:filled_map"
+        },
+        "title": ""
     },
-    "show_toast": false,
-    "title": {
-      "translate": "advancements.bygonenether.root.title"
-    }
-  },
-  "requirements": [
-    [
-      "entered_nether"
-    ]
-  ]
+    "parent": "awesomedungeonocean:root"
 }

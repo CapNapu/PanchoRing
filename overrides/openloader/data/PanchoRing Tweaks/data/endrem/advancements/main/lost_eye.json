@@ -12,24 +12,16 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.main.lost_eye.description"
     },
     "frame": "goal",
-    "hidden": false,
     "icon": {
       "item": "endrem:lost_eye"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.main.lost_eye.title"
     }
   },
-  "parent": "endrem:main/end_crystal_eye",
-  "requirements": [
-    [
-      "lost_eye"
-    ]
-  ]
+  "parent": "endrem:main/end_crystal_eye"
 }

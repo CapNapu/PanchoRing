@@ -5,22 +5,16 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.get_stellium_full_set.descr"
     },
-    "frame": "challenge",
-    "hidden": false,
+    "frame": "goal",
     "icon": {
       "item": "phantasm:stellium_chestplate"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.get_stellium_full_set.title"
     }
   },
-  "parent": "panchoring:stellium_nugget",
-  "rewards": {
-    "experience": 200
-  }
+  "parent": "panchoring:stellium_nugget"
 }

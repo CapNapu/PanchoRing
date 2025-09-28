@@ -1,0 +1,14 @@
+{
+  "key": {
+    "0": {
+      "item": "extcaves:sedimentstone_slab"
+    }
+  },
+  "pattern": [
+    "00"
+  ],
+  "result": {
+    "item": "extcaves:sedimentstone"
+  },
+  "type": "minecraft:crafting_shaped"
+}

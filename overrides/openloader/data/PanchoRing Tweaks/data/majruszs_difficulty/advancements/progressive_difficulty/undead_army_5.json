@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "army_defeated": {
+      "conditions": {
+        "wave": 5
+      },
+      "trigger": "majruszs_difficulty:undead_army_defeated"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.progressive_difficulty.undead_army_5.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "item": "majruszs_difficulty:undead_battle_standard"
+    },
+    "title": {
+      "translate": "advancements.progressive_difficulty.undead_army_5.title"
+    }
+  },
+  "parent": "majruszs_difficulty:progressive_difficulty/undead_army_4",
+  "rewards": {
+    "experience": 100
+  }
+}

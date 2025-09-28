@@ -69,7 +69,6 @@
     ]
   ],
   "starts": [
-    "more_structures:pillager_outpost_desert_hills",
     "minecraft:desert_pyramid",
     "minecraft:stronghold",
     "minecraft:ruined_portal_desert"

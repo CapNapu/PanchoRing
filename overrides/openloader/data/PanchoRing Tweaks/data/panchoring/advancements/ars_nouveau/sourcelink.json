@@ -52,16 +52,12 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.panchoring.sourcelink.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
       "item": "ars_nouveau:mana_condenser"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.panchoring.sourcelink.title"
     }

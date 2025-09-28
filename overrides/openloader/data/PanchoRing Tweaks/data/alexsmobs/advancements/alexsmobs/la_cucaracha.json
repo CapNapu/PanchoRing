@@ -1,0 +1,29 @@
+{
+  "criteria": {
+    "tame": {
+      "conditions": {
+        "entity": {
+          "type": "alexsmobs:cockroach"
+        },
+        "item": {
+          "item": "alexsmobs:maraca"
+        }
+      },
+      "trigger": "minecraft:player_interacted_with_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.alexsmobs.la_cucaracha.desc"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "alexsmobs:tab_icon",
+      "nbt": "{DisplayEntityType:\"alexsmobs:cockroach\", DisplayMobFlags:99}"
+    },
+    "title": {
+      "translate": "advancements.alexsmobs.la_cucaracha.title"
+    }
+  },
+  "parent": "alexsmobs:alexsmobs/maraca"
+}

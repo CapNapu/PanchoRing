@@ -1,13 +1,13 @@
 {
   "key": {
     "F": {
-      "tag": "forge:feathers"
+      "item": "minecraft:feather"
     },
     "I": {
-      "tag": "forge:ingots/silver"
+      "item": "iceandfire:silver_ingot"
     },
     "S": {
-      "tag": "forge:rods/wooden"
+      "item": "minecraft:stick"
     },
     "T": {
       "item": "iceandfire:hippogryph_talon"

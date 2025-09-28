@@ -1,14 +1,14 @@
 {
-  "type": "iceandfire:dragonforge",
-  "dragon_type": "fire",
-  "cook_time": 1000,
-  "input": {
-    "tag": "forge:ingots/netherite"
-  },
   "blood": {
     "item": "iceandfire:fire_dragon_blood"
   },
+  "cook_time": 1000,
+  "dragon_type": "fire",
+  "input": {
+    "item": "minecraft:iron_ingot"
+  },
   "result": {
     "item": "iceandfire:dragonsteel_fire_ingot"
-  }
+  },
+  "type": "iceandfire:dragonforge"
 }

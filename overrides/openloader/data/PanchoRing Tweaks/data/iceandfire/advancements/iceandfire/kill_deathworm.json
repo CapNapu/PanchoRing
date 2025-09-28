@@ -1,19 +1,16 @@
 {
-  "criteria": {
-    "killed_fire_dragon": {
-      "trigger": "minecraft:impossible"
-    }
-  },
-  "display": {
-    "description": {
-      "translate": "advancements.iceandfire.kill_deathworm.description"
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
     },
-    "icon": {
-      "item": "iceandfire:deathworm_tounge"
+    "display": {
+        "description": "",
+        "hidden": true,
+        "icon": {
+            "item": "minecraft:filled_map"
+        },
+        "title": ""
     },
-    "title": {
-      "translate": "advancements.iceandfire.kill_deathworm.title"
-    }
-  },
-  "parent": "iceandfire:iceandfire/bestiary"
+    "parent": "awesomedungeonocean:root"
 }

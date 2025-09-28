@@ -1,0 +1,19 @@
+{
+  "key": {
+    "B": {
+      "item": "iceandfire:dragonforge_fire_brick"
+    },
+    "I": {
+      "item": "iceandfire:silver_ingot"
+    }
+  },
+  "pattern": [
+    "BIB",
+    "I I",
+    "BIB"
+  ],
+  "result": {
+    "item": "iceandfire:dragonforge_fire_input"
+  },
+  "type": "minecraft:crafting_shaped"
+}

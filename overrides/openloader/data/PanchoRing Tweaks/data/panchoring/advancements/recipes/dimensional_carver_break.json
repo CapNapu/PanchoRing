@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "requirement": {
+      "conditions": {
+        "durability": 1,
+        "item": {
+          "item": "alexsmobs:dimensional_carver"
+        }
+      },
+      "trigger": "minecraft:item_durability_changed"
+    }
+  },
+  "rewards": {
+    "function": "panchoring:dimensional_carver_break"
+  }
+}

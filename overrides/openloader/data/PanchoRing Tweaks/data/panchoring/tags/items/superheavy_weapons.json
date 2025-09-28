@@ -1,5 +1,4 @@
 {
-  "replace": false,
   "values": [
     "cataclysm:infernal_forge",
     "dungeons_gear:anchor",
@@ -9,12 +8,13 @@
     "dungeons_gear:great_hammer",
     "dungeons_gear:hammer_of_gravity",
     "dungeons_gear:stormlander",
+    "dungeons_gear:truthseeker",
     "iceandfire:troll_weapon_axe",
-    "iceandfire:troll_weapon_column",
     "iceandfire:troll_weapon_column_forest",
     "iceandfire:troll_weapon_column_frost",
+    "iceandfire:troll_weapon_column",
     "iceandfire:troll_weapon_hammer",
-    "iceandfire:troll_weapon_trunk",
-    "iceandfire:troll_weapon_trunk_frost"
+    "iceandfire:troll_weapon_trunk_frost",
+    "iceandfire:troll_weapon_trunk"
   ]
 }

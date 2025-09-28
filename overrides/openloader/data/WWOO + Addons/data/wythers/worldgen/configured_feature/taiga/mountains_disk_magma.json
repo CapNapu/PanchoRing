@@ -42,7 +42,7 @@
             "half_height": 1,
             "targets": [
               {
-                "Name": "minecraft:gray_terracotta"
+                "Name": "minecraft:light_gray_terracotta"
               }
             ]
           }

@@ -3,7 +3,7 @@
 [general]
 	#Limits the number of times a given augment may be applied to a given effect
 	#Example entry: "amplify=5"
-	augment_limits = []
+	augment_limits = ["amplify=1", "dampen=0"]
 	#Cost
 	#Range: > -2147483648
 	cost = 35

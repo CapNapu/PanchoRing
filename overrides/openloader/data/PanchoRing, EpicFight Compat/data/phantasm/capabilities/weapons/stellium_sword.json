@@ -3,7 +3,7 @@
 		"common": {
 			"armor_negation": 15,
 			"damage_bonus": 7,
-			"impact": 2.1
+			"impact": 1.9
 		}
 	},
 	"type": "sword"

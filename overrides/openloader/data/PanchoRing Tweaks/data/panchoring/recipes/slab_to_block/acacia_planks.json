@@ -1,0 +1,14 @@
+{
+  "key": {
+    "0": {
+      "item": "minecraft:acacia_slab"
+    }
+  },
+  "pattern": [
+    "00"
+  ],
+  "result": {
+    "item": "minecraft:acacia_planks"
+  },
+  "type": "minecraft:crafting_shaped"
+}

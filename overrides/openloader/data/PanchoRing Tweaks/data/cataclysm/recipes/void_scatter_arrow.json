@@ -1,23 +1,23 @@
 {
-    "type": "minecraft:crafting_shaped",
+    "key": {
+        "#": {
+            "item": "minecraft:stick"
+        },
+        "X": {
+            "item": "cataclysm:void_jaw"
+        },
+        "Y": {
+            "item": "minecraft:gold_nugget"
+        }
+    },
     "pattern": [
         "X",
         "#",
         "Y"
     ],
-    "key": {
-        "#": {
-            "item": "minecraft:stick"
-          },
-          "X": {
-            "item": "cataclysm:void_jaw"
-          },
-          "Y": {
-            "item": "minecraft:gold_nugget"
-        }
-    },
     "result": {
-        "item": "cataclysm:void_scatter_arrow",
-        "count": 8
-    }
+        "count": 4,
+        "item": "cataclysm:void_scatter_arrow"
+    },
+    "type": "minecraft:crafting_shaped"
 }

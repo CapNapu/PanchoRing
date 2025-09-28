@@ -1,6 +1,6 @@
 {
-  "type": "ars_nouveau:glyph_recipe",
+  "input": "alexsmobs:komodo_spit_bottle",
+  "output": "ars_nouveau:glyph_evaporate",
   "tier": "ONE",
-  "input": "alexsmobs:komodo_spit",
-  "output": "ars_nouveau:glyph_evaporate"
+  "type": "ars_nouveau:glyph_recipe"
 }

@@ -1,0 +1,9 @@
+{
+  "integrated_loot_tables": {
+    "dungeons_enhanced:chests/castle/spring": 3,
+    "dungeons_enhanced:chests/elders_temple/elder_room": 6,
+    "dungeons_enhanced:chests/elders_temple/main": 3
+  },
+  "loot_table": "minecraft:chests/underwater_ruin_big",
+  "max_result_itemcount": 15
+}

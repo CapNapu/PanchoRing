@@ -4,7 +4,7 @@
   },
   "result": "improvedbackpacks:tiny_pocket",
   "second": {
-    "tag": "forge:ingots/copper"
+    "item": "iceandfire:copper_ingot"
   },
   "spools_count": 1,
   "type": "improvedbackpacks:sewing"

@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "enter_underisland": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.enter_underisland.descr"
+    },
+    "icon": {
+      "item": "phantasm:oblivion"
+    },
+    "title": {
+      "translate": "advancements.enter_underisland.title"
+    }
+  },
+  "parent": "phantasm:enter_dreaming_den"
+}

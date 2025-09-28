@@ -1,0 +1,14 @@
+{
+  "key": {
+    "0": {
+      "item": "mowziesmobs:painted_acacia_slab"
+    }
+  },
+  "pattern": [
+    "00"
+  ],
+  "result": {
+    "item": "mowziesmobs:painted_acacia"
+  },
+  "type": "minecraft:crafting_shaped"
+}

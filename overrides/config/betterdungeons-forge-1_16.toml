@@ -10,14 +10,14 @@
 		# Entries must have the mod namespace included.
 		# For example: "[minecraft:plains, byg:alps]"
 		# Default: "[minecraft:ocean, minecraft:frozen_ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:beach, minecraft:snowy_beach, minecraft:river, minecraft:frozen_river, minecraft:deep_warm_ocean]"
-		"Skeleton Dungeon Blacklisted Biomes" = "[minecraft:ocean, minecraft:frozen_ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:beach, minecraft:snowy_beach, minecraft:river, minecraft:frozen_river, minecraft:deep_warm_ocean]"
+		"Skeleton Dungeon Blacklisted Biomes" = "[minecraft:beach, minecraft:cold_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_ocean, minecraft:deep_warm_ocean, minecraft:frozen_ocean, minecraft:frozen_river, minecraft:lukewarm_ocean, minecraft:mushroom_field_shore, minecraft:ocean, minecraft:river, minecraft:snowy_beach, minecraft:stone_shore, minecraft:warm_ocean, projectvibrantjourneys:gravel_shore, projectvibrantjourneys:windswept_shore]"
 		# Whether or not Skeleton Dungeons from Better Dungeons should spawn.
 		# Default: true
 		"Spawn Skeleton Dungeons" = true
 		# The average number of chunks between adjacent Skeleton Dungeons.
 		# This controls how often Skeleton Dungeons spawn. Higher value = more rare.
 		# Default: 46
-		"Skeleton Dungeon Average Separation Distance" = 46
+		"Skeleton Dungeon Average Separation Distance" = 64
 		# The maximum y-value at which the STARTING POINT of the skeleton dungeon can spawn.
 		# Note that this point is the bottom of the skeleton dungeon, so the various pieces of the dungeon can extend above it.
 		# Default: 30
@@ -57,13 +57,13 @@
 		# The average number of chunks between adjacent Zombie Dungeons.
 		# This controls how often Zombie Dungeons spawn. Higher value = more rare.
 		# Default: 48
-		"Zombie Dungeon Average Separation Distance" = 48
+		"Zombie Dungeon Average Separation Distance" = 64
 		# List of biomes that will NOT have Zombie Dungeons.
 		# List must be comma-separated values enclosed in square brackets.
 		# Entries must have the mod namespace included.
 		# For example: "[minecraft:plains, byg:alps]"
 		# Default: "[minecraft:ocean, minecraft:frozen_ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:beach, minecraft:snowy_beach, minecraft:river, minecraft:frozen_river, minecraft:deep_warm_ocean]"
-		"Zombie Dungeon Blacklisted Biomes" = "[minecraft:ocean, minecraft:frozen_ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:beach, minecraft:snowy_beach, minecraft:river, minecraft:frozen_river, minecraft:deep_warm_ocean]"
+		"Zombie Dungeon Blacklisted Biomes" = "[minecraft:beach, minecraft:cold_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_ocean, minecraft:deep_warm_ocean, minecraft:frozen_ocean, minecraft:frozen_river, minecraft:lukewarm_ocean, minecraft:mushroom_field_shore, minecraft:ocean, minecraft:river, minecraft:snowy_beach, minecraft:stone_shore, minecraft:warm_ocean, projectvibrantjourneys:gravel_shore, projectvibrantjourneys:windswept_shore]"
 		# The maximum y-value at which the STARTING POINT of the zombie dungeon can spawn.
 		# Note that this point is the bottom of the zombie dungeon, so the various pieces of the dungeon can extend below it.
 		# Default: 51
@@ -78,7 +78,7 @@
 		# Entries must have the mod namespace included.
 		# For example: "[minecraft:plains, byg:alps]"
 		# Default: "[minecraft:ocean, minecraft:frozen_ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:beach, minecraft:snowy_beach, minecraft:river, minecraft:frozen_river, minecraft:deep_warm_ocean]"
-		"Spider Dungeon Blacklisted Biomes" = "[minecraft:ocean, minecraft:frozen_ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:beach, minecraft:snowy_beach, minecraft:river, minecraft:frozen_river, minecraft:deep_warm_ocean]"
+		"Spider Dungeon Blacklisted Biomes" = "[minecraft:beach, minecraft:cold_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_ocean, minecraft:deep_warm_ocean, minecraft:frozen_ocean, minecraft:frozen_river, minecraft:lukewarm_ocean, minecraft:mushroom_field_shore, minecraft:ocean, minecraft:river, minecraft:snowy_beach, minecraft:stone_shore, minecraft:warm_ocean, projectvibrantjourneys:gravel_shore, projectvibrantjourneys:windswept_shore]"
 		# List of dimensions that will have Spider Dungeons.
 		# List must be comma-separated values enclosed in square brackets.
 		# Entries must have the mod namespace included.
@@ -98,7 +98,7 @@
 		# The average number of chunks between adjacent Spider Dungeons.
 		# This controls how often Spider Dungeons spawn. Higher value = more rare.
 		# Default: 44
-		"Spider Dungeon Average Separation Distance" = 44
+		"Spider Dungeon Average Separation Distance" = 64
 		# Whether or not Spider Dungeons from Better Dungeons should spawn.
 		# Default: true
 		"Spawn Spider Dungeons" = true
@@ -138,7 +138,7 @@
 		# Entries must have the mod namespace included.
 		# For example: "[minecraft:plains, byg:alps]"
 		# Default: "[minecraft:ocean, minecraft:frozen_ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:beach, minecraft:snowy_beach, minecraft:river, minecraft:frozen_river, minecraft:deep_warm_ocean]"
-		"Small Dungeon Blacklisted Biomes" = "[minecraft:ocean, minecraft:frozen_ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:beach, minecraft:snowy_beach, minecraft:river, minecraft:frozen_river, minecraft:deep_warm_ocean]"
+		"Small Dungeon Blacklisted Biomes" = "[minecraft:ocean, minecraft:frozen_ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:beach, minecraft:snowy_beach, minecraft:river, minecraft:frozen_river, minecraft:deep_warm_ocean, minecraft:mushroom_field_shore, projectvibrantjourneys:gravel_shore, projectvibrantjourneys:windswept_shore]"
 		# The minimum number of chests that are guaranteed to spawn in a single small dungeon.
 		# Default: 1
 		"Small Dungeon Min Chest Count" = 1
@@ -148,7 +148,7 @@
 		# The average number of chunks between adjacent small dungeons.
 		# This controls how often small dungeons spawn. Higher value = more rare.
 		# Default: 10
-		"Small Dungeon Average Separation Distance" = 10
+		"Small Dungeon Average Separation Distance" = 12
 		# List of dimensions that will have Small Dungeons.
 		# List must be comma-separated values enclosed in square brackets.
 		# Entries must have the mod namespace included.

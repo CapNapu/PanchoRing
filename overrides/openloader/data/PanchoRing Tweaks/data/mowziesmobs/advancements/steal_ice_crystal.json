@@ -17,5 +17,8 @@
       "translate": "advancements.mowziesmobs.steal_ice_crystal.title"
     }
   },
-  "parent": "mowziesmobs:kill_frostmaw"
+  "parent": "mowziesmobs:kill_frostmaw",
+  "rewards": {
+    "experience": 100
+  }
 }

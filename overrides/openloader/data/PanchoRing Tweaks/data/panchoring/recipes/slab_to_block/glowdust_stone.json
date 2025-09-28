@@ -1,0 +1,14 @@
+{
+  "key": {
+    "0": {
+      "item": "infernalexp:glowdust_stone_slab"
+    }
+  },
+  "pattern": [
+    "00"
+  ],
+  "result": {
+    "item": "infernalexp:glowdust_stone"
+  },
+  "type": "minecraft:crafting_shaped"
+}

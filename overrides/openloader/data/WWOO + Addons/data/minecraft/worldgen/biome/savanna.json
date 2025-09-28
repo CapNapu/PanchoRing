@@ -137,12 +137,6 @@
     ],
     "creature": [
       {
-        "type": "minecraft:hoglin",
-        "weight": 5,
-        "minCount": 2,
-        "maxCount": 4
-      },
-      {
         "type": "minecraft:chicken",
         "weight": 50,
         "minCount": 4,
@@ -160,14 +154,6 @@
         "minCount": 4,
         "maxCount": 6
 		}
-    ],
-    "ambient": [
-      {
-        "type": "minecraft:bat",
-        "weight": 10,
-        "minCount": 8,
-        "maxCount": 8
-      }
     ],
     "ambient": [
       {

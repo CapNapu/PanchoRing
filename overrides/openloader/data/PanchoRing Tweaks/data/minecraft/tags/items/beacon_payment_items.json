@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "cataclysm:ignitium_ingot",
+    "endrem:end_crystal_ingot",
+    "iceandfire:amythest_gem",
+    "iceandfire:copper_ingot",
+    "iceandfire:dragonsteel_fire_ingot",
+    "iceandfire:dragonsteel_ice_ingot",
+    "iceandfire:dragonsteel_lightning_ingot",
+    "iceandfire:sapphire_gem",
+    "iceandfire:silver_ingot",
+    "majruszs_difficulty:end_ingot",
+    "phantasm:stellium_ingot"
+  ]
+}

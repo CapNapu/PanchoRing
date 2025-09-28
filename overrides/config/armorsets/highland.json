@@ -1,5 +1,5 @@
 {
-  "armorSetName": "Highland",
+  "armorSetName": "Highland Set",
   "performanceMode": true,
   "head": {
     "itemKey": "dungeons_gear:highland_helmet",
@@ -21,24 +21,24 @@
   "partialSetBonuses": [
     {
       "type": "attribute",
-      "name": "epicfight:stun_armor",
-      "value": 5.0,
-      "modifierUUID": "8a7a6627-92f4-4cae-bb51-88430a84a08c",
-      "attributeOperation": 0,
+      "name": "epicfight:impact",
+      "value": 0.25,
+      "modifierUUID": "01eb2b68-1c72-446b-bad3-a0a3cd1c2e5f",
+      "attributeOperation": 1,
       "interactionType": "self",
-      "interactionDuration": 200,
+      "interactionDuration": 120,
       "hideBonusDescription": true
     }
   ],
   "fullSetBonuses": [
     {
       "type": "attribute",
-      "name": "epicfight:staminar",
-      "value": 0.25,
+      "name": "epicfight:impact",
+      "value": 0.50,
       "modifierUUID": "1ef0a54c-bd2d-4d62-a4f7-3ec75b9cb0ae",
       "attributeOperation": 1,
       "interactionType": "self",
-      "interactionDuration": 200,
+      "interactionDuration": 120,
       "hideBonusDescription": true
     }
   ],

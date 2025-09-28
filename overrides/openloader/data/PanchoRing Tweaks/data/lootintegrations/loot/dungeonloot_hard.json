@@ -1,0 +1,9 @@
+{
+  "integrated_loot_tables": {
+    "dungeoncrawl:chests/stage_5": 3,
+    "dungeoncrawl:chests/treasure": 3,
+    "endrem:chests/treasure": 3
+  },
+  "loot_table": "minecraft:chests/end_city_treasure",
+  "max_result_itemcount": 15
+}

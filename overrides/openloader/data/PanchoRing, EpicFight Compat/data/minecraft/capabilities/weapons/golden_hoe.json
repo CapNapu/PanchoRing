@@ -1,0 +1,10 @@
+{
+	"attributes": {
+		"common": {
+			"damage_bonus": 1,
+			"impact": 0.2,
+			"speed_bonus": 2.6
+		}
+	},
+	"type": "hoe"
+}

@@ -1,20 +1,20 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "ars_nouveau:red_archwood_log"
     },
     {
-      "item": "minecraft:sunflower"
+      "item": "minecraft:gold_ingot"
     },
     {
-      "item": "minecraft:clock"
+      "item": "minecraft:gold_ingot"
     },
     {
-      "tag": "forge:storage_blocks/coal"
+      "item": "minecraft:gold_ingot"
     }
   ],
   "result": {
     "item": "ars_nouveau:ritual_sunrise"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

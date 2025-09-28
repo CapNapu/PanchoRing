@@ -1,28 +1,16 @@
 {
-  "criteria": {
-    "picked_up_ingot": {
-      "trigger": "minecraft:impossible"
-    }
-  },
-  "display": {
-    "announce_to_chat": false,
-    "description": {
-      "translate": "advancements.progressive_difficulty.end_ingot.description"
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
     },
-    "frame": "goal",
-    "hidden": true,
-    "icon": {
-      "item": "majruszs_difficulty:end_ingot"
+    "display": {
+        "description": "",
+        "hidden": true,
+        "icon": {
+            "item": "minecraft:filled_map"
+        },
+        "title": ""
     },
-    "show_toast": false,
-    "title": {
-      "translate": "advancements.progressive_difficulty.end_ingot.title"
-    }
-  },
-  "parent": "majruszs_difficulty:progressive_difficulty/find_flying_phantom",
-  "requirements": [
-    [
-      "picked_up_ingot"
-    ]
-  ]
+    "parent": "awesomedungeonocean:root"
 }

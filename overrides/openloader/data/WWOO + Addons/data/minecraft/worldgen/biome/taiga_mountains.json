@@ -21,7 +21,6 @@
     }
   },
   "starts": [
-    "more_structures:village_taiga_mountains",
     "minecraft:mineshaft",
     "minecraft:stronghold",
     "minecraft:ruined_portal_mountain"
@@ -174,12 +173,7 @@
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_pumpkin",
-      "minecraft:spring_water",
-      "wythers:taiga/mountains_campfire_magma",
-      "wythers:taiga/mountains_campfire_yellow",
-      "wythers:taiga/mountains_campfire_lime",
-      "wythers:taiga/mountains_campfire_cyan",
-      "wythers:taiga/mountains_campfire_gray"
+      "minecraft:spring_water"
     ],
     [
       "minecraft:freeze_top_layer"

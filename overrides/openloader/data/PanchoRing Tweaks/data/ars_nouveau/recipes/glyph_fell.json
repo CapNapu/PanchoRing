@@ -1,6 +1,6 @@
 {
-  "type": "ars_nouveau:glyph_recipe",
+  "input": "mowziesmobs:foliaath_seed",
+  "output": "ars_nouveau:glyph_fell",
   "tier": "TWO",
-  "input": "alexsmobs:banana_peel",
-  "output": "ars_nouveau:glyph_fell"
+  "type": "ars_nouveau:glyph_recipe"
 }

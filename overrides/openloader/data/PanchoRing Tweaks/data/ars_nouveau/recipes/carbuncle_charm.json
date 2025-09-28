@@ -1,51 +1,51 @@
 {
-  "type": "ars_nouveau:enchanting_apparatus",
   "item_1": [
     {
-      "tag": "forge:nuggets/copper"
+      "item": "iceandfire:copper_nugget"
     }
   ],
   "item_2": [
     {
-      "tag": "forge:nuggets/copper"
+      "item": "iceandfire:copper_nugget"
     }
   ],
   "item_3": [
     {
-      "tag": "forge:nuggets/copper"
+      "item": "iceandfire:copper_nugget"
     }
   ],
   "item_4": [
     {
-      "tag": "forge:nuggets/copper"
+      "item": "iceandfire:copper_nugget"
     }
   ],
   "item_5": [
     {
-      "tag": "forge:nuggets/copper"
+      "item": "iceandfire:copper_nugget"
     }
   ],
   "item_6": [
     {
-      "tag": "forge:gems/mana"
+      "item": "ars_nouveau:mana_gem"
     }
   ],
   "item_7": [
     {
-      "tag": "forge:gems/mana"
+      "item": "ars_nouveau:mana_gem"
     }
   ],
   "item_8": [
     {
-      "tag": "forge:gems/mana"
+      "item": "ars_nouveau:mana_gem"
     }
   ],
+  "output": {
+    "item": "ars_nouveau:carbuncle_charm"
+  },
   "reagent": [
     {
       "item": "ars_nouveau:carbuncle_shards"
     }
   ],
-  "output": {
-    "item": "ars_nouveau:carbuncle_charm"
-  }
+  "type": "ars_nouveau:enchanting_apparatus"
 }

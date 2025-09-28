@@ -1,8 +1,82 @@
 {
-    "type": "origins:invisibility",
-    "render_armor": false,
-    "render_outline": true,
-    "condition": {
-        "type": "origins:sneaking"
+    "type": "origins:multiple",
+    "toggle": {
+        "type": "origins:toggle",
+        "active_by_default": false
+    },
+    "invisibility": {
+        "type": "origins:invisibility",
+        "render_armor": false,
+        "condition": {
+            "type": "origins:power_active",
+            "power": "*:*_toggle"
+        }
+    },
+    "invisibility.bar": {
+        "type": "origins:resource",
+        "min": 0,
+        "max": 40,
+        "start_value": 40,
+        "hud_render": {
+            "should_render": true,
+            "sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_02.png",
+            "bar_index": 7,
+            "condition": {
+                "type": "origins:resource",
+                "resource": "*:*_invisibility.bar",
+                "comparison": "<",
+                "compare_to": 40
+            }
+        }
+    },
+    "invisibility.dmg": {
+        "type": "origins:damage_over_time",
+        "damage": 1,
+        "interval": 10,
+        "condition": {
+            "type": "origins:resource",
+            "resource": "*:*_invisibility.bar",
+            "comparison": "==",
+            "compare_to": 0
+        }
+    },
+    "invisibility.hit": {
+        "type": "origins:self_action_when_hit",
+        "entity_action": {
+            "type": "origins:change_resource",
+            "resource": "*:*_invisibility.bar",
+            "operation": "add",
+            "change": 6
+        },
+        "cooldown": 0
+    },
+    "invisibility.use": {
+        "type": "origins:action_over_time",
+        "interval": 10,
+        "entity_action": {
+            "type": "origins:change_resource",
+            "resource": "*:*_invisibility.bar",
+            "operation": "add",
+            "change": -1
+        },
+        "condition": {
+            "type": "origins:power_active",
+            "power": "*:*_toggle"
+        }
+    },
+    "invisibility.rgn": {
+        "type": "origins:action_over_time",
+        "interval": 10,
+        "entity_action": {
+            "type": "origins:change_resource",
+            "resource": "*:*_invisibility.bar",
+            "operation": "add",
+            "change": 1
+        },
+        "condition": {
+            "inverted": true,
+            "type": "origins:power_active",
+            "power": "*:*_toggle"
+        }
     }
 }

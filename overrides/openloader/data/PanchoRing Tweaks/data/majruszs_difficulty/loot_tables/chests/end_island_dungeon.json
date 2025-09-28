@@ -12,19 +12,19 @@
     {
       "entries": [
         {
-          "name": "minecraft:ender_pearl",
+          "name": "phantasm:crystal_spike",
           "type": "minecraft:item",
           "weight": 80
         },
         {
-          "name": "minecraft:shulker_shell",
+          "name": "phantasm:void_crystal_spike",
           "type": "minecraft:item",
           "weight": 15
         },
         {
-          "name": "phantasm:stellium_ingot",
+          "name": "majruszs_difficulty:end_shard",
           "type": "minecraft:item",
-          "weight": 3
+          "weight": 5
         }
       ],
       "rolls": {

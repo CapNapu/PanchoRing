@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "key": {
+    "g": {
+      "item": "minecraft:gold_ingot"
+    },
+    "i": {
+      "item": "alexsmobs:mosquito_proboscis"
+    },
+    "s": {
+      "item": "ars_nouveau:mana_gem"
+    }
+  },
   "pattern": [
     " s ",
     "gig",
     " s "
   ],
-  "key": {
-    "g": {
-      "tag": "forge:ingots/gold"
-    },
-    "s": {
-      "tag": "forge:gems/mana"
-    },
-    "i": {
-      "item": "alexsmobs:mosquito_proboscis"
-    }
-  },
   "result": {
     "item": "ars_nouveau:vitalic_sourcelink"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

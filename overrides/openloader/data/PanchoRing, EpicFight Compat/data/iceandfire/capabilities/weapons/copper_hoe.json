@@ -1,8 +1,9 @@
 {
 	"attributes": {
 		"common": {
-			"damage_bonus": 2,
-			"speed_bonus": 2.0
+			"damage_bonus": 3,
+			"impact": 0.4,
+			"speed_bonus": 2.6
 		}
 	},
 	"type": "hoe"

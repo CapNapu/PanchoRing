@@ -1,0 +1,14 @@
+{
+  "key": {
+    "0": {
+      "item": "slabgen:grass_slab"
+    }
+  },
+  "pattern": [
+    "00"
+  ],
+  "result": {
+    "item": "minecraft:grass_block"
+  },
+  "type": "minecraft:crafting_shaped"
+}

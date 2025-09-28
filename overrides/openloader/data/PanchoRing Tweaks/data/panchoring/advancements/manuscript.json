@@ -12,16 +12,12 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.panchoring.manuscript.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
       "item": "iceandfire:manuscript"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.panchoring.manuscript.title"
     }

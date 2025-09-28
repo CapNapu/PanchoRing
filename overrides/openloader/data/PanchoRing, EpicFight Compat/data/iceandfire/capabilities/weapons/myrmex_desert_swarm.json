@@ -1,3 +1,10 @@
 {
+	"attributes": {
+		"common": {
+			"damage_bonus": 1,
+			"max_strikes": 1,
+			"speed_bonus": -1.6
+		}
+	},
 	"type": "hoe"
 }

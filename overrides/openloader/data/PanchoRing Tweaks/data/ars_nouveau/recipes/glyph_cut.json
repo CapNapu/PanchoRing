@@ -1,6 +1,6 @@
 {
-  "type": "ars_nouveau:glyph_recipe",
-  "tier": "ONE",
   "input": "alexsmobs:serrated_shark_tooth",
-  "output": "ars_nouveau:glyph_cut"
+  "output": "ars_nouveau:glyph_cut",
+  "tier": "ONE",
+  "type": "ars_nouveau:glyph_recipe"
 }

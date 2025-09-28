@@ -1,12 +1,17 @@
 {
-  "type": "dungeons_libraries:dungeons_armor_material",
-  "name": "dungeons_gear:heavy_plate",
+  "base_type": "metal",
+  "damage_reduction_amounts": [
+    1,
+    4,
+    5,
+    2
+  ],
   "durability": 18,
-  "damage_reduction_amounts":  [1, 4, 5, 2],
   "enchantability": 12,
-  "repair_item":  "iceandfire:dread_shard",
   "equip_sound": "minecraft:item.armor.equip_iron",
-  "toughness":  0.0,
   "knockback_resistance": 0.0,
-  "base_type": "metal"
+  "name": "dungeons_gear:heavy_plate",
+  "repair_item": "iceandfire:dread_shard",
+  "toughness": 0.0,
+  "type": "dungeons_libraries:dungeons_armor_material"
 }

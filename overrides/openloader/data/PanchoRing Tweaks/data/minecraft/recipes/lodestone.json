@@ -1,0 +1,19 @@
+{
+  "key": {
+    "0": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "1": {
+      "item": "minecraft:chiseled_stone_bricks"
+    }
+  },
+  "pattern": [
+    "111",
+    "101",
+    "111"
+  ],
+  "result": {
+    "item": "minecraft:lodestone"
+  },
+  "type": "minecraft:crafting_shaped"
+}

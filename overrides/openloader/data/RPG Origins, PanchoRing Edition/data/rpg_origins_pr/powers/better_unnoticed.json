@@ -1,10 +1,25 @@
 {
-    "type": "origins:modify_damage_dealt",
-    "modifier": {
-        "operation": "multiply_base",
-        "value": -0.75
+    "type": "origins:multiple",
+    "melee.dmg": {
+        "type": "origins:modify_damage_dealt",
+        "modifier": {
+            "operation": "multiply_base",
+            "value": -0.75
+        },
+        "condition": {
+            "type": "origins:power_active",
+            "power": "*:stealthy_toggle"
+        }
     },
-    "condition": {
-        "type": "origins:sneaking"
+    "ranged.dmg": {
+        "type": "origins:modify_projectile_damage",
+        "modifier": {
+            "operation": "multiply_base",
+            "value": -0.75
+        },
+        "condition": {
+            "type": "origins:power_active",
+            "power": "*:stealthy_toggle"
+        }
     }
 }

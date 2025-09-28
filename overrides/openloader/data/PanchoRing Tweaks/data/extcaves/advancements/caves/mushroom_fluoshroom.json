@@ -1,0 +1,26 @@
+{
+	"criteria": {
+		"get_mushroom": {
+			"conditions": {
+				"items": [
+					{
+						"item": "extcaves:mushroom_fluoshroom"
+					}
+				]
+			},
+			"trigger": "minecraft:inventory_changed"
+		}
+	},
+	"display": {
+		"description": {
+			"translate": "advancements.caves.mushroom_fluoshroom.description"
+		},
+		"icon": {
+			"item": "extcaves:mushroom_fluoshroom"
+		},
+		"title": {
+			"translate": "advancements.caves.mushroom_fluoshroom.title"
+		}
+	},
+	"parent": "extcaves:caves/mushroom_lumishroom"
+}

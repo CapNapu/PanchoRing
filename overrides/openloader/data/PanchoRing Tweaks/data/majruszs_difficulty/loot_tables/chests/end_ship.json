@@ -26,7 +26,7 @@
               "function": "minecraft:set_count"
             }
           ],
-          "name": "minecraft:emerald",
+          "name": "phantasm:stellium_nugget",
           "type": "minecraft:item",
           "weight": 15
         },
@@ -57,7 +57,7 @@
           "weight": 40
         },
         {
-          "name": "phantasm:stellium_ingot",
+          "name": "majruszs_difficulty:end_shard",
           "type": "minecraft:item",
           "weight": 10
         }

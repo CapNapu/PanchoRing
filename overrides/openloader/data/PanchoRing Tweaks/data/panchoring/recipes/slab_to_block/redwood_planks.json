@@ -1,0 +1,14 @@
+{
+  "key": {
+    "0": {
+      "item": "projectvibrantjourneys:redwood_slab"
+    }
+  },
+  "pattern": [
+    "00"
+  ],
+  "result": {
+    "item": "projectvibrantjourneys:redwood_planks"
+  },
+  "type": "minecraft:crafting_shaped"
+}

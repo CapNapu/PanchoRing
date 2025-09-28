@@ -12,18 +12,14 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
-      "translate": "advancements.panchoring.ars.crystallizer.description"
+      "translate": "advancements.panchoring.crystallizer.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
       "item": "ars_nouveau:crystallizer"
     },
-    "show_toast": true,
     "title": {
-      "translate": "advancements.panchoring.ars.crystallizer.title"
+      "translate": "advancements.panchoring.crystallizer.title"
     }
   },
   "parent": "panchoring:ars_nouveau/sourcelink"

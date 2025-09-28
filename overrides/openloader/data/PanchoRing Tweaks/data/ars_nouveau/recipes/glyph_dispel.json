@@ -1,6 +1,6 @@
 {
-  "type": "ars_nouveau:glyph_recipe",
+  "input": "alexsmobs:fish_oil",
+  "output": "ars_nouveau:glyph_dispel",
   "tier": "ONE",
-  "input": "mowziesmobs:naga_fang",
-  "output": "ars_nouveau:glyph_dispel"
+  "type": "ars_nouveau:glyph_recipe"
 }

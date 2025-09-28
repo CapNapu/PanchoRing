@@ -1,0 +1,14 @@
+{
+  "key": {
+    "0": {
+      "item": "bygonenether:withered_blackstone_slab"
+    }
+  },
+  "pattern": [
+    "00"
+  ],
+  "result": {
+    "item": "bygonenether:withered_blackstone"
+  },
+  "type": "minecraft:crafting_shaped"
+}

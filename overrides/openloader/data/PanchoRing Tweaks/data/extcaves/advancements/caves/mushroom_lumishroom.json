@@ -1,0 +1,26 @@
+{
+	"criteria": {
+		"get_mushroom": {
+			"conditions": {
+				"items": [
+					{
+						"item": "extcaves:mushroom_lumishroom"
+					}
+				]
+			},
+			"trigger": "minecraft:inventory_changed"
+		}
+	},
+	"display": {
+		"description": {
+			"translate": "advancements.caves.mushroom_lumishroom.description"
+		},
+		"icon": {
+			"item": "extcaves:mushroom_lumishroom"
+		},
+		"title": {
+			"translate": "advancements.caves.mushroom_lumishroom.title"
+		}
+	},
+	"parent": "extcaves:caves/mushroom_sweetshroom"
+}

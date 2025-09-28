@@ -1,16 +1,16 @@
 {
   "key": {
     "#": {
-      "item": "minecraft:cobblestone"
+      "tag": "minecraft:stone_crafting_materials"
     },
     "Q": {
-      "tag": "forge:gems/quartz"
+      "item": "minecraft:quartz"
     },
     "R": {
-      "tag": "forge:dusts/redstone"
+      "item": "minecraft:redstone"
     },
     "S": {
-      "tag": "forge:ingots/copper"
+      "item": "iceandfire:copper_ingot"
     }
   },
   "pattern": [

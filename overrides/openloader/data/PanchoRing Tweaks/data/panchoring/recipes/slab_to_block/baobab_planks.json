@@ -1,0 +1,14 @@
+{
+  "key": {
+    "0": {
+      "item": "projectvibrantjourneys:baobab_slab"
+    }
+  },
+  "pattern": [
+    "00"
+  ],
+  "result": {
+    "item": "projectvibrantjourneys:baobab_planks"
+  },
+  "type": "minecraft:crafting_shaped"
+}

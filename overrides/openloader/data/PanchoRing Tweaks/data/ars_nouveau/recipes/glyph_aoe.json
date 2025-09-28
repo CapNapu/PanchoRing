@@ -1,6 +1,6 @@
 {
-  "type": "ars_nouveau:glyph_recipe",
-  "tier": "TWO",
   "input": "endrem:end_crystal_fragment",
-  "output": "ars_nouveau:glyph_aoe"
+  "output": "ars_nouveau:glyph_aoe",
+  "tier": "TWO",
+  "type": "ars_nouveau:glyph_recipe"
 }

@@ -12,7 +12,7 @@
               "function": "minecraft:set_count"
             }
           ],
-          "name": "minecraft:emerald",
+          "name": "phantasm:stellium_nugget",
           "type": "minecraft:item",
           "weight": 40
         },
@@ -40,12 +40,12 @@
               "function": "minecraft:set_count"
             }
           ],
-          "name": "phantasm:stellium_ingot",
+          "name": "majruszs_difficulty:end_shard",
           "type": "minecraft:item",
           "weight": 20
         },
         {
-          "name": "minecraft:netherite_scrap",
+          "name": "phantasm:oblifruit",
           "type": "minecraft:item",
           "weight": 10
         }
@@ -116,7 +116,7 @@
       ],
       "entries": [
         {
-          "name": "phantasm:stellium_ingot",
+          "name": "majruszs_difficulty:end_shard_locator",
           "type": "minecraft:item",
           "weight": 20
         },
@@ -130,7 +130,7 @@
               "function": "minecraft:set_count"
             }
           ],
-          "name": "phantasm:stellium_ingot",
+          "name": "majruszs_difficulty:end_shard",
           "type": "minecraft:item",
           "weight": 80
         }

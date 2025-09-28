@@ -1,27 +1,16 @@
 {
-  "criteria": {
-    "bound_leather": {
-      "trigger": "minecraft:impossible"
-    }
-  },
-  "display": {
-    "announce_to_chat": false,
-    "description": {
-      "translate": "advancements.improvedbackpacks.bound_leather.description"
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
     },
-    "hidden": true,
-    "icon": {
-      "item": "improvedbackpacks:bound_leather"
+    "display": {
+        "description": "",
+        "hidden": true,
+        "icon": {
+            "item": "minecraft:filled_map"
+        },
+        "title": ""
     },
-    "show_toast": false,
-    "title": {
-      "translate": "advancements.improvedbackpacks.bound_leather.title"
-    }
-  },
-  "parent": "improvedbackpacks:sewing_spool",
-  "requirements": [
-    [
-      "bound_leather"
-    ]
-  ]
+    "parent": "awesomedungeonocean:root"
 }

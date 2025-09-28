@@ -1,0 +1,14 @@
+{
+  "key": {
+    "0": {
+      "item": "minecraft:stone_slab"
+    }
+  },
+  "pattern": [
+    "00"
+  ],
+  "result": {
+    "item": "minecraft:stone"
+  },
+  "type": "minecraft:crafting_shaped"
+}

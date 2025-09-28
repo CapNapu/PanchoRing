@@ -1,6 +1,6 @@
 {
-  "type": "ars_nouveau:glyph_recipe",
-  "tier": "ONE",
   "input": "minecraft:glowstone_dust",
-  "output": "ars_nouveau:glyph_delay"
+  "output": "ars_nouveau:glyph_delay",
+  "tier": "ONE",
+  "type": "ars_nouveau:glyph_recipe"
 }

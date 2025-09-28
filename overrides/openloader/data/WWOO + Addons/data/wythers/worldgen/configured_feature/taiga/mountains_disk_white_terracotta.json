@@ -38,13 +38,7 @@
             "half_height": 2,
             "targets": [
               {
-                "Name": "minecraft:light_gray_concrete_powder"
-              },
-              {
-                "Name": "minecraft:gray_concrete_powder"
-              },
-              {
-                "Name": "minecraft:brown_concrete_powder"
+                "Name": "supplementaries:daub"
               },
               {
                 "Name": "minecraft:grass_block",

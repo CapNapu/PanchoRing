@@ -4,17 +4,15 @@
         "rpg_origins_pr:natural_armor",
         "rpg_origins_pr:select_targets_strong",
         "rpg_origins_pr:heavy_weapons",
-        "rpg_origins_pr:heavy_weapons_super",
         "rpg_origins_pr:more_break_speed",
         "rpg_origins_pr:clumsy",
-        "rpg_origins_pr:clumsy_speed",
         "rpg_origins_pr:select_targets_weak",
-        "rpg_origins_pr:no_shield",
-        "rpg_origins_pr:no_time_to_rest",
+        "origins:no_shield",
+        "rpg_origins_pr:projectiles_nerfs",
         "rpg_origins_pr:mage_robes_not"
     ],
     "icon": {
-        "item": "dungeons_gear:broadsword"
+        "item": "dungeons_gear:great_hammer"
     },
     "impact": 3
 }

@@ -1,0 +1,26 @@
+{
+	"criteria": {
+		"get_item": {
+			"conditions": {
+				"items": [
+					{
+						"item": "extcaves:stew_sticky"
+					}
+				]
+			},
+			"trigger": "minecraft:inventory_changed"
+		}
+	},
+	"display": {
+		"description": {
+			"translate": "advancements.caves.stew_sticky.description"
+		},
+		"icon": {
+			"item": "extcaves:stew_sticky"
+		},
+		"title": {
+			"translate": "advancements.caves.stew_sticky.title"
+		}
+	},
+	"parent": "extcaves:caves/mushroom_shinyshroom"
+}

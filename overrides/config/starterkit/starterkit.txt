@@ -38,5 +38,5 @@
 32 : '{Count:4b,id:"majruszs_difficulty:bandage"}',
 33 : '',
 34 : '',
-35 : '{Count:1b,id:"antiqueatlas:empty_antique_atlas"}',
+35 : ''
 

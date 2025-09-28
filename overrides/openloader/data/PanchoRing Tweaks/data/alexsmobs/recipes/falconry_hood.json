@@ -1,19 +1,13 @@
 {
-  "key": {
-    "F": {
-      "item": "alexsmobs:roadrunner_feather"
-    },
-    "L": {
-      "item": "improvedbackpacks:bound_leather"
-    }
+  "first": {
+    "item": "improvedbackpacks:bound_leather"
   },
-  "pattern": [
-    " LF",
-    "L L"
-  ],
-  "result": {
-    "count": 1,
-    "item": "alexsmobs:falconry_hood"
+  "first_count": 2,
+  "result": "alexsmobs:falconry_hood",
+  "second": {
+    "item": "alexsmobs:roadrunner_feather"
   },
-  "type": "minecraft:crafting_shaped"
+  "second_count": 1,
+  "spools_count": 1,
+  "type": "improvedbackpacks:sewing"
 }

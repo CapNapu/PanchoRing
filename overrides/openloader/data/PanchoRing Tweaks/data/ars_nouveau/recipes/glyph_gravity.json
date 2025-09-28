@@ -1,6 +1,6 @@
 {
-  "type": "ars_nouveau:glyph_recipe",
-  "tier": "TWO",
   "input": "alexsmobs:dropbear_claw",
-  "output": "ars_nouveau:glyph_gravity"
+  "output": "ars_nouveau:glyph_gravity",
+  "tier": "TWO",
+  "type": "ars_nouveau:glyph_recipe"
 }

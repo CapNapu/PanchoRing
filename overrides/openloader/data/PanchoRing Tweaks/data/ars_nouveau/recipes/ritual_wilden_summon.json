@@ -1,0 +1,20 @@
+{
+  "ingredients": [
+    {
+      "item": "ars_nouveau:purple_archwood_log"
+    },
+    {
+      "item": "endrem:end_crystal_fragment"
+    },
+    {
+      "item": "endrem:end_crystal_fragment"
+    },
+    {
+      "item": "endrem:end_crystal_fragment"
+    }
+  ],
+  "result": {
+    "item": "ars_nouveau:ritual_wilden_summon"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "ars_nouveau:blank_parchment"
+    },
+    {
+      "item": "iceandfire:copper_nugget"
+    }
+  ],
+  "result": {
+    "item": "ars_nouveau:deny_scroll"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

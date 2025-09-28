@@ -1,0 +1,15 @@
+{
+  "key": {
+    "0": {
+      "item": "cataclysm:polished_end_stone"
+    }
+  },
+  "pattern": [
+    "000"
+  ],
+  "result": {
+    "count": 6,
+    "item": "cataclysm:polished_end_stone_slab"
+  },
+  "type": "minecraft:crafting_shaped"
+}

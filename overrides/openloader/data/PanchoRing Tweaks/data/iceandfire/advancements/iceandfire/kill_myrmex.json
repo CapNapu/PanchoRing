@@ -1,18 +1,11 @@
 {
   "criteria": {
-    "desert": {
+    "kill_myrmex": {
       "conditions": {
         "items": [
           {
             "item": "iceandfire:myrmex_desert_chitin"
-          }
-        ]
-      },
-      "trigger": "minecraft:inventory_changed"
-    },
-    "jungle": {
-      "conditions": {
-        "items": [
+          },
           {
             "item": "iceandfire:myrmex_jungle_chitin"
           }
@@ -32,11 +25,5 @@
       "translate": "advancements.iceandfire.kill_myrmex.title"
     }
   },
-  "parent": "iceandfire:iceandfire/root",
-  "requirements": [
-    [
-      "desert",
-      "jungle"
-    ]
-  ]
+  "parent": "iceandfire:iceandfire/root"
 }

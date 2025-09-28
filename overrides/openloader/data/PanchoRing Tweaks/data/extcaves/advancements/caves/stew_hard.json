@@ -1,0 +1,26 @@
+{
+	"criteria": {
+		"get_item": {
+			"conditions": {
+				"items": [
+					{
+						"item": "extcaves:stew_hard"
+					}
+				]
+			},
+			"trigger": "minecraft:inventory_changed"
+		}
+	},
+	"display": {
+		"description": {
+			"translate": "advancements.caves.stew_hard.description"
+		},
+		"icon": {
+			"item": "extcaves:stew_hard"
+		},
+		"title": {
+			"translate": "advancements.caves.stew_hard.title"
+		}
+	},
+	"parent": "extcaves:caves/mushroom_rockshroom"
+}

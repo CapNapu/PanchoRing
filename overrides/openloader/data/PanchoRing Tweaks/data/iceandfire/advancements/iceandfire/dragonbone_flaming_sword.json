@@ -1,0 +1,54 @@
+{
+  "criteria": {
+    "sword_fire": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:dragonbone_sword_fire"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "sword_ice": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:dragonbone_sword_ice"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "sword_lightning": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:dragonbone_sword_lightning"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.iceandfire.dragonbone_sword_fire.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "iceandfire:dragonbone_sword_fire"
+    },
+    "title": {
+      "translate": "advancements.iceandfire.dragonbone_sword_fire.title"
+    }
+  },
+  "parent": "iceandfire:iceandfire/dragonbone_tool",
+  "requirements": [
+    [
+      "sword_fire",
+      "sword_ice",
+      "sword_lightning"
+    ]
+  ]
+}

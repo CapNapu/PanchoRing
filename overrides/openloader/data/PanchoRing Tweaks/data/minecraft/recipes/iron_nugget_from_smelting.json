@@ -1,5 +1,6 @@
 {
-  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.1,
   "ingredient": [
     {
       "item": "minecraft:iron_pickaxe"
@@ -62,9 +63,6 @@
       "item": "dungeons_gear:rapier"
     },
     {
-      "item": "mowziesmobs:naga_fang_dagger"
-    },
-    {
       "item": "minecraft:shield"
     },
     {
@@ -81,9 +79,6 @@
     },
     {
       "item": "minecraft:compass"
-    },
-    {
-      "item": "iceandfire:dragon_flute"
     },
     {
       "item": "comforts:rope_and_nail"
@@ -126,9 +121,6 @@
     },
     {
       "item": "supplementaries:sconce_lever"
-    },
-    {
-      "item": "supplementaries:goblet"
     },
     {
       "item": "dustydecor:wedged_knife"
@@ -183,6 +175,5 @@
     }
   ],
   "result": "minecraft:iron_nugget",
-  "experience": 0.1,
-  "cookingtime": 200
+  "type": "minecraft:smelting"
 }

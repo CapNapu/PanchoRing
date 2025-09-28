@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:milk_bucket"
+    },
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "minecraft:egg"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "supplementaries:pancake"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

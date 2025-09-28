@@ -1,36 +1,51 @@
 {
-  "type": "ars_nouveau:enchanting_apparatus",
   "item_1": [
     {
-      "item": "ars_nouveau:glyph_amplify"
+      "item": "ars_nouveau:mana_gem"
     }
   ],
   "item_2": [
     {
-      "tag": "forge:storage_blocks/gold"
+      "item": "ars_nouveau:mana_gem"
     }
   ],
   "item_3": [
     {
-      "tag": "forge:storage_blocks/gold"
+      "item": "ars_nouveau:mana_gem"
     }
   ],
   "item_4": [
     {
-      "tag": "forge:storage_blocks/mana"
+      "item": "ars_nouveau:mana_gem"
     }
   ],
   "item_5": [
     {
-      "tag": "forge:storage_blocks/mana"
+      "item": "minecraft:gold_ingot"
     }
   ],
+  "item_6": [
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "item_7": [
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "item_8": [
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "output": {
+    "item": "ars_nouveau:enchanters_sword"
+  },
   "reagent": [
     {
       "item": "iceandfire:silver_sword"
     }
   ],
-  "output": {
-    "item": "ars_nouveau:enchanters_sword"
-  }
+  "type": "ars_nouveau:enchanting_apparatus"
 }

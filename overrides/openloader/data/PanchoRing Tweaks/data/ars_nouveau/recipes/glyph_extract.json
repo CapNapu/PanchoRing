@@ -1,6 +1,6 @@
 {
-  "type": "ars_nouveau:glyph_recipe",
-  "tier": "TWO",
   "input": "infernalexp:moth_dust",
-  "output": "ars_nouveau:glyph_extract"
+  "output": "ars_nouveau:glyph_extract",
+  "tier": "TWO",
+  "type": "ars_nouveau:glyph_recipe"
 }

@@ -1,0 +1,22 @@
+{
+  "key": {
+    "1": {
+      "item": "supplementaries:candle_holder"
+    },
+    "2": {
+      "item": "minecraft:gold_nugget"
+    },
+    "3": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "pattern": [
+    "111",
+    "222",
+    " 3 "
+  ],
+  "result": {
+    "item": "supplementaries:candelabra"
+  },
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,0 +1,19 @@
+{
+  "key": {
+    "0": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "1": {
+      "item": "alexsmobs:straddlite"
+    }
+  },
+  "pattern": [
+    " 10",
+    "101",
+    "01 "
+  ],
+  "result": {
+    "item": "alexsmobs:straddleboard"
+  },
+  "type": "minecraft:crafting_shaped"
+}

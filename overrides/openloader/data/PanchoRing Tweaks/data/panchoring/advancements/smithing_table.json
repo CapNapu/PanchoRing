@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "smithing_table": {
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:smithing_table"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.smithing_table.description"
+    },
+    "icon": {
+      "item": "minecraft:smithing_table"
+    },
+    "title": {
+      "translate": "advancements.panchoring.smithing_table.title"
+    }
+  },
+  "parent": "minecraft:story/smelt_iron"
+}

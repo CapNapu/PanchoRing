@@ -1,6 +1,6 @@
 {
-  "type": "ars_nouveau:glyph_recipe",
-  "tier": "TWO",
   "input": "bygonenether:warped_ender_pearl",
-  "output": "ars_nouveau:glyph_ender_inventory"
+  "output": "ars_nouveau:glyph_ender_inventory",
+  "tier": "TWO",
+  "type": "ars_nouveau:glyph_recipe"
 }

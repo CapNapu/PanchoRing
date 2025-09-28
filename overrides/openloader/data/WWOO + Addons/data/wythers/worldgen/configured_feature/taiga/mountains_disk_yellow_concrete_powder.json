@@ -29,7 +29,7 @@
           "type": "minecraft:disk",
           "config": {
             "state": {
-              "Name": "minecraft:yellow_concrete_powder"
+              "Name": "supplementaries:daub"
             },
             "radius": {
               "base": 2,
@@ -38,7 +38,7 @@
             "half_height": 2,
             "targets": [
               {
-                "Name": "minecraft:orange_concrete_powder"
+                "Name": "supplementaries:daub"
               }
             ]
           }

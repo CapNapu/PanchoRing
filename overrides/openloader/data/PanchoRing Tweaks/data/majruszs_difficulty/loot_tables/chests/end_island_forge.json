@@ -1,0 +1,191 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "phantasm:crystal_spike",
+          "type": "minecraft:item",
+          "weight": 5
+        },
+        {
+          "functions": [
+            {
+              "damage": {
+                "max": 1.0,
+                "min": 0.75
+              },
+              "function": "minecraft:set_damage"
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 30,
+              "treasure": true
+            }
+          ],
+          "name": "phantasm:crystalline_sword",
+          "type": "minecraft:item",
+          "weight": 5
+        },
+        {
+          "name": "phantasm:void_crystal_spike",
+          "type": "minecraft:item",
+          "weight": 5
+        },
+        {
+          "functions": [
+            {
+              "damage": {
+                "max": 1.0,
+                "min": 0.75
+              },
+              "function": "minecraft:set_damage"
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 30,
+              "treasure": true
+            }
+          ],
+          "name": "phantasm:crystalline_axe",
+          "type": "minecraft:item",
+          "weight": 5
+        },
+        {
+          "name": "phantasm:stellium_ingot",
+          "type": "minecraft:item",
+          "weight": 5
+        },
+        {
+          "functions": [
+            {
+              "damage": {
+                "max": 1.0,
+                "min": 0.75
+              },
+              "function": "minecraft:set_damage"
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 30,
+              "treasure": true
+            }
+          ],
+          "name": "phantasm:crystalline_pickaxe",
+          "type": "minecraft:item",
+          "weight": 5
+        },
+        {
+          "name": "phantasm:stellium_nugget",
+          "type": "minecraft:item",
+          "weight": 5
+        },
+        {
+          "functions": [
+            {
+              "damage": {
+                "max": 1.0,
+                "min": 0.75
+              },
+              "function": "minecraft:set_damage"
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 30,
+              "treasure": true
+            }
+          ],
+          "name": "phantasm:crystalline_shovel",
+          "type": "minecraft:item",
+          "weight": 5
+        },
+        {
+          "name": "phantasm:pream_berry",
+          "type": "minecraft:item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "damage": {
+                "max": 1.0,
+                "min": 0.75
+              },
+              "function": "minecraft:set_damage"
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 30,
+              "treasure": true
+            }
+          ],
+          "name": "minecraft:diamond_helmet",
+          "type": "minecraft:item",
+          "weight": 6
+        },
+        {
+          "functions": [
+            {
+              "damage": {
+                "max": 1.0,
+                "min": 0.75
+              },
+              "function": "minecraft:set_damage"
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 30,
+              "treasure": true
+            }
+          ],
+          "name": "minecraft:diamond_chestplate",
+          "type": "minecraft:item",
+          "weight": 7
+        },
+        {
+          "functions": [
+            {
+              "damage": {
+                "max": 1.0,
+                "min": 0.75
+              },
+              "function": "minecraft:set_damage"
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 30,
+              "treasure": true
+            }
+          ],
+          "name": "minecraft:diamond_leggings",
+          "type": "minecraft:item",
+          "weight": 7
+        },
+        {
+          "functions": [
+            {
+              "damage": {
+                "max": 1.0,
+                "min": 0.75
+              },
+              "function": "minecraft:set_damage"
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 30,
+              "treasure": true
+            }
+          ],
+          "name": "minecraft:diamond_boots",
+          "type": "minecraft:item",
+          "weight": 7
+        }
+      ],
+      "rolls": {
+        "max": 6.0,
+        "min": 3.0,
+        "type": "minecraft:uniform"
+      }
+    }
+  ],
+  "type": "minecraft:chest"
+}

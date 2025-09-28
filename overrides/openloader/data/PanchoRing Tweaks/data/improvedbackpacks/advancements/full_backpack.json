@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "full_backpack": {
+      "trigger": "improvedbackpacks:full_backpack"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.improvedbackpacks.full_backpack.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "minecraft:cobblestone"
+    },
+    "title": {
+      "translate": "advancements.improvedbackpacks.full_backpack.title"
+    }
+  },
+  "parent": "improvedbackpacks:backpack"
+}

@@ -1,28 +1,16 @@
 {
-  "criteria": {
-    "crafting_table": {
-      "trigger": "minecraft:impossible"
-    }
-  },
-  "display": {
-    "announce_to_chat": false,
-    "background": "improvedbackpacks:textures/gui/advancements/background.png",
-    "description": {
-      "translate": "advancements.improvedbackpacks.root.description"
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
     },
-    "frame": "task",
-    "hidden": true,
-    "icon": {
-      "item": "improvedbackpacks:orange_backpack"
+    "display": {
+        "description": "",
+        "hidden": true,
+        "icon": {
+            "item": "minecraft:filled_map"
+        },
+        "title": ""
     },
-    "show_toast": false,
-    "title": {
-      "translate": "advancements.improvedbackpacks.root.title"
-    }
-  },
-  "requirements": [
-    [
-      "crafting_table"
-    ]
-  ]
+    "parent": "awesomedungeonocean:root"
 }

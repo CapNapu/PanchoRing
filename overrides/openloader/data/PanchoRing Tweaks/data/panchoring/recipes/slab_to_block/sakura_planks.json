@@ -1,0 +1,14 @@
+{
+  "key": {
+    "0": {
+      "item": "projectvibrantjourneys:sakura_slab"
+    }
+  },
+  "pattern": [
+    "00"
+  ],
+  "result": {
+    "item": "projectvibrantjourneys:sakura_planks"
+  },
+  "type": "minecraft:crafting_shaped"
+}

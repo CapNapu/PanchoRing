@@ -12,24 +12,16 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.progressive_difficulty.end_shard.description"
     },
-    "frame": "task",
     "hidden": true,
     "icon": {
       "item": "majruszs_difficulty:end_shard"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.progressive_difficulty.end_shard.title"
     }
   },
-  "parent": "phantasm:enter_dreaming_den",
-  "requirements": [
-    [
-      "picked_up_shard"
-    ]
-  ]
+  "parent": "phantasm:enter_dreaming_den"
 }

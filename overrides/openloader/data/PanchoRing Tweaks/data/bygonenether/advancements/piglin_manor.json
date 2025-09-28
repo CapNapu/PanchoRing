@@ -1,28 +1,16 @@
 {
-  "criteria": {
-    "in_piglin_manor": {
-      "trigger": "minecraft:impossible"
-    }
-  },
-  "display": {
-    "announce_to_chat": false,
-    "description": {
-      "translate": "advancements.bygonenether.piglin_manor.description"
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
     },
-    "frame": "task",
-    "hidden": true,
-    "icon": {
-      "item": "minecraft:crimson_planks"
+    "display": {
+        "description": "",
+        "hidden": true,
+        "icon": {
+            "item": "minecraft:filled_map"
+        },
+        "title": ""
     },
-    "show_toast": false,
-    "title": {
-      "translate": "advancements.bygonenether.piglin_manor.title"
-    }
-  },
-  "parent": "bygonenether:explore_structures",
-  "requirements": [
-    [
-      "in_piglin_manor"
-    ]
-  ]
+    "parent": "awesomedungeonocean:root"
 }

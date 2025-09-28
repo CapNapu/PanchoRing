@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "enter_dreaming_den": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.enter_dreaming_den.descr"
+    },
+    "icon": {
+      "item": "phantasm:vivid_nihilium"
+    },
+    "title": {
+      "translate": "advancements.enter_dreaming_den.title"
+    }
+  },
+  "parent": "minecraft:end/enter_end_gateway"
+}

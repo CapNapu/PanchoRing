@@ -3,7 +3,7 @@
 		"common": {
 			"armor_negation": 25,
 			"damage_bonus": 2,
-			"impact": 0.8
+			"impact": 0.9
 		}
 	},
 	"type": "pickaxe"

@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "beacon": {
+      "conditions": {
+        "level": {
+          "min": 1
+        }
+      },
+      "trigger": "minecraft:construct_beacon"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.nether.create_beacon.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "minecraft:beacon"
+    },
+    "title": {
+      "translate": "advancements.nether.create_beacon.title"
+    }
+  },
+  "parent": "panchoring:kill_wither"
+}

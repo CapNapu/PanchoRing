@@ -1,18 +1,18 @@
 {
-  "type": "ars_nouveau:crush",
   "input": {
     "item": "minecraft:coal_ore"
   },
   "output": [
     {
-      "item": "minecraft:coal",
       "chance": 1.0,
-      "count": 1
+      "count": 1,
+      "item": "minecraft:coal"
     },
     {
-      "item": "minecraft:coal",
       "chance": 0.75,
-      "count": 1
+      "count": 1,
+      "item": "minecraft:coal"
     }
-  ]
+  ],
+  "type": "ars_nouveau:crush"
 }

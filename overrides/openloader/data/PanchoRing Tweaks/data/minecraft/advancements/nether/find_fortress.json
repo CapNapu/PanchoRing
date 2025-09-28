@@ -1,33 +1,24 @@
 {
-  "parent": "minecraft:nether/root",
+  "criteria": {
+    "fortress": {
+      "conditions": {
+        "location": {
+          "feature": "bygonefortress:fortress"
+        }
+      },
+      "trigger": "minecraft:location"
+    }
+  },
   "display": {
+    "description": {
+      "translate": "advancements.nether.find_fortress.description"
+    },
     "icon": {
       "item": "minecraft:nether_bricks"
     },
     "title": {
       "translate": "advancements.nether.find_fortress.title"
-    },
-    "description": {
-      "translate": "advancements.nether.find_fortress.description"
-    },
-    "frame": "task",
-    "show_toast": true,
-    "announce_to_chat": true,
-    "hidden": false
-  },
-  "criteria": {
-    "fortress": {
-      "trigger": "minecraft:location",
-      "conditions": {
-        "location": {
-          "feature": "bygonefortress:fortress"
-        }
-      }
     }
   },
-  "requirements": [
-    [
-      "fortress"
-    ]
-  ]
+  "parent": "minecraft:nether/root"
 }

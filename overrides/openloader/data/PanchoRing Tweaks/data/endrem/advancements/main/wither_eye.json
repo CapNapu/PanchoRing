@@ -12,24 +12,16 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.main.wither_eye.description"
     },
     "frame": "goal",
-    "hidden": false,
     "icon": {
       "item": "endrem:wither_eye"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.main.wither_eye.title"
     }
   },
-  "parent": "endrem:main/guardian_eye",
-  "requirements": [
-    [
-      "wither_eye"
-    ]
-  ]
+  "parent": "endrem:main/guardian_eye"
 }

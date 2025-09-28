@@ -1,6 +1,6 @@
 {
-  "type": "ars_nouveau:glyph_recipe",
+  "input": "ars_nouveau:mana_bloom",
+  "output": "ars_nouveau:glyph_phantom_block",
   "tier": "ONE",
-  "input": "iceandfire:ectoplasm",
-  "output": "ars_nouveau:glyph_phantom_block"
+  "type": "ars_nouveau:glyph_recipe"
 }

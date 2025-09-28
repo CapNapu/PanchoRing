@@ -2,9 +2,10 @@
 	"attributes": {
 		"common": {
 			"armor_negation": 15,
-			"impact": 0.8,
-			"max_strikes": 1
+			"impact": 1.0,
+			"max_strikes": 1,
+			"speed_bonus": 0.2
 		}
 	},
-	"type": "pickaxe"
+	"type": "axe"
 }

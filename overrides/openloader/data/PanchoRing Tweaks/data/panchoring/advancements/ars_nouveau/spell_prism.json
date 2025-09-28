@@ -12,18 +12,14 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
-      "translate": "advancements.panchoring.ars.spell_prism.description"
+      "translate": "advancements.panchoring.spell_prism.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
       "item": "ars_nouveau:spell_prism"
     },
-    "show_toast": true,
     "title": {
-      "translate": "advancements.panchoring.ars.spell_prism.title"
+      "translate": "advancements.panchoring.spell_prism.title"
     }
   },
   "parent": "panchoring:ars_nouveau/basic_spell_turret"

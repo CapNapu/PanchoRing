@@ -1,28 +1,16 @@
 {
-  "criteria": {
-    "entered_castle": {
-      "trigger": "minecraft:impossible"
-    }
-  },
-  "display": {
-    "announce_to_chat": false,
-    "description": {
-      "translate": "advancements.dungeons_enhanced.wars_and_kingdoms.desc"
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
     },
-    "frame": "task",
-    "hidden": true,
-    "icon": {
-      "item": "minecraft:stone_bricks"
+    "display": {
+        "description": "",
+        "hidden": true,
+        "icon": {
+            "item": "minecraft:filled_map"
+        },
+        "title": ""
     },
-    "show_toast": false,
-    "title": {
-      "translate": "advancements.dungeons_enhanced.wars_and_kingdoms"
-    }
-  },
-  "parent": "dungeons_enhanced:root",
-  "requirements": [
-    [
-      "entered_castle"
-    ]
-  ]
+    "parent": "awesomedungeonocean:root"
 }

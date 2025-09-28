@@ -1,6 +1,7 @@
 {
     "type": "origins:effect_immunity",
     "effects": [
+        "minecraft:blindness",
         "minecraft:poison",
         "minecraft:wither",
         "alexsmobs:debilitating_sting",

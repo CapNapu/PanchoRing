@@ -1,13 +1,13 @@
 {
-  "type": "ars_nouveau:crush",
   "input": {
     "item": "minecraft:emerald_ore"
   },
   "output": [
     {
-      "item": "minecraft:emerald",
       "chance": 1.0,
-      "count": 2
+      "count": 2,
+      "item": "minecraft:emerald"
     }
-  ]
+  ],
+  "type": "ars_nouveau:crush"
 }

@@ -1,0 +1,14 @@
+{
+  "key": {
+    "0": {
+      "item": "minecraft:andesite_slab"
+    }
+  },
+  "pattern": [
+    "00"
+  ],
+  "result": {
+    "item": "minecraft:andesite"
+  },
+  "type": "minecraft:crafting_shaped"
+}

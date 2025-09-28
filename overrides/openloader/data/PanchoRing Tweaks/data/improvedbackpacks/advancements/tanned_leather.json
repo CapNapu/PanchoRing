@@ -1,27 +1,16 @@
 {
-  "criteria": {
-    "tanned_leather": {
-      "trigger": "minecraft:impossible"
-    }
-  },
-  "display": {
-    "announce_to_chat": false,
-    "description": {
-      "translate": "advancements.improvedbackpacks.tanned_leather.description"
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
     },
-    "hidden": true,
-    "icon": {
-      "item": "improvedbackpacks:tanned_leather"
+    "display": {
+        "description": "",
+        "hidden": true,
+        "icon": {
+            "item": "minecraft:filled_map"
+        },
+        "title": ""
     },
-    "show_toast": false,
-    "title": {
-      "translate": "advancements.improvedbackpacks.tanned_leather.title"
-    }
-  },
-  "parent": "improvedbackpacks:bound_leather",
-  "requirements": [
-    [
-      "tanned_leather"
-    ]
-  ]
+    "parent": "awesomedungeonocean:root"
 }

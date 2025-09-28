@@ -1,31 +1,31 @@
 {
-  "type": "ars_nouveau:enchanting_apparatus",
   "item_1": [
     {
-      "tag": "forge:rods/blaze"
+      "item": "minecraft:gold_ingot"
     }
   ],
   "item_2": [
     {
-      "tag": "forge:gems/end_crystal_fragment"
+      "item": "minecraft:gold_ingot"
     }
   ],
   "item_3": [
     {
-      "tag": "forge:gems/mana"
+      "item": "minecraft:lapis_lazuli"
     }
   ],
   "item_4": [
     {
-      "tag": "forge:ingots/gold"
+      "item": "iceandfire:amythest_gem"
     }
   ],
+  "output": {
+    "item": "ars_nouveau:spell_turret"
+  },
   "reagent": [
     {
       "item": "ars_nouveau:basic_spell_turret"
     }
   ],
-  "output": {
-    "item": "ars_nouveau:spell_turret"
-  }
+  "type": "ars_nouveau:enchanting_apparatus"
 }

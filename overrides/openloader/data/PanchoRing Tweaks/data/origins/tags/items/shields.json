@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "ars_nouveau:enchanters_shield",
+    "bygonenether:gilded_netherite_shield",
+    "cataclysm:bulwark_of_the_flame",
+    "majruszs_difficulty:ocean_shield"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+    "criteria": {
+        "rat_upgrade_basic": {
+            "conditions": {
+                "items": [
+                    {
+                        "item": "alexsmobs:blood_sprayer"
+                    }
+                ]
+            },
+            "trigger": "minecraft:inventory_changed"
+        }
+    },
+    "display": {
+        "description": {
+            "translate": "advancements.alexsmobs.blood_sprayer.desc"
+        },
+        "frame": "goal",
+        "icon": {
+            "item": "alexsmobs:blood_sprayer"
+        },
+        "title": {
+            "translate": "advancements.alexsmobs.blood_sprayer.title"
+        }
+    },
+    "parent": "alexsmobs:alexsmobs/crimson_mosquito"
+}

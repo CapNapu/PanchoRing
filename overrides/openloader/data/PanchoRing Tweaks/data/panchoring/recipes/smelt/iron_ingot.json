@@ -1,5 +1,6 @@
 {
-  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.1,
   "ingredient": [
     {
       "item": "minecraft:iron_helmet"
@@ -56,6 +57,9 @@
       "item": "supplementaries:faucet"
     },
     {
+      "item": "supplementaries:spring_launcher"
+    },
+    {
       "item": "supplementaries:lock_block"
     },
     {
@@ -78,6 +82,5 @@
     }
   ],
   "result": "minecraft:iron_ingot",
-  "experience": 0.1,
-  "cookingtime": 200
+  "type": "minecraft:smelting"
 }

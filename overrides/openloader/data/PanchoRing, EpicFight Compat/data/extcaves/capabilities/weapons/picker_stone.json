@@ -1,7 +1,8 @@
 {
 	"attributes": {
 		"common": {
-			"armor_negation": 0
+			"armor_negation": 0,
+			"damage_bonus": -1
 		}
 	},
 	"type": "pickaxe"

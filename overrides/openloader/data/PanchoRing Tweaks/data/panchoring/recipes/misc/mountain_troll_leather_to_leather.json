@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "iceandfire:troll_leather_mountain"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "minecraft:leather"
+  }
+}

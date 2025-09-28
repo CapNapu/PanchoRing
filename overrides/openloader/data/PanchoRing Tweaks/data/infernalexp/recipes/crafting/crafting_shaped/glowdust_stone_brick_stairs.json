@@ -1,0 +1,17 @@
+{
+  "key": {
+    "x": {
+      "item": "infernalexp:glowdust_stone_bricks"
+    }
+  },
+  "pattern": [
+    "x  ",
+    "xx ",
+    "xxx"
+  ],
+  "result": {
+    "count": 6,
+    "item": "infernalexp:glowdust_stone_brick_stairs"
+  },
+  "type": "minecraft:crafting_shaped"
+}

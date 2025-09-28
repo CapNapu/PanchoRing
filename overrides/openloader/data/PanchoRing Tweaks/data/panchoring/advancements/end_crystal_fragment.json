@@ -12,16 +12,12 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.panchoring.end_crystal_fragment.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
       "item": "endrem:end_crystal_fragment"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.panchoring.end_crystal_fragment.title"
     }

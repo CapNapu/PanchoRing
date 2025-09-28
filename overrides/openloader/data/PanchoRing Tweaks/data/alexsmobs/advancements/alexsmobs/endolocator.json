@@ -1,0 +1,27 @@
+{
+    "criteria": {
+        "endolocator": {
+            "conditions": {
+                "items": [
+                    {
+                        "item": "alexsmobs:endolocator"
+                    }
+                ]
+            },
+            "trigger": "minecraft:inventory_changed"
+        }
+    },
+    "display": {
+        "description": {
+            "translate": "advancements.alexsmobs.endolocator.desc"
+        },
+        "frame": "goal",
+        "icon": {
+            "item": "alexsmobs:endolocator"
+        },
+        "title": {
+            "translate": "advancements.alexsmobs.endolocator.title"
+        }
+    },
+    "parent": "alexsmobs:alexsmobs/echolocator"
+}

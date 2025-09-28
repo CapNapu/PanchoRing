@@ -1,0 +1,18 @@
+{
+  "integrated_loot_tables": {
+    "betterstrongholds:chests/trap": 6,
+    "dungeoncrawl:chests/stage_4": 3,
+    "dungeons_enhanced:chests/castle/library": 3,
+    "dungeons_enhanced:chests/castle/throne": 6,
+    "dungeons_enhanced:chests/jungle_monument/treasure": 6,
+    "dungeons_enhanced:chests/large_dungeon": 6,
+    "dungeons_enhanced:chests/monster_maze/prison": 3,
+    "dungeons_enhanced:chests/monster_maze/treasure": 6,
+    "dungeons_enhanced:chests/tower_of_the_undead/treasure": 6,
+    "dungeons_enhanced:desert_temple_treasure": 6,
+    "endrem:chests/biblio": 3,
+    "endrem:chests/throne": 6
+  },
+  "loot_table": "minecraft:chests/stronghold_crossing",
+  "max_result_itemcount": 13
+}

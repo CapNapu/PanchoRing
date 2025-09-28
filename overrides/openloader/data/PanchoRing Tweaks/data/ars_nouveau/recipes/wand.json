@@ -1,0 +1,51 @@
+{
+  "item_1": [
+    {
+      "item": "ars_nouveau:mana_gem"
+    }
+  ],
+  "item_2": [
+    {
+      "item": "ars_nouveau:mana_gem"
+    }
+  ],
+  "item_3": [
+    {
+      "item": "ars_nouveau:mana_gem"
+    }
+  ],
+  "item_4": [
+    {
+      "item": "ars_nouveau:mana_gem"
+    }
+  ],
+  "item_5": [
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "item_6": [
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "item_7": [
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "item_8": [
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "output": {
+    "item": "ars_nouveau:wand"
+  },
+  "reagent": [
+    {
+      "item": "supplementaries:slingshot"
+    }
+  ],
+  "type": "ars_nouveau:enchanting_apparatus"
+}

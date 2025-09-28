@@ -1,0 +1,25 @@
+{
+  "profession": "minecraft:farmer",
+  "removeOtherTrades": false,
+  "maxTrades": 3,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "iceandfire:cannoli",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 8,
+        "priceModifier": 0
+      },
+      "tradeExp": 60,
+      "maxUses": 6,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:farmer_cannoli_for_emerald"
+    }
+  ]
+}

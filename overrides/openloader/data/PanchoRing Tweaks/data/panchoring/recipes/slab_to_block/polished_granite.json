@@ -1,0 +1,14 @@
+{
+  "key": {
+    "0": {
+      "item": "minecraft:polished_granite_slab"
+    }
+  },
+  "pattern": [
+    "00"
+  ],
+  "result": {
+    "item": "minecraft:polished_granite"
+  },
+  "type": "minecraft:crafting_shaped"
+}

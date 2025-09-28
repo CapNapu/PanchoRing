@@ -1,0 +1,20 @@
+{
+  "ingredients": [
+    {
+      "item": "ars_nouveau:green_archwood_log"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    }
+  ],
+  "result": {
+    "item": "ars_nouveau:ritual_awakening"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

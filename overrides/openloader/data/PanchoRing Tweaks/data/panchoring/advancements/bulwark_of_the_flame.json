@@ -12,19 +12,19 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.panchoring.bulwark_of_the_flame.description"
     },
-    "frame": "goal",
-    "hidden": false,
+    "frame": "challenge",
     "icon": {
       "item": "cataclysm:bulwark_of_the_flame"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.panchoring.bulwark_of_the_flame.title"
     }
   },
-  "parent": "panchoring:kill_ignis"
+  "parent": "panchoring:kill_ignis",
+  "rewards": {
+    "experience": 50
+  }
 }

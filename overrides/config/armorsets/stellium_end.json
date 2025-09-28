@@ -1,0 +1,54 @@
+{
+  "armorSetName": "Stellium Set",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "phantasm:stellium_helmet",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "phantasm:stellium_chestplate",
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "phantasm:stellium_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "phantasm:stellium_boots",
+    "mustBeEmpty": false
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "effect",
+      "name": "minecraft:regeneration",
+      "value": 0.0,
+      "interactionType": "self",
+      "interactionDuration": 120,
+      "hideBonusDescription": true,
+      "conditions": [
+        {
+          "type": "inDimension",
+          "extra": "minecraft:the_end"
+        }
+      ]
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "name": "minecraft:resistance",
+      "value": 0.0,
+      "interactionType": "self",
+      "interactionDuration": 120,
+      "hideBonusDescription": true,
+      "conditions": [
+        {
+          "type": "inDimension",
+          "extra": "minecraft:the_end"
+        }
+      ]
+    }
+  ],
+  "hideGeneratedTooltip": true
+}

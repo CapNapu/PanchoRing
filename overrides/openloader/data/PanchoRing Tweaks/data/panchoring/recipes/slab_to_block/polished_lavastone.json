@@ -1,0 +1,14 @@
+{
+  "key": {
+    "0": {
+      "item": "extcaves:polished_lavastone_slab"
+    }
+  },
+  "pattern": [
+    "00"
+  ],
+  "result": {
+    "item": "extcaves:polished_lavastone"
+  },
+  "type": "minecraft:crafting_shaped"
+}

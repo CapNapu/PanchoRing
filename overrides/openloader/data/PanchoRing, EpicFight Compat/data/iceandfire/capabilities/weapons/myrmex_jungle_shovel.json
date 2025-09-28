@@ -1,8 +1,8 @@
 {
 	"attributes": {
 		"common": {
-			"impact": 1.1,
 			"damage_bonus": -2,
+			"impact": 1.1,
 			"speed_bonus": -0.2
 		}
 	},

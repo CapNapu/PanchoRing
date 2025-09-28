@@ -1,9 +1,6 @@
 {
-  "type": "minecraft:block",
-  "random_sequence": "dustydecor:blocks/cluttered_shelf",
   "pools": [
     {
-      "rolls": 1.0,
       "conditions": [
         {
           "condition": "minecraft:survives_explosion"
@@ -11,10 +8,13 @@
       ],
       "entries": [
         {
-          "type": "minecraft:item",
-          "name": "dustydecor:cluttered_shelf"
+          "name": "dustydecor:cluttered_shelf",
+          "type": "minecraft:item"
         }
-      ]
+      ],
+      "rolls": 1.0
     }
-  ]
+  ],
+  "random_sequence": "dustydecor:blocks/cluttered_shelf",
+  "type": "minecraft:block"
 }

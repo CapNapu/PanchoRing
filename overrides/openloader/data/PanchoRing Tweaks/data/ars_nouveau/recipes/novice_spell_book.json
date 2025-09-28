@@ -4,28 +4,28 @@
 			"item": "minecraft:book"
 		},
 		{
-      		"tag": "forge:ingots/gold"
+			"item": "ars_nouveau:mana_gem"
 		},
 		{
-			"tag": "forge:ingots/gold"
+			"item": "ars_nouveau:mana_gem"
 		},
 		{
-			"tag": "forge:ingots/gold"
+			"item": "ars_nouveau:mana_gem"
 		},
 		{
-			"tag": "forge:ingots/gold"
+			"item": "ars_nouveau:mana_gem"
 		},
 		{
-			"tag": "forge:ingots/gold"
+			"item": "minecraft:gold_ingot"
 		},
 		{
-			"tag": "forge:ingots/gold"
+			"item": "minecraft:gold_ingot"
 		},
 		{
-			"tag": "forge:ingots/gold"
+			"item": "minecraft:gold_ingot"
 		},
 		{
-			"tag": "forge:ingots/gold"
+			"item": "minecraft:gold_ingot"
 		}
 	],
 	"result": {

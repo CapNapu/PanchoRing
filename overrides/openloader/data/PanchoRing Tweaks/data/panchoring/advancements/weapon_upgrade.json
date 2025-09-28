@@ -1,0 +1,152 @@
+{
+  "criteria": {
+    "sword": {
+      "conditions": {
+        "items": [
+          {
+            "item": "dungeons_gear:sword"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "katana": {
+      "conditions": {
+        "items": [
+          {
+            "item": "dungeons_gear:katana"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "cutlass": {
+      "conditions": {
+        "items": [
+          {
+            "item": "dungeons_gear:cutlass"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "claymore": {
+      "conditions": {
+        "items": [
+          {
+            "item": "dungeons_gear:claymore"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "rapier": {
+      "conditions": {
+        "items": [
+          {
+            "item": "dungeons_gear:rapier"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "spear": {
+      "conditions": {
+        "items": [
+          {
+            "item": "dungeons_gear:spear"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "glaive": {
+      "conditions": {
+        "items": [
+          {
+            "item": "dungeons_gear:glaive"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickaxe": {
+      "conditions": {
+        "items": [
+          {
+            "item": "dungeons_gear:pickaxe"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "axe": {
+      "conditions": {
+        "items": [
+          {
+            "item": "dungeons_gear:axe"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "double_axe": {
+      "conditions": {
+        "items": [
+          {
+            "item": "dungeons_gear:double_axe"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "mace": {
+      "conditions": {
+        "items": [
+          {
+            "item": "dungeons_gear:mace"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "sickle": {
+      "conditions": {
+        "items": [
+          {
+            "item": "dungeons_gear:sickle"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.weapon_upgrade.description"
+    },
+    "icon": {
+      "item": "dungeons_gear:sword"
+    },
+    "title": {
+      "translate": "advancements.panchoring.weapon_upgrade.title"
+    }
+  },
+  "parent": "panchoring:smithing_table",
+  "requirements": [
+    [
+      "sword",
+      "katana",
+      "cutlass",
+      "claymore",
+      "rapier",
+      "spear",
+      "glaive",
+      "pickaxe",
+      "axe",
+      "double_axe",
+      "mace",
+      "sickle"
+    ]
+  ]
+}

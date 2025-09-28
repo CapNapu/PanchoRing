@@ -1,0 +1,16 @@
+{
+  "key": {
+    "0": {
+      "item": "minecraft:end_stone"
+    }
+  },
+  "pattern": [
+    "00",
+    "00"
+  ],
+  "result": {
+    "count": 4,
+    "item": "cataclysm:polished_end_stone"
+  },
+  "type": "minecraft:crafting_shaped"
+}

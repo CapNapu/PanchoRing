@@ -1,22 +1,16 @@
 {
     "criteria": {
-        "requirement": {
+        "impossible": {
             "trigger": "minecraft:impossible"
         }
     },
     "display": {
-        "announce_to_chat": true,
-        "description": " Discover the Ruin pillager dungeon during the night",
-        "frame": "challenge",
-        "hidden": false,
+        "description": "",
+        "hidden": true,
         "icon": {
             "item": "minecraft:filled_map"
         },
-        "show_toast": true,
-        "title": "Find: Ruin pillager"
+        "title": ""
     },
-    "parent": "awesomedungeonocean:ocean_ruin_pillager/find_normal",
-    "rewards": {
-        "experience": 10
-    }
+    "parent": "awesomedungeonocean:root"
 }

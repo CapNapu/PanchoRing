@@ -1,28 +1,16 @@
 {
-  "criteria": {
-    "in_catacomb": {
-      "trigger": "minecraft:impossible"
-    }
-  },
-  "display": {
-    "announce_to_chat": false,
-    "description": {
-      "translate": "advancements.bygonenether.catacomb.description"
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
     },
-    "frame": "task",
-    "hidden": true,
-    "icon": {
-      "item": "bygonenether:withered_debris"
+    "display": {
+        "description": "",
+        "hidden": true,
+        "icon": {
+            "item": "minecraft:filled_map"
+        },
+        "title": ""
     },
-    "show_toast": false,
-    "title": {
-      "translate": "advancements.bygonenether.catacomb.title"
-    }
-  },
-  "parent": "bygonenether:explore_structures",
-  "requirements": [
-    [
-      "in_catacomb"
-    ]
-  ]
+    "parent": "awesomedungeonocean:root"
 }

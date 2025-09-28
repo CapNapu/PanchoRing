@@ -1,17 +1,20 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "ars_nouveau:blue_archwood_log"
     },
     {
-      "tag": "forge:storage_blocks/mana"
+      "item": "iceandfire:copper_ingot"
     },
     {
-      "item": "minecraft:white_dye"
+      "item": "iceandfire:copper_ingot"
+    },
+    {
+      "item": "iceandfire:copper_ingot"
     }
   ],
   "result": {
     "item": "ars_nouveau:ritual_cloudshaping"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

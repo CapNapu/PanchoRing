@@ -52,24 +52,18 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.panchoring.end_crystal_tools.description"
     },
     "frame": "goal",
-    "hidden": false,
     "icon": {
       "item": "endrem:end_crystal_sword"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.panchoring.end_crystal_tools.title"
     }
   },
   "parent": "panchoring:end_crystal_fragment",
-  "rewards": {
-    "experience": 150
-  },
   "requirements": [
     [
       "end_crystal_axe",

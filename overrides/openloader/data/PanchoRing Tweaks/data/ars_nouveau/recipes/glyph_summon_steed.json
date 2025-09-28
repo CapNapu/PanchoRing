@@ -1,0 +1,6 @@
+{
+  "input": "minecraft:saddle",
+  "output": "ars_nouveau:glyph_summon_steed",
+  "tier": "ONE",
+  "type": "ars_nouveau:glyph_recipe"
+}

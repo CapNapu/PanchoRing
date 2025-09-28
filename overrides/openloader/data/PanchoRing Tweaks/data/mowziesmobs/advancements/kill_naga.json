@@ -1,23 +1,16 @@
 {
-  "criteria": {
-    "naga": {
-      "trigger": "minecraft:impossible"
-    }
-  },
-  "display": {
-    "announce_to_chat": false,
-    "description": {
-      "translate": "advancements.mowziesmobs.kill_naga.description"
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
     },
-    "frame": "task",
-    "hidden": true,
-    "icon": {
-      "item": "mowziesmobs:naga_fang"
+    "display": {
+        "description": "",
+        "hidden": true,
+        "icon": {
+            "item": "minecraft:filled_map"
+        },
+        "title": ""
     },
-    "show_toast": false,
-    "title": {
-      "translate": "advancements.mowziesmobs.kill_naga.title"
-    }
-  },
-  "parent": "mowziesmobs:root"
+    "parent": "awesomedungeonocean:root"
 }

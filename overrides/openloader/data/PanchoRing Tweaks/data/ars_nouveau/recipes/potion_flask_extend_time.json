@@ -1,0 +1,51 @@
+{
+  "item_1": [
+    {
+      "item": "ars_nouveau:blaze_fiber"
+    }
+  ],
+  "item_2": [
+    {
+      "item": "ars_nouveau:blaze_fiber"
+    }
+  ],
+  "item_3": [
+    {
+      "item": "ars_nouveau:blaze_fiber"
+    }
+  ],
+  "item_4": [
+    {
+      "item": "ars_nouveau:blaze_fiber"
+    }
+  ],
+  "item_5": [
+    {
+      "item": "minecraft:redstone"
+    }
+  ],
+  "item_6": [
+    {
+      "item": "minecraft:redstone"
+    }
+  ],
+  "item_7": [
+    {
+      "item": "iceandfire:amythest_gem"
+    }
+  ],
+  "item_8": [
+    {
+      "item": "iceandfire:amythest_gem"
+    }
+  ],
+  "output": {
+    "item": "ars_nouveau:potion_flask_extend_time"
+  },
+  "reagent": [
+    {
+      "item": "ars_nouveau:potion_flask"
+    }
+  ],
+  "type": "ars_nouveau:enchanting_apparatus"
+}

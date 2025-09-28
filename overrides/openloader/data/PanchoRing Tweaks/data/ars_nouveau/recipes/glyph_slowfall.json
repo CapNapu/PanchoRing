@@ -1,6 +1,6 @@
 {
-  "type": "ars_nouveau:glyph_recipe",
+  "input": "alexsmobs:soul_heart",
+  "output": "ars_nouveau:glyph_slowfall",
   "tier": "TWO",
-  "input": "minecraft:phantom_membrane",
-  "output": "ars_nouveau:glyph_slowfall"
+  "type": "ars_nouveau:glyph_recipe"
 }

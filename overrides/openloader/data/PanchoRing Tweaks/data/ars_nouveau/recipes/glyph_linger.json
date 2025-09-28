@@ -1,6 +1,6 @@
 {
-  "type": "ars_nouveau:glyph_recipe",
-  "tier": "THREE",
   "input": "bosses_of_mass_destruction:obsidian_heart",
-  "output": "ars_nouveau:glyph_linger"
+  "output": "ars_nouveau:glyph_linger",
+  "tier": "THREE",
+  "type": "ars_nouveau:glyph_recipe"
 }

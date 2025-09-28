@@ -5,11 +5,11 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:firework_star",
+          "name": "iceandfire:dread_key",
           "functions": [
             {
               "function": "minecraft:set_nbt",
-              "tag": "{display:{Name:\'{\"text\":\"Núcleo de Escarcha\",\"color\":\"aqua\",\"italic\":false}\'},cc.sg.orb:1,Enchantments:[{}],HideFlags:33,AttributeModifiers:[{AttributeName:\"generic.armor_toughness\",Name:\"generic.armor_toughness\",Amount:2,Operation:0,UUID:[I;0,123712,0,108593],Slot:\"offhand\"}],CustomModelData:1}"
+              "tag": "{cc.sg.orb:1,HideFlags:33,AttributeModifiers:[{AttributeName:\"generic.armor_toughness\",Name:\"generic.armor_toughness\",Amount:2,Operation:0,UUID:[I;0,123712,0,108593],Slot:\"offhand\"}]}"
             },
             {
               "function": "minecraft:copy_nbt",

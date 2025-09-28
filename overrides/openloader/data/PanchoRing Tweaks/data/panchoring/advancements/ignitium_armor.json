@@ -21,28 +21,19 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.panchoring.ignitium_armor.description"
     },
     "frame": "challenge",
-    "hidden": false,
     "icon": {
-      "item": "cataclysm:ignitium_chestplate",
-      "nbt": "{Damage:0}"
+      "item": "cataclysm:ignitium_chestplate"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.panchoring.ignitium_armor.title"
     }
   },
   "parent": "panchoring:kill_ignis",
-  "requirements": [
-    [
-      "ignitium_armor"
-    ]
-  ],
   "rewards": {
-    "experience": 375
+    "experience": 100
   }
 }

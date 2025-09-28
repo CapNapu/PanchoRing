@@ -18,7 +18,7 @@
           "type": "minecraft:lake",
           "config": {
             "state": {
-              "Name": "minecraft:white_concrete_powder"
+              "Name": "supplementaries:daub"
             }
           }
         }

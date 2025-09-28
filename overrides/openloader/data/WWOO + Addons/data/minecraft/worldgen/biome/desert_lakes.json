@@ -51,7 +51,6 @@
     [],
     [
       "wythers:desert/oasis_vegetation",
-      "wythers:desert/oasis_reeds",
       "wythers:generic/flower_lily_of_the_valley",
       "minecraft:patch_grass_jungle",
       "minecraft:seagrass_swamp",

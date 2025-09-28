@@ -1,5 +1,5 @@
 {
-  "armorSetName": "Lightning DragonSteel",
+  "armorSetName": "Lightning Dragonsteel Set",
   "performanceMode": true,
   "head": {
     "itemKey": "iceandfire:dragonsteel_lightning_helmet",
@@ -20,23 +20,23 @@
   "partialBonusRequiredAmount": 2,
   "partialSetBonuses": [
     {
-      "type": "attribute",
-      "name": "minecraft:generic.attack_damage",
-      "value": 3.0,
-      "modifierUUID": "7b535a50-65a4-4f6f-93d7-af6c442461cf",
-      "attributeOperation": 0,
-      "interactionType": "self",
-      "interactionDuration": 200,
+      "type": "effect",
+      "name": "ars_nouveau:shocked",
+      "value": 0.0,
+      "interactionType": "immunity",
+      "interactionDuration": 120,
       "hideBonusDescription": true
     }
   ],
   "fullSetBonuses": [
     {
-      "type": "effect",
-      "name": "minecraft:fire_resistance",
+      "type": "attribute",
+      "name": "minecraft:generic.armor",
       "value": 0.0,
+      "modifierUUID": "2dc3c1e6-c20e-4925-8785-9114861078bf",
+      "attributeOperation": 0,
       "interactionType": "self",
-      "interactionDuration": 200,
+      "interactionDuration": 120,
       "hideBonusDescription": true
     }
   ],

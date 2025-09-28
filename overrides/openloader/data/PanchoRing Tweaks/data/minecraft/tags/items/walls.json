@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "extcaves:bricks_ice_wall",
+    "extcaves:bricks_snow_wall",
+    "extcaves:dirtstone_cobble_wall",
+    "extcaves:dirtstone_wall",
+    "extcaves:lavastone_wall",
+    "extcaves:polished_lavastone_wall",
+    "extcaves:sedimentstone_wall"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "criteria": {
+    "gilded_netherite_boots": {
+      "conditions": {
+        "items": [
+          {
+            "item": "bygonenether:gilded_netherite_boots"
+          },
+          {
+            "item": "bygonenether:gilded_netherite_chestplate"
+          },
+          {
+            "item": "bygonenether:gilded_netherite_helmet"
+          },
+          {
+            "item": "bygonenether:gilded_netherite_leggings"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.gilded_netherite_armor.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "bygonenether:gilded_netherite_chestplate"
+    },
+    "title": {
+      "translate": "advancements.panchoring.gilded_netherite_armor.title"
+    }
+  },
+  "parent": "minecraft:nether/loot_bastion"
+}

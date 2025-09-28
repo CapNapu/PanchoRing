@@ -1,72 +1,16 @@
 {
-  "criteria": {
-    "Basalt Deltas": {
-      "conditions": {
-        "location": {
-          "biome": "minecraft:basalt_deltas"
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
         }
-      },
-      "trigger": "minecraft:location"
     },
-    "Crimson Forest": {
-      "conditions": {
-        "location": {
-          "biome": "minecraft:crimson_forest"
-        }
-      },
-      "trigger": "minecraft:location"
+    "display": {
+        "description": "",
+        "hidden": true,
+        "icon": {
+            "item": "minecraft:filled_map"
+        },
+        "title": ""
     },
-    "Nether Wastes": {
-      "conditions": {
-        "location": {
-          "biome": "minecraft:nether_wastes"
-        }
-      },
-      "trigger": "minecraft:location"
-    },
-    "Soul Sand Valley": {
-      "conditions": {
-        "location": {
-          "biome": "minecraft:soul_sand_valley"
-        }
-      },
-      "trigger": "minecraft:location"
-    },
-    "Warped Forest": {
-      "conditions": {
-        "location": {
-          "biome": "minecraft:warped_forest"
-        }
-      },
-      "trigger": "minecraft:location"
-    },
-    "Glowstone Canyon": {
-      "conditions": {
-        "location": {
-          "biome": "infernalexp:glowstone_canyon"
-        }
-      },
-      "trigger": "minecraft:location"
-    }
-  },
-  "display": {
-    "announce_to_chat": true,
-    "description": {
-      "translate": "advancements.nether.explore_nether.description"
-    },
-    "frame": "challenge",
-    "hidden": false,
-    "icon": {
-      "item": "minecraft:netherite_boots",
-      "nbt": "{Damage:0}"
-    },
-    "show_toast": true,
-    "title": {
-      "translate": "advancements.nether.explore_nether.title"
-    }
-  },
-  "parent": "minecraft:nether/ride_strider",
-  "rewards": {
-    "experience": 500
-  }
+    "parent": "awesomedungeonocean:root"
 }

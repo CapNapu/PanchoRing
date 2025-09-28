@@ -1,6 +1,6 @@
 {
-  "type": "ars_nouveau:glyph_recipe",
+  "input": "minecraft:rabbit_foot",
+  "output": "ars_nouveau:glyph_launch",
   "tier": "ONE",
-  "input": "iceandfire:amphithere_feather",
-  "output": "ars_nouveau:glyph_launch"
+  "type": "ars_nouveau:glyph_recipe"
 }

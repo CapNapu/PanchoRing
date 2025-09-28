@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "ars_nouveau:blank_parchment"
+    },
+    {
+      "item": "minecraft:gold_nugget"
+    }
+  ],
+  "result": {
+    "item": "ars_nouveau:allow_scroll"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

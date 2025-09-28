@@ -1,18 +1,18 @@
 {
-  "type": "ars_nouveau:crush",
   "input": {
     "item": "phantasm:stellium_ore"
   },
   "output": [
     {
-      "item": "phantasm:stellium_nugget",
       "chance": 1.0,
-      "count": 9
+      "count": 5,
+      "item": "phantasm:stellium_nugget"
     },
     {
-      "item": "phantasm:stellium_nugget",
       "chance": 0.33,
-      "count": 3
+      "count": 3,
+      "item": "phantasm:stellium_nugget"
     }
-  ]
+  ],
+  "type": "ars_nouveau:crush"
 }

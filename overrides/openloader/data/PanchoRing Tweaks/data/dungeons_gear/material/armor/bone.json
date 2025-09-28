@@ -1,12 +1,17 @@
 {
-  "type": "dungeons_libraries:dungeons_armor_material",
-  "name": "dungeons_gear:bone",
+  "base_type": "bone",
+  "damage_reduction_amounts": [
+    1,
+    3,
+    4,
+    2
+  ],
   "durability": 15,
-  "damage_reduction_amounts":  [1, 3, 4, 2],
   "enchantability": 18,
-  "repair_item":  "iceandfire:dread_shard",
   "equip_sound": "minecraft:item.armor.equip_turtle",
-  "toughness":  0.0,
   "knockback_resistance": 0.0,
-  "base_type": "bone"
+  "name": "dungeons_gear:bone",
+  "repair_item": "iceandfire:dread_shard",
+  "toughness": 0.0,
+  "type": "dungeons_libraries:dungeons_armor_material"
 }

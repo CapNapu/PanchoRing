@@ -1,6 +1,6 @@
 {
-  "type": "ars_nouveau:glyph_recipe",
+  "input": "iceandfire:pixie_wings",
+  "output": "ars_nouveau:glyph_glide",
   "tier": "THREE",
-  "input": "alexsmobs:tarantula_hawk_wing",
-  "output": "ars_nouveau:glyph_glide"
+  "type": "ars_nouveau:glyph_recipe"
 }

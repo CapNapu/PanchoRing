@@ -1,6 +1,6 @@
 {
   "criteria": {
-    "crafting_table": {
+    "impossible": {
       "trigger": "minecraft:impossible"
     }
   },
@@ -10,8 +10,6 @@
     "description": {
       "translate": "advancements.story.root.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
       "item": "minecraft:grass_block"
     },
@@ -19,10 +17,5 @@
     "title": {
       "translate": "advancements.story.root.title"
     }
-  },
-  "requirements": [
-    [
-      "crafting_table"
-    ]
-  ]
+  }
 }

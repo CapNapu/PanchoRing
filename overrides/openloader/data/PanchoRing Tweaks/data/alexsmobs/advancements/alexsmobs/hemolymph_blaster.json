@@ -1,0 +1,28 @@
+{
+    "criteria": {
+        "rat_upgrade_basic": {
+            "conditions": {
+                "items": [
+                    {
+                        "item": "alexsmobs:hemolymph_blaster"
+                    }
+                ]
+            },
+            "trigger": "minecraft:inventory_changed"
+        }
+    },
+    "display": {
+        "description": {
+            "translate": "advancements.alexsmobs.hemolymph_blaster.desc"
+        },
+        "frame": "goal",
+        "icon": {
+            "item": "citadel:fancy_item",
+            "nbt": "{DisplayItem:\"alexsmobs:hemolymph_blaster\", DisplayBob:0, DisplayZoom:1, DisplayScale:1, DisplaySpin:0, DisplayShake:0}"
+        },
+        "title": {
+            "translate": "advancements.alexsmobs.hemolymph_blaster.title"
+        }
+    },
+    "parent": "alexsmobs:alexsmobs/warped_mosco_kill"
+}

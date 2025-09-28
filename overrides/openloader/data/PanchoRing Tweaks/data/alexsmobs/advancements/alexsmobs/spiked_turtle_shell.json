@@ -1,0 +1,27 @@
+{
+    "criteria": {
+        "rat_upgrade_basic": {
+            "conditions": {
+                "items": [
+                    {
+                        "item": "alexsmobs:spiked_turtle_shell"
+                    }
+                ]
+            },
+            "trigger": "minecraft:inventory_changed"
+        }
+    },
+    "display": {
+        "description": {
+            "translate": "advancements.alexsmobs.spiked_turtle_shell.desc"
+        },
+        "frame": "goal",
+        "icon": {
+            "item": "alexsmobs:spiked_turtle_shell"
+        },
+        "title": {
+            "translate": "advancements.alexsmobs.spiked_turtle_shell.title"
+        }
+    },
+    "parent": "alexsmobs:alexsmobs/spiked_scute"
+}

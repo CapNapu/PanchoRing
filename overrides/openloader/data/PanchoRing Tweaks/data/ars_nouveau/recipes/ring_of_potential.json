@@ -1,19 +1,19 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "key": {
+    "x": {
+      "item": "iceandfire:silver_nugget"
+    },
+    "y": {
+      "item": "ars_nouveau:mana_gem"
+    }
+  },
   "pattern": [
     "xxx",
     "xyx",
     "xxx"
   ],
-  "key": {
-    "x": {
-      "tag": "forge:nuggets/silver"
-    },
-    "y": {
-      "tag": "forge:gems/mana"
-    }
-  },
   "result": {
     "item": "ars_nouveau:ring_of_potential"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

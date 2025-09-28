@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "ancient_dart": {
+      "conditions": {
+        "items": [
+          {
+            "item": "alexsmobs:ancient_dart"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.ancient_dart.description"
+    },
+    "hidden": true,
+    "icon": {
+      "item": "alexsmobs:ancient_dart"
+    },
+    "title": {
+      "translate": "advancements.panchoring.ancient_dart.title"
+    }
+  },
+  "parent": "alexsmobs:alexsmobs/tame_capuchin"
+}

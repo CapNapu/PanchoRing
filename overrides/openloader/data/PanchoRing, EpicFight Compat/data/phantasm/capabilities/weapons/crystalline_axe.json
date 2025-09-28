@@ -2,7 +2,7 @@
 	"attributes": {
 		"common": {
 			"armor_negation": 40,
-			"damage_bonus": 4,
+			"damage_bonus": 2,
 			"impact": 1.9,
 			"speed_bonus": 0.1
 		}

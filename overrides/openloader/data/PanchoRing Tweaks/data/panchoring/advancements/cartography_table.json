@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "cartography_table": {
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:cartography_table"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.cartography_table.description"
+    },
+    "icon": {
+      "item": "minecraft:cartography_table"
+    },
+    "title": {
+      "translate": "advancements.panchoring.cartography_table.title"
+    }
+  },
+  "parent": "minecraft:husbandry/root"
+}

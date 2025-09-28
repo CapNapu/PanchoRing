@@ -1,17 +1,14 @@
 {
   "criteria": {
-    "requirement": {
+    "music_disc_shock": {
       "conditions": {
-        "item": {
-          "item": "ostoverhaul:shock_disc"
-        },
-        "location": {
-          "block": {
-            "block": "minecraft:jukebox"
+        "items": [
+          {
+            "item": "ostoverhaul:shock_disc"
           }
-        }
+        ]
       },
-      "trigger": "minecraft:item_used_on_block"
+      "trigger": "minecraft:inventory_changed"
     }
   },
   "display": {
@@ -22,13 +19,9 @@
     "icon": {
       "item": "ostoverhaul:shock_disc"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.ostoverhaul.shocked.tittle"
     }
   },
-  "parent": "minecraft:adventure/root",
-  "rewards": {
-    "experience": 50
-  }
+  "parent": "panchoring:music_discs_normal"
 }

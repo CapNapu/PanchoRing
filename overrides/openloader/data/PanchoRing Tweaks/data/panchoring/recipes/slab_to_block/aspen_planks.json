@@ -1,0 +1,14 @@
+{
+  "key": {
+    "0": {
+      "item": "projectvibrantjourneys:aspen_slab"
+    }
+  },
+  "pattern": [
+    "00"
+  ],
+  "result": {
+    "item": "projectvibrantjourneys:aspen_planks"
+  },
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,18 +1,18 @@
 {
-  "type": "ars_nouveau:crush",
   "input": {
     "item": "minecraft:nether_quartz_ore"
   },
   "output": [
     {
-      "item": "minecraft:quartz",
       "chance": 1.0,
-      "count": 1
+      "count": 1,
+      "item": "minecraft:quartz"
     },
     {
-      "item": "minecraft:quartz",
       "chance": 0.75,
-      "count": 1
+      "count": 1,
+      "item": "minecraft:quartz"
     }
-  ]
+  ],
+  "type": "ars_nouveau:crush"
 }

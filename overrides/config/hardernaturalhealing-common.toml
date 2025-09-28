@@ -2,7 +2,7 @@
 ["Harder Natural Healing Control Values"]
 	#extraExhaustionWhenHurt
 	#Range: 0.0 ~ 1.0
-	extraExhaustionWhenHurt = 0.03
+	extraExhaustionWhenHurt = 0.0
 	#healingPerSecond
 	#Range: 0.0 ~ 10.0
 	healingPerSecond = 0.1
@@ -13,7 +13,7 @@
 	minimumStarvationHealth = 0
 	#minimumFoodHealingLevel
 	#Range: 0.0 ~ 22.0
-	minimumFoodHealingLevel = 16.0
+	minimumFoodHealingLevel = 6.0
 	#Attack Healing Delay in Ticks
 	#Range: 0 ~ 3600
 	attackHealingDelayTicks = 200

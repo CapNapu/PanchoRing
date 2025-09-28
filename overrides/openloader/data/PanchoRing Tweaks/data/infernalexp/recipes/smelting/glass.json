@@ -1,0 +1,14 @@
+{
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": [
+    {
+      "item": "infernalexp:silt"
+    },
+    {
+      "item": "infernalexp:rubble"
+    }
+  ],
+  "result": "minecraft:black_stained_glass",
+  "type": "minecraft:smelting"
+}

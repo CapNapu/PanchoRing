@@ -1,7 +1,7 @@
 
 [general]
 	#Add a mob's full name here to prevent it from being frozen or taking damage from ice magic.
-	freeze_blacklist = ["mowziesmobs:frostmaw", "minecraft:enderdragon", "minecraft:wither", "minecraft:stray", "minecraft:snow_golem", "cataclysm:ignis", "cataclysm:ignited_revenant", "cataclysm:netherite_monstrosity", "cataclysm:ender_guardian", "cataclysm:ender_golem", "bosses_of_mass_destruction:lich", "bosses_of_mass_destruction:obsidilith"]
+	freeze_blacklist = ["minecraft:ender_dragon", "minecraft:wither", "alexsmobs:void_worm", "alexsmobs:warped_mosco", "ars_nouveau:wilden_boss", "bosses_of_mass_destruction:gaunlet", "bosses_of_mass_destruction:lich", "bosses_of_mass_destruction:obsidilith", "bosses_of_mass_destruction:void_blossom", "cataclysm:ender_golem", "cataclysm:ender_guardian", "cataclysm:ignis", "cataclysm:ignited_revenant", "cataclysm:netherite_monstrosity", "iceandfire:cyclops", "iceandfire:fire_dragon", "iceandfire:hydra", "iceandfire:ice_dragon", "iceandfire:lightning_dragon", "mowziesmobs:barako", "mowziesmobs:ferrous_wroughtnaut", "mowziesmobs:frostmaw"]
 
 [tools_and_abilities]
 	#Range: 0.0 ~ 1.7976931348623157E308
@@ -125,7 +125,7 @@
 		attack_damage = 1.0
 		#Duration in ticks of the poison effect (20 ticks = 1 second).
 		#Range: > 0
-		poison_duration = 40
+		poison_duration = 200
 
 [mobs]
 
@@ -551,7 +551,7 @@
 			attack_multiplier = 1.5
 			#Scale mob health by this value
 			#Range: 0.0 ~ 1.7976931348623157E308
-			health_multiplier = 2.5
+			health_multiplier = 1.2
 
 		#Controls for spawning structure/mob with world generation
 		[mobs.ferrous_wroughtnaut.generation_config]

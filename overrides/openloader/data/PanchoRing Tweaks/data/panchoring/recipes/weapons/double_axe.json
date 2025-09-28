@@ -1,12 +1,12 @@
 {
-  "type": "minecraft:smithing",
+  "addition": {
+    "item": "minecraft:iron_ingot"
+  },
   "base": {
     "item": "dungeons_gear:axe"
   },
-  "addition": {
-    "tag": "forge:ingots/iron"
-  },
   "result": {
     "item": "dungeons_gear:double_axe"
-  }
+  },
+  "type": "minecraft:smithing"
 }

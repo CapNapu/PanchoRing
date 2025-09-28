@@ -1,131 +1,131 @@
 {
     "hidden": true,
+    "type": "origins:damage_over_time",
+    "damage": 1,
+    "interval": 10,
     "condition": {
-    "type": "origins:or",
-    "conditions": [
-        {
-            "type": "origins:equipped_item",
-            "equipment_slot": "head",
-            "item_condition": {
-                "type": "origins:ingredient",
-                "ingredient": {
-                    "item": "ars_nouveau:novice_hood"
+        "type": "origins:or",
+        "conditions": [
+            {
+                "type": "origins:equipped_item",
+                "equipment_slot": "head",
+                "item_condition": {
+                    "type": "origins:ingredient",
+                    "ingredient": {
+                        "item": "ars_nouveau:novice_hood"
+                    }
                 }
-            }
-        },
-        {
-            "type": "origins:equipped_item",
-            "equipment_slot": "head",
-            "item_condition": {
-                "type": "origins:ingredient",
-                "ingredient": {
-                    "item": "ars_nouveau:apprentice_hood"
+            },
+            {
+                "type": "origins:equipped_item",
+                "equipment_slot": "head",
+                "item_condition": {
+                    "type": "origins:ingredient",
+                    "ingredient": {
+                        "item": "ars_nouveau:apprentice_hood"
+                    }
                 }
-            }
-        },
-        {
-            "type": "origins:equipped_item",
-            "equipment_slot": "head",
-            "item_condition": {
-                "type": "origins:ingredient",
-                "ingredient": {
-                    "item": "ars_nouveau:archmage_hood"
+            },
+            {
+                "type": "origins:equipped_item",
+                "equipment_slot": "head",
+                "item_condition": {
+                    "type": "origins:ingredient",
+                    "ingredient": {
+                        "item": "ars_nouveau:archmage_hood"
+                    }
                 }
-            }
-        },
-        {
-            "type": "origins:equipped_item",
-            "equipment_slot": "chest",
-            "item_condition": {
-                "type": "origins:ingredient",
-                "ingredient": {
-                    "item": "ars_nouveau:novice_robes"
+            },
+            {
+                "type": "origins:equipped_item",
+                "equipment_slot": "chest",
+                "item_condition": {
+                    "type": "origins:ingredient",
+                    "ingredient": {
+                        "item": "ars_nouveau:novice_robes"
+                    }
                 }
-            }
-        },
-        {
-            "type": "origins:equipped_item",
-            "equipment_slot": "chest",
-            "item_condition": {
-                "type": "origins:ingredient",
-                "ingredient": {
-                    "item": "ars_nouveau:apprentice_robes"
+            },
+            {
+                "type": "origins:equipped_item",
+                "equipment_slot": "chest",
+                "item_condition": {
+                    "type": "origins:ingredient",
+                    "ingredient": {
+                        "item": "ars_nouveau:apprentice_robes"
+                    }
                 }
-            }
-        },
-        {
-            "type": "origins:equipped_item",
-            "equipment_slot": "chest",
-            "item_condition": {
-                "type": "origins:ingredient",
-                "ingredient": {
-                    "item": "ars_nouveau:archmage_robes"
+            },
+            {
+                "type": "origins:equipped_item",
+                "equipment_slot": "chest",
+                "item_condition": {
+                    "type": "origins:ingredient",
+                    "ingredient": {
+                        "item": "ars_nouveau:archmage_robes"
+                    }
                 }
-            }
-        },
-        {
-            "type": "origins:equipped_item",
-            "equipment_slot": "legs",
-            "item_condition": {
-                "type": "origins:ingredient",
-                "ingredient": {
-                    "item": "ars_nouveau:novice_leggings"
+            },
+            {
+                "type": "origins:equipped_item",
+                "equipment_slot": "legs",
+                "item_condition": {
+                    "type": "origins:ingredient",
+                    "ingredient": {
+                        "item": "ars_nouveau:novice_leggings"
+                    }
                 }
-            }
-        },
-        {
-            "type": "origins:equipped_item",
-            "equipment_slot": "legs",
-            "item_condition": {
-                "type": "origins:ingredient",
-                "ingredient": {
-                    "item": "ars_nouveau:apprentice_leggings"
+            },
+            {
+                "type": "origins:equipped_item",
+                "equipment_slot": "legs",
+                "item_condition": {
+                    "type": "origins:ingredient",
+                    "ingredient": {
+                        "item": "ars_nouveau:apprentice_leggings"
+                    }
                 }
-            }
-        },
-        {
-            "type": "origins:equipped_item",
-            "equipment_slot": "legs",
-            "item_condition": {
-                "type": "origins:ingredient",
-                "ingredient": {
-                    "item": "ars_nouveau:archmage_leggings"
+            },
+            {
+                "type": "origins:equipped_item",
+                "equipment_slot": "legs",
+                "item_condition": {
+                    "type": "origins:ingredient",
+                    "ingredient": {
+                        "item": "ars_nouveau:archmage_leggings"
+                    }
                 }
-            }
-        },
-        {
-            "type": "origins:equipped_item",
-            "equipment_slot": "feet",
-            "item_condition": {
-                "type": "origins:ingredient",
-                "ingredient": {
-                    "item": "ars_nouveau:novice_boots"
+            },
+            {
+                "type": "origins:equipped_item",
+                "equipment_slot": "feet",
+                "item_condition": {
+                    "type": "origins:ingredient",
+                    "ingredient": {
+                        "item": "ars_nouveau:novice_boots"
+                    }
                 }
-            }
-        },
-        {
+            },
+            {
             "type": "origins:equipped_item",
-            "equipment_slot": "feet",
-            "item_condition": {
-                "type": "origins:ingredient",
-                "ingredient": {
-                    "item": "ars_nouveau:apprentice_boots"
+                "equipment_slot": "feet",
+                "item_condition": {
+                    "type": "origins:ingredient",
+                    "ingredient": {
+                        "item": "ars_nouveau:apprentice_boots"
+                    }
                 }
-            }
-        },
-        {
+            },
+            {
             "type": "origins:equipped_item",
             "equipment_slot": "feet",
             "item_condition": {
                 "type": "origins:ingredient",
                 "ingredient": {
                     "item": "ars_nouveau:archmage_boots"
+                    }
                 }
             }
-        }
-    ]
-    },
-    "type": "origins:damage_over_time",
-    "interval": 10,
-    "damage": 1
+        ]
+    }
 }

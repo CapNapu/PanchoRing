@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "ex": {
+      "trigger": "alexsmobs:void_worm_kill"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.alexsmobs.void_worm_kill.desc"
+    },
+    "frame": "goal",
+    "hidden": true,
+    "icon": {
+      "item": "alexsmobs:void_worm_beak"
+    },
+    "title": {
+      "translate": "advancements.alexsmobs.void_worm_kill.title"
+    }
+  },
+  "parent": "alexsmobs:alexsmobs/void_worm_summon"
+}

@@ -1,6 +1,6 @@
 {
-  "type": "ars_nouveau:glyph_recipe",
+  "input": "alexsmobs:banana_peel",
+  "output": "ars_nouveau:glyph_underfoot",
   "tier": "ONE",
-  "input": "ars_nouveau:mana_berry",
-  "output": "ars_nouveau:glyph_underfoot"
+  "type": "ars_nouveau:glyph_recipe"
 }

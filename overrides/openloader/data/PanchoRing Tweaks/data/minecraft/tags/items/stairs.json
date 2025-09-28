@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "bygonenether:cracked_withered_blackstone_stairs",
+    "bygonenether:warped_nether_brick_stairs",
+    "bygonenether:withered_blackstone_stairs",
+    "dustydecor:corrugated_metal_stairs",
+    "extcaves:bricks_ice_stairs",
+    "extcaves:bricks_snow_stairs",
+    "extcaves:dirtstone_cobble_stairs",
+    "extcaves:dirtstone_stairs",
+    "extcaves:lavastone_stairs",
+    "extcaves:polished_lavastone_stairs",
+    "extcaves:sedimentstone_stairs",
+    "phantasm:crystiles_stair",
+    "phantasm:raw_purpur_bricks_stairs",
+    "phantasm:smooth_obsidian_bricks_stairs",
+    "phantasm:void_crystiles_stair"
+  ]
+}

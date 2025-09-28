@@ -10,10 +10,10 @@
 			"item": "endrem:end_crystal_fragment"
 		},
 		{
-      		"tag": "forge:gems/sapphire"
+			"item": "iceandfire:sapphire_gem"
 		},
 		{
-      		"tag": "forge:gems/amethyst"
+			"item": "iceandfire:amythest_gem"
 		}
 	],
 	"key": {

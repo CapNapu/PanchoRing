@@ -1,26 +1,16 @@
 {
     "criteria": {
-        "bestiary": {
-            "conditions": {
-                "items": [
-                    {
-                        "item": "iceandfire:bestiary"
-                    }
-                ]
-            },
-            "trigger": "minecraft:inventory_changed"
+        "impossible": {
+            "trigger": "minecraft:impossible"
         }
     },
     "display": {
-        "description": {
-            "translate": "advancements.iceandfire.bestiary.description"
-        },
+        "description": "",
+        "hidden": true,
         "icon": {
-            "item": "iceandfire:bestiary"
+            "item": "minecraft:filled_map"
         },
-        "title": {
-            "translate": "advancements.iceandfire.bestiary.title"
-        }
+        "title": ""
     },
-    "parent": "iceandfire:iceandfire/lectern"
+    "parent": "awesomedungeonocean:root"
 }

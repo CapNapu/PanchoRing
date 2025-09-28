@@ -1,0 +1,20 @@
+{
+  "ingredients": [
+    {
+      "item": "ars_nouveau:purple_archwood_log"
+    },
+    {
+      "item": "ars_nouveau:mana_gem"
+    },
+    {
+      "item": "ars_nouveau:mana_gem"
+    },
+    {
+      "item": "ars_nouveau:mana_gem"
+    }
+  ],
+  "result": {
+    "item": "ars_nouveau:ritual_binding"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

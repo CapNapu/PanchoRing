@@ -1,6 +1,6 @@
 {
-  "type": "ars_nouveau:glyph_recipe",
-  "tier": "TWO",
   "input": "alexsmobs:gazelle_horn",
-  "output": "ars_nouveau:glyph_accelerate"
+  "output": "ars_nouveau:glyph_accelerate",
+  "tier": "TWO",
+  "type": "ars_nouveau:glyph_recipe"
 }

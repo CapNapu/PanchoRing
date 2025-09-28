@@ -1,18 +1,18 @@
 {
-  "type": "ars_nouveau:crush",
   "input": {
     "item": "iceandfire:copper_ore"
   },
   "output": [
     {
-      "item": "iceandfire:copper_nugget",
       "chance": 1.0,
-      "count": 9
+      "count": 9,
+      "item": "iceandfire:copper_nugget"
     },
     {
-      "item": "iceandfire:copper_nugget",
       "chance": 0.33,
-      "count": 3
+      "count": 3,
+      "item": "iceandfire:copper_nugget"
     }
-  ]
+  ],
+  "type": "ars_nouveau:crush"
 }

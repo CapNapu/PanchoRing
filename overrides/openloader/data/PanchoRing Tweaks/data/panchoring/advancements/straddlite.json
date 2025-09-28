@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "roadrunner_boots": {
+      "conditions": {
+        "items": [
+          {
+            "item": "alexsmobs:straddlite"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.straddlite.description"
+    },
+    "icon": {
+      "item": "alexsmobs:straddlite"
+    },
+    "title": {
+      "translate": "advancements.panchoring.straddlite.title"
+    }
+  },
+  "parent": "alexsmobs:alexsmobs/straddler"
+}

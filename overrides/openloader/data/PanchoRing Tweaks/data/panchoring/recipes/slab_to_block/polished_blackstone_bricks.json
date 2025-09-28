@@ -1,0 +1,14 @@
+{
+  "key": {
+    "0": {
+      "item": "minecraft:polished_blackstone_brick_slab"
+    }
+  },
+  "pattern": [
+    "00"
+  ],
+  "result": {
+    "item": "minecraft:polished_blackstone_bricks"
+  },
+  "type": "minecraft:crafting_shaped"
+}

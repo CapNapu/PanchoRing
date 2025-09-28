@@ -1,24 +1,17 @@
 {
     "criteria": {
-        "awesomedungeonocean:ocean_cage": {
+        "impossible": {
             "trigger": "minecraft:impossible"
         }
     },
     "display": {
         "announce_to_chat": false,
         "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
-        "description": "Discover Awesome Dungeon Ocean edition",
-        "frame": "task",
-        "hidden": false,
+        "description": "",
+        "hidden": true,
         "icon": {
-            "item": "minecraft:writable_book"
+            "item": "minecraft:filled_map"
         },
-        "show_toast": false,
-        "title": "Awesome Dungeon Ocean edition"
-    },
-    "requirements": [
-        [
-            "awesomedungeonocean:ocean_cage"
-        ]
-    ]
+        "title": ""
+    }
 }

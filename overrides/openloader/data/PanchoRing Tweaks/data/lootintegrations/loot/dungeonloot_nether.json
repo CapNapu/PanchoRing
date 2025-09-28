@@ -1,0 +1,9 @@
+{
+  "integrated_loot_tables": {
+    "infernalexp:chests/basalt_delta_ruin_chest": 9,
+    "infernalexp:chests/desolate_bastion_outpost_chest": 9,
+    "infernalexp:chests/glowstone_canyon_ruin_chest": 9
+  },
+  "loot_table": "minecraft:chests/nether_bridge",
+  "max_result_itemcount": 15
+}

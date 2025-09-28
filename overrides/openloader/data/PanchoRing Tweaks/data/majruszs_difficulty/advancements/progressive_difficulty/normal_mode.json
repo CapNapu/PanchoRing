@@ -6,12 +6,9 @@
   },
   "display": {
     "announce_to_chat": false,
-    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
     "description": {
       "translate": "advancements.progressive_difficulty.root.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
       "item": "majruszs_difficulty:advancement_normal"
     },
@@ -20,10 +17,5 @@
       "translate": "advancements.progressive_difficulty.root.title"
     }
   },
-  "parent": "minecraft:story/root",
-  "requirements": [
-    [
-      "game_state"
-    ]
-  ]
+  "parent": "minecraft:story/root"
 }

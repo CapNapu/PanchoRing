@@ -12,16 +12,12 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.panchoring.stardust.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
       "item": "phantasm:stardust"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.panchoring.stardust.title"
     }

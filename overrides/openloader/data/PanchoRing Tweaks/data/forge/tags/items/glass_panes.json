@@ -1,5 +1,5 @@
 {
-  "replace": true,
+  "replace": false,
   "values": [
     "infernalexp:glow_glass_pane",
     "infernalexp:quartz_glass_pane",

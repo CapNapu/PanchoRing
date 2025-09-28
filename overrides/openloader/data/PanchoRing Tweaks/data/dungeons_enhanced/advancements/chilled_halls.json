@@ -1,28 +1,16 @@
 {
-  "criteria": {
-    "entered_ice_pit": {
-      "trigger": "minecraft:impossible"
-    }
-  },
-  "display": {
-    "announce_to_chat": false,
-    "description": {
-      "translate": "advancements.dungeons_enhanced.chilled_halls.desc"
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
     },
-    "frame": "task",
-    "hidden": true,
-    "icon": {
-      "item": "minecraft:bone"
+    "display": {
+        "description": "",
+        "hidden": true,
+        "icon": {
+            "item": "minecraft:filled_map"
+        },
+        "title": ""
     },
-    "show_toast": false,
-    "title": {
-      "translate": "advancements.dungeons_enhanced.chilled_halls"
-    }
-  },
-  "parent": "dungeons_enhanced:root",
-  "requirements": [
-    [
-      "entered_ice_pit"
-    ]
-  ]
+    "parent": "awesomedungeonocean:root"
 }

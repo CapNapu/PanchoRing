@@ -1,0 +1,73 @@
+{
+
+    "pools": [
+
+        {
+
+            "rolls": {
+
+                "min": -5,
+
+                "max": 5
+
+            },
+
+            "entries": [
+                {
+
+                    "type": "item",
+
+                    "name": "minecraft:brown_mushroom",
+
+                    "weight": 10
+                },
+                {
+
+                    "type": "item",
+
+                    "name": "minecraft:string",
+
+                    "weight": 250
+                },
+
+                {
+
+                    "type": "item",
+
+                    "name": "minecraft:book",
+
+                    "weight": 500
+
+                },
+
+                {
+
+                    "type": "item",
+
+                    "name": "minecraft:book",
+
+                    "weight": 1,
+
+                    "functions": [
+
+                        {
+
+                            "function": "enchant_with_levels",
+
+                            "levels": 30,
+
+                            "treasure": true
+
+                        }
+
+                    ]
+
+                }
+
+            ]
+
+        }
+
+    ]
+
+}

@@ -1,23 +1,20 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "ars_nouveau:purple_archwood_log"
     },
     {
-      "item": "minecraft:spider_eye"
+      "item": "minecraft:diamond"
     },
     {
-      "item": "minecraft:spider_eye"
+      "item": "minecraft:diamond"
     },
     {
-      "item": "minecraft:glowstone"
-    },
-    {
-      "item": "minecraft:glowstone"
+      "item": "minecraft:diamond"
     }
   ],
   "result": {
     "item": "ars_nouveau:ritual_scrying"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

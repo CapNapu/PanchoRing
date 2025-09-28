@@ -14,6 +14,7 @@
       "translate": "advancements.mowziesmobs.kill_frostmaw.description"
     },
     "frame": "goal",
+    "hidden": true,
     "icon": {
       "item": "mowziesmobs:ice_crystal"
     },

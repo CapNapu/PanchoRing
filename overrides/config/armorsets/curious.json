@@ -1,5 +1,5 @@
 {
-  "armorSetName": "Curious",
+  "armorSetName": "Curious Set",
   "performanceMode": true,
   "head": {
     "itemKey": "dungeons_gear:curious_helmet",
@@ -21,10 +21,10 @@
   "partialSetBonuses": [
     {
       "type": "effect",
-      "name": "minecraft:luck",
+      "name": "minecraft:slow_falling",
       "value": 0.0,
       "interactionType": "self",
-      "interactionDuration": 200,
+      "interactionDuration": 120,
       "hideBonusDescription": true
     }
   ],
@@ -34,7 +34,7 @@
       "name": "minecraft:levitation",
       "value": 0.0,
       "interactionType": "self",
-      "interactionDuration": 200,
+      "interactionDuration": 120,
       "hideBonusDescription": true
     }
   ],

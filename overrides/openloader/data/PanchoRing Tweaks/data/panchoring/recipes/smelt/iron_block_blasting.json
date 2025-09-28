@@ -1,5 +1,6 @@
 {
-  "type": "minecraft:blasting",
+  "cookingtime": 300,
+  "experience": 0.35,
   "ingredient": [
     {
       "item": "minecraft:anvil"
@@ -24,6 +25,5 @@
     }
   ],
   "result": "minecraft:iron_block",
-  "experience": 0.1,
-  "cookingtime": 100
+  "type": "minecraft:blasting"
 }

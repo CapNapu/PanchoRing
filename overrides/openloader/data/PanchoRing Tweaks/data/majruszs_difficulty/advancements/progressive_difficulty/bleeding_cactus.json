@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "bleeding_applied": {
+      "conditions": {
+        "type": "cactus_bleeding"
+      },
+      "trigger": "majruszs_difficulty:simple_trigger"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.progressive_difficulty.bleeding_cactus.description"
+    },
+    "frame": "goal",
+    "hidden": true,
+    "icon": {
+      "item": "minecraft:cactus"
+    },
+    "title": {
+      "translate": "advancements.progressive_difficulty.bleeding_cactus.title"
+    }
+  },
+  "parent": "majruszs_difficulty:progressive_difficulty/bleeding"
+}

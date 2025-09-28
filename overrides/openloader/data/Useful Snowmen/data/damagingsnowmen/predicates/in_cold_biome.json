@@ -60,24 +60,6 @@
       "entity": "this",
       "predicate": {
         "location": {
-          "biome": "minecraft:mountains"
-        }
-      }
-    },
-	{
-      "condition": "minecraft:entity_properties",
-      "entity": "this",
-      "predicate": {
-        "location": {
-          "biome": "minecraft:wooded_mountains"
-        }
-      }
-    },
-	{
-      "condition": "minecraft:entity_properties",
-      "entity": "this",
-      "predicate": {
-        "location": {
           "biome": "minecraft:gravelly_mountains"
         }
       }
@@ -88,15 +70,6 @@
       "predicate": {
         "location": {
           "biome": "minecraft:modified_gravelly_mountains"
-        }
-      }
-    },
-	{
-      "condition": "minecraft:entity_properties",
-      "entity": "this",
-      "predicate": {
-        "location": {
-          "biome": "minecraft:mountain_edge"
         }
       }
     },
@@ -124,6 +97,51 @@
       "predicate": {
         "location": {
           "biome": "minecraft:snowy_taiga_mountains"
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "location": {
+          "biome": "minecraft:snowy_taiga_mountains"
+        }
+      }
+    },
+	{
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "location": {
+          "biome": "projectvibrantjourneys:alpine_heights"
+        }
+      }
+    },
+	{
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "location": {
+          "biome": "projectvibrantjourneys:boreal_plateau"
+        }
+      }
+    },
+	{
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "location": {
+          "biome": "projectvibrantjourneys:snowy_boreal_forest"
+        }
+      }
+    },
+	{
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "location": {
+          "biome": "projectvibrantjourneys:snowy_redwoods"
         }
       }
     }

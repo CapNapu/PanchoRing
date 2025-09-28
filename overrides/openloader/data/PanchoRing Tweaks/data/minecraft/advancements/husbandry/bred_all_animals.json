@@ -678,22 +678,19 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.husbandry.breed_all_animals.description"
     },
     "frame": "challenge",
-    "hidden": false,
     "icon": {
       "item": "minecraft:golden_carrot"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.husbandry.breed_all_animals.title"
     }
   },
   "parent": "minecraft:husbandry/breed_an_animal",
   "rewards": {
-    "experience": 200
+    "experience": 500
   }
 }

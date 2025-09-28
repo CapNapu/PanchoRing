@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "bleeding_applied": {
+      "conditions": {
+        "effects": {
+          "majruszs_difficulty:bleeding": {}
+        }
+      },
+      "trigger": "minecraft:effects_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.progressive_difficulty.bleeding.description"
+    },
+    "hidden": true,
+    "icon": {
+      "item": "majruszs_difficulty:advancement_bleeding"
+    },
+    "title": {
+      "translate": "advancements.progressive_difficulty.bleeding.title"
+    }
+  },
+  "parent": "minecraft:adventure/root"
+}

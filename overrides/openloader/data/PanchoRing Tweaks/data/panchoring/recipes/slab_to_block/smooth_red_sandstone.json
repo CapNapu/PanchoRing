@@ -1,0 +1,14 @@
+{
+  "key": {
+    "0": {
+      "item": "minecraft:smooth_red_sandstone_slab"
+    }
+  },
+  "pattern": [
+    "00"
+  ],
+  "result": {
+    "item": "minecraft:smooth_red_sandstone"
+  },
+  "type": "minecraft:crafting_shaped"
+}

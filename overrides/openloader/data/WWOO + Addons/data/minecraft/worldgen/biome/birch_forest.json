@@ -64,7 +64,6 @@
     ]
   ],
   "starts": [
-    "more_structures:pillager_outpost_birch_forest",
     "minecraft:mineshaft",
     "minecraft:stronghold",
     "minecraft:ruined_portal"

@@ -76,7 +76,6 @@
     ]
   ],
   "starts": [
-    "more_structures:village_swamp",
     "minecraft:swamp_hut",
     "minecraft:mineshaft",
     "minecraft:ruined_portal_swamp"

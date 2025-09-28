@@ -1,31 +1,31 @@
 {
-  "type": "ars_nouveau:enchanting_apparatus",
   "item_1": [
     {
-      "tag": "forge:gems/mana"
+      "item": "ars_nouveau:mana_gem"
     }
   ],
   "item_2": [
     {
-      "tag": "forge:gems/mana"
+      "item": "ars_nouveau:mana_gem"
     }
   ],
   "item_3": [
     {
-      "tag": "forge:gems/mana"
+      "item": "ars_nouveau:mana_gem"
     }
   ],
   "item_4": [
     {
-      "tag": "forge:gems/mana"
+      "item": "ars_nouveau:mana_gem"
     }
   ],
+  "output": {
+    "item": "ars_nouveau:mana_bloom_crop"
+  },
   "reagent": [
     {
       "item": "projectvibrantjourneys:pinecones"
     }
   ],
-  "output": {
-    "item": "ars_nouveau:mana_bloom_crop"
-  }
+  "type": "ars_nouveau:enchanting_apparatus"
 }

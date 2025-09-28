@@ -1,0 +1,15 @@
+{
+    "key": {
+        "#": {
+            "item": "minecraft:purpur_slab"
+        }
+    },
+    "pattern": [
+        "#",
+        "#"
+    ],
+    "result": {
+        "item": "cataclysm:chiseled_purpur_block"
+    },
+    "type": "minecraft:crafting_shaped"
+}

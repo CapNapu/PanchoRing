@@ -20,10 +20,5 @@
       "translate": "advancements.panchoring.find_barakoa_village.title"
     }
   },
-  "parent": "minecraft:adventure/kill_a_mob",
-  "requirements": [
-    [
-      "barakoa_village"
-    ]
-  ]
+  "parent": "minecraft:adventure/kill_a_mob"
 }

@@ -1,31 +1,23 @@
 {
-  "criteria": {
-    "entered_end": {
-      "conditions": {
-        "to": "minecraft:the_end"
-      },
-      "trigger": "minecraft:changed_dimension"
-    }
-  },
-  "display": {
-    "announce_to_chat": true,
-    "description": {
-      "translate": "advancements.story.enter_the_end.description"
+    "criteria": {
+        "entered_end": {
+            "conditions": {
+                "to": "minecraft:the_end"
+            },
+            "trigger": "minecraft:changed_dimension"
+        }
     },
-    "frame": "goal",
-    "hidden": false,
-    "icon": {
-      "item": "minecraft:end_portal_frame"
+    "display": {
+        "description": {
+            "translate": "advancements.story.enter_the_end.description"
+        },
+        "frame": "goal",
+        "icon": {
+            "item": "minecraft:end_portal_frame"
+        },
+        "title": {
+            "translate": "advancements.story.enter_the_end.title"
+        }
     },
-    "show_toast": true,
-    "title": {
-      "translate": "advancements.story.enter_the_end.title"
-    }
-  },
-  "parent": "endrem:main/find_end_castle",
-  "requirements": [
-    [
-      "entered_end"
-    ]
-  ]
+    "parent": "minecraft:story/enter_the_nether"
 }

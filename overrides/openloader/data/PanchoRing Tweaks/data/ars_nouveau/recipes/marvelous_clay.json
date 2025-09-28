@@ -1,0 +1,23 @@
+{
+  "ingredients": [
+    {
+      "item": "ars_nouveau:magic_clay"
+    },
+    {
+      "item": "infernalexp:molten_gold_cluster"
+    },
+    {
+      "item": "infernalexp:molten_gold_cluster"
+    },
+    {
+      "item": "minecraft:lapis_lazuli"
+    },
+    {
+      "item": "minecraft:lapis_lazuli"
+    }
+  ],
+  "result": {
+    "item": "ars_nouveau:marvelous_clay"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

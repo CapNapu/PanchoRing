@@ -1,25 +1,30 @@
 {
   "attributes": [
     {
-      "attribute": "minecraft:generic.attack_damage",
       "amount": 3,
+      "attribute": "minecraft:generic.attack_damage",
       "operation": 0
     },
     {
-      "attribute": "minecraft:generic.attack_speed",
       "amount": -1.6,
+      "attribute": "minecraft:generic.attack_speed",
       "operation": 0
     },
     {
-      "attribute": "dungeons_libraries:soul_gathering",
       "amount": 1,
+      "attribute": "dungeons_libraries:soul_gathering",
       "operation": 0
     }
   ],
-  "material": "minecraft:iron",
-  "built_in_enchantments": [{"enchantment": "dungeons_gear:enigma_resonator", "level": 1}],
+  "built_in_enchantments": [
+    {
+      "enchantment": "dungeons_gear:anima_conduit",
+      "level": 1
+    }
+  ],
+  "combo": 6,
   "light": true,
-  "unique": true,
+  "material": "minecraft:iron",
   "rarity": "RARE",
-  "combo": 6
+  "unique": true
 }

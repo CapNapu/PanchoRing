@@ -1,21 +1,16 @@
 {
-  "criteria": {
-    "custom_test_name": {
-      "trigger": "minecraft:impossible"
-    }
-  },
-  "display": {
-    "announce_to_chat": false,
-    "background": "minecraft:textures/block/stone.png",
-    "description": {
-      "translate": "advancements.mowziesmobs.root.description"
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
     },
-    "icon": {
-      "item": "mowziesmobs:logo"
+    "display": {
+        "description": "",
+        "hidden": true,
+        "icon": {
+            "item": "minecraft:filled_map"
+        },
+        "title": ""
     },
-    "show_toast": false,
-    "title": {
-      "translate": "advancements.mowziesmobs.root.title"
-    }
-  }
+    "parent": "awesomedungeonocean:root"
 }

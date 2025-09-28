@@ -52,22 +52,19 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.panchoring.all_familiars.description"
     },
     "frame": "challenge",
-    "hidden": false,
     "icon": {
       "item": "ars_nouveau:dominion_wand"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.panchoring.all_familiars.title"
     }
   },
   "parent": "panchoring:ars_nouveau/summoning_crystal",
   "rewards": {
-    "experience": 200
+    "experience": 100
   }
 }

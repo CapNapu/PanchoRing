@@ -1,0 +1,14 @@
+{
+  "key": {
+    "0": {
+      "item": "projectvibrantjourneys:willow_slab"
+    }
+  },
+  "pattern": [
+    "00"
+  ],
+  "result": {
+    "item": "projectvibrantjourneys:willow_planks"
+  },
+  "type": "minecraft:crafting_shaped"
+}

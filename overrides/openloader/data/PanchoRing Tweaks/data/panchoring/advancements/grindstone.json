@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "cartography_table": {
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:grindstone"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.grindstone.description"
+    },
+    "icon": {
+      "item": "minecraft:grindstone"
+    },
+    "title": {
+      "translate": "advancements.panchoring.grindstone.title"
+    }
+  },
+  "parent": "minecraft:story/enchant_item"
+}

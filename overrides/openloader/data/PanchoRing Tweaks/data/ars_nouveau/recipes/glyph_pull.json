@@ -1,6 +1,6 @@
 {
-  "type": "ars_nouveau:glyph_recipe",
-  "tier": "ONE",
   "input": "alexsmobs:rattlesnake_rattle",
-  "output": "ars_nouveau:glyph_pull"
+  "output": "ars_nouveau:glyph_pull",
+  "tier": "ONE",
+  "type": "ars_nouveau:glyph_recipe"
 }

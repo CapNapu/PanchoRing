@@ -1,6 +1,6 @@
 {
-  "type": "ars_nouveau:glyph_recipe",
+  "input": "iceandfire:ectoplasm",
+  "output": "ars_nouveau:glyph_invisibility",
   "tier": "TWO",
-  "input": "infernalexp:blindsight_tongue",
-  "output": "ars_nouveau:glyph_invisibility"
+  "type": "ars_nouveau:glyph_recipe"
 }

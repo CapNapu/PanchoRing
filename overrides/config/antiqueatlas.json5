@@ -26,7 +26,7 @@
 	   Note that this will not force faraway chunks to load, unless force_chunk_loading is enabled.
 	   Lower value gives better performance.
 	*/
-	"scanRadius": 11,
+	"scanRadius": 8,
 	/* Force loading of chunks within scan radius even if it exceeds regular chunk loading distance.
 	   Enabling this may SEVERELY decrease performance!
 	*/
@@ -52,7 +52,7 @@
 	/* Whether to perform additional scanning to locate ravines.
 	   Disable for better performance.
 	*/
-	"doScanRavines": true,
+	"doScanRavines": false,
 	// If true, map render time will be output.
 	"debugRender": false,
 	/* The size (in GUI pixels) of a map's tile.

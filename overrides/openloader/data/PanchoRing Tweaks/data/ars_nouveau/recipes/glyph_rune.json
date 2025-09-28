@@ -1,6 +1,6 @@
 {
-  "type": "ars_nouveau:glyph_recipe",
+  "input": "alexsmobs:crocodile_scute",
+  "output": "ars_nouveau:glyph_rune",
   "tier": "ONE",
-  "input": "ars_nouveau:mana_bloom",
-  "output": "ars_nouveau:glyph_rune"
+  "type": "ars_nouveau:glyph_recipe"
 }

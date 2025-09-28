@@ -12,16 +12,13 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.panchoring.levitation_block.description"
     },
-    "frame": "task",
-    "hidden": false,
+    "frame": "goal",
     "icon": {
       "item": "bosses_of_mass_destruction:levitation_block"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.panchoring.levitation_block.title"
     }

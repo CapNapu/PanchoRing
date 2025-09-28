@@ -31,7 +31,7 @@
               "type": "minecraft:simple_block",
               "config": {
                 "to_place": {
-                  "Name": "minecraft:cyan_terracotta"
+                  "Name": "minecraft:white_terracotta"
                 },
                 "place_on": [
                   {

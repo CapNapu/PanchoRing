@@ -5,7 +5,7 @@
         "feature": {
           "config": {
             "state": {
-              "Name": "minecraft:white_concrete_powder"
+              "Name": "minecraft:gravel"
             },
             "radius": {
               "base": 2,

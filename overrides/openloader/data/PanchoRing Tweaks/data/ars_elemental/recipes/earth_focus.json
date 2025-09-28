@@ -1,5 +1,4 @@
 {
-  "type": "ars_nouveau:enchanting_apparatus",
   "item_1": [
     {
       "item": "minecraft:obsidian"
@@ -12,20 +11,21 @@
   ],
   "item_3": [
     {
-      "item": "ars_nouveau:green_archwood_sapling"
+      "item": "iceandfire:hydra_fang"
     }
   ],
   "item_4": [
     {
-      "item": "ars_nouveau:green_archwood_sapling"
+      "item": "iceandfire:hydra_fang"
     }
   ],
+  "output": {
+    "item": "ars_elemental:earth_focus"
+  },
   "reagent": [
     {
       "tag": "panchoring:elemental_foci_to_earth"
     }
   ],
-  "output": {
-    "item": "ars_elemental:earth_focus"
-  }
+  "type": "ars_nouveau:enchanting_apparatus"
 }

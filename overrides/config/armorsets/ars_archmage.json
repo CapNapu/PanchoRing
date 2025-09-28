@@ -1,5 +1,5 @@
 {
-  "armorSetName": "Ars Archmage",
+  "armorSetName": "Archmage Set",
   "performanceMode": true,
   "head": {
     "itemKey": "ars_nouveau:archmage_hood",
@@ -17,13 +17,24 @@
     "itemKey": "ars_nouveau:archmage_boots",
     "mustBeEmpty": false
   },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "effect",
+      "name": "ars_nouveau:mana_regen",
+      "value": 1.0,
+      "interactionType": "self",
+      "interactionDuration": 120,
+      "hideBonusDescription": true
+    }
+  ],
   "fullSetBonuses": [
     {
       "type": "effect",
       "name": "ars_nouveau:mana_regen",
-      "value": 2.0,
+      "value": 4.0,
       "interactionType": "self",
-      "interactionDuration": 200,
+      "interactionDuration": 120,
       "hideBonusDescription": true
     }
   ],

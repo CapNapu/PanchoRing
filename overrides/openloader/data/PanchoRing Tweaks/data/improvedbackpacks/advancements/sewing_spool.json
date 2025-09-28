@@ -1,27 +1,16 @@
 {
-  "criteria": {
-    "sewing_spool": {
-      "trigger": "minecraft:impossible"
-    }
-  },
-  "display": {
-    "announce_to_chat": false,
-    "description": {
-      "translate": "advancements.improvedbackpacks.sewing_spool.description"
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
     },
-    "hidden": true,
-    "icon": {
-      "item": "improvedbackpacks:sewing_spool"
+    "display": {
+        "description": "",
+        "hidden": true,
+        "icon": {
+            "item": "minecraft:filled_map"
+        },
+        "title": ""
     },
-    "show_toast": false,
-    "title": {
-      "translate": "advancements.improvedbackpacks.sewing_spool.title"
-    }
-  },
-  "parent": "improvedbackpacks:root",
-  "requirements": [
-    [
-      "sewing_spool"
-    ]
-  ]
+    "parent": "awesomedungeonocean:root"
 }

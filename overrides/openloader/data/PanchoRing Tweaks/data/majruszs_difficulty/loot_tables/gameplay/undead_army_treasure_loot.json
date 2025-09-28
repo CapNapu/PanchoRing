@@ -1,0 +1,39 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "majruszs_difficulty:bandage",
+          "type": "minecraft:item",
+          "weight": 20
+        },
+        {
+          "name": "dungeons_gear:arrow_bundle",
+          "type": "minecraft:item",
+          "weight": 5
+        },
+        {
+          "name": "majruszs_difficulty:hermes_boots",
+          "type": "minecraft:item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly"
+            }
+          ],
+          "name": "minecraft:book",
+          "type": "minecraft:item",
+          "weight": 5
+        }
+      ],
+      "rolls": {
+        "max": 12.0,
+        "min": 6.0,
+        "type": "minecraft:uniform"
+      }
+    }
+  ],
+  "type": "minecraft:gift"
+}

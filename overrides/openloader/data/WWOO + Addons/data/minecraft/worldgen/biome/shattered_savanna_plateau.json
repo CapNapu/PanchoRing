@@ -26,6 +26,7 @@
     "liquid": []
   },
   "starts": [
+    "minecraft:stronghold",
     "minecraft:ruined_portal_nether"
   ],
   "features": [
@@ -65,8 +66,6 @@
     [
       "minecraft:patch_dead_bush_badlands",
       "wythers:generic/patch_grass_dense",
-      "wythers:savanna/shattered_plateau_campfire_lava_tall",
-      "wythers:savanna/shattered_plateau_campfire_lava_short",
       "wythers:volcanic/basalt_spikes",
       "wythers:volcanic/basalt_spikes_tall"
     ],
@@ -77,10 +76,6 @@
       "minecraft:spring_lava_double",
       "minecraft:spring_closed_double"
     ]
-  ],
-  "starts": [
-    "minecraft:stronghold",
-    "minecraft:ruined_portal_nether"
   ],
   "spawners": {
     "monster": [

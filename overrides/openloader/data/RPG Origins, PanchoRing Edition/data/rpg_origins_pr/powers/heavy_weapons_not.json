@@ -6,7 +6,7 @@
         "operation": "multiply_base",
         "value": -0.2
     },
-    "tick_rate": 10,
+    "tick_rate": 5,
     "condition": {
         "type": "origins:equipped_item",
         "equipment_slot": "mainhand",

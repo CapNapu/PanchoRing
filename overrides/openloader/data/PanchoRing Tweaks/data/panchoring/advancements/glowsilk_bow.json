@@ -12,16 +12,13 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.panchoring.glowsilk_bow.description"
     },
     "frame": "goal",
-    "hidden": false,
     "icon": {
       "item": "infernalexp:glowsilk_bow"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.panchoring.glowsilk_bow.title"
     }

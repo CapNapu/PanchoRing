@@ -1,0 +1,234 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 2,
+                "min": 1
+              },
+              "function": "set_count"
+            },
+            {
+              "function": "enchant_with_levels",
+              "levels": {
+                "max": 18,
+                "min": 14
+              },
+              "treasure": true
+            }
+          ],
+          "name": "minecraft:book",
+          "type": "minecraft:item",
+          "weight": 6
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 1,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "minecraft:golden_apple",
+          "type": "minecraft:item",
+          "weight": 5
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 1,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "minecraft:enchanted_golden_apple",
+          "type": "minecraft:item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 1,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "minecraft:flower_banner_pattern",
+          "type": "minecraft:item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 1,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "minecraft:golden_horse_armor",
+          "type": "minecraft:item",
+          "weight": 1
+        }
+      ],
+      "rolls": {
+        "max": 4,
+        "min": 3
+      }
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 10,
+                "min": 5
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "minecraft:gold_nugget",
+          "type": "minecraft:item",
+          "weight": 7
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 4,
+                "min": 3
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "minecraft:spider_eye",
+          "type": "minecraft:item",
+          "weight": 5
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3,
+                "min": 2
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "minecraft:gold_ingot",
+          "type": "minecraft:item",
+          "weight": 6
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 2,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "minecraft:iron_ingot",
+          "type": "minecraft:item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 4,
+                "min": 3
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "minecraft:emerald",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6,
+                "min": 4
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "minecraft:redstone",
+          "type": "minecraft:item",
+          "weight": 4
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3,
+                "min": 2
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "minecraft:glistering_melon_slice",
+          "type": "minecraft:item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3,
+                "min": 2
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "minecraft:golden_carrot",
+          "type": "minecraft:item",
+          "weight": 2
+        }
+      ],
+      "rolls": {
+        "max": 8,
+        "min": 5
+      }
+    },
+    {
+      "bonus_rolls": 1,
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 1,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "minecraft:iron_sword",
+          "type": "minecraft:item",
+          "weight": 1
+        }
+      ],
+      "rolls": {
+        "max": 2,
+        "min": 1
+      }
+    }
+  ],
+  "type": "minecraft:chest"
+}

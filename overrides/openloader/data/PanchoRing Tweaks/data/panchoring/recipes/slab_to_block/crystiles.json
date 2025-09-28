@@ -1,0 +1,14 @@
+{
+  "key": {
+    "0": {
+      "item": "phantasm:crystiles_slab"
+    }
+  },
+  "pattern": [
+    "00"
+  ],
+  "result": {
+    "item": "phantasm:crystiles"
+  },
+  "type": "minecraft:crafting_shaped"
+}

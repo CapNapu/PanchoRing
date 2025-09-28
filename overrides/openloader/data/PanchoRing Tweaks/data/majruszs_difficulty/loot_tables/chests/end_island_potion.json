@@ -1,0 +1,83 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Potion:\"minecraft:slowness\"}"
+            }
+          ],
+          "name": "minecraft:lingering_potion",
+          "type": "minecraft:item"
+        },
+        {
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Potion:\"minecraft:strength\"}"
+            }
+          ],
+          "name": "minecraft:lingering_potion",
+          "type": "minecraft:item"
+        },
+        {
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Potion:\"minecraft:regeneration\"}"
+            }
+          ],
+          "name": "minecraft:lingering_potion",
+          "type": "minecraft:item"
+        },
+        {
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Potion:\"minecraft:harming\"}"
+            }
+          ],
+          "name": "minecraft:lingering_potion",
+          "type": "minecraft:item"
+        },
+        {
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Potion:\"minecraft:slow_falling\"}"
+            }
+          ],
+          "name": "minecraft:lingering_potion",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": {
+        "max": 8.0,
+        "min": 3.0,
+        "type": "minecraft:uniform"
+      }
+    },
+    {
+      "entries": [
+        {
+          "name": "minecraft:glass_bottle",
+          "type": "minecraft:item",
+          "weight": 4
+        },
+        {
+          "name": "minecraft:blaze_powder",
+          "type": "minecraft:item",
+          "weight": 1
+        }
+      ],
+      "rolls": {
+        "max": 8.0,
+        "min": 4.0,
+        "type": "minecraft:uniform"
+      }
+    }
+  ],
+  "type": "minecraft:chest"
+}

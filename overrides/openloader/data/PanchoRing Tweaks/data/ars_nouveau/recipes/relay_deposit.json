@@ -1,0 +1,51 @@
+{
+  "item_1": [
+    {
+      "item": "minecraft:lapis_lazuli"
+    }
+  ],
+  "item_2": [
+    {
+      "item": "minecraft:lapis_lazuli"
+    }
+  ],
+  "item_3": [
+    {
+      "item": "minecraft:lapis_lazuli"
+    }
+  ],
+  "item_4": [
+    {
+      "item": "minecraft:lapis_lazuli"
+    }
+  ],
+  "item_5": [
+    {
+      "item": "infernalexp:soul_salt_clump"
+    }
+  ],
+  "item_6": [
+    {
+      "item": "infernalexp:soul_salt_clump"
+    }
+  ],
+  "item_7": [
+    {
+      "item": "infernalexp:soul_salt_clump"
+    }
+  ],
+  "item_8": [
+    {
+      "item": "infernalexp:soul_salt_clump"
+    }
+  ],
+  "output": {
+    "item": "ars_nouveau:relay_deposit"
+  },
+  "reagent": [
+    {
+      "item": "ars_nouveau:arcane_relay"
+    }
+  ],
+  "type": "ars_nouveau:enchanting_apparatus"
+}

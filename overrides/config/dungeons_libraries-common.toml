@@ -6,7 +6,7 @@
 	enableAreaOfEffectOnOtherPlayers = true
 	#Add entities that will never be targeted by aggressive Dungeons effects. 
 	#To do so, enter their registry names.
-	effectTargetBlacklist = ["minecraft:ender_dragon", "minecraft:wither", "cataclysm:ignis", "cataclysm:netherite_monstrosity", "cataclysm:ender_guardian", "alexsmobs:void_worm", "ars_nouveau:wilden_boss", "mowziesmobs:barako", "mowziesmobs:ferrous_wroughtnaut", "mowziesmobs:frostmaw", "bosses_of_mass_destruction:lich", "bosses_of_mass_destruction:gaunlet", "bosses_of_mass_destruction:obsidilith", "bosses_of_mass_destruction:void_blossom"]
+	effectTargetBlacklist = ["minecraft:ender_dragon", "minecraft:wither", "alexsmobs:void_worm", "ars_nouveau:wilden_boss", "bosses_of_mass_destruction:gaunlet", "bosses_of_mass_destruction:lich", "bosses_of_mass_destruction:obsidilith", "bosses_of_mass_destruction:void_blossom", "cataclysm:ender_guardian", "cataclysm:ignis", "cataclysm:netherite_monstrosity", "mowziesmobs:barako", "mowziesmobs:ferrous_wroughtnaut", "mowziesmobs:frostmaw"]
 	#Enable two handed weapon. 
 	#If you do not want two handed weapon, disable this feature. [true / false]
 	enableTwoHandedWeapon = false
@@ -34,7 +34,7 @@
 	#Calculation: chance * difficulty.getSpecialMultiplier() 
 	#Base chance for vanilla armor spawning is 0.15. Default is 0.15
 	#Range: 0.0 ~ 1.0
-	eliteMobsBaseChance = 0.25
+	eliteMobsBaseChance = 0.0
 	#Enables elite mobs, enabled by default. [true / false]
-	enableEliteMobs = true
+	enableEliteMobs = false
 

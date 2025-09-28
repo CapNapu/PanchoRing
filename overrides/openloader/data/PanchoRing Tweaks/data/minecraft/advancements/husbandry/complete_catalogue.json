@@ -156,57 +156,19 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.husbandry.complete_catalogue.description"
     },
     "frame": "challenge",
-    "hidden": false,
     "icon": {
       "item": "minecraft:cod"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.husbandry.complete_catalogue.title"
     }
   },
-  "parent": "morevillagers:tame_cat",
-  "requirements": [
-    [
-      "Black"
-    ],
-    [
-      "British Shorthair"
-    ],
-    [
-      "Calico"
-    ],
-    [
-      "Jellie"
-    ],
-    [
-      "Orange"
-    ],
-    [
-      "Persian"
-    ],
-    [
-      "Ragdoll"
-    ],
-    [
-      "Siamese"
-    ],
-    [
-      "Tabby"
-    ],
-    [
-      "Tuxedo"
-    ],
-    [
-      "White"
-    ]
-  ],
+  "parent": "minecraft:husbandry/tame_an_animal",
   "rewards": {
-    "experience": 50
+    "experience": 100
   }
 }

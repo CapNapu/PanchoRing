@@ -5,7 +5,7 @@
 	healingRadius = 2
 	#The level of regeneration which the campfire applies, by default 1.
 	#Range: 1 ~ 50
-	regenerationLevel = 2
+	regenerationLevel = 1
 	#When enabled, hides the particles from the regeneration effect around the campfire.
 	hideEffectParticles = false
 	#When enabled, the mod will work with soul campfires.

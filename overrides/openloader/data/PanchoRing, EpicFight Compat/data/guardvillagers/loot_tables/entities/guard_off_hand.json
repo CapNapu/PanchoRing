@@ -24,21 +24,21 @@
           ],
           "name": "minecraft:bread",
           "type": "minecraft:item",
-          "weight": 40
+          "weight": 30
         },
         {
           "functions": [
             {
               "count": {
-                "max": 6,
-                "min": 4
+                "max": 4,
+                "min": 2
               },
               "function": "minecraft:set_count"
             }
           ],
           "name": "minecraft:baked_potato",
           "type": "minecraft:item",
-          "weight": 20
+          "weight": 30
         }
       ],
       "rolls": 1

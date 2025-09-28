@@ -12,18 +12,15 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
-      "translate": "advancements.panchoring.ars.wand.description"
+      "translate": "advancements.panchoring.wand.description"
     },
     "frame": "goal",
-    "hidden": false,
     "icon": {
       "item": "ars_nouveau:wand"
     },
-    "show_toast": true,
     "title": {
-      "translate": "advancements.panchoring.ars.wand.title"
+      "translate": "advancements.panchoring.wand.title"
     }
   },
   "parent": "panchoring:ars_nouveau/scribes_table"

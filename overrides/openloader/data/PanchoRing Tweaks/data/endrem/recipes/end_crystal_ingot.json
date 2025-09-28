@@ -7,25 +7,13 @@
       "item": "endrem:end_crystal_fragment"
     },
     {
-      "item": "endrem:end_crystal_fragment"
+      "item": "iceandfire:silver_ingot"
     },
     {
-      "item": "endrem:end_crystal_fragment"
+      "item": "iceandfire:silver_ingot"
     },
     {
       "item": "minecraft:ghast_tear"
-    },
-    {
-      "tag": "forge:ingots/silver"
-    },
-    {
-      "tag": "forge:ingots/silver"
-    },
-    {
-      "tag": "forge:ingots/silver"
-    },
-    {
-      "tag": "forge:ingots/silver"
     }
   ],
   "result": {

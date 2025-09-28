@@ -13,6 +13,7 @@
     "description": {
       "translate": "advancements.panchoring.kill_ignited_revenant.description"
     },
+    "frame": "goal",
     "icon": {
       "item": "cataclysm:burning_ashes"
     },
@@ -20,10 +21,5 @@
       "translate": "advancements.panchoring.kill_ignited_revenant.title"
     }
   },
-  "parent": "panchoring:find_burning_arena",
-  "requirements": [
-    [
-      "kill_revenant"
-    ]
-  ]
+  "parent": "panchoring:find_burning_arena"
 }

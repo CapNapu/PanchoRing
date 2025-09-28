@@ -1,0 +1,9 @@
+{
+	"attributes": {
+		"common": {
+			"damage_bonus": 1,
+			"impact": 1.2
+		}
+	},
+	"type": "shovel"
+}

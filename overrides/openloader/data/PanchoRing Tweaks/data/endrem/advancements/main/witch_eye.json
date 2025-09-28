@@ -12,24 +12,16 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.main.witch_eye.description"
     },
     "frame": "goal",
-    "hidden": false,
     "icon": {
       "item": "endrem:witch_eye"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.main.witch_eye.title"
     }
   },
-  "parent": "endrem:main/corrupted_eye",
-  "requirements": [
-    [
-      "witch_eye"
-    ]
-  ]
+  "parent": "endrem:main/corrupted_eye"
 }

@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "key": {
+    "g": {
+      "item": "minecraft:gold_ingot"
+    },
+    "i": {
+      "item": "alexsmobs:bone_serpent_tooth"
+    },
+    "s": {
+      "item": "ars_nouveau:mana_gem"
+    }
+  },
   "pattern": [
     " s ",
     "gig",
     " s "
   ],
-  "key": {
-    "g": {
-      "tag": "forge:ingots/gold"
-    },
-    "s": {
-      "tag": "forge:gems/mana"
-    },
-    "i": {
-      "item": "alexsmobs:lava_bottle"
-    }
-  },
   "result": {
     "item": "ars_nouveau:volcanic_accumulator"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

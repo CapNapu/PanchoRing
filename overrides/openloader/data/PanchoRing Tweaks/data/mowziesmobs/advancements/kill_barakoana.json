@@ -1,23 +1,16 @@
 {
-  "criteria": {
-    "barakoana": {
-      "trigger": "minecraft:impossible"
-    }
-  },
-  "display": {
-    "announce_to_chat": false,
-    "description": {
-      "translate": "advancements.mowziesmobs.kill_barakoana.description"
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
     },
-    "frame": "task",
-    "hidden": true,
-    "icon": {
-      "item": "mowziesmobs:barakoa_mask_fury"
+    "display": {
+        "description": "",
+        "hidden": true,
+        "icon": {
+            "item": "minecraft:filled_map"
+        },
+        "title": ""
     },
-    "show_toast": false,
-    "title": {
-      "translate": "advancements.mowziesmobs.kill_barakoana.title"
-    }
-  },
-  "parent": "mowziesmobs:root"
+    "parent": "awesomedungeonocean:root"
 }

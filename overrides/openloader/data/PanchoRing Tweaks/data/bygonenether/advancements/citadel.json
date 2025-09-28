@@ -1,28 +1,16 @@
 {
-  "criteria": {
-    "in_citadel": {
-      "trigger": "minecraft:impossible"
-    }
-  },
-  "display": {
-    "announce_to_chat": false,
-    "description": {
-      "translate": "advancements.bygonenether.citadel.description"
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
     },
-    "frame": "task",
-    "hidden": true,
-    "icon": {
-      "item": "bygonenether:chiseled_warped_nether_bricks"
+    "display": {
+        "description": "",
+        "hidden": true,
+        "icon": {
+            "item": "minecraft:filled_map"
+        },
+        "title": ""
     },
-    "show_toast": false,
-    "title": {
-      "translate": "advancements.bygonenether.citadel.title"
-    }
-  },
-  "parent": "bygonenether:explore_structures",
-  "requirements": [
-    [
-      "in_citadel"
-    ]
-  ]
+    "parent": "awesomedungeonocean:root"
 }

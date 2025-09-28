@@ -12,24 +12,15 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.improvedbackpacks.backpack.description"
     },
-    "frame": "goal",
-    "hidden": false,
     "icon": {
       "item": "improvedbackpacks:orange_backpack"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.improvedbackpacks.backpack.title"
     }
   },
-  "parent": "improvedbackpacks:sewing_table",
-  "requirements": [
-    [
-      "backpack"
-    ]
-  ]
+  "parent": "improvedbackpacks:sewing_table"
 }

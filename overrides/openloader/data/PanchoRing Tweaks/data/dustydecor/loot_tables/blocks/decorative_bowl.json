@@ -1,14 +1,10 @@
 {
-  "type": "minecraft:block",
   "pools": [
     {
-      "rolls": 1,
       "entries": [
         {
-          "type": "minecraft:alternatives",
           "children": [
             {
-              "type": "minecraft:item",
               "conditions": [
                 {
                   "condition": "minecraft:match_tool",
@@ -24,24 +20,28 @@
                   }
                 }
               ],
-              "name": "dustydecor:decorative_bowl"
+              "name": "dustydecor:decorative_bowl",
+              "type": "minecraft:item"
             },
             {
-              "type": "minecraft:item",
               "functions": [
                 {
-                  "function": "minecraft:set_count",
-                  "count": 1
+                  "count": 1,
+                  "function": "minecraft:set_count"
                 },
                 {
                   "function": "minecraft:explosion_decay"
                 }
               ],
-              "name": "minecraft:bowl"
+              "name": "minecraft:bowl",
+              "type": "minecraft:item"
             }
-          ]
+          ],
+          "type": "minecraft:alternatives"
         }
-      ]
+      ],
+      "rolls": 1
     }
-  ]
+  ],
+  "type": "minecraft:block"
 }

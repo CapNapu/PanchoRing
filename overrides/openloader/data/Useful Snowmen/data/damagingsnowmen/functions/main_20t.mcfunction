@@ -15,9 +15,9 @@ execute at @e[type=item,nbt={Item:{id:"minecraft:carved_pumpkin"}}] as @e[type=s
 ##############################
 
 # get item count of stone button
-execute as @e[type=item,nbt={Item:{id:"minecraft:stone_button"}}] store result score @s cc.sg.counter run data get entity @s Item.Count
+execute as @e[type=item,nbt={Item:{id:"minecraft:flint"}}] store result score @s cc.sg.counter run data get entity @s Item.Count
 # stone button exists, now test for snow around
-execute as @e[type=item,nbt={Item:{id:"minecraft:stone_button"}},scores={cc.sg.counter=2..}] at @s run function damagingsnowmen:buttontest_20t
+execute as @e[type=item,nbt={Item:{id:"minecraft:flint"}},scores={cc.sg.counter=2..}] at @s run function damagingsnowmen:buttontest_20t
 
 ##############################
 

@@ -1,18 +1,18 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "minecraft:string"
+    }
+  },
   "pattern": [
     "AB",
     "AB"
   ],
-  "key": {
-    "A": {
-      "tag": "forge:rods/wooden"
-    },
-    "B": {
-      "tag": "forge:string"
-    }
-  },
   "result": {
     "item": "dungeons_gear:shortbow"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

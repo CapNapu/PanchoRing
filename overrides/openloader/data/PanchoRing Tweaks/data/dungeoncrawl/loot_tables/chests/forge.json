@@ -1,0 +1,142 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 8,
+                "min": 4
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "minecraft:coal",
+          "type": "minecraft:item"
+        }
+      ],
+      "name": "guaranteed_coal",
+      "rolls": {
+        "max": 2,
+        "min": 1
+      }
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 8,
+                "min": 4
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "minecraft:iron_ingot",
+          "type": "minecraft:item"
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 5
+            }
+          ],
+          "name": "dungeons_gear:sword",
+          "type": "minecraft:item"
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 5
+            }
+          ],
+          "name": "dungeons_gear:axe",
+          "type": "minecraft:item"
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 5
+            }
+          ],
+          "name": "dungeons_gear:pickaxe",
+          "type": "minecraft:item"
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 5
+            }
+          ],
+          "name": "dungeons_gear:mace",
+          "type": "minecraft:item"
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 5
+            }
+          ],
+          "name": "dungeons_gear:sickle",
+          "type": "minecraft:item"
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 5
+            }
+          ],
+          "name": "dungeons_gear:double_axe",
+          "type": "minecraft:item"
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 5
+            }
+          ],
+          "name": "dungeons_gear:katana",
+          "type": "minecraft:item"
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 5
+            }
+          ],
+          "name": "dungeons_gear:cutlass",
+          "type": "minecraft:item"
+        },
+        {
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 5
+            }
+          ],
+          "name": "dungeons_gear:claymore",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "minecraft:iron_block",
+          "type": "minecraft:item"
+        }
+      ],
+      "name": "forge",
+      "rolls": {
+        "max": 4,
+        "min": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": {
+    "0": {
+      "item": "bygonenether:warped_nether_brick_slab"
+    }
+  },
+  "pattern": [
+    "00"
+  ],
+  "result": {
+    "item": "bygonenether:warped_nether_bricks"
+  },
+  "type": "minecraft:crafting_shaped"
+}

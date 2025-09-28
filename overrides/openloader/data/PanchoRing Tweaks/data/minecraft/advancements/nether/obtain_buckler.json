@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "buckler": {
+      "conditions": {
+        "items": [
+          {
+            "item": "bigbrain:buckler"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "bigbrain.advancements.nether.obtain_buckler.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "bigbrain:buckler"
+    },
+    "title": {
+      "translate": "bigbrain.advancements.nether.obtain_buckler.title"
+    }
+  },
+  "parent": "minecraft:nether/find_bastion"
+}

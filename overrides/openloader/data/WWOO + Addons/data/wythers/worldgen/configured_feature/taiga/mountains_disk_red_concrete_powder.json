@@ -29,7 +29,7 @@
           "type": "minecraft:disk",
           "config": {
             "state": {
-              "Name": "minecraft:red_concrete_powder"
+              "Name": "supplementaries:daub"
             },
             "radius": {
               "base": 4,

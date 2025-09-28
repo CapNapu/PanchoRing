@@ -29,7 +29,7 @@
           "type": "minecraft:ore",
           "config": {
             "state": {
-              "Name": "minecraft:basalt",
+              "Name": "infernalexp:basalt_iron_ore",
               "Properties": {
                 "axis": "y"
               }

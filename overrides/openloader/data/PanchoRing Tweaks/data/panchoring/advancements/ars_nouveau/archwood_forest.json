@@ -3,25 +3,27 @@
     "archwood_forest": {
       "conditions": {
         "location": {
-          "biome": "ars_nouveau:archwood_forest"
+          "biome": "ars_nouveau:archwood_forest",
+          "position": {
+            "y": {
+              "max": 256,
+              "min": 64
+            }
+          }
         }
       },
       "trigger": "minecraft:location"
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
-      "translate": "advancements.panchoring.ars.archwood_forest.description"
+      "translate": "advancements.panchoring.archwood_forest.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
       "item": "ars_nouveau:purple_archwood_sapling"
     },
-    "show_toast": true,
     "title": {
-      "translate": "advancements.panchoring.ars.archwood_forest.title"
+      "translate": "advancements.panchoring.archwood_forest.title"
     }
   },
   "parent": "panchoring:ars_nouveau/root"

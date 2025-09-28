@@ -1,28 +1,16 @@
 {
-  "criteria": {
-    "entered_large_dungeon": {
-      "trigger": "minecraft:impossible"
-    }
-  },
-  "display": {
-    "announce_to_chat": false,
-    "description": {
-      "translate": "advancements.dungeons_enhanced.thats_a_dungeon.desc"
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
     },
-    "frame": "task",
-    "hidden": true,
-    "icon": {
-      "item": "minecraft:skeleton_skull"
+    "display": {
+        "description": "",
+        "hidden": true,
+        "icon": {
+            "item": "minecraft:filled_map"
+        },
+        "title": ""
     },
-    "show_toast": false,
-    "title": {
-      "translate": "advancements.dungeons_enhanced.thats_a_dungeon"
-    }
-  },
-  "parent": "dungeons_enhanced:root",
-  "requirements": [
-    [
-      "entered_large_dungeon"
-    ]
-  ]
+    "parent": "awesomedungeonocean:root"
 }

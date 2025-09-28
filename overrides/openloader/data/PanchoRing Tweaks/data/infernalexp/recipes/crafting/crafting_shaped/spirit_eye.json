@@ -8,9 +8,9 @@
     }
   },
   "pattern": [
-    "BBB",
+    " B ",
     "BWB",
-    "BBB"
+    " B "
   ],
   "result": {
     "item": "infernalexp:spirit_eye"

@@ -1,28 +1,16 @@
 {
-  "criteria": {
-    "killed_creeperling": {
-      "trigger": "minecraft:impossible"
-    }
-  },
-  "display": {
-    "announce_to_chat": false,
-    "description": {
-      "translate": "advancements.progressive_difficulty.kill_a_creeperling.description"
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
     },
-    "frame": "task",
-    "hidden": true,
-    "icon": {
-      "item": "minecraft:creeper_head"
+    "display": {
+        "description": "",
+        "hidden": true,
+        "icon": {
+            "item": "minecraft:filled_map"
+        },
+        "title": ""
     },
-    "show_toast": false,
-    "title": {
-      "translate": "advancements.progressive_difficulty.kill_a_creeperling.title"
-    }
-  },
-  "parent": "panchoring:mob_ward",
-  "requirements": [
-    [
-      "killed_creeperling"
-    ]
-  ]
+    "parent": "awesomedungeonocean:root"
 }

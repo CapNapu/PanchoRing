@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "flag": "hourglass",
+      "type": "supplementaries:flag"
+    }
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:glass"
+    },
+    "1": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "pattern": [
+    "010",
+    " 0 ",
+    "010"
+  ],
+  "result": {
+    "item": "supplementaries:hourglass"
+  },
+  "type": "minecraft:crafting_shaped"
+}

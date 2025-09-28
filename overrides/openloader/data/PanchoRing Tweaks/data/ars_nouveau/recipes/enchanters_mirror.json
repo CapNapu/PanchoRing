@@ -1,51 +1,51 @@
 {
-  "type": "ars_nouveau:enchanting_apparatus",
   "item_1": [
     {
-      "tag": "forge:glass"
+      "item": "ars_nouveau:mana_gem"
     }
   ],
   "item_2": [
     {
-      "tag": "forge:glass"
+      "item": "ars_nouveau:mana_gem"
     }
   ],
   "item_3": [
     {
-      "item": "ars_nouveau:glyph_self"
+      "item": "ars_nouveau:mana_gem"
     }
   ],
   "item_4": [
     {
-      "item": "ars_nouveau:glyph_self"
+      "item": "ars_nouveau:mana_gem"
     }
   ],
   "item_5": [
     {
-      "tag": "forge:gems/mana"
+      "item": "minecraft:gold_ingot"
     }
   ],
   "item_6": [
     {
-      "tag": "forge:gems/mana"
+      "item": "minecraft:gold_ingot"
     }
   ],
   "item_7": [
     {
-      "tag": "forge:ingots/gold"
+      "item": "minecraft:gold_ingot"
     }
   ],
   "item_8": [
     {
-      "tag": "forge:ingots/gold"
-    }
-  ],
-  "reagent": [
-    {
-      "tag": "forge:logs/archwood"
+      "item": "minecraft:gold_ingot"
     }
   ],
   "output": {
     "item": "ars_nouveau:enchanters_mirror"
-  }
+  },
+  "reagent": [
+    {
+      "item": "supplementaries:wrench"
+    }
+  ],
+  "type": "ars_nouveau:enchanting_apparatus"
 }

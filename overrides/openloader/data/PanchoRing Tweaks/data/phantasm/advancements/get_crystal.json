@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "get_crystal": {
+      "conditions": {
+        "items": [
+          {
+            "item": "phantasm:crystal_spike_tip"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.get_crystal.descr"
+    },
+    "icon": {
+      "item": "phantasm:crystal_spike_tip"
+    },
+    "title": {
+      "translate": "advancements.get_crystal.title"
+    }
+  },
+  "parent": "phantasm:enter_dreaming_den"
+}

@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "copper_ingot": {
+      "conditions": {
+        "items": [
+          {
+            "item": "iceandfire:copper_ingot"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.copper_ingot.description"
+    },
+    "icon": {
+      "item": "iceandfire:copper_ingot"
+    },
+    "title": {
+      "translate": "advancements.panchoring.copper_ingot.title"
+    }
+  },
+  "parent": "minecraft:story/mine_stone"
+}

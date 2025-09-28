@@ -1,0 +1,14 @@
+{
+  "key": {
+    "0": {
+      "item": "minecraft:dark_prismarine_slab"
+    }
+  },
+  "pattern": [
+    "00"
+  ],
+  "result": {
+    "item": "minecraft:dark_prismarine"
+  },
+  "type": "minecraft:crafting_shaped"
+}

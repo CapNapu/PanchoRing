@@ -1,0 +1,22 @@
+{
+  "key": {
+    "g": {
+      "item": "minecraft:gold_ingot"
+    },
+    "i": {
+      "item": "minecraft:glistering_melon_slice"
+    },
+    "s": {
+      "item": "ars_nouveau:mana_gem"
+    }
+  },
+  "pattern": [
+    " s ",
+    "gig",
+    " s "
+  ],
+  "result": {
+    "item": "ars_nouveau:mana_condenser"
+  },
+  "type": "minecraft:crafting_shaped"
+}

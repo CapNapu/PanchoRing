@@ -20,10 +20,5 @@
       "translate": "advancements.panchoring.find_gauntlet_arena.title"
     }
   },
-  "parent": "minecraft:nether/root",
-  "requirements": [
-    [
-      "gauntlet_arena"
-    ]
-  ]
+  "parent": "minecraft:nether/root"
 }

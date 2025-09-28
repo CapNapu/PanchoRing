@@ -13,7 +13,6 @@
     "minecraft:cooked_salmon",
     "minecraft:cookie",
     "minecraft:dried_kelp",
-    "minecraft:enchanted_golden_apple",
     "minecraft:golden_apple",
     "minecraft:golden_carrot",
     "minecraft:honey_bottle",
@@ -37,9 +36,12 @@
     "iceandfire:cannoli",
     "infernalexp:blindsight_tongue_stew",
     "infernalexp:cooked_hogchop",
+    "infernalexp:cured_jerky",
+    "infernalexp:spirit_eye",
+    "projectvibrantjourneys:clam_chowder",
     "projectvibrantjourneys:coconut_milk",
     "projectvibrantjourneys:cooked_clam",
-    "projectvibrantjourneys:clam_chowder",
-    "supplementaries:candy"
+    "supplementaries:candy",
+    "supplementaries:pancake"
   ]
 }

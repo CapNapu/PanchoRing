@@ -2,11 +2,11 @@
     "type": "origins:modify_projectile_damage",
     "modifier": {
         "operation": "multiply_base",
-        "value": 0.75
+        "value": 0.5
     },
     "damage_condition": {
-        "type": "origins:projectile",
-        "projectile": "minecraft:arrow"
+        "inverted": true,
+        "type": "origins:name",
+        "name": "explosion.player"
     }
 }
-

@@ -13,7 +13,7 @@
 	"How long should the buckler's charge move if you have the turning enchant be in ticks?" = 30
 	"Have the explosion spawned while using the Bang! enchant destroy blocks?" = false
 	#Range: > -2147483648
-	"How long should the buckler's cooldown be in ticks?" = 240
+	"How long should the buckler's cooldown be in ticks?" = 200
 	#Range: > -2147483648
 	"How long should the buckler's charge move be in ticks?" = 15
 	"Have brutes spawn with bucklers?" = true
@@ -24,12 +24,12 @@
 
 [animals]
 	#Any mob id in this list will not attempt to find an area to stay in while it's night.
-	"Animal Night BlackList" = ["minecraft:cat"]
+	"Animal Night BlackList" = []
 	#Any mob id in this list will not attempt to find an area to stay in while it's raining.
 	"Animal Raining BlackList" = []
 	"Animals seek shelter?" = false
 	#Any mob id in this list will not attempt to find an area to stay in while it's raining or at night.
-	"Animal BlackList" = ["minecraft:fox", "minecraft:wolf", "minecraft:turtle"]
+	"Animal BlackList" = []
 
 	[animals.pigs]
 		#Range: > -2147483648

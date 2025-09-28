@@ -1,0 +1,26 @@
+{
+	"attributes": {
+		"armor_negation": 0,
+		"impact": 1.0,
+		"max_strikes": 1
+	},
+	"combat_behavior": [],
+	"default_livingmotions": {
+		"chase": "epicfight:biped/living/walk",
+		"death": "epicfight:biped/living/death",
+		"fall": "epicfight:biped/living/fall",
+		"idle": "epicfight:biped/living/idle",
+		"mount": "epicfight:biped/living/mount",
+		"walk": "epicfight:biped/living/walk"
+	},
+	"faction": "neutral",
+	"isHumanoid": true,
+	"model": "epicfight:entity/biped",
+	"renderer": "zombie",
+	"stun_animations": {
+		"fall": "epicfight:biped/living/landing",
+		"knockdown": "epicfight:biped/combat/knockdown",
+		"long": "epicfight:biped/combat/hit_long",
+		"short": "epicfight:biped/combat/hit_short"
+	}
+}

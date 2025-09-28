@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "orb_of_origin": {
+      "conditions": {
+        "items": [
+          {
+            "item": "origins:orb_of_origin"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.orb_of_origin.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "origins:orb_of_origin"
+    },
+    "title": {
+      "translate": "advancements.panchoring.orb_of_origin.title"
+    }
+  },
+  "parent": "panchoring:stellium_nugget"
+}

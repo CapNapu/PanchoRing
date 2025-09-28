@@ -1,0 +1,17 @@
+{
+  "integrated_loot_tables": {
+    "dungeons_enhanced:chests/castle/armory": 6,
+    "dungeons_enhanced:chests/castle/quarters": 6,
+    "dungeons_enhanced:chests/hay_storage": 6,
+    "dungeons_enhanced:chests/miners_house": 6,
+    "dungeons_enhanced:chests/mushroom_house": 6,
+    "dungeons_enhanced:chests/ruined_building": 6,
+    "dungeons_enhanced:chests/ruined/house": 6,
+    "dungeons_enhanced:chests/tree_house/kitchen": 6,
+    "dungeons_enhanced:chests/tree_house/roof": 6,
+    "dungeons_enhanced:chests/watch_tower": 3,
+    "dungeons_enhanced:chests/witch_tower": 6
+  },
+  "loot_table": "minecraft:chests/village/village_plains_house",
+  "max_result_itemcount": 15
+}

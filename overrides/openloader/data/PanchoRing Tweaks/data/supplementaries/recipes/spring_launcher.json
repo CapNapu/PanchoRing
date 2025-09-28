@@ -16,7 +16,7 @@
       "item": "minecraft:piston"
     },
     "3": {
-      "tag": "forge:ingots/copper"
+      "item": "iceandfire:copper_ingot"
     }
   },
   "pattern": [
@@ -25,7 +25,6 @@
     "030"
   ],
   "result": {
-    "count": 1,
     "item": "supplementaries:spring_launcher"
   },
   "type": "minecraft:crafting_shaped"

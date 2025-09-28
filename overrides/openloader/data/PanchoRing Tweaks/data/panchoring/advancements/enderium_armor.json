@@ -21,28 +21,16 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.panchoring.enderium_armor.description"
     },
-    "frame": "challenge",
-    "hidden": false,
+    "frame": "goal",
     "icon": {
-      "item": "majruszs_difficulty:end_chestplate",
-      "nbt": "{Damage:0}"
+      "item": "majruszs_difficulty:end_chestplate"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.panchoring.enderium_armor.title"
     }
   },
-  "parent": "majruszs_difficulty:progressive_difficulty/end_shard",
-  "requirements": [
-    [
-      "enderium_armor"
-    ]
-  ],
-  "rewards": {
-    "experience": 250
-  }
+  "parent": "majruszs_difficulty:progressive_difficulty/end_shard"
 }

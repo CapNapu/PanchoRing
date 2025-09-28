@@ -1,19 +1,24 @@
 {
   "attributes": [
     {
-      "attribute": "minecraft:generic.attack_damage",
       "amount": 4,
+      "attribute": "minecraft:generic.attack_damage",
       "operation": 0
     },
     {
-      "attribute": "minecraft:generic.attack_speed",
       "amount": -2.2,
+      "attribute": "minecraft:generic.attack_speed",
       "operation": 0
     }
   ],
+  "built_in_enchantments": [
+    {
+      "enchantment": "dungeons_gear:dynamo",
+      "level": 1
+    }
+  ],
+  "combo": 9,
   "material": "minecraft:iron",
-  "built_in_enchantments": [{"enchantment": "dungeons_gear:committed", "level": 1}],
-  "unique": true,
   "rarity": "RARE",
-  "combo": 9
+  "unique": true
 }

@@ -15,25 +15,15 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.adventure.throw_trident.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
-      "item": "minecraft:trident",
-      "nbt": "{Damage:0}"
+      "item": "minecraft:trident"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.adventure.throw_trident.title"
     }
   },
-  "parent": "minecraft:adventure/root",
-  "requirements": [
-    [
-      "shot_trident"
-    ]
-  ]
+  "parent": "minecraft:adventure/root"
 }

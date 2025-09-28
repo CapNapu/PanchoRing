@@ -1,28 +1,16 @@
 {
-  "criteria": {
-    "entered_mushroom_house": {
-      "trigger": "minecraft:impossible"
-    }
-  },
-  "display": {
-    "announce_to_chat": false,
-    "description": {
-      "translate": "advancements.dungeons_enhanced.rarest_structure.desc"
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
     },
-    "frame": "task",
-    "hidden": true,
-    "icon": {
-      "item": "minecraft:red_mushroom"
+    "display": {
+        "description": "",
+        "hidden": true,
+        "icon": {
+            "item": "minecraft:filled_map"
+        },
+        "title": ""
     },
-    "show_toast": false,
-    "title": {
-      "translate": "advancements.dungeons_enhanced.rarest_structure"
-    }
-  },
-  "parent": "dungeons_enhanced:root",
-  "requirements": [
-    [
-      "entered_mushroom_house"
-    ]
-  ]
+    "parent": "awesomedungeonocean:root"
 }

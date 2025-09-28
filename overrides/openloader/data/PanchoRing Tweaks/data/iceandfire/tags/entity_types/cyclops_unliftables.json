@@ -1,8 +1,8 @@
 {
   "replace": false,
   "values": [
-    "minecraft:ravager",
     "minecraft:iron_golem",
+    "minecraft:ravager",
     "ars_nouveau:wilden_boss",
     "mowziesmobs:barako"
   ]

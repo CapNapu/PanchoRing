@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "get_void_crystal": {
+      "conditions": {
+        "items": [
+          {
+            "item": "phantasm:void_crystal_spike_tip"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.get_void_crystal.descr"
+    },
+    "icon": {
+      "item": "phantasm:void_crystal_spike_tip"
+    },
+    "title": {
+      "translate": "advancements.get_void_crystal.title"
+    }
+  },
+  "parent": "phantasm:get_crystal"
+}

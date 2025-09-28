@@ -1,18 +1,13 @@
 {
-  "type": "ars_nouveau:crush",
   "input": {
-    "item": "minecraft:blackstone"
+    "item": "bygonenether:cobbled_blackstone"
   },
   "output": [
     {
-      "item": "minecraft:gravel",
       "chance": 1.0,
-      "count": 1
-    },
-    {
-      "item": "minecraft:gold_nugget",
-      "chance": 0.1,
-      "count": 1
+      "count": 1,
+      "item": "infernalexp:rubble"
     }
-  ]
+  ],
+  "type": "ars_nouveau:crush"
 }

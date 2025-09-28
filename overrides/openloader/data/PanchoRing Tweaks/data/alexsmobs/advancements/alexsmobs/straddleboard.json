@@ -1,0 +1,27 @@
+{
+    "criteria": {
+        "rat_upgrade_basic": {
+            "conditions": {
+                "items": [
+                    {
+                        "item": "alexsmobs:straddleboard"
+                    }
+                ]
+            },
+            "trigger": "minecraft:inventory_changed"
+        }
+    },
+    "display": {
+        "description": {
+            "translate": "advancements.alexsmobs.straddleboard.desc"
+        },
+        "frame": "goal",
+        "icon": {
+            "item": "alexsmobs:straddleboard"
+        },
+        "title": {
+            "translate": "advancements.alexsmobs.straddleboard.title"
+        }
+    },
+    "parent": "panchoring:straddlite"
+}

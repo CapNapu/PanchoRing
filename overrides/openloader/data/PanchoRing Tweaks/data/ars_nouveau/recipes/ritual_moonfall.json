@@ -1,20 +1,20 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "ars_nouveau:blue_archwood_log"
     },
     {
-      "item": "minecraft:ink_sac"
+      "item": "minecraft:quartz"
     },
     {
-      "item": "minecraft:clock"
+      "item": "minecraft:quartz"
     },
     {
-      "tag": "forge:storage_blocks/coal"
+      "item": "minecraft:quartz"
     }
   ],
   "result": {
     "item": "ars_nouveau:ritual_moonfall"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

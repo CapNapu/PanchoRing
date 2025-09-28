@@ -12,18 +12,15 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
-      "translate": "advancements.panchoring.ars.apprentice_spell_book.description"
+      "translate": "advancements.panchoring.apprentice_spell_book.description"
     },
     "frame": "goal",
-    "hidden": false,
     "icon": {
       "item": "ars_nouveau:apprentice_spell_book"
     },
-    "show_toast": true,
     "title": {
-      "translate": "advancements.panchoring.ars.apprentice_spell_book.title"
+      "translate": "advancements.panchoring.apprentice_spell_book.title"
     }
   },
   "parent": "panchoring:ars_nouveau/novice_spell_book"

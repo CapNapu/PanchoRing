@@ -1,0 +1,14 @@
+{
+  "key": {
+    "0": {
+      "item": "infernalexp:polished_basalt_tiles_slab"
+    }
+  },
+  "pattern": [
+    "00"
+  ],
+  "result": {
+    "item": "infernalexp:polished_basalt_tiles"
+  },
+  "type": "minecraft:crafting_shaped"
+}

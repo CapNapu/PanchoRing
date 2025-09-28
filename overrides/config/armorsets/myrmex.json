@@ -1,5 +1,5 @@
 {
-  "armorSetName": "Myrmex",
+  "armorSetName": "Myrmex Set",
   "performanceMode": true,
   "head": {
     "itemKey": "iceandfire:myrmex_desert_helmet",
@@ -33,24 +33,13 @@
     ],
     "mustBeEmpty": false
   },
-  "partialBonusRequiredAmount": 2,
-  "partialSetBonuses": [
-    {
-      "type": "effect",
-      "name": "alexsmobs:bug_pheromones",
-      "value": 0.0,
-      "interactionType": "self",
-      "interactionDuration": 200,
-      "hideBonusDescription": true
-    }
-  ],
   "fullSetBonuses": [
     {
       "type": "effect",
       "name": "mowziesmobs:poison_resist",
       "value": 0.0,
       "interactionType": "self",
-      "interactionDuration": 200,
+      "interactionDuration": 120,
       "hideBonusDescription": true
     }
   ],

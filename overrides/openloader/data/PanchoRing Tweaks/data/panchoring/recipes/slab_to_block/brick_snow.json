@@ -1,0 +1,14 @@
+{
+  "key": {
+    "0": {
+      "item": "extcaves:bricks_snow_slab"
+    }
+  },
+  "pattern": [
+    "00"
+  ],
+  "result": {
+    "item": "extcaves:bricks_snow"
+  },
+  "type": "minecraft:crafting_shaped"
+}

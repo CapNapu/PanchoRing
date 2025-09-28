@@ -502,13 +502,12 @@
 				"fist"
 			]
 		}
-
 	],
 	"default_livingmotions": {
 		"chase": "epicfight:piglin/walk",
 		"death": "epicfight:piglin/death",
-		"idle": "epicfight:piglin/idle",
 		"fall": "epicfight:biped/living/fall",
+		"idle": "epicfight:piglin/idle",
 		"mount": "epicfight:biped/living/mount",
 		"walk": "epicfight:piglin/walk"
 	},

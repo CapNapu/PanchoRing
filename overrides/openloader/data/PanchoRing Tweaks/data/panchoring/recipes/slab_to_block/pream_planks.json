@@ -1,0 +1,14 @@
+{
+  "key": {
+    "0": {
+      "item": "phantasm:pream_slab"
+    }
+  },
+  "pattern": [
+    "00"
+  ],
+  "result": {
+    "item": "phantasm:pream_planks"
+  },
+  "type": "minecraft:crafting_shaped"
+}

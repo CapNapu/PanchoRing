@@ -1,5 +1,5 @@
 {
-  "armorSetName": "Fox",
+  "armorSetName": "Fox Set",
   "performanceMode": true,
   "head": {
     "itemKey": "dungeons_gear:fox_helmet",
@@ -20,13 +20,11 @@
   "partialBonusRequiredAmount": 2,
   "partialSetBonuses": [
     {
-      "type": "attribute",
-      "name": "minecraft:generic.movement_speed",
-      "value": 0.02,
-      "modifierUUID": "eeb08e17-db8f-409f-9c67-581f0738f27b",
-      "attributeOperation": 0,
+      "type": "effect",
+      "name": "minecraft:jump_boost",
+      "value": 1.0,
       "interactionType": "self",
-      "interactionDuration": 200,
+      "interactionDuration": 120,
       "hideBonusDescription": true
     }
   ],
@@ -36,7 +34,7 @@
       "name": "minecraft:fire_resistance",
       "value": 0.0,
       "interactionType": "self",
-      "interactionDuration": 200,
+      "interactionDuration": 120,
       "hideBonusDescription": true
     }
   ],

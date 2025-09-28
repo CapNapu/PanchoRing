@@ -1,5 +1,5 @@
 {
-  "armorSetName": "Rugged Climbing",
+  "armorSetName": "Rugged Climbing Set",
   "performanceMode": true,
   "head": {
     "itemKey": "dungeons_gear:rugged_climbing_helmet",
@@ -21,20 +21,20 @@
   "partialSetBonuses": [
     {
       "type": "effect",
-      "name": "minecraft:jump_boost",
-      "value": 1.0,
+      "name": "alexsmobs:clinging",
+      "value": 0.0,
       "interactionType": "self",
-      "interactionDuration": 200,
+      "interactionDuration": 120,
       "hideBonusDescription": true
     }
   ],
   "fullSetBonuses": [
     {
       "type": "effect",
-      "name": "minecraft:slowness",
+      "name": "mowziesmobs:frozen",
       "value": 0.0,
       "interactionType": "immunity",
-      "interactionDuration": 200,
+      "interactionDuration": 120,
       "hideBonusDescription": true
     }
   ],

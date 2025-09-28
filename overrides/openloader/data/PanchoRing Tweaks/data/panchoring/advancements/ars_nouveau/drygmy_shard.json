@@ -12,18 +12,15 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
-      "translate": "advancements.panchoring.ars.drygmy_shard.description"
+      "translate": "advancements.panchoring.drygmy_shard.description"
     },
     "frame": "goal",
-    "hidden": false,
     "icon": {
       "item": "ars_nouveau:drygmy_shard"
     },
-    "show_toast": true,
     "title": {
-      "translate": "advancements.panchoring.ars.drygmy_shard.title"
+      "translate": "advancements.panchoring.drygmy_shard.title"
     }
   },
   "parent": "panchoring:ars_nouveau/archwood_forest"

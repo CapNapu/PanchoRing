@@ -1,6 +1,6 @@
 {
-  "type": "ars_nouveau:glyph_recipe",
+  "input": "majruszs_difficulty:end_shard",
+  "output": "ars_nouveau:glyph_split",
   "tier": "THREE",
-  "input": "iceandfire:hydra_fang",
-  "output": "ars_nouveau:glyph_split"
+  "type": "ars_nouveau:glyph_recipe"
 }

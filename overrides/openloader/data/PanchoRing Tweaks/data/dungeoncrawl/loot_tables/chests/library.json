@@ -1,0 +1,94 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6,
+                "min": 3
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "minecraft:book",
+          "type": "minecraft:item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 5,
+                "min": 1
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "minecraft:ink_sac",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6,
+                "min": 3
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "minecraft:feather",
+          "type": "minecraft:item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 6,
+                "min": 3
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "iceandfire:manuscript",
+          "type": "minecraft:item",
+          "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 14,
+                "min": 8
+              },
+              "function": "set_count"
+            }
+          ],
+          "name": "minecraft:cobweb",
+          "type": "minecraft:item",
+          "weight": 6
+        },
+        {
+          "functions": [
+            {
+              "function": "dungeoncrawl:enchanted_book",
+              "loot_level": 3
+            }
+          ],
+          "name": "minecraft:book",
+          "type": "minecraft:item",
+          "weight": 5
+        }
+      ],
+      "name": "library",
+      "rolls": {
+        "max": 14,
+        "min": 8
+      }
+    }
+  ]
+}

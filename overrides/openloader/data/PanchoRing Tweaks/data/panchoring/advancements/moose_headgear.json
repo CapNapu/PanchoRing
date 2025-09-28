@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "moose_headgear": {
+      "conditions": {
+        "items": [
+          {
+            "item": "alexsmobs:moose_headgear"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.moose_headgear.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "alexsmobs:moose_headgear"
+    },
+    "title": {
+      "translate": "advancements.panchoring.moose_headgear.title"
+    }
+  },
+  "parent": "panchoring:moose"
+}

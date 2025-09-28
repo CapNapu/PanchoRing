@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "roadrunner_boots": {
+      "conditions": {
+        "items": [
+          {
+            "item": "alexsmobs:roadrunner_boots"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.roadrunner_boots.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "alexsmobs:roadrunner_boots"
+    },
+    "title": {
+      "translate": "advancements.panchoring.roadrunner_boots.title"
+    }
+  },
+  "parent": "panchoring:roadrunner"
+}

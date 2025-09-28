@@ -1,18 +1,18 @@
 {
-  "type": "ars_nouveau:crush",
   "input": {
     "item": "infernalexp:basalt_iron_ore"
   },
   "output": [
     {
-      "item": "minecraft:iron_nugget",
       "chance": 1.0,
-      "count": 5
+      "count": 5,
+      "item": "minecraft:iron_nugget"
     },
     {
-      "item": "minecraft:iron_nugget",
       "chance": 0.33,
-      "count": 3
+      "count": 3,
+      "item": "minecraft:iron_nugget"
     }
-  ]
+  ],
+  "type": "ars_nouveau:crush"
 }

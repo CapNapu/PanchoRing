@@ -80,14 +80,6 @@
       },
       "trigger": "minecraft:location"
     },
-    "Beach": {
-      "conditions": {
-        "location": {
-          "biome": "minecraft:beach"
-        }
-      },
-      "trigger": "minecraft:location"
-    },
     "Birch Forest": {
       "conditions": {
         "location": {
@@ -216,18 +208,10 @@
       },
       "trigger": "minecraft:location"
     },
-    "forest": {
+    "Forest": {
       "conditions": {
         "location": {
           "biome": "minecraft:forest"
-        }
-      },
-      "trigger": "minecraft:location"
-    },
-    "Frozen River": {
-      "conditions": {
-        "location": {
-          "biome": "minecraft:frozen_river"
         }
       },
       "trigger": "minecraft:location"
@@ -244,14 +228,6 @@
       "conditions": {
         "location": {
           "biome": "minecraft:giant_tree_taiga_hills"
-        }
-      },
-      "trigger": "minecraft:location"
-    },
-    "Gravel Shore": {
-      "conditions": {
-        "location": {
-          "biome": "projectvibrantjourneys:gravel_shore"
         }
       },
       "trigger": "minecraft:location"
@@ -308,14 +284,6 @@
       "conditions": {
         "location": {
           "biome": "minecraft:mountains"
-        }
-      },
-      "trigger": "minecraft:location"
-    },
-    "Mushroom Field Shore": {
-      "conditions": {
-        "location": {
-          "biome": "minecraft:mushroom_field_shore"
         }
       },
       "trigger": "minecraft:location"
@@ -384,14 +352,6 @@
       },
       "trigger": "minecraft:location"
     },
-    "River": {
-      "conditions": {
-        "location": {
-          "biome": "minecraft:river"
-        }
-      },
-      "trigger": "minecraft:location"
-    },
     "Savanna": {
       "conditions": {
         "location": {
@@ -404,14 +364,6 @@
       "conditions": {
         "location": {
           "biome": "minecraft:savanna_plateau"
-        }
-      },
-      "trigger": "minecraft:location"
-    },
-    "Snowy Beach": {
-      "conditions": {
-        "location": {
-          "biome": "minecraft:snowy_beach"
         }
       },
       "trigger": "minecraft:location"
@@ -464,14 +416,6 @@
       },
       "trigger": "minecraft:location"
     },
-    "Stone Shore": {
-      "conditions": {
-        "location": {
-          "biome": "minecraft:stone_shore"
-        }
-      },
-      "trigger": "minecraft:location"
-    },
     "Stony Fields": {
       "conditions": {
         "location": {
@@ -500,14 +444,6 @@
       "conditions": {
         "location": {
           "biome": "minecraft:taiga_hills"
-        }
-      },
-      "trigger": "minecraft:location"
-    },
-    "Tropical Beach": {
-      "conditions": {
-        "location": {
-          "biome": "projectvibrantjourneys:tropical_beach"
         }
       },
       "trigger": "minecraft:location"
@@ -544,14 +480,6 @@
       },
       "trigger": "minecraft:location"
     },
-    "Windswept Shore": {
-      "conditions": {
-        "location": {
-          "biome": "projectvibrantjourneys:windswept_shore"
-        }
-      },
-      "trigger": "minecraft:location"
-    },
     "Wooded Badlands Plateau": {
       "conditions": {
         "location": {
@@ -578,17 +506,13 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.adventure.adventuring_time.description"
     },
     "frame": "challenge",
-    "hidden": false,
     "icon": {
-      "item": "minecraft:diamond_boots",
-      "nbt": "{Damage:0}"
+      "item": "minecraft:diamond_boots"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.adventure.adventuring_time.title"
     }

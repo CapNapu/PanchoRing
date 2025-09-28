@@ -1,6 +1,6 @@
 {
   "addition": {
-    "tag": "forge:ingots/dragonsteel_lightning"
+    "item": "iceandfire:dragonsteel_lightning_ingot"
   },
   "base": {
     "item": "minecraft:iron_axe"

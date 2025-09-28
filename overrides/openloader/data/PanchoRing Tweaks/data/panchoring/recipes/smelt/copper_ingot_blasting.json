@@ -1,5 +1,6 @@
 {
-  "type": "minecraft:blasting",
+  "cookingtime": 100,
+  "experience": 0.1,
   "ingredient": [
     {
       "item": "iceandfire:armor_copper_metal_helmet"
@@ -15,9 +16,11 @@
     },
     {
       "item": "alexsmobs:hummingbird_feeder"
+    },
+    {
+      "item": "supplementaries:cog_block"
     }
   ],
   "result": "iceandfire:copper_ingot",
-  "experience": 0.1,
-  "cookingtime": 100
+  "type": "minecraft:blasting"
 }

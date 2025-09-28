@@ -12,16 +12,13 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.panchoring.cannoli.description"
     },
-    "frame": "task",
     "hidden": true,
     "icon": {
       "item": "iceandfire:cannoli"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.panchoring.cannoli.title"
     }

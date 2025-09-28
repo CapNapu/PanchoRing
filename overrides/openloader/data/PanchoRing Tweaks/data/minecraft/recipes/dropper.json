@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "minecraft:stone_crafting_materials"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "S": {
+      "item": "iceandfire:copper_ingot"
+    }
+  },
   "pattern": [
     "# #",
     "#S#",
     "#R#"
   ],
-  "key": {
-    "R": {
-      "tag": "forge:dusts/redstone"
-    },
-    "#": {
-      "item": "minecraft:cobblestone"
-    },
-    "S": {
-      "tag": "forge:ingots/copper"
-    }
-  },
   "result": {
     "item": "minecraft:dropper"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

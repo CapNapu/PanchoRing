@@ -1,6 +1,6 @@
 {
   "criteria": {
-    "Enderdragon": {
+    "Ender Dragon": {
       "conditions": {
         "entity": [
           {
@@ -14,14 +14,14 @@
       },
       "trigger": "minecraft:player_killed_entity"
     },
-    "Void Worm": {
+    "Ender Guardian": {
       "conditions": {
         "entity": [
           {
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type": "alexsmobs:void_worm"
+              "type": "cataclysm:ender_guardian"
             }
           }
         ]
@@ -42,14 +42,14 @@
       },
       "trigger": "minecraft:player_killed_entity"
     },
-    "Ender Guardian": {
+    "Void Worm": {
       "conditions": {
         "entity": [
           {
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type": "cataclysm:ender_guardian"
+              "type": "alexsmobs:void_worm"
             }
           }
         ]
@@ -58,17 +58,13 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.panchoring.kill_all_bosses_end.description"
     },
     "frame": "challenge",
-    "hidden": false,
     "icon": {
-      "item": "dungeons_gear:diamond_sword",
-      "nbt": "{Damage:0}"
+      "item": "dungeons_gear:diamond_sword"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.panchoring.kill_all_bosses_end.title"
     }

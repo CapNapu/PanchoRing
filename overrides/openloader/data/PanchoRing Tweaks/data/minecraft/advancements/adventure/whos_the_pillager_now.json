@@ -18,25 +18,15 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.adventure.whos_the_pillager_now.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
-      "item": "minecraft:crossbow",
-      "nbt": "{Damage:0}"
+      "item": "minecraft:crossbow"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.adventure.whos_the_pillager_now.title"
     }
   },
-  "parent": "minecraft:adventure/voluntary_exile",
-  "requirements": [
-    [
-      "kill_pillager"
-    ]
-  ]
+  "parent": "minecraft:adventure/voluntary_exile"
 }

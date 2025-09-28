@@ -1,6 +1,6 @@
 {
   "addition": {
-    "tag": "forge:ingots/dragonsteel_ice"
+    "item": "iceandfire:dragonsteel_ice_ingot"
   },
   "base": {
     "item": "minecraft:iron_sword"

@@ -1,0 +1,14 @@
+{
+  "key": {
+    "0": {
+      "item": "infernalexp:basalt_cobbled_slab"
+    }
+  },
+  "pattern": [
+    "00"
+  ],
+  "result": {
+    "item": "infernalexp:basalt_cobbled"
+  },
+  "type": "minecraft:crafting_shaped"
+}

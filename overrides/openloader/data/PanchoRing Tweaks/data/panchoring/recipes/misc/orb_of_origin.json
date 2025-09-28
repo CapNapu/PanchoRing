@@ -1,31 +1,19 @@
 {
-  "item_1": [
-    {
-      "tag": "forge:gems/diamond"
-    }
-  ],
-  "item_2": [
-    {
-      "tag": "forge:gems/emerald"
-    }
-  ],
-  "item_3": [
-    {
-      "tag": "forge:gems/sapphire"
-    }
-  ],
-  "item_4": [
-    {
-      "tag": "forge:gems/amethyst"
-    }
-  ],
-  "output": {
-    "item": "origins:orb_of_origin"
-  },
-  "reagent": [
-    {
+  "key": {
+    "0": {
+      "item": "phantasm:stellium_nugget"
+    },
+    "1": {
       "item": "projectvibrantjourneys:pearl"
     }
+  },
+  "pattern": [
+    "000",
+    "010",
+    "000"
   ],
-  "type": "ars_nouveau:enchanting_apparatus"
+  "result": {
+    "item": "origins:orb_of_origin"
+  },
+  "type": "minecraft:crafting_shaped"
 }

@@ -12,16 +12,13 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.panchoring.amethyst.description"
     },
     "frame": "goal",
-    "hidden": false,
     "icon": {
       "item": "iceandfire:amythest_gem"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.panchoring.amethyst.title"
     }

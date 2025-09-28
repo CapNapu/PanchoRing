@@ -1,7 +1,7 @@
 {
 	"attributes": {
 		"common": {
-			"impact": 0.9,
+			"impact": 0.8,
 			"max_strikes": 1
 		}
 	},

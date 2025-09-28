@@ -12,24 +12,16 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.main.guardian_eye.description"
     },
     "frame": "goal",
-    "hidden": false,
     "icon": {
       "item": "endrem:guardian_eye"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.main.guardian_eye.title"
     }
   },
-  "parent": "endrem:main/magical_eye",
-  "requirements": [
-    [
-      "guardian_eye"
-    ]
-  ]
+  "parent": "endrem:main/magical_eye"
 }

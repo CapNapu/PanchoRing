@@ -1,0 +1,22 @@
+{
+  "key": {
+    "0": {
+      "item": "minecraft:chest"
+    },
+    "1": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "2": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "pattern": [
+    "212",
+    "101",
+    "212"
+  ],
+  "result": {
+    "item": "supplementaries:safe"
+  },
+  "type": "minecraft:crafting_shaped"
+}

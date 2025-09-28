@@ -1,5 +1,4 @@
 {
-  "__comment": "all non-player targets of the crimson mosquito mob.",
   "replace": false,
   "values": [
     "iceandfire:pixie",

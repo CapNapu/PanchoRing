@@ -43,11 +43,11 @@ execute as @e[distance=..20,type=!#damagingsnowmen:noslow,tag=!cc.sg.holding_orb
 #	Passive Effects
 #
 
-#Snow golems have a passive Regen I if they are standing on snow (layer).
-execute if block ~ ~ ~ snow run effect give @s regeneration 11 0 
+#Snow golems have a passive Regen I if they are standing on snow (layer). [MODIFIED]
+execute if block ~ ~ ~ snow run effect give @s resistance 6 0 
 
-#Snow golems have a passive Resistance I if they are in a cold biome.
-execute if entity @s[predicate=damagingsnowmen:in_cold_biome] run effect give @s resistance 11 0 true
+#Snow golems have a passive Resistance I if they are in a cold biome. [MODIFIED]
+execute if entity @s[predicate=damagingsnowmen:in_cold_biome] run effect give @s health_boost 6 0
 
 #Snow golems have a passive Regen II if it is snowing (in a cold biome) .
 execute if entity @s[predicate=damagingsnowmen:in_cold_biome,predicate=damagingsnowmen:snowfall] run effect give @s regeneration 11 1 true

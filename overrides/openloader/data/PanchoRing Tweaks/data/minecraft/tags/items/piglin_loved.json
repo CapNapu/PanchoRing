@@ -1,21 +1,32 @@
 {
   "replace": false,
   "values": [
+    "dungeons_gear:burst_gale_bow",
+    "dungeons_gear:elite_power_bow",
     "dungeons_gear:encrusted_anchor",
     "dungeons_gear:firebrand",
-    "dungeons_gear:gold_sword",
     "dungeons_gear:gold_axe",
+    "dungeons_gear:gold_sword",
     "dungeons_gear:grave_bane",
+    "dungeons_gear:harp_crossbow",
+    "dungeons_gear:nautical_crossbow",
     "dungeons_gear:suns_grace",
+    "epicfight:knuckle",
     "extcaves:mushroom_goldishroom",
+    "iceandfire:dragonarmor_gold_body",
     "iceandfire:dragonarmor_gold_head",
     "iceandfire:dragonarmor_gold_neck",
-    "iceandfire:dragonarmor_gold_body",
     "iceandfire:dragonarmor_gold_tail",
     "iceandfire:gold_hippogryph_armor",
     "iceandfire:gold_pile",
     "infernalexp:molten_gold_cluster",
     "majruszs_difficulty:golden_bandage",
-    "revampedwolf:golden_wolf_armor"
+    "revampedwolf:golden_wolf_armor",
+    "supplementaries:candelabra",
+    "supplementaries:crimson_lantern",
+    "supplementaries:gold_door",
+    "supplementaries:gold_trapdoor",
+    "supplementaries:hourglass",
+    "supplementaries:key"
   ]
 }

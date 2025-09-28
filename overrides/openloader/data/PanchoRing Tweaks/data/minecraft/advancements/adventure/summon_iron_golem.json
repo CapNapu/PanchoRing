@@ -16,24 +16,15 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.adventure.summon_iron_golem.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
       "item": "minecraft:carved_pumpkin"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.adventure.summon_iron_golem.title"
     }
   },
-  "parent": "morevillagers:first_village",
-  "requirements": [
-    [
-      "summoned_golem"
-    ]
-  ]
+  "parent": "panchoring:first_village"
 }

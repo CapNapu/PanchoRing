@@ -1,0 +1,20 @@
+{
+  "ingredients": [
+    {
+      "item": "ars_nouveau:green_archwood_log"
+    },
+    {
+      "item": "iceandfire:silver_ingot"
+    },
+    {
+      "item": "iceandfire:silver_ingot"
+    },
+    {
+      "item": "iceandfire:silver_ingot"
+    }
+  ],
+  "result": {
+    "item": "ars_nouveau:ritual_restoration"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

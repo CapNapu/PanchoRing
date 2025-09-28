@@ -1,0 +1,21 @@
+{
+    "pools": [
+        {
+            "entries": [
+                {
+                    "functions": [
+                        {
+                            "count": 2,
+                            "function": "set_count"
+                        }
+                    ],
+                    "name": "endrem:cold_eye",
+                    "type": "item",
+                    "weight": 1
+                }
+            ],
+            "name": "eye_pool",
+            "rolls": 1
+        }
+    ]
+}

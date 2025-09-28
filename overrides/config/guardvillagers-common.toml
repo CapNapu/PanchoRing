@@ -7,13 +7,13 @@
 #Guards will attack all hostiles with this option
 "Guards attack all mobs?" = true
 #Guards won't attack mobs in this list if AttackAllMobs is enabled, for example, putting minecraft:creeper in this list will make guards ignore creepers.
-"Mob BlackList" = ["minecraft:creeper", "majruszs_difficulty:creeperling"]
+"Mob BlackList" = ["minecraft:creeper", "majruszs_difficulty:creeperling", "mowziesmobs:foliaath"]
 #This makes villagers run from polar bears, as anyone with common sense would.
-"Have Villagers have some common sense?" = true
+"Have Villagers have some common sense?" = false
 #This makes Illagers run from polar bears, as anyone with common sense would.
-"Have Illagers have some common sense?" = true
+"Have Illagers have some common sense?" = false
 #This makes Guards run from polar bears, as anyone with common sense would.
-"Have Guards have some common sense?" = true
+"Have Guards have some common sense?" = false
 #This lets Guards open doors.
 "Have Guards open doors?" = true
 #This will make guards raise their shields all the time, on default they will only raise their shields under certain conditions

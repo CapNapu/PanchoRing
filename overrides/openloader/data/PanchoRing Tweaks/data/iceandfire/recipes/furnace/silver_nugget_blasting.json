@@ -1,5 +1,6 @@
 {
-  "type": "minecraft:blasting",
+  "cookingtime": 100,
+  "experience": 0.1,
   "ingredient": [
     {
       "item": "iceandfire:silver_pickaxe"
@@ -17,7 +18,13 @@
       "item": "iceandfire:silver_sword"
     },
     {
+      "item": "mowziesmobs:naga_fang_dagger"
+    },
+    {
       "item": "iceandfire:hippogryph_sword"
+    },
+    {
+      "item": "iceandfire:dragon_flute"
     },
     {
       "item": "alexsmobs:moose_headgear"
@@ -27,9 +34,14 @@
     },
     {
       "item": "alexsmobs:endolocator"
+    },
+    {
+      "item": "supplementaries:candelabra_silver"
+    },
+    {
+      "item": "supplementaries:goblet"
     }
   ],
   "result": "iceandfire:silver_nugget",
-  "experience": 0.1,
-  "cookingtime": 100
+  "type": "minecraft:blasting"
 }

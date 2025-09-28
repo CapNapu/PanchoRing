@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "requirement": {
+      "conditions": {
+        "durability": 0,
+        "item": {
+          "item": "bosses_of_mass_destruction:earthdive_spear"
+        }
+      },
+      "trigger": "minecraft:item_durability_changed"
+    }
+  },
+  "rewards": {
+    "function": "panchoring:earthdive_spear_break"
+  }
+}

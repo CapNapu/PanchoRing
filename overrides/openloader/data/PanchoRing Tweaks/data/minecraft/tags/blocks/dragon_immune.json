@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "iceandfire:dragonsteel_fire_block",
+    "iceandfire:dragonsteel_ice_block",
+    "iceandfire:dragonsteel_lightning_block",
+    "majruszs_difficulty:end_block",
+    "phantasm:stellium_block",
+    "phantasm:stellium_bricks"
+  ]
+}

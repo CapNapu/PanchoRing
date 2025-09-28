@@ -1,5 +1,4 @@
 {
-  "type": "ars_nouveau:enchanting_apparatus",
   "item_1": [
     {
       "item": "minecraft:prismarine_crystals"
@@ -20,12 +19,13 @@
       "item": "iceandfire:shiny_scales"
     }
   ],
+  "output": {
+    "item": "ars_elemental:water_focus"
+  },
   "reagent": [
     {
       "tag": "panchoring:elemental_foci_to_water"
     }
   ],
-  "output": {
-    "item": "ars_elemental:water_focus"
-  }
+  "type": "ars_nouveau:enchanting_apparatus"
 }

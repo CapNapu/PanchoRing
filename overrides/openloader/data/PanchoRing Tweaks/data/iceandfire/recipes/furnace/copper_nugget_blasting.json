@@ -1,5 +1,6 @@
 {
-  "type": "minecraft:blasting",
+  "cookingtime": 100,
+  "experience": 0.1,
   "ingredient": [
     {
       "item": "iceandfire:copper_pickaxe"
@@ -20,10 +21,22 @@
       "item": "minecraft:crossbow"
     },
     {
-      "item": "supplementaries:copper_lantern"
+      "item": "minecraft:piston"
     },
     {
-      "item": "supplementaries:cog_block"
+      "item": "minecraft:sticky_piston"
+    },
+    {
+      "item": "minecraft:dispenser"
+    },
+    {
+      "item": "minecraft:dropper"
+    },
+    {
+      "item": "minecraft:observer"
+    },
+    {
+      "item": "supplementaries:copper_lantern"
     },
     {
       "item": "supplementaries:pulley_block"
@@ -33,6 +46,5 @@
     }
   ],
   "result": "iceandfire:copper_nugget",
-  "experience": 0.1,
-  "cookingtime": 100
+  "type": "minecraft:blasting"
 }

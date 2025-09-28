@@ -1,0 +1,14 @@
+{
+  "key": {
+    "0": {
+      "item": "minecraft:smooth_quartz_slab"
+    }
+  },
+  "pattern": [
+    "00"
+  ],
+  "result": {
+    "item": "minecraft:smooth_quartz"
+  },
+  "type": "minecraft:crafting_shaped"
+}

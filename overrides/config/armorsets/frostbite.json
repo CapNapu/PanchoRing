@@ -1,5 +1,5 @@
 {
-  "armorSetName": "Frost Bite",
+  "armorSetName": "Frostbite Set",
   "performanceMode": true,
   "head": {
     "itemKey": "dungeons_gear:frost_bite_helmet",
@@ -21,20 +21,20 @@
   "partialSetBonuses": [
     {
       "type": "effect",
-      "name": "minecraft:jump_boost",
-      "value": 1.0,
+      "name": "minecraft:slow_falling",
+      "value": 0.0,
       "interactionType": "self",
-      "interactionDuration": 200,
+      "interactionDuration": 120,
       "hideBonusDescription": true
     }
   ],
   "fullSetBonuses": [
     {
       "type": "effect",
-      "name": "mowziesmobs:frozen",
+      "name": "cataclysm:blazing_brand",
       "value": 0.0,
       "interactionType": "immunity",
-      "interactionDuration": 200,
+      "interactionDuration": 120,
       "hideBonusDescription": true
     }
   ],

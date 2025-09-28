@@ -1,0 +1,16 @@
+{
+  "group": "raw_purpur",
+  "key": {
+    "0": {
+      "item": "phantasm:raw_purpur_bricks_slab"
+    }
+  },
+  "pattern": [
+    "0",
+    "0"
+  ],
+  "result": {
+    "item": "phantasm:chiseled_raw_purpur"
+  },
+  "type": "minecraft:crafting_shaped"
+}

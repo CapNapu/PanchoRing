@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "extcaves:dirtstone",
+    "extcaves:dirtstone_cobble",
+    "extcaves:lavastone",
+    "extcaves:marlstone",
+    "extcaves:polished_lavastone",
+    "extcaves:sedimentstone"
+  ]
+}

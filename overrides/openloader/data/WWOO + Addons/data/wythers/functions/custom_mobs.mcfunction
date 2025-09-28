@@ -10,9 +10,6 @@ execute if entity @s[type=minecraft:parrot] run function wythers:custom_mobs/par
 #colored llamas
 execute if entity @s[type=minecraft:llama] run function wythers:custom_mobs/llamas
 
-#hoglins in shattered savanna
-execute if entity @s[type=minecraft:pig,predicate=wythers:in_shattered_savanna] run function wythers:custom_mobs/pigs
-
 #bats in dark forest
 execute if entity @s[type=minecraft:cave_spider,predicate=wythers:in_dark_forest] run function wythers:custom_mobs/bats
 

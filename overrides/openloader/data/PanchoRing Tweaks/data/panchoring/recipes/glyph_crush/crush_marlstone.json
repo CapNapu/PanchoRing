@@ -1,0 +1,18 @@
+{
+  "input": {
+    "item": "extcaves:marlstone"
+  },
+  "output": [
+    {
+      "chance": 1.0,
+      "count": 1,
+      "item": "extcaves:marlstone_powder"
+    },
+    {
+      "chance": 0.1,
+      "count": 1,
+      "item": "minecraft:gold_nugget"
+    }
+  ],
+  "type": "ars_nouveau:crush"
+}

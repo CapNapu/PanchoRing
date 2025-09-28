@@ -1,18 +1,18 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "minecraft:iron_ingot"
+    },
+    "B": {
+      "item": "minecraft:stick"
+    }
+  },
   "pattern": [
     "A",
     "B"
   ],
-  "key": {
-    "A": {
-      "tag": "forge:ingots/iron"
-    },
-    "B": {
-      "tag": "forge:rods/wooden"
-    }
-  },
   "result": {
     "item": "dungeons_gear:dagger"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

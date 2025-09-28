@@ -1,0 +1,9 @@
+{
+  "cookingtime": 600,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "alexsmobs:kangaroo_meat"
+  },
+  "result": "alexsmobs:cooked_kangaroo_meat",
+  "type": "minecraft:campfire_cooking"
+}

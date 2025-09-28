@@ -1,26 +1,26 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "X#X",
-    "RSR",
-    "X#X"
-  ],
   "key": {
-    "R": {
-      "tag": "forge:dusts/redstone"
-    },
     "#": {
       "item": "minecraft:stick"
+    },
+    "R": {
+      "item": "minecraft:redstone"
     },
     "S": {
       "item": "minecraft:stone_pressure_plate"
     },
     "X": {
-      "tag": "forge:ingots/iron"
+      "item": "minecraft:iron_ingot"
     }
   },
+  "pattern": [
+    "X#X",
+    "RSR",
+    "X#X"
+  ],
   "result": {
-    "item": "minecraft:detector_rail",
-    "count": 8
-  }
+    "count": 8,
+    "item": "minecraft:detector_rail"
+  },
+  "type": "minecraft:crafting_shaped"
 }

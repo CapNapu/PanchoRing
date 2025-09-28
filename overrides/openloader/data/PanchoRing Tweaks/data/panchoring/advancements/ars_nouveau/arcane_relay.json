@@ -12,18 +12,14 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
-      "translate": "advancements.panchoring.ars.arcane_relay.description"
+      "translate": "advancements.panchoring.arcane_relay.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
       "item": "ars_nouveau:arcane_relay"
     },
-    "show_toast": true,
     "title": {
-      "translate": "advancements.panchoring.ars.arcane_relay.title"
+      "translate": "advancements.panchoring.arcane_relay.title"
     }
   },
   "parent": "panchoring:ars_nouveau/mana_jar"

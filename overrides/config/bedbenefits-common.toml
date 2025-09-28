@@ -5,5 +5,5 @@
 	remove-positive-effects = true
 	restore-health = true
 	#Range: 0.0 ~ 1.7976931348623157E308
-	restore-health-amount = 8.0
+	restore-health-amount = 20.0
 

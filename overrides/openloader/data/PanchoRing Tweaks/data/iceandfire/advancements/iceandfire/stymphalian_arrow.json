@@ -1,19 +1,16 @@
 {
-    "display": {
-        "icon": {
-            "item": "iceandfire:stymphalian_arrow"
-        },
-        "title": {
-            "translate": "advancements.iceandfire.stymphalian_arrow.title"
-        },
-        "description": {
-            "translate": "advancements.iceandfire.stymphalian_arrow.description"
-        }
-    },
-    "parent": "iceandfire:iceandfire/bestiary",
     "criteria": {
-        "bestiary": {
+        "impossible": {
             "trigger": "minecraft:impossible"
         }
-    }
+    },
+    "display": {
+        "description": "",
+        "hidden": true,
+        "icon": {
+            "item": "minecraft:filled_map"
+        },
+        "title": ""
+    },
+    "parent": "awesomedungeonocean:root"
 }

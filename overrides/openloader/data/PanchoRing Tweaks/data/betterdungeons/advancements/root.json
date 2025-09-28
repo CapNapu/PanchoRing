@@ -1,22 +1,16 @@
 {
-  "criteria": {
-    "always": {
-      "trigger": "minecraft:impossible"
-    }
-  },
-  "display": {
-    "announce_to_chat": false,
-    "background": "minecraft:textures/block/stone_bricks.png",
-    "description": {
-      "translate": "betterdungeons.advancements.root.description"
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
     },
-    "hidden": true,
-    "icon": {
-      "item": "minecraft:mossy_stone_bricks"
+    "display": {
+        "description": "",
+        "hidden": true,
+        "icon": {
+            "item": "minecraft:filled_map"
+        },
+        "title": ""
     },
-    "show_toast": false,
-    "title": {
-      "translate": "betterdungeons.advancements.root.title"
-    }
-  }
+    "parent": "awesomedungeonocean:root"
 }

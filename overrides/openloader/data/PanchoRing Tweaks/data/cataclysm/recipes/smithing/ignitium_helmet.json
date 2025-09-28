@@ -1,12 +1,12 @@
 {
-    "type": "minecraft:smithing",
-    "base": {
-        "tag": "panchoring:dragonsteel_helmets"
-    },
     "addition": {
         "item": "cataclysm:ignitium_ingot"
     },
+    "base": {
+        "tag": "panchoring:netherite_helmets"
+    },
     "result": {
         "item": "cataclysm:ignitium_helmet"
-    }
+    },
+    "type": "minecraft:smithing"
 }

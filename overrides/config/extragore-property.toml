@@ -41,45 +41,45 @@ behavior = "Magic"
 weight = "Light"
 state = "Liquid"
 color = "128,0,128"
-entities = ["minecraft:enderman", "minecraft:endermite", "minecraft:phantom", "minecraft:shulker", "minecraft:ender_dragon", "alexsmobs:endergrade", "alexsmobs:enderiophage", "alexsmobs:mimicube", "alexsmobs:mungus", "alexsmobs:spectre", "alexsmobs:void_worm_part", "alexsmobs:void_worm", "alexsmobs:warped_toad", "bosses_of_mass_destruction:obsidilith", "bosses_of_mass_destruction:void_blossom", "bygonenether:warped_enderman", "cataclysm:ender_golem", "cataclysm:ender_guardian", "cataclysm:endermaptera", "infernalexp:warpbeetle"]
+entities = ["minecraft:enderman", "minecraft:endermite", "minecraft:phantom", "minecraft:shulker", "alexsmobs:endergrade", "alexsmobs:enderiophage", "alexsmobs:mimicube", "alexsmobs:mungus", "alexsmobs:spectre", "alexsmobs:warped_toad", "bygonenether:warped_enderman", "cataclysm:ender_golem", "cataclysm:endermaptera", "infernalexp:warpbeetle"]
 
 ["White Group"]
 behavior = "Bounce"
 weight = "Heavy"
 state = "Solid"
 color = "255,255,255"
-entities = ["minecraft:skeleton", "minecraft:iron_golem", "minecraft:skeleton_horse", "minecraft:stray", "alexsmobs:bone_serpent", "alexsmobs:bone_serpent_part", "alexsmobs:dropbear", "ars_elemental:summon_skelehorse", "bosses_of_mass_destruction:lich", "bygonenether:wither_skeleton_horse", "majruszs_difficulty:elite_skeleton", "mowziesmobs:ferrous_wroughtnaut", "mowziesmobs:grottol"]
+entities = ["minecraft:iron_golem", "minecraft:skeleton_horse", "minecraft:skeleton", "minecraft:snow_golem", "minecraft:stray", "alexsmobs:bone_serpent_part", "alexsmobs:bone_serpent", "alexsmobs:dropbear", "ars_elemental:summon_skelehorse", "bygonenether:wither_skeleton_horse", "majruszs_difficulty:elite_skeleton"]
 
 ["Black Group"]
 behavior = "Bounce"
 weight = "Heavy"
 state = "Solid"
 color = "96,96,96"
-entities = ["minecraft:wither_skeleton", "minecraft:wither", "alexsmobs:soul_vulture", "bygonenether:corpor", "bygonenether:wither_skeleton_horse", "bygonenether:wraither", "epicfight:wither_ghost", "epicfight:wither_skeleton_minion"]
+entities = ["minecraft:wither_skeleton", "alexsmobs:soul_vulture", "bygonenether:corpor", "bygonenether:wither_skeleton_horse", "bygonenether:wraither", "epicfight:wither_skeleton_minion"]
 
 ["Green Group"]
 behavior = "Stuck"
 weight = "Light"
 state = "Liquid"
 color = "0,255,0"
-entities = ["minecraft:bee", "minecraft:cave_spider", "minecraft:creeper", "minecraft:silverfish", "minecraft:slime", "minecraft:spider", "alexsmobs:fly", "alexsmobs:centipede_body", "alexsmobs:centipede_head", "alexsmobs:centipede_tail", "alexsmobs:cockroach", "alexsmobs:tarantula_hawk", "iceandfire:cockatrice", "iceandfire:hydra", "iceandfire:myrmex_queen", "iceandfire:myrmex_royal", "iceandfire:myrmex_sentinel", "iceandfire:myrmex_soldier", "iceandfire:myrmex_swarmer", "iceandfire:myrmex_worker", "majruszs_difficulty:creeperling", "mowziesmobs:baby_foliaath", "mowziesmobs:foliaath", "mowziesmobs:lantern"]
+entities = ["minecraft:bee", "minecraft:cave_spider", "minecraft:creeper", "minecraft:silverfish", "minecraft:slime", "minecraft:spider", "alexsmobs:centipede_body", "alexsmobs:centipede_head", "alexsmobs:centipede_tail", "alexsmobs:cockroach", "alexsmobs:fly", "alexsmobs:tarantula_hawk", "iceandfire:cockatrice", "iceandfire:hydra", "iceandfire:myrmex_queen", "iceandfire:myrmex_royal", "iceandfire:myrmex_sentinel", "iceandfire:myrmex_soldier", "iceandfire:myrmex_swarmer", "iceandfire:myrmex_worker", "majruszs_difficulty:creeperling", "mowziesmobs:baby_foliaath", "mowziesmobs:foliaath", "mowziesmobs:lantern"]
 
 ["Yellow Group"]
 behavior = "Bounce"
 weight = "Heavy"
 state = "Solid"
 color = "255,255,0"
-entities = ["minecraft:blaze", "minecraft:magma_cube", "minecraft:strider", "alexsmobs:guster", "alexsmobs:straddler", "alexsmobs:stradpole", "alexsmobs:sunbird", "bosses_of_mass_destruction:gauntlet", "cataclysm:ignis", "cataclysm:ignited_revenant", "cataclysm:netherite_monstrosity", "infernalexp:blindsight", "infernalexp:glowsilk_moth", "infernalexp:glowsquito", "infernalexp:voline"]
+entities = ["minecraft:blaze", "minecraft:magma_cube", "minecraft:strider", "alexsmobs:guster", "alexsmobs:straddler", "alexsmobs:stradpole", "alexsmobs:sunbird", "cataclysm:ignited_revenant", "infernalexp:blindsight", "infernalexp:glowsilk_moth", "infernalexp:glowsquito", "infernalexp:voline", "mowziesmobs:grottol"]
 
 ["Blue Group"]
 behavior = "None"
 weight = "Light"
 state = "Liquid"
 color = "0,0,255"
-entities = ["minecraft:squid", "minecraft:elder_guardian", "minecraft:guardian", "minecraft:glow_squid", "alexsmobs:blobfish", "alexsmobs:lobster", "alexsmobs:mantis_shrimp", "alexsmobs:mimic_octopus", "iceandfire:hippocampus", "iceandfire:sea_serpent"]
+entities = ["minecraft:elder_guardian", "minecraft:glow_squid", "minecraft:guardian", "minecraft:squid", "alexsmobs:blobfish", "alexsmobs:lobster", "alexsmobs:mantis_shrimp", "alexsmobs:mimic_octopus", "iceandfire:hippocampus", "iceandfire:sea_serpent"]
 
 ["Cyan Group"]
-behavior = "None"
+behavior = "Magic"
 weight = "Light"
 state = "Solid"
 color = "0,255,255"
@@ -90,7 +90,7 @@ behavior = "None"
 weight = "Light"
 state = "Liquid"
 color = "255,0,255"
-entities = ["ars_nouveau:blazing_weald_walker", "ars_nouveau:cascading_weald_walker", "ars_nouveau:flourishing_weald_walker", "ars_nouveau:vexing_weald_walker", "ars_nouveau:carbuncle", "ars_nouveau:drygmy", "ars_nouveau:familiar_bookwyrm", "ars_nouveau:familiar_carbuncle", "ars_nouveau:familiar_drygmy", "ars_nouveau:familiar_jabberwog", "ars_nouveau:familiar_sylph", "ars_nouveau:familiar_wixie", "ars_nouveau:sylph", "ars_nouveau:wilden_boss", "ars_nouveau:wilden_guardian", "ars_nouveau:wilden_hunter", "ars_nouveau:wilden_stalker", "iceandfire:pixie"]
+entities = ["ars_nouveau:blazing_weald_walker", "ars_nouveau:carbuncle", "ars_nouveau:cascading_weald_walker", "ars_nouveau:drygmy", "ars_nouveau:familiar_bookwyrm", "ars_nouveau:familiar_carbuncle", "ars_nouveau:familiar_drygmy", "ars_nouveau:familiar_jabberwog", "ars_nouveau:familiar_sylph", "ars_nouveau:familiar_wixie", "ars_nouveau:flourishing_weald_walker", "ars_nouveau:sylph", "ars_nouveau:vexing_weald_walker", "iceandfire:pixie"]
 # Auto generated red color group - do not edit. Use this as reference for unused entity IDs.
 "255,0,0" = [
     "alexsmobs:snow_leopard",

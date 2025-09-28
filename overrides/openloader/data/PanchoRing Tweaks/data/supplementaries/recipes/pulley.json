@@ -7,7 +7,7 @@
   ],
   "key": {
     "0": {
-      "tag": "forge:ingots/copper"
+      "item": "iceandfire:copper_ingot"
     },
     "1": {
       "tag": "minecraft:planks"
@@ -22,7 +22,6 @@
     "121"
   ],
   "result": {
-    "count": 1,
     "item": "supplementaries:pulley_block"
   },
   "type": "minecraft:crafting_shaped"

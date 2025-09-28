@@ -12,18 +12,14 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
-      "translate": "advancements.panchoring.ars.caster_tome.description"
+      "translate": "advancements.panchoring.caster_tome.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
       "item": "ars_nouveau:caster_tome"
     },
-    "show_toast": true,
     "title": {
-      "translate": "advancements.panchoring.ars.caster_tome.title"
+      "translate": "advancements.panchoring.caster_tome.title"
     }
   },
   "parent": "panchoring:ars_nouveau/novice_spell_book"

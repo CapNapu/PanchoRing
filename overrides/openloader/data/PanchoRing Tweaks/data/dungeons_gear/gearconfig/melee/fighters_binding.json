@@ -1,20 +1,20 @@
 {
   "attributes": [
     {
-      "attribute": "minecraft:generic.attack_damage",
       "amount": 1,
+      "attribute": "minecraft:generic.attack_damage",
       "operation": 0
     },
     {
-      "attribute": "minecraft:generic.attack_speed",
       "amount": -0.0,
+      "attribute": "minecraft:generic.attack_speed",
       "operation": 0
     }
   ],
-  "material": "minecraft:iron",
   "built_in_enchantments": [],
+  "combo": 9,
   "light": true,
-  "unique": true,
+  "material": "minecraft:iron",
   "rarity": "RARE",
-  "combo": 9
+  "unique": true
 }

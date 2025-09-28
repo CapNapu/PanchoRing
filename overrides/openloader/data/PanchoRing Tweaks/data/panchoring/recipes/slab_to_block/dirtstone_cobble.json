@@ -1,0 +1,14 @@
+{
+  "key": {
+    "0": {
+      "item": "extcaves:dirtstone_cobble_slab"
+    }
+  },
+  "pattern": [
+    "00"
+  ],
+  "result": {
+    "item": "extcaves:dirtstone_cobble"
+  },
+  "type": "minecraft:crafting_shaped"
+}

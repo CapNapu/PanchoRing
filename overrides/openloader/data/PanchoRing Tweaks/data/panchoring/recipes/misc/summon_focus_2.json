@@ -1,5 +1,4 @@
 {
-  "type": "ars_nouveau:enchanting_apparatus",
   "item_1": [
     {
       "item": "ars_nouveau:wilden_horn"
@@ -20,12 +19,13 @@
       "item": "minecraft:totem_of_undying"
     }
   ],
+  "output": {
+    "item": "ars_nouveau:summon_focus"
+  },
   "reagent": [
     {
       "tag": "panchoring:elemental_foci_to_summon"
     }
   ],
-  "output": {
-    "item": "ars_nouveau:summon_focus"
-  }
+  "type": "ars_nouveau:enchanting_apparatus"
 }

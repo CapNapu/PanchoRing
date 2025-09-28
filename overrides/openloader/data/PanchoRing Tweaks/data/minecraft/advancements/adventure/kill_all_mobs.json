@@ -1148,48 +1148,6 @@
       },
       "trigger": "minecraft:player_killed_entity"
     },
-    "Wilden Guardian": {
-      "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "ars_nouveau:wilden_guardian"
-            }
-          }
-        ]
-      },
-      "trigger": "minecraft:player_killed_entity"
-    },
-    "Wilden Hunter": {
-      "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "ars_nouveau:wilden_hunter"
-            }
-          }
-        ]
-      },
-      "trigger": "minecraft:player_killed_entity"
-    },
-    "Wilden Stalker": {
-      "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "ars_nouveau:wilden_stalker"
-            }
-          }
-        ]
-      },
-      "trigger": "minecraft:player_killed_entity"
-    },
     "Witch": {
       "conditions": {
         "entity": [
@@ -1318,17 +1276,13 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.adventure.kill_all_mobs.description"
     },
     "frame": "challenge",
-    "hidden": false,
     "icon": {
-      "item": "minecraft:diamond_sword",
-      "nbt": "{Damage:0}"
+      "item": "dungeons_gear:diamond_sword"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.adventure.kill_all_mobs.title"
     }

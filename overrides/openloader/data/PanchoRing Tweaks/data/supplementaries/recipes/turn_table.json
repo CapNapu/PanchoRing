@@ -1,0 +1,31 @@
+{
+  "conditions": [
+    {
+      "flag": "turn_table",
+      "type": "supplementaries:flag"
+    }
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:planks"
+    },
+    "3": {
+      "tag": "minecraft:stone_crafting_materials"
+    },
+    "4": {
+      "item": "supplementaries:crank"
+    },
+    "7": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "000",
+    "343",
+    "373"
+  ],
+  "result": {
+    "item": "supplementaries:turn_table"
+  },
+  "type": "minecraft:crafting_shaped"
+}

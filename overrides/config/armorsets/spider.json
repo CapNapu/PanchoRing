@@ -1,5 +1,5 @@
 {
-  "armorSetName": "Spider",
+  "armorSetName": "Spider Set",
   "performanceMode": true,
   "head": {
     "itemKey": "dungeons_gear:spider_helmet",
@@ -21,20 +21,20 @@
   "partialSetBonuses": [
     {
       "type": "effect",
-      "name": "alexsmobs:bug_pheromones",
+      "name": "alexsmobs:clinging",
       "value": 0.0,
       "interactionType": "self",
-      "interactionDuration": 200,
+      "interactionDuration": 120,
       "hideBonusDescription": true
     }
   ],
   "fullSetBonuses": [
     {
       "type": "effect",
-      "name": "alexsmobs:clinging",
+      "name": "alexsmobs:bug_pheromones",
       "value": 0.0,
       "interactionType": "self",
-      "interactionDuration": 200,
+      "interactionDuration": 120,
       "hideBonusDescription": true
     }
   ],

@@ -10,7 +10,7 @@
       "tag": "minecraft:planks"
     },
     "1": {
-      "tag": "forge:ingots/copper"
+      "item": "iceandfire:copper_ingot"
     }
   },
   "pattern": [
@@ -19,7 +19,6 @@
     "000"
   ],
   "result": {
-    "count": 1,
     "item": "supplementaries:speaker_block"
   },
   "type": "minecraft:crafting_shaped"

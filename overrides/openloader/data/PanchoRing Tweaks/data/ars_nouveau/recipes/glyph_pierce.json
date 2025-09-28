@@ -1,6 +1,6 @@
 {
-  "type": "ars_nouveau:glyph_recipe",
+  "input": "iceandfire:hippogryph_talon",
+  "output": "ars_nouveau:glyph_pierce",
   "tier": "TWO",
-  "input": "iceandfire:sea_serpent_fang",
-  "output": "ars_nouveau:glyph_pierce"
+  "type": "ars_nouveau:glyph_recipe"
 }

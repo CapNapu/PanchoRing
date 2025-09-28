@@ -22,7 +22,6 @@
     }
   },
   "starts": [
-    "more_structures:village_mountains",
     "minecraft:mineshaft",
     "minecraft:stronghold",
     "minecraft:ruined_portal"

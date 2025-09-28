@@ -1,6 +1,6 @@
 {
-  "type": "ars_nouveau:glyph_recipe",
-  "tier": "ONE",
   "input": "alexsmobs:guster_eye",
-  "output": "ars_nouveau:glyph_gust"
+  "output": "ars_nouveau:glyph_gust",
+  "tier": "ONE",
+  "type": "ars_nouveau:glyph_recipe"
 }

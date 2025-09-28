@@ -1,32 +1,16 @@
 {
-  "criteria": {
-    "end_crystal_armor": {
-      "trigger": "minecraft:impossible"
-    }
-  },
-  "display": {
-    "announce_to_chat": false,
-    "description": {
-      "translate": "advancements.main.root.end_crystal_armor.description"
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
     },
-    "frame": "goal",
-    "hidden": true,
-    "icon": {
-      "item": "endrem:end_crystal_chestplate",
-      "nbt": "{Damage:0}"
+    "display": {
+        "description": "",
+        "hidden": true,
+        "icon": {
+            "item": "minecraft:filled_map"
+        },
+        "title": ""
     },
-    "show_toast": false,
-    "title": {
-      "translate": "advancements.main.root.end_crystal_armor.title"
-    }
-  },
-  "parent": "endrem:main/root",
-  "requirements": [
-    [
-      "end_crystal_armor"
-    ]
-  ],
-  "rewards": {
-    "experience": 150
-  }
+    "parent": "awesomedungeonocean:root"
 }

@@ -1,28 +1,16 @@
 {
-	"criteria": {
-		"get_item": {
-			"trigger": "minecraft:impossible"
-		}
-	},
-	"display": {
-		"announce_to_chat": false,
-		"description": {
-			"translate": "advancements.caves.zombie_butcher.description"
-		},
-		"frame": "task",
-		"hidden": true,
-		"icon": {
-			"item": "extcaves:butcher_knife"
-		},
-		"show_toast": false,
-		"title": {
-			"translate": "advancements.caves.zombie_butcher.title"
-		}
-	},
-	"parent": "extcaves:caves/kill_a_zombie",
-	"requirements": [
-		[
-			"get_item"
-		]
-	]
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "display": {
+        "description": "",
+        "hidden": true,
+        "icon": {
+            "item": "minecraft:filled_map"
+        },
+        "title": ""
+    },
+    "parent": "awesomedungeonocean:root"
 }

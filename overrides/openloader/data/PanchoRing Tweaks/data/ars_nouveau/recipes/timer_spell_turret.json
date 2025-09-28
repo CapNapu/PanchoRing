@@ -1,26 +1,31 @@
 {
-  "type": "ars_nouveau:enchanting_apparatus",
   "item_1": [
     {
-      "item": "minecraft:clock"
+      "item": "ars_nouveau:mana_gem"
     }
   ],
   "item_2": [
     {
-      "item": "minecraft:redstone"
+      "item": "minecraft:gold_ingot"
     }
   ],
   "item_3": [
     {
-      "item": "minecraft:gold_ingot"
+      "item": "minecraft:redstone"
     }
   ],
+  "item_4": [
+    {
+      "item":"minecraft:clock"
+    }
+  ],
+  "output": {
+    "item": "ars_nouveau:timer_spell_turret"
+  },
   "reagent": [
     {
       "item": "ars_nouveau:basic_spell_turret"
     }
   ],
-  "output": {
-    "item": "ars_nouveau:timer_spell_turret"
-  }
+  "type": "ars_nouveau:enchanting_apparatus"
 }

@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "xyx",
-    "b b",
-    "xbx"
-  ],
   "key": {
+    "b": {
+      "item": "minecraft:gold_ingot"
+    },
     "x": {
       "tag": "forge:glass"
-    },
-    "b": {
-      "tag": "forge:ingots/gold"
     },
     "y": {
       "item": "ars_nouveau:arcane_stone"
     }
   },
+  "pattern": [
+    "xyx",
+    "b b",
+    "xbx"
+  ],
   "result": {
     "item": "ars_nouveau:mana_jar"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

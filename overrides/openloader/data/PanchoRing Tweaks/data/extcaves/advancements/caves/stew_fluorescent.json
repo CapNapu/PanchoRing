@@ -1,0 +1,26 @@
+{
+	"criteria": {
+		"get_item": {
+			"conditions": {
+				"items": [
+					{
+						"item": "extcaves:stew_fluorescent"
+					}
+				]
+			},
+			"trigger": "minecraft:inventory_changed"
+		}
+	},
+	"display": {
+		"description": {
+			"translate": "advancements.caves.stew_fluorescent.description"
+		},
+		"icon": {
+			"item": "extcaves:stew_fluorescent"
+		},
+		"title": {
+			"translate": "advancements.caves.stew_fluorescent.title"
+		}
+	},
+	"parent": "extcaves:caves/mushroom_fluoshroom"
+}

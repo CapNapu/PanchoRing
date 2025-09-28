@@ -1,17 +1,20 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "ars_nouveau:purple_archwood_log"
     },
     {
-      "tag": "forge:storage_blocks/emerald"
+      "item": "minecraft:emerald"
     },
     {
-      "item": "minecraft:red_dye"
+      "item": "minecraft:emerald"
+    },
+    {
+      "item": "minecraft:emerald"
     }
   ],
   "result": {
     "item": "ars_nouveau:ritual_challenge"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

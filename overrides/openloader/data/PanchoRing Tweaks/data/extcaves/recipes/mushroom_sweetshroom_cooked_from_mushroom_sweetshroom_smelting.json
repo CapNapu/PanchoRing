@@ -1,0 +1,9 @@
+{
+  "cookingtime": 200,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "extcaves:mushroom_sweetshroom"
+  },
+  "result": "extcaves:mushroom_sweetshroom_cooked",
+  "type": "minecraft:smelting"
+}

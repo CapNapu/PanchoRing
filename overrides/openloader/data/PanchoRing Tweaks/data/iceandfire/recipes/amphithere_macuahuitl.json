@@ -1,25 +1,25 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "key": {
+    "F": {
+      "item": "iceandfire:amphithere_feather"
+    },
+    "O": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "tag": "minecraft:planks"
+    }
+  },
   "pattern": [
     "OXO",
     "FXF",
     "OSO"
   ],
-  "key": {
-    "S": {
-      "tag": "forge:rods/wooden"
-    },
-    "F": {
-      "item": "iceandfire:amphithere_feather"
-    },
-    "X": {
-      "tag": "minecraft:planks"
-    },
-    "O": {
-      "item": "minecraft:crying_obsidian"
-    }
-  },
   "result": {
     "item": "iceandfire:amphithere_macuahuitl"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

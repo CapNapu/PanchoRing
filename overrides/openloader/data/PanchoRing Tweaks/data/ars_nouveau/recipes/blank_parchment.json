@@ -1,0 +1,19 @@
+{
+  "key": {
+    "x": {
+      "item": "iceandfire:manuscript"
+    },
+    "y": {
+      "item": "ars_nouveau:mana_fiber"
+    }
+  },
+  "pattern": [
+    "yyy",
+    "yxy",
+    "yyy"
+  ],
+  "result": {
+    "item": "ars_nouveau:blank_parchment"
+  },
+  "type": "minecraft:crafting_shaped"
+}

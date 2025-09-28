@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "atlas": {
+      "conditions": {
+        "items": [
+          {
+            "item": "mapatlases:atlas"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.atlas.description"
+    },
+    "icon": {
+      "item": "mapatlases:atlas"
+    },
+    "title": {
+      "translate": "advancements.panchoring.atlas.title"
+    }
+  },
+  "parent": "panchoring:cartography_table"
+}

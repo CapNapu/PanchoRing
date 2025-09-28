@@ -1,6 +1,6 @@
 {
-  "type": "ars_nouveau:glyph_recipe",
-  "tier": "ONE",
   "input": "extcaves:moss_fire",
-  "output": "ars_nouveau:glyph_ignite"
+  "output": "ars_nouveau:glyph_ignite",
+  "tier": "ONE",
+  "type": "ars_nouveau:glyph_recipe"
 }

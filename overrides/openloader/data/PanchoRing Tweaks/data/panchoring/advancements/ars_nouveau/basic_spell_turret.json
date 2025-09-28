@@ -12,18 +12,14 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
-      "translate": "advancements.panchoring.ars.basic_spell_turret.description"
+      "translate": "advancements.panchoring.basic_spell_turret.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
       "item": "ars_nouveau:basic_spell_turret"
     },
-    "show_toast": true,
     "title": {
-      "translate": "advancements.panchoring.ars.basic_spell_turret.title"
+      "translate": "advancements.panchoring.basic_spell_turret.title"
     }
   },
   "parent": "panchoring:ars_nouveau/mana_jar"

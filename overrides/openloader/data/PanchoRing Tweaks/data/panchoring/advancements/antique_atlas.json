@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "antique_atlas": {
+      "conditions": {
+        "items": [
+          {
+            "item": "antiqueatlas:empty_antique_atlas"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.antique_atlas.description"
+    },
+    "hidden": true,
+    "icon": {
+      "item": "antiqueatlas:empty_antique_atlas"
+    },
+    "title": {
+      "translate": "advancements.panchoring.antique_atlas.title"
+    }
+  },
+  "parent": "panchoring:atlas"
+}

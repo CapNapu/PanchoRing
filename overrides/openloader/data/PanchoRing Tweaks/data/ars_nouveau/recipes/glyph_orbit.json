@@ -1,6 +1,6 @@
 {
-  "type": "ars_nouveau:glyph_recipe",
+  "input": "minecraft:shulker_shell",
+  "output": "ars_nouveau:glyph_orbit",
   "tier": "THREE",
-  "input": "phantasm:stardust",
-  "output": "ars_nouveau:glyph_orbit"
+  "type": "ars_nouveau:glyph_recipe"
 }

@@ -1,27 +1,16 @@
 {
-  "criteria": {
-    "backpack_renamed": {
-      "trigger": "improvedbackpacks:backpack_renamed"
-    }
-  },
-  "display": {
-    "announce_to_chat": true,
-    "description": {
-      "translate": "advancements.improvedbackpacks.rename_backpack.description"
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
     },
-    "hidden": false,
-    "icon": {
-      "item": "minecraft:name_tag"
+    "display": {
+        "description": "",
+        "hidden": true,
+        "icon": {
+            "item": "minecraft:filled_map"
+        },
+        "title": ""
     },
-    "show_toast": true,
-    "title": {
-      "translate": "advancements.improvedbackpacks.rename_backpack.title"
-    }
-  },
-  "parent": "improvedbackpacks:root",
-  "requirements": [
-    [
-      "backpack_renamed"
-    ]
-  ]
+    "parent": "awesomedungeonocean:root"
 }

@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "wilden_boss": {
+      "conditions": {
+        "entity": {
+          "type": "ars_nouveau:wilden_boss"
+        }
+      },
+      "trigger": "minecraft:player_killed_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.kill_wilden_boss.description"
+    },
+    "frame": "goal",
+    "hidden": true,
+    "icon": {
+      "item": "ars_nouveau:wilden_tribute"
+    },
+    "title": {
+      "translate": "advancements.panchoring.kill_wilden_boss.title"
+    }
+  },
+  "parent": "panchoring:ars_nouveau/ritual"
+}

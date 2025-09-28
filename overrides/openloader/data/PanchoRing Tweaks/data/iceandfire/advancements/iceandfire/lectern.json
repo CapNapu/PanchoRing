@@ -1,19 +1,16 @@
 {
     "criteria": {
-        "bestiary": {
+        "impossible": {
             "trigger": "minecraft:impossible"
         }
     },
     "display": {
-        "description": {
-            "translate": "advancements.iceandfire.lectern.description"
-        },
+        "description": "",
+        "hidden": true,
         "icon": {
-            "item": "iceandfire:lectern"
+            "item": "minecraft:filled_map"
         },
-        "title": {
-            "translate": "advancements.iceandfire.lectern.title"
-        }
+        "title": ""
     },
-    "parent": "panchoring:troll_weapon"
+    "parent": "awesomedungeonocean:root"
 }

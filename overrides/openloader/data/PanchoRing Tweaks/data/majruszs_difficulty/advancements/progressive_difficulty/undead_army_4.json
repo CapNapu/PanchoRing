@@ -1,0 +1,23 @@
+{
+  "criteria": {
+    "army_defeated": {
+      "conditions": {
+        "wave": 4
+      },
+      "trigger": "majruszs_difficulty:undead_army_defeated"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.progressive_difficulty.undead_army_4.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "minecraft:zombie_head"
+    },
+    "title": {
+      "translate": "advancements.progressive_difficulty.undead_army_4.title"
+    }
+  },
+  "parent": "majruszs_difficulty:progressive_difficulty/undead_army"
+}

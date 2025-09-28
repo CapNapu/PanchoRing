@@ -1,12 +1,12 @@
 {
-    "type": "minecraft:smithing",
-    "base": {
-        "tag": "panchoring:dragonsteel_boots"
-    },
     "addition": {
         "item": "cataclysm:ignitium_ingot"
     },
+    "base": {
+        "tag": "panchoring:netherite_boots"
+    },
     "result": {
         "item": "cataclysm:ignitium_boots"
-    }
+    },
+    "type": "minecraft:smithing"
 }

@@ -3,7 +3,7 @@
 		"common": {
 			"armor_negation": 15,
 			"impact": 1.9,
-			"speed_bonus": 0.1
+			"speed_bonus": 0.3
 		}
 	},
 	"type": "trident"

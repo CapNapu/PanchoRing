@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "get_stone": {
+      "conditions": {
+        "items": [
+          {
+            "tag": "minecraft:stone_tool_materials"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.story.mine_stone.description"
+    },
+    "icon": {
+      "item": "minecraft:cobblestone"
+    },
+    "title": {
+      "translate": "advancements.story.mine_stone.title"
+    }
+  },
+  "parent": "minecraft:story/root"
+}

@@ -12,18 +12,14 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
-      "translate": "advancements.panchoring.ars.mana_bloom_crop.description"
+      "translate": "advancements.panchoring.mana_bloom_crop.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
       "item": "ars_nouveau:mana_bloom_crop"
     },
-    "show_toast": true,
     "title": {
-      "translate": "advancements.panchoring.ars.mana_bloom_crop.title"
+      "translate": "advancements.panchoring.mana_bloom_crop.title"
     }
   },
   "parent": "panchoring:ars_nouveau/enchanting_apparatus"

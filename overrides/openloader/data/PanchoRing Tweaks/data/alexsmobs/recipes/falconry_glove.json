@@ -1,20 +1,13 @@
 {
-  "key": {
-    "H": {
-      "item": "alexsmobs:bear_fur"
-    },
-    "L": {
-      "item": "improvedbackpacks:bound_leather"
-    }
+  "first": {
+    "item": "improvedbackpacks:bound_leather"
   },
-  "pattern": [
-    " L ",
-    "LLL",
-    " H "
-  ],
-  "result": {
-    "count": 1,
-    "item": "alexsmobs:falconry_glove"
+  "first_count": 2,
+  "result": "alexsmobs:falconry_glove",
+  "second": {
+    "item": "alexsmobs:bear_fur"
   },
-  "type": "minecraft:crafting_shaped"
+  "second_count": 1,
+  "spools_count": 1,
+  "type": "improvedbackpacks:sewing"
 }

@@ -12,18 +12,15 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
-      "translate": "advancements.panchoring.ars.carbuncle_shard.description"
+      "translate": "advancements.panchoring.carbuncle_shard.description"
     },
     "frame": "goal",
-    "hidden": false,
     "icon": {
       "item": "ars_nouveau:carbuncle_shards"
     },
-    "show_toast": true,
     "title": {
-      "translate": "advancements.panchoring.ars.carbuncle_shard.title"
+      "translate": "advancements.panchoring.carbuncle_shard.title"
     }
   },
   "parent": "panchoring:ars_nouveau/archwood_forest"

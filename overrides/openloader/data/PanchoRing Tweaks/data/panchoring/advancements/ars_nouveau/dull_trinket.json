@@ -32,16 +32,12 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.panchoring.dull_trinket.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
       "item": "ars_nouveau:dull_trinket"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.panchoring.dull_trinket.title"
     }

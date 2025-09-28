@@ -1,30 +1,16 @@
 {
-  "criteria": {
-    "upgrade_backpack": {
-      "conditions": {
-        "pocket_type": "tiny"
-      },
-      "trigger": "improvedbackpacks:backpack_upgraded"
-    }
-  },
-  "display": {
-    "announce_to_chat": true,
-    "description": {
-      "translate": "advancements.improvedbackpacks.tiny_upgrade.description"
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
     },
-    "hidden": false,
-    "icon": {
-      "item": "improvedbackpacks:tiny_pocket"
+    "display": {
+        "description": "",
+        "hidden": true,
+        "icon": {
+            "item": "minecraft:filled_map"
+        },
+        "title": ""
     },
-    "show_toast": true,
-    "title": {
-      "translate": "advancements.improvedbackpacks.tiny_upgrade.title"
-    }
-  },
-  "parent": "improvedbackpacks:sewing_table",
-  "requirements": [
-    [
-      "upgrade_backpack"
-    ]
-  ]
+    "parent": "awesomedungeonocean:root"
 }

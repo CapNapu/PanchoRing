@@ -1,0 +1,23 @@
+{
+  "key": {
+    "C": {
+      "item": "alexsmobs:capsid"
+    },
+    "E": {
+      "item": "minecraft:end_stone"
+    },
+    "I": {
+      "item": "iceandfire:silver_nugget"
+    }
+  },
+  "pattern": [
+    " C ",
+    " I ",
+    "EIE"
+  ],
+  "result": {
+    "count": 3,
+    "item": "alexsmobs:enderiophage_rocket"
+  },
+  "type": "minecraft:crafting_shaped"
+}

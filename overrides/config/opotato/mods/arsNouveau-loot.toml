@@ -57,9 +57,9 @@
 		sylphShard = true
 		drygmyShard = true
 		#Range: 0 ~ 64
-		pierceArrowBasicCount = 16
+		pierceArrowBasicCount = 6
 		#Range: 0 ~ 64
-		splitArrowBasicCount = 16
+		splitArrowBasicCount = 4
 		#Range: 0 ~ 64
 		amplifyArrowMaxCount = 16
 		wixieShard = true
@@ -67,13 +67,13 @@
 		warpScrollMaxCount = 2
 		carbuncleShard = true
 		#Range: 0 ~ 64
-		amplifyArrowBasicCount = 16
-		ritualTablets = true
+		amplifyArrowBasicCount = 8
+		ritualTablets = false
 		splitArrow = true
 		#Range: 0 ~ 64
-		pierceArrowMaxCount = 16
+		pierceArrowMaxCount = 12
 		#Range: 0 ~ 64
-		splitArrowMaxCount = 16
+		splitArrowMaxCount = 8
 		amplifyArrow = true
 		pierceArrow = true
 

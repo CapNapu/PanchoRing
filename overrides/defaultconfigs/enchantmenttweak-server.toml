@@ -1,0 +1,38 @@
+
+["Protection tweaks"]
+	#Enable Protection Enchantment tweak
+	enableProtectionTweak = true
+	#0=melee, 1=melee+projectile+explosion, 2=vanilla
+	#Range: 0 ~ 2
+	protectionMode = 0
+	#Magic, Fire, and Lighting damage wont pass melee check when this set to true.
+	meleeMode = true
+
+	["Protection tweaks".TypeModifiers]
+		#Tweak Typemodifier for Protection Enchantment
+		#Range: 0.1 ~ 1.7976931348623157E308
+		protectionTypemodifier = 0.8
+		#Range: 0.1 ~ 1.7976931348623157E308
+		fireProtectionTypemodifier = 0.8
+		#Range: 0.1 ~ 1.7976931348623157E308
+		fallProtectionTypemodifier = 0.8
+		#Range: 0.1 ~ 1.7976931348623157E308
+		explosionProtectionTypemodifier = 0.8
+		#Range: 0.1 ~ 1.7976931348623157E308
+		projectileProtectionTypemodifier = 0.8
+		#Range: 0.1 ~ 1.7976931348623157E308
+		magicProtectionTypemodifier = 0.1
+
+	["Protection tweaks"."Magic Protection"]
+		canGenerateInLoot = false
+		canTrade = false
+
+["Sharpness tweaks"]
+	#Enable Sharpness Enchantment tweak
+	enableSharpnessTweak = false
+	#Tweak damage multiplier for Sharpness Enchantment
+	#Range: 0.1 ~ 1.7976931348623157E308
+	sharpnessMultiplier = 2.0
+	#Enable Sharpness on Trident
+	sharpnessOnTrident = false
+

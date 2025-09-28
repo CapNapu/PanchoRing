@@ -1,0 +1,17 @@
+{
+  "key": {
+    "x": {
+      "item": "minecraft:basalt"
+    }
+  },
+  "pattern": [
+    "x  ",
+    "xx ",
+    "xxx"
+  ],
+  "result": {
+    "count": 6,
+    "item": "infernalexp:basalt_stairs"
+  },
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,0 +1,26 @@
+{
+	"criteria": {
+		"get_mushroom": {
+			"conditions": {
+				"items": [
+					{
+						"item": "extcaves:mushroom_shinyshroom"
+					}
+				]
+			},
+			"trigger": "minecraft:inventory_changed"
+		}
+	},
+	"display": {
+		"description": {
+			"translate": "advancements.caves.mushroom_shinyshroom.description"
+		},
+		"icon": {
+			"item": "extcaves:mushroom_shinyshroom"
+		},
+		"title": {
+			"translate": "advancements.caves.mushroom_shinyshroom.title"
+		}
+	},
+	"parent": "extcaves:caves/mushroom_goldishroom"
+}

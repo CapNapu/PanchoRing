@@ -12,18 +12,14 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
-      "translate": "advancements.panchoring.ars.enchanting_apparatus.description"
+      "translate": "advancements.panchoring.enchanting_apparatus.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
       "item": "ars_nouveau:enchanting_apparatus"
     },
-    "show_toast": true,
     "title": {
-      "translate": "advancements.panchoring.ars.enchanting_apparatus.title"
+      "translate": "advancements.panchoring.enchanting_apparatus.title"
     }
   },
   "parent": "panchoring:ars_nouveau/root"

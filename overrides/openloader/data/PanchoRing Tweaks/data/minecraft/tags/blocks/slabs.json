@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "bygonenether:cracked_withered_blackstone_slab",
+    "bygonenether:warped_nether_brick_slab",
+    "bygonenether:withered_blackstone_slab",
+    "extcaves:bricks_ice_slab",
+    "extcaves:bricks_snow_slab",
+    "extcaves:dirtstone_cobble_slab",
+    "extcaves:dirtstone_slab",
+    "extcaves:lavastone_slab",
+    "extcaves:polished_lavastone_slab",
+    "extcaves:sedimentstone_slab",
+    "phantasm:crystiles_slab",
+    "phantasm:raw_purpur_bricks_slab",
+    "phantasm:smooth_obsidian_bricks_slab",
+    "phantasm:void_crystiles_slab"
+  ]
+}

@@ -1,19 +1,16 @@
 {
     "criteria": {
-        "bestiary": {
+        "impossible": {
             "trigger": "minecraft:impossible"
         }
     },
     "display": {
-        "description": {
-            "translate": "advancements.iceandfire.gorgon_head.description"
-        },
+        "description": "",
+        "hidden": true,
         "icon": {
-            "item": "iceandfire:gorgon_head"
+            "item": "minecraft:filled_map"
         },
-        "title": {
-            "translate": "advancements.iceandfire.gorgon_head.title"
-        }
+        "title": ""
     },
-    "parent": "iceandfire:iceandfire/bestiary"
+    "parent": "awesomedungeonocean:root"
 }

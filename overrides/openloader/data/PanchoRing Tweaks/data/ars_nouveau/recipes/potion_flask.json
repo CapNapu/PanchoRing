@@ -1,5 +1,4 @@
 {
-  "type": "ars_nouveau:enchanting_apparatus",
   "item_1": [
     {
       "item": "ars_nouveau:blaze_fiber"
@@ -12,20 +11,21 @@
   ],
   "item_3": [
     {
-      "tag": "forge:gems/mana"
+      "item": "ars_nouveau:mana_gem"
     }
   ],
   "item_4": [
     {
-      "tag": "forge:ingots/gold"
+      "item": "minecraft:gold_ingot"
     }
   ],
+  "output": {
+    "item": "ars_nouveau:potion_flask"
+  },
   "reagent": [
     {
       "item": "minecraft:glass_bottle"
     }
   ],
-  "output": {
-    "item": "ars_nouveau:potion_flask"
-  }
+  "type": "ars_nouveau:enchanting_apparatus"
 }

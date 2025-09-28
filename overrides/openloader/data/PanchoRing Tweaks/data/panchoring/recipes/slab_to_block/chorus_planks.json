@@ -1,0 +1,14 @@
+{
+  "key": {
+    "0": {
+      "item": "cataclysm:chorus_slab"
+    }
+  },
+  "pattern": [
+    "00"
+  ],
+  "result": {
+    "item": "cataclysm:chorus_planks"
+  },
+  "type": "minecraft:crafting_shaped"
+}

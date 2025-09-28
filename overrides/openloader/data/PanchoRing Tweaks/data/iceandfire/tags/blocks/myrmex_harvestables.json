@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "projectvibrantjourneys:aspen_fallen_leaves",
+    "projectvibrantjourneys:beach_grass",
+    "projectvibrantjourneys:blooming_desert_agave",
+    "projectvibrantjourneys:cattail",
+    "projectvibrantjourneys:desert_agave",
+    "projectvibrantjourneys:dry_grass",
+    "projectvibrantjourneys:fallen_leaves",
+    "projectvibrantjourneys:orange_maple_fallen_leaves",
+    "projectvibrantjourneys:pink_sakura_fallen_leaves",
+    "projectvibrantjourneys:prairie_grass",
+    "projectvibrantjourneys:purple_maple_fallen_leaves",
+    "projectvibrantjourneys:red_maple_fallen_leaves",
+    "projectvibrantjourneys:sea_oats",
+    "projectvibrantjourneys:short_grass",
+    "projectvibrantjourneys:twigs",
+    "projectvibrantjourneys:white_sakura_fallen_leaves",
+    "supplementaries:wild_flax"
+  ]
+}

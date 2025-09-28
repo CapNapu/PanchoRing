@@ -1,6 +1,6 @@
 {
   "criteria": {
-    "consumed_item": {
+    "impossible": {
       "trigger": "minecraft:impossible"
     }
   },
@@ -10,8 +10,6 @@
     "description": {
       "translate": "advancements.husbandry.root.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
       "item": "minecraft:hay_block"
     },
@@ -19,10 +17,5 @@
     "title": {
       "translate": "advancements.husbandry.root.title"
     }
-  },
-  "requirements": [
-    [
-      "consumed_item"
-    ]
-  ]
+  }
 }

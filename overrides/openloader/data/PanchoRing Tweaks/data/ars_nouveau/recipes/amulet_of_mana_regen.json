@@ -1,31 +1,31 @@
 {
-  "type": "ars_nouveau:enchanting_apparatus",
   "item_1": [
     {
-      "tag": "forge:gems/diamond"
+      "item": "minecraft:diamond"
     }
   ],
   "item_2": [
     {
-      "tag": "forge:gems/diamond"
+      "item": "minecraft:diamond"
     }
   ],
   "item_3": [
     {
-      "tag": "forge:ingots/gold"
+      "item": "infernalexp:molten_gold_cluster"
     }
   ],
   "item_4": [
     {
-      "tag": "forge:gems/end_crystal_fragment"
+      "item": "endrem:end_crystal_fragment"
     }
   ],
+  "output": {
+    "item": "ars_nouveau:amulet_of_mana_regen"
+  },
   "reagent": [
     {
       "item": "ars_nouveau:amulet_of_mana_boost"
     }
   ],
-  "output": {
-    "item": "ars_nouveau:amulet_of_mana_regen"
-  }
+  "type": "ars_nouveau:enchanting_apparatus"
 }

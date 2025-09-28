@@ -1,5 +1,4 @@
 {
-  "type": "ars_nouveau:enchanting_apparatus",
   "item_1": [
     {
       "item": "minecraft:blaze_powder"
@@ -12,20 +11,21 @@
   ],
   "item_3": [
     {
-      "item": "infernalexp:molten_gold_cluster"
+      "item": "iceandfire:pixie_dust"
     }
   ],
   "item_4": [
     {
-      "item": "infernalexp:molten_gold_cluster"
+      "item": "iceandfire:pixie_dust"
     }
   ],
+  "output": {
+    "item": "ars_elemental:fire_focus"
+  },
   "reagent": [
     {
       "tag": "panchoring:elemental_foci_to_fire"
     }
   ],
-  "output": {
-    "item": "ars_elemental:fire_focus"
-  }
+  "type": "ars_nouveau:enchanting_apparatus"
 }

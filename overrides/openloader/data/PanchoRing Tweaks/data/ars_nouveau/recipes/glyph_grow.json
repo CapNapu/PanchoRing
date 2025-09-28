@@ -1,6 +1,6 @@
 {
-  "type": "ars_nouveau:glyph_recipe",
+  "input": "infernalexp:luminous_fungus",
+  "output": "ars_nouveau:glyph_grow",
   "tier": "TWO",
-  "input": "iceandfire:pixie_dust",
-  "output": "ars_nouveau:glyph_grow"
+  "type": "ars_nouveau:glyph_recipe"
 }

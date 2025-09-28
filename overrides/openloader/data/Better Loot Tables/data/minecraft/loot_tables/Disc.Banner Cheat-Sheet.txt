@@ -1,0 +1,29 @@
+DISCS:
+
+Creeper: stal, cat, 13
+Dungeon: stal, cat, 13
+Bartering/fortress: Pigstep
+Fishing Treasure: Wait
+Fishing Junk: Stal
+Desert Pyramid: mall
+Shipwreck: wait
+Jungle Pyramid: chirp
+Buried Treasure: cat
+Stronghold Crossing: ward
+Stronghold Library: Blocks
+Mansion: far
+Villager: Mellohi
+Wither: 11
+End City: Strad
+
+BANNERS:
+
+Thing: End city, wither (RARELY)
+Globe: Wandering Trader/stronghold library
+Flower: Master Cartographer
+Skull: Fortress/buried treasure
+Creeper: Dungeon
+Snout: Bastions (like normal), piglin bartering
+
+I also wanted to make them renewable so you could still obtian them when playing with structures off:
+As mentioned, Flower can be purchased from a master level cartographer (instead of globe), snout from piglin trading, buried treasure is a feature not a structure, and thing as a VERY rare drop from the wither. As of now, creeper would be unobtainable in these challenge worlds, but I am open to suggestions.

@@ -5,5 +5,5 @@
 	   Pros: Get a bit more performance from high weight Template Pool Structures.
 	   Cons: Loses parity with vanilla seeds on the layout of the structure. (Structure layout is not broken, just different)
 	*/
-	"deduplicateShuffledTemplatePoolElementList": false
+	"deduplicateShuffledTemplatePoolElementList": true
 }

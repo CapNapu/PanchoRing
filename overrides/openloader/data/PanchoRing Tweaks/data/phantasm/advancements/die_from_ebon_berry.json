@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "die_from_ebon_berry": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.die_from_ebon_berry.descr"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "phantasm:oblifruit"
+    },
+    "title": {
+      "translate": "advancements.die_from_ebon_berry.title"
+    }
+  },
+  "parent": "phantasm:enter_underisland"
+}

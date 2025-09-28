@@ -1,6 +1,6 @@
 {
-  "type": "ars_nouveau:glyph_recipe",
+  "input": "alexsmobs:ambergris",
+  "output": "ars_nouveau:glyph_exchange",
   "tier": "TWO",
-  "input": "infernalexp:spirit_eye",
-  "output": "ars_nouveau:glyph_exchange"
+  "type": "ars_nouveau:glyph_recipe"
 }

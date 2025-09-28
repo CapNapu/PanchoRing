@@ -12,16 +12,13 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.panchoring.earthdive_spear.description"
     },
     "frame": "goal",
-    "hidden": false,
     "icon": {
       "item": "bosses_of_mass_destruction:earthdive_spear"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.panchoring.earthdive_spear.title"
     }

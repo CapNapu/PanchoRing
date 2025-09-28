@@ -1,20 +1,20 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "ars_nouveau:purple_archwood_log"
     },
     {
-      "item": "ars_nouveau:wilden_wing"
+      "item": "iceandfire:amythest_gem"
     },
     {
-      "item": "ars_nouveau:wilden_wing"
+      "item": "iceandfire:amythest_gem"
     },
     {
-      "tag": "forge:gems/sapphire"
+      "item": "iceandfire:amythest_gem"
     }
   ],
   "result": {
     "item": "ars_nouveau:ritual_flight"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

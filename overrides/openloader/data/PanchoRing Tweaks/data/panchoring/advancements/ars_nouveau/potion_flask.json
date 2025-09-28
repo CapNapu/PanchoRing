@@ -12,18 +12,15 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
-      "translate": "advancements.panchoring.ars.potion_flask.description"
+      "translate": "advancements.panchoring.potion_flask.description"
     },
     "frame": "goal",
-    "hidden": false,
     "icon": {
       "item": "ars_nouveau:potion_flask"
     },
-    "show_toast": true,
     "title": {
-      "translate": "advancements.panchoring.ars.potion_flask.title"
+      "translate": "advancements.panchoring.potion_flask.title"
     }
   },
   "parent": "panchoring:ars_nouveau/potion_jar"

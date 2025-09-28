@@ -11,7 +11,7 @@
 	# Entries must have the mod namespace included.
 	# For example: "[minecraft:plains, byg:alps]"
 	# Default: "[minecraft:ocean, minecraft:frozen_ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:beach, minecraft:snowy_beach, minecraft:river, minecraft:frozen_river]"
-	"Blacklisted Biomes" = "[minecraft:ocean, minecraft:frozen_ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:beach, minecraft:snowy_beach, minecraft:river, minecraft:frozen_river]"
+	"Blacklisted Biomes" = "[minecraft:beach, minecraft:cold_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_ocean, minecraft:deep_warm_ocean, minecraft:frozen_ocean, minecraft:frozen_river, minecraft:lukewarm_ocean, minecraft:mushroom_field_shore, minecraft:ocean, minecraft:river, minecraft:snowy_beach, minecraft:stone_shore, minecraft:warm_ocean, projectvibrantjourneys:gravel_shore, projectvibrantjourneys:windswept_shore]"
 
 	###########################################################################################################
 	## General settings.

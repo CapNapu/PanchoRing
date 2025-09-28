@@ -12,16 +12,13 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.panchoring.sapphire.description"
     },
     "frame": "goal",
-    "hidden": false,
     "icon": {
       "item": "iceandfire:sapphire_gem"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.panchoring.sapphire.title"
     }

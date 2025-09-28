@@ -1,5 +1,5 @@
 {
-  "armorSetName": "Gilded Glory",
+  "armorSetName": "Gilded Glory Set",
   "performanceMode": true,
   "head": {
     "itemKey": "dungeons_gear:gilded_glory_helmet",
@@ -24,17 +24,17 @@
       "name": "minecraft:luck",
       "value": 0.0,
       "interactionType": "self",
-      "interactionDuration": 200,
+      "interactionDuration": 120,
       "hideBonusDescription": true
     }
   ],
   "fullSetBonuses": [
     {
       "type": "effect",
-      "name": "minecraft:luck",
-      "value": 1.0,
+      "name": "minecraft:regeneration",
+      "value": 0.0,
       "interactionType": "self",
-      "interactionDuration": 200,
+      "interactionDuration": 120,
       "hideBonusDescription": true
     }
   ],

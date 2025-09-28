@@ -1,0 +1,50 @@
+{
+  "criteria": {
+    "Ender Guardian Music Disc": {
+      "conditions": {
+        "items": [
+          {
+            "item": "cataclysm:music_disc_ender_guardian"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Ignis Music Disc": {
+      "conditions": {
+        "items": [
+          {
+            "item": "cataclysm:music_disc_ignis"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Netherite Monstrosity Music Disc": {
+      "conditions": {
+        "items": [
+          {
+            "item": "cataclysm:music_disc_netherite_monstrosity"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.music_discs_bosses.description"
+    },
+    "frame": "challenge",
+    "icon": {
+      "item": "cataclysm:music_disc_ignis"
+    },
+    "title": {
+      "translate": "advancements.panchoring.music_discs_bosses.title"
+    }
+  },
+  "parent": "panchoring:music_disc_soul_spunk",
+  "rewards": {
+    "experience": 250
+  }
+}

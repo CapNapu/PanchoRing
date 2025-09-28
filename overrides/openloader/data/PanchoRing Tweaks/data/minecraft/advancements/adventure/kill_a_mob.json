@@ -98,48 +98,6 @@
       },
       "trigger": "minecraft:player_killed_entity"
     },
-    "ars_nouveau:wilden_guardian": {
-      "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "ars_nouveau:wilden_guardian"
-            }
-          }
-        ]
-      },
-      "trigger": "minecraft:player_killed_entity"
-    },
-    "ars_nouveau:wilden_hunter": {
-      "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "ars_nouveau:wilden_hunter"
-            }
-          }
-        ]
-      },
-      "trigger": "minecraft:player_killed_entity"
-    },
-    "ars_nouveau:wilden_stalker": {
-      "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "ars_nouveau:wilden_stalker"
-            }
-          }
-        ]
-      },
-      "trigger": "minecraft:player_killed_entity"
-    },
     "bosses_of_mass_destruction:gauntlet": {
       "conditions": {
         "entity": [
@@ -1318,17 +1276,12 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.adventure.kill_a_mob.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
-      "item": "minecraft:iron_sword",
-      "nbt": "{Damage:0}"
+      "item": "dungeons_gear:sword"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.adventure.kill_a_mob.title"
     }
@@ -1343,9 +1296,6 @@
       "alexsmobs:void_worm",
       "alexsmobs:warped_mosco",
       "ars_nouveau:wilden_boss",
-      "ars_nouveau:wilden_guardian",
-      "ars_nouveau:wilden_hunter",
-      "ars_nouveau:wilden_stalker",
       "bosses_of_mass_destruction:gauntlet",
       "bosses_of_mass_destruction:lich",
       "bosses_of_mass_destruction:obsidilith",

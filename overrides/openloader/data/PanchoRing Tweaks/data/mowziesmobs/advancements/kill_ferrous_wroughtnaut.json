@@ -14,6 +14,7 @@
       "translate": "advancements.mowziesmobs.kill_ferrous_wroughtnaut.description"
     },
     "frame": "goal",
+    "hidden": true,
     "icon": {
       "item": "mowziesmobs:wrought_helmet"
     },

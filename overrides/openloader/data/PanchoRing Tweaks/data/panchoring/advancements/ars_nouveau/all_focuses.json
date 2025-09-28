@@ -40,16 +40,6 @@
       },
       "trigger": "minecraft:inventory_changed"
     },
-    "Focus of Water": {
-      "conditions": {
-        "items": [
-          {
-            "item": "ars_elemental:water_focus"
-          }
-        ]
-      },
-      "trigger": "minecraft:inventory_changed"
-    },
     "Focus of Summoning": {
       "conditions": {
         "items": [
@@ -59,25 +49,32 @@
         ]
       },
       "trigger": "minecraft:inventory_changed"
+    },
+    "Focus of Water": {
+      "conditions": {
+        "items": [
+          {
+            "item": "ars_elemental:water_focus"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.panchoring.all_focuses.description"
     },
     "frame": "challenge",
-    "hidden": false,
     "icon": {
       "item": "ars_nouveau:summon_focus"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.panchoring.all_focuses.description"
     }
   },
   "parent": "panchoring:ars_nouveau/wilden_boss",
   "rewards": {
-    "experience": 200
+    "experience": 100
   }
 }

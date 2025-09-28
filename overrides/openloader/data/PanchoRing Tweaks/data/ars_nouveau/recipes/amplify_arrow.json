@@ -1,12 +1,12 @@
 {
   "item_1": [
     {
-      "tag": "forge:storage_blocks/mana"
+      "item": "ars_nouveau:mana_gem_block"
     }
   ],
   "item_2": [
     {
-      "tag": "forge:storage_blocks/mana"
+      "item": "ars_nouveau:mana_gem_block"
     }
   ],
   "item_3": [

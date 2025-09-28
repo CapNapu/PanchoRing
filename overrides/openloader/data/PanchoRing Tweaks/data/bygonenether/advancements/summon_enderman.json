@@ -16,24 +16,16 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.bygonenether.summon_enderman.description"
     },
-    "frame": "task",
-    "hidden": false,
+    "frame": "goal",
     "icon": {
       "item": "minecraft:ender_pearl"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.bygonenether.summon_enderman.title"
     }
   },
-  "parent": "panchoring:warped_ender_pearl",
-  "requirements": [
-    [
-      "summoned"
-    ]
-  ]
+  "parent": "panchoring:warped_ender_pearl"
 }

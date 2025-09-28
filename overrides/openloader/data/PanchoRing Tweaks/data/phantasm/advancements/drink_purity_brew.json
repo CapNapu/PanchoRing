@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "drink_purity_brew": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.drink_purity_brew.descr"
+    },
+    "icon": {
+      "item": "phantasm:crystalily"
+    },
+    "title": {
+      "translate": "advancements.drink_purity_brew.title"
+    }
+  },
+  "parent": "phantasm:get_crystal"
+}

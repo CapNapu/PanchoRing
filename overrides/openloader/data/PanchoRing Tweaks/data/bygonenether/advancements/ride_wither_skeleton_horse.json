@@ -6,24 +6,15 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.bygonenether.ride_wither_skeleton_horse.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
       "item": "minecraft:saddle"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.bygonenether.ride_wither_skeleton_horse.title"
     }
   },
-  "parent": "minecraft:nether/distract_piglin",
-  "requirements": [
-    [
-      "ride_a_wither_skeleton_horse"
-    ]
-  ]
+  "parent": "minecraft:nether/distract_piglin"
 }

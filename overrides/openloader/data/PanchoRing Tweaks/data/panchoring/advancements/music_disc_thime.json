@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "music_disc_thime": {
+      "conditions": {
+        "items": [
+          {
+            "item": "alexsmobs:music_disc_thime"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.music_disc_thime.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "alexsmobs:music_disc_thime"
+    },
+    "title": {
+      "translate": "advancements.panchoring.music_disc_thime.title"
+    }
+  },
+  "parent": "panchoring:music_discs_normal"
+}

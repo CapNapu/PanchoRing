@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "music_disc_soul_spunk": {
+      "conditions": {
+        "items": [
+          {
+            "item": "infernalexp:music_disc_soul_spunk"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.music_disc_soul_spunk.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "infernalexp:music_disc_soul_spunk"
+    },
+    "title": {
+      "translate": "advancements.panchoring.music_disc_soul_spunk.title"
+    }
+  },
+  "parent": "panchoring:music_disc_thime"
+}

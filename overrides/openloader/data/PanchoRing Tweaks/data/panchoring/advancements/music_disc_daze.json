@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "music_disc_daze": {
+      "conditions": {
+        "items": [
+          {
+            "item": "alexsmobs:music_disc_daze"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.panchoring.music_disc_daze.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "alexsmobs:music_disc_daze"
+    },
+    "title": {
+      "translate": "advancements.panchoring.music_disc_daze.title"
+    }
+  },
+  "parent": "panchoring:music_disc_petiole"
+}

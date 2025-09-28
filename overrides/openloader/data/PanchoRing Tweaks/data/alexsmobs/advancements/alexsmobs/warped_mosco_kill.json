@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "killed": {
+      "conditions": {
+        "entity": {
+          "type": "alexsmobs:warped_mosco"
+        }
+      },
+      "trigger": "minecraft:player_killed_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.alexsmobs.warped_mosco_kill.desc"
+    },
+    "frame": "goal",
+    "icon": {
+      "item": "alexsmobs:tab_icon",
+      "nbt": "{DisplayEntityType:\"alexsmobs:warped_mosco\"}"
+    },
+    "title": {
+      "translate": "advancements.alexsmobs.warped_mosco_kill.title"
+    }
+  },
+  "parent": "alexsmobs:alexsmobs/crimson_mosquito_sick"
+}

@@ -1,0 +1,14 @@
+{
+  "key": {
+    "0": {
+      "item": "dustydecor:corrugated_metal_slab"
+    }
+  },
+  "pattern": [
+    "00"
+  ],
+  "result": {
+    "item": "dustydecor:corrugated_metal_block"
+  },
+  "type": "minecraft:crafting_shaped"
+}

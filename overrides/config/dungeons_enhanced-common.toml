@@ -116,7 +116,7 @@
 	biomes = "#structure_gel:ocean"
 	#Percent chance of generating in an allowed chunk.
 	#Range: 0.0 ~ 1.0
-	probability = 0.68
+	probability = 0.0
 
 ["Flying Dutchman"]
 	#The average distance between structures of this type, measured in chunks.
@@ -286,7 +286,7 @@
 	biomes = "#structure_gel:ocean"
 	#Percent chance of generating in an allowed chunk.
 	#Range: 0.0 ~ 1.0
-	probability = 0.49
+	probability = 0.0
 
 ["Ruined Building"]
 	#The average distance between structures of this type, measured in chunks.
@@ -320,7 +320,7 @@
 	biomes = "#structure_gel:ocean"
 	#Percent chance of generating in an allowed chunk.
 	#Range: 0.0 ~ 1.0
-	probability = 0.55
+	probability = 0.0
 
 [Stables]
 	#The average distance between structures of this type, measured in chunks.

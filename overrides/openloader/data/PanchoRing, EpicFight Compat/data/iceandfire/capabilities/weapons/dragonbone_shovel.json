@@ -1,8 +1,9 @@
 {
 	"attributes": {
 		"common": {
+			"armor_negation": 10,
 			"damage_bonus": -1,
-			"impact": 2.0
+			"impact": 2.4
 		}
 	},
 	"type": "shovel"

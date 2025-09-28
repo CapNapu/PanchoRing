@@ -10,25 +10,15 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.adventure.ol_betsy.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
-      "item": "minecraft:crossbow",
-      "nbt": "{Damage:0}"
+      "item": "minecraft:crossbow"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.adventure.ol_betsy.title"
     }
   },
-  "parent": "minecraft:adventure/shoot_arrow",
-  "requirements": [
-    [
-      "shot_crossbow"
-    ]
-  ]
+  "parent": "minecraft:adventure/shoot_arrow"
 }

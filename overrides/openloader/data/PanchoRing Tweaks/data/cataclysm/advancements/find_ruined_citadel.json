@@ -20,10 +20,5 @@
       "translate": "advancements.cataclysm.find_ruined_citadel.title"
     }
   },
-  "parent": "minecraft:end/enter_end_gateway",
-  "requirements": [
-    [
-      "citadel"
-    ]
-  ]
+  "parent": "minecraft:end/enter_end_gateway"
 }

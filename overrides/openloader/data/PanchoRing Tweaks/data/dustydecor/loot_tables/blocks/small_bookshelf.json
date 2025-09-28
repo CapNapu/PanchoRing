@@ -1,9 +1,6 @@
 {
-  "type": "minecraft:block",
-  "random_sequence": "dustydecor:blocks/small_bookshelf",
   "pools": [
     {
-      "rolls": 1.0,
       "conditions": [
         {
           "condition": "minecraft:survives_explosion"
@@ -11,10 +8,13 @@
       ],
       "entries": [
         {
-          "type": "minecraft:item",
-          "name": "dustydecor:small_bookshelf"
+          "name": "dustydecor:small_bookshelf",
+          "type": "minecraft:item"
         }
-      ]
+      ],
+      "rolls": 1.0
     }
-  ]
+  ],
+  "random_sequence": "dustydecor:blocks/small_bookshelf",
+  "type": "minecraft:block"
 }

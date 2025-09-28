@@ -1,0 +1,23 @@
+{
+  "ingredients": [
+    {
+      "item": "ars_nouveau:marvelous_clay"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "phantasm:pream_berry"
+    },
+    {
+      "item": "phantasm:pream_berry"
+    }
+  ],
+  "result": {
+    "item": "ars_nouveau:mythical_clay"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

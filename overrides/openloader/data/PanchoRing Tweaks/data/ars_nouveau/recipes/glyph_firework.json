@@ -1,6 +1,6 @@
 {
-  "type": "ars_nouveau:glyph_recipe",
+  "input": "alexsmobs:tarantula_hawk_wing",
+  "output": "ars_nouveau:glyph_firework",
   "tier": "TWO",
-  "input": "minecraft:gunpowder",
-  "output": "ars_nouveau:glyph_firework"
+  "type": "ars_nouveau:glyph_recipe"
 }

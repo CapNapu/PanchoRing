@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "cataclysm:ignitium_block",
+    "iceandfire:amythest_block",
+    "iceandfire:copper_block",
+    "iceandfire:dragonsteel_fire_block",
+    "iceandfire:dragonsteel_ice_block",
+    "iceandfire:dragonsteel_lightning_block",
+    "iceandfire:sapphire_block",
+    "iceandfire:silver_block",
+    "majruszs_difficulty:end_block"
+  ]
+}

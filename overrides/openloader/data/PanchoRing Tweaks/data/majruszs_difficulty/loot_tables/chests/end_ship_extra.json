@@ -26,7 +26,7 @@
               "function": "minecraft:set_count"
             }
           ],
-          "name": "minecraft:emerald",
+          "name": "phantasm:stellium_nugget",
           "type": "minecraft:item",
           "weight": 30
         },
@@ -52,7 +52,7 @@
               "treasure": true
             }
           ],
-          "name": "phantasm:stellium_hoe",
+          "name": "phantasm:crystalline_hoe",
           "type": "minecraft:item",
           "weight": 5
         }
@@ -66,7 +66,7 @@
     {
       "entries": [
         {
-          "name": "phantasm:stellium_ingot",
+          "name": "majruszs_difficulty:end_shard",
           "type": "minecraft:item"
         }
       ],

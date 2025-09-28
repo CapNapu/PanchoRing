@@ -1,55 +1,124 @@
 [
     {
-        "remove": "iceandfire:dread_shard",
-        "mob": [
-            "minecraft:zombie",
-            "minecraft:husk",
-            "minecraft:skeleton",
-            "majruszs_difficulty:elite_skeleton",
-            "minecraft:drowned",
-            "minecraft:zombified_piglin",
-            "bygonenether:wraither"
+        "mob": "minecraft:zombie",
+        "remove": [
+            "ars_nouveau:apprentice_leggings",
+            "ars_nouveau:apprentice_robes",
+            "ars_nouveau:novice_leggings",
+            "ars_nouveau:novice_robes",
+            "dungeons_gear:mercenary_chestplate",
+            "dungeons_gear:mercenary_helmet",
+            "iceandfire:armor_copper_metal_boots",
+            "iceandfire:armor_copper_metal_chestplate",
+            "iceandfire:armor_copper_metal_helmet",
+            "iceandfire:armor_copper_metal_leggings",
+            "minecraft:chainmail_chestplate",
+            "minecraft:chainmail_leggings"
         ]
     },
     {
-        "remove": "minecraft:bone",
-        "mob": [
-            "minecraft:wither_skeleton",
-            "alexsmobs:soul_vulture",
-            "bygonenether:wraither",
-            "bygonenether:corpor",
-            "bygonenether:wither_skeleton_horse"
+        "mob": "minecraft:husk",
+        "remove": [
+            "dungeons_gear:thief_chestplate",
+            "dungeons_gear:thief_helmet"
         ]
+    },
+    {
+        "mob": [
+            "minecraft:zombie",
+            "minecraft:husk"
+        ],
+        "remove": [
+            "dungeons_gear:spelunker_chestplate",
+            "dungeons_gear:spelunker_helmet"
+        ]
+    },
+    {
+        "mob": [
+            "minecraft:skeleton"
+        ],
+        "remove": [
+            "dungeons_gear:hunters_chestplate",
+            "dungeons_gear:hunters_helmet",
+            "dungeons_gear:soul_chestplate",
+            "dungeons_gear:soul_helmet"
+        ]
+    },
+    {
+        "mob": "majruszs_difficulty:elite_skeleton",
+        "remove": [
+            "dungeons_gear:hunters_chestplate",
+            "dungeons_gear:hunters_helmet"
+        ]
+    },
+    {
+        "mob": "minecraft:stray",
+        "remove": [
+            "dungeons_gear:snow_boots",
+            "dungeons_gear:snow_chestplate",
+            "dungeons_gear:snow_helmet",
+            "dungeons_gear:snow_leggings",
+            "epicfight:stray_hat",
+            "epicfight:stray_pants",
+            "epicfight:stray_robe"
+        ]
+    },
+    {
+        "mob": "minecraft:wither_skeleton",
+        "remove": [
+            "dungeons_gear:wither_leggings",
+            "dungeons_gear:wither_chestplate",
+            "minecraft:diamond_boots",
+            "minecraft:diamond_chestplate",
+            "minecraft:diamond_helmet",
+            "minecraft:diamond_leggings"
+        ]
+    },
+    {
+        "mob": [
+            "bygonenether:wraither",
+            "majruszs_difficulty:elite_skeleton",
+            "minecraft:drowned",
+            "minecraft:husk",
+            "minecraft:piglin",
+            "minecraft:skeleton",
+            "minecraft:stray",
+            "minecraft:zombie",
+            "minecraft:zombified_piglin"
+        ],
+        "remove": "iceandfire:dread_shard"
+    },
+    {
+        "mob": [
+            "alexsmobs:soul_vulture",
+            "bygonenether:corpor",
+            "bygonenether:wither_skeleton_horse",
+            "bygonenether:wraither",
+            "minecraft:wither_skeleton"
+        ],
+        "remove": "minecraft:bone"
     },
     {
         "item": "iceandfire:witherbone",
         "mob": [
             "alexsmobs:soul_vulture",
-            "bygonenether:wraither",
             "bygonenether:corpor",
-            "bygonenether:wither_skeleton_horse"
+            "bygonenether:wither_skeleton_horse",
+            "bygonenether:wraither"
         ]
     },
     {
-        "remove": [
-            "epicfight:stray_hat",
-            "epicfight:stray_robe",
-            "epicfight:stray_pants"
-        ],
-        "mob": "minecraft:stray"
-    },
-    {
+        "mob": "guardvillagers:guard",
         "remove": [
             "dungeons_gear:guards_boots",
             "dungeons_gear:guards_chestplate",
             "dungeons_gear:guards_helmet",
             "dungeons_gear:guards_leggings"
-        ],
-        "mob": "guardvillagers:guard"
+        ]
     },
     {
-        "remove": "mowziesmobs:wrought_axe",
-        "mob": "mowziesmobs:ferrous_wroughtnaut"
+        "mob": "mowziesmobs:ferrous_wroughtnaut",
+        "remove": "mowziesmobs:wrought_axe"
     },
     {
         "item": "minecraft:nether_star",

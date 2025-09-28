@@ -1,0 +1,13 @@
+{
+  "input": {
+    "item": "infernalexp:glowdust_stone"
+  },
+  "output": [
+    {
+      "chance": 1.0,
+      "count": 1,
+      "item": "infernalexp:glowdust_sand"
+    }
+  ],
+  "type": "ars_nouveau:crush"
+}

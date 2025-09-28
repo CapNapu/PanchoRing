@@ -1,3 +1,9 @@
 {
+	"attributes": {
+		"common": {
+			"damage_bonus": 1,
+			"speed_bonus": -0.8
+		}
+	},
 	"type": "hoe"
 }

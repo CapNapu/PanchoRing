@@ -1,23 +1,22 @@
 {
-  "type": "ars_nouveau:enchanting_apparatus",
   "item_1": [
     {
-      "tag": "forge:ingots/silver"
+      "item": "iceandfire:silver_ingot"
     }
   ],
   "item_2": [
     {
-      "tag": "forge:ingots/silver"
+      "item": "iceandfire:silver_ingot"
     }
   ],
   "item_3": [
     {
-      "tag": "forge:ingots/gold"
+      "item": "iceandfire:silver_ingot"
     }
   ],
   "item_4": [
     {
-      "tag": "forge:ingots/gold"
+      "item": "iceandfire:silver_ingot"
     }
   ],
   "item_5": [
@@ -40,12 +39,13 @@
       "item": "ars_nouveau:arcane_stone"
     }
   ],
-  "reagent": [
-    {
-      "tag": "forge:storage_blocks/mana"
-    }
-  ],
   "output": {
     "item": "ars_nouveau:summoning_crystal"
-  }
+  },
+  "reagent": [
+    {
+      "item": "ars_nouveau:mana_gem_block"
+    }
+  ],
+  "type": "ars_nouveau:enchanting_apparatus"
 }

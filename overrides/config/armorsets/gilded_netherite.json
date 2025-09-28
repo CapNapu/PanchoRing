@@ -1,5 +1,5 @@
 {
-  "armorSetName": "Gilded Netherite",
+  "armorSetName": "Gilded Netherite Set",
   "performanceMode": true,
   "head": {
     "itemKey": "bygonenether:gilded_netherite_helmet",
@@ -24,7 +24,7 @@
       "name": "minecraft:haste",
       "value": 0.0,
       "interactionType": "self",
-      "interactionDuration": 200,
+      "interactionDuration": 120,
       "hideBonusDescription": true
     }
   ],
@@ -34,7 +34,7 @@
       "name": "minecraft:resistance",
       "value": 0.0,
       "interactionType": "self",
-      "interactionDuration": 200,
+      "interactionDuration": 120,
       "hideBonusDescription": true
     }
   ],

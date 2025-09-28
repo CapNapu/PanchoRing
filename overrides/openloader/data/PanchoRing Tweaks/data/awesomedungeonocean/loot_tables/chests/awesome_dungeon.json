@@ -14,48 +14,43 @@
                     "weight": 2
                 },
                 {
-                    "name": "minecraft:gold_ingot",
+                    "name": "antiqueatlas:empty_antique_atlas",
                     "type": "minecraft:item",
                     "weight": 2
                 },
                 {
                     "name": "minecraft:diamond",
                     "type": "minecraft:item",
-                    "weight": 15
+                    "weight": 20
                 },
                 {
                     "name": "minecraft:emerald",
-                    "type": "minecraft:item",
-                    "weight": 15
-                },
-                {
-                    "name": "minecraft:cookie",
                     "type": "minecraft:item",
                     "weight": 20
                 },
                 {
                     "name": "revampedwolf:golden_wolf_armor",
                     "type": "minecraft:item",
-                    "weight": 10
+                    "weight": 5
                 },
                 {
                     "name": "revampedwolf:iron_wolf_armor",
                     "type": "minecraft:item",
-                    "weight": 15
+                    "weight": 2
                 },
                 {
                     "name": "revampedwolf:diamond_wolf_armor",
                     "type": "minecraft:item",
-                    "weight": 5
+                    "weight": 2
                 },
                 {
                     "name": "revampedwolf:leather_wolf_armor",
                     "type": "minecraft:item",
-                    "weight": 15
+                    "weight": 5
                 }
             ],
             "rolls": {
-                "max": 3,
+                "max": 2,
                 "min": 1,
                 "type": "minecraft:uniform"
             }
@@ -75,7 +70,7 @@
                             "function": "minecraft:set_count"
                         }
                     ],
-                    "name": "minecraft:iron_ingot",
+                    "name": "iceandfire:silver_ingot",
                     "type": "minecraft:item",
                     "weight": 10
                 },
@@ -96,19 +91,19 @@
                     "weight": 5
                 },
                 {
-                    "name": "minecraft:bread",
-                    "type": "minecraft:item",
-                    "weight": 20
-                },
-                {
-                    "name": "minecraft:iron_sword",
+                    "name": "minecraft:nautilus_shell",
                     "type": "minecraft:item",
                     "weight": 10
                 },
                 {
-                    "name": "minecraft:arrow",
+                    "name": "minecraft:trident",
                     "type": "minecraft:item",
-                    "weight": 10
+                    "weight": 2
+                },
+                {
+                    "name": "majruszs_difficulty:ocean_shield",
+                    "type": "minecraft:item",
+                    "weight": 2
                 },
                 {
                     "functions": [
@@ -122,7 +117,7 @@
                             "function": "minecraft:set_count"
                         }
                     ],
-                    "name": "minecraft:redstone",
+                    "name": "projectvibrantjourneys:clam",
                     "type": "minecraft:item",
                     "weight": 15
                 },
@@ -138,7 +133,7 @@
                             "function": "minecraft:set_count"
                         }
                     ],
-                    "name": "minecraft:torch",
+                    "name": "minecraft:prismarine_shard",
                     "type": "minecraft:item",
                     "weight": 15
                 },
@@ -170,7 +165,7 @@
                             "function": "minecraft:set_count"
                         }
                     ],
-                    "name": "minecraft:pumpkin_seeds",
+                    "name": "supplementaries:flax_seeds",
                     "type": "minecraft:item",
                     "weight": 10
                 },
@@ -212,7 +207,7 @@
                             "function": "minecraft:set_count"
                         }
                     ],
-                    "name": "minecraft:bone",
+                    "name": "minecraft:prismarine",
                     "type": "minecraft:item",
                     "weight": 10
                 },
@@ -228,7 +223,7 @@
                             "function": "minecraft:set_count"
                         }
                     ],
-                    "name": "minecraft:gunpowder",
+                    "name": "minecraft:dark_prismarine",
                     "type": "minecraft:item",
                     "weight": 10
                 },
@@ -244,7 +239,7 @@
                             "function": "minecraft:set_count"
                         }
                     ],
-                    "name": "minecraft:rotten_flesh",
+                    "name": "minecraft:prismarine_crystals",
                     "type": "minecraft:item",
                     "weight": 10
                 },
@@ -260,7 +255,7 @@
                             "function": "minecraft:set_count"
                         }
                     ],
-                    "name": "minecraft:string",
+                    "name": "projectvibrantjourneys:clam",
                     "type": "minecraft:item",
                     "weight": 10
                 }

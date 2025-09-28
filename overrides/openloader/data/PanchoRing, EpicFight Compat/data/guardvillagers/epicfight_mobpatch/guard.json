@@ -1626,7 +1626,6 @@
 				"fist"
 			]
 		}
-
 	],
 	"default_livingmotions": {
 		"chase": "epicfight:biped/living/walk",

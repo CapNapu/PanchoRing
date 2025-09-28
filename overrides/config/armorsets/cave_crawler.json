@@ -1,5 +1,5 @@
 {
-  "armorSetName": "Cave Crawler",
+  "armorSetName": "Cave Crawler Set",
   "performanceMode": true,
   "head": {
     "itemKey": "dungeons_gear:cave_crawler_helmet",
@@ -24,7 +24,7 @@
       "name": "minecraft:haste",
       "value": 0.0,
       "interactionType": "self",
-      "interactionDuration": 200,
+      "interactionDuration": 120,
       "hideBonusDescription": true
     }
   ],
@@ -32,9 +32,9 @@
     {
       "type": "effect",
       "name": "minecraft:haste",
-      "value": 1.0,
+      "value": 2.0,
       "interactionType": "self",
-      "interactionDuration": 200,
+      "interactionDuration": 120,
       "hideBonusDescription": true
     }
   ],

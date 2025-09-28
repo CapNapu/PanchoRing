@@ -1,14 +1,10 @@
 {
-  "type": "minecraft:block",
   "pools": [
     {
-      "rolls": 1,
       "entries": [
         {
-          "type": "minecraft:alternatives",
           "children": [
             {
-              "type": "minecraft:item",
               "conditions": [
                 {
                   "condition": "minecraft:match_tool",
@@ -24,24 +20,28 @@
                   }
                 }
               ],
-              "name": "dustydecor:hanging_salmon"
+              "name": "dustydecor:hanging_salmon",
+              "type": "minecraft:item"
             },
             {
-              "type": "minecraft:item",
               "functions": [
                 {
-                  "function": "minecraft:set_count",
-                  "count": 3
+                  "count": 3,
+                  "function": "minecraft:set_count"
                 },
                 {
                   "function": "minecraft:explosion_decay"
                 }
               ],
-              "name": "minecraft:salmon"
+              "name": "minecraft:salmon",
+              "type": "minecraft:item"
             }
-          ]
+          ],
+          "type": "minecraft:alternatives"
         }
-      ]
+      ],
+      "rolls": 1
     }
-  ]
+  ],
+  "type": "minecraft:block"
 }

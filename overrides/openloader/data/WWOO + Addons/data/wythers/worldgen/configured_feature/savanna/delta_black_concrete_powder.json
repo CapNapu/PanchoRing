@@ -31,10 +31,10 @@
               "type": "minecraft:delta_feature",
               "config": {
                 "contents": {
-                  "Name": "minecraft:black_concrete_powder"
+                  "Name": "infernalexp:silt"
                 },
                 "rim": {
-                  "Name": "minecraft:black_concrete_powder"
+                  "Name": "infernalexp:silt"
                 },
                 "size": {
                   "base": 3,

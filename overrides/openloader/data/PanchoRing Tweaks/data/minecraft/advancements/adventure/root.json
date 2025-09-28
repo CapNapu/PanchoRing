@@ -1,7 +1,6 @@
 {
   "criteria": {
-    "killed_something": {
-      "conditions": {},
+    "requierement": {
       "trigger": "minecraft:impossible"
     }
   },
@@ -11,8 +10,6 @@
     "description": {
       "translate": "advancements.adventure.root.description"
     },
-    "frame": "task",
-    "hidden": false,
     "icon": {
       "item": "minecraft:map"
     },
@@ -20,10 +17,5 @@
     "title": {
       "translate": "advancements.adventure.root.title"
     }
-  },
-  "requirements": [
-    [
-      "killed_something"
-    ]
-  ]
+  }
 }

@@ -1,19 +1,19 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "minecraft:leather"
+    }
+  },
   "pattern": [
     "A",
     "B",
     "A"
   ],
-  "key": {
-    "A": {
-      "tag": "forge:rods/wooden"
-    },
-    "B": {
-      "tag": "forge:leather"
-    }
-  },
   "result": {
     "item": "dungeons_gear:battlestaff"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

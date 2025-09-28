@@ -1,13 +1,13 @@
 {
-  "type": "ars_nouveau:crush",
   "input": {
     "item": "minecraft:basalt"
   },
   "output": [
     {
-      "item": "infernalexp:basalt_cobbled",
       "chance": 1.0,
-      "count": 1
+      "count": 1,
+      "item": "infernalexp:basalt_cobbled"
     }
-  ]
+  ],
+  "type": "ars_nouveau:crush"
 }

@@ -12,18 +12,15 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
-      "translate": "advancements.panchoring.ars.wixie_shard.description"
+      "translate": "advancements.panchoring.wixie_shard.description"
     },
     "frame": "goal",
-    "hidden": false,
     "icon": {
       "item": "ars_nouveau:wixie_shards"
     },
-    "show_toast": true,
     "title": {
-      "translate": "advancements.panchoring.ars.wixie_shard.title"
+      "translate": "advancements.panchoring.wixie_shard.title"
     }
   },
   "parent": "panchoring:ars_nouveau/potion_jar"

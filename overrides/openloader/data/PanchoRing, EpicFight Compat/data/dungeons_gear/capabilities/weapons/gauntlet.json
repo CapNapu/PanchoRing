@@ -1,8 +1,8 @@
 {
 	"attributes": {
 		"common": {
-			"damage_bonus": 1,
-			"impact": 0.7
+			"impact": 0.7,
+			"speed_bonus": 0.6
 		}
 	},
 	"type": "fist"

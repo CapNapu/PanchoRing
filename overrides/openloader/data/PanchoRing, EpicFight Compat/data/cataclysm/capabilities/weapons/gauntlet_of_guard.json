@@ -4,8 +4,7 @@
 			"armor_negation": 35,
 			"damage_bonus": 1,
 			"impact": 1.7,
-			"max_strikes": 1,
-			"speed_bonus": 1.3
+			"speed_bonus": 0.9
 		}
 	},
 	"type": "fist"

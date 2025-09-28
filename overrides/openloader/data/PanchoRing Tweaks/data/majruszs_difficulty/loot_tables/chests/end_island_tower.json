@@ -57,9 +57,9 @@
           "weight": 20
         },
         {
-          "name": "phantasm:stellium_ingot",
+          "name": "majruszs_difficulty:end_shard",
           "type": "minecraft:item",
-          "weight": 5
+          "weight": 10
         }
       ],
       "rolls": {
@@ -80,7 +80,7 @@
               "function": "minecraft:set_count"
             }
           ],
-          "name": "minecraft:emerald",
+          "name": "phantasm:stellium_nugget",
           "type": "minecraft:item",
           "weight": 20
         },
@@ -108,7 +108,7 @@
               "function": "minecraft:set_count"
             }
           ],
-          "name": "minecraft:iron_ingot",
+          "name": "phantasm:crystalline_sword",
           "type": "minecraft:item",
           "weight": 40
         }

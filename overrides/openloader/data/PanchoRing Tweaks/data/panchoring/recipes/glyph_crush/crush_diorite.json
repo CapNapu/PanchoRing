@@ -1,18 +1,18 @@
 {
-  "type": "ars_nouveau:crush",
   "input": {
     "item": "minecraft:diorite"
   },
   "output": [
     {
-      "item": "minecraft:gravel",
       "chance": 1.0,
-      "count": 1
+      "count": 1,
+      "item": "minecraft:gravel"
     },
     {
-      "item": "iceandfire:silver_nugget",
       "chance": 0.1,
-      "count": 1
+      "count": 1,
+      "item": "iceandfire:silver_nugget"
     }
-  ]
+  ],
+  "type": "ars_nouveau:crush"
 }

@@ -13,7 +13,8 @@
     "description": {
       "translate": "advancements.panchoring.kill_ignis.description"
     },
-    "frame": "goal",
+    "frame": "challenge",
+    "hidden": true,
     "icon": {
       "item": "cataclysm:the_incinerator"
     },
@@ -22,9 +23,7 @@
     }
   },
   "parent": "panchoring:kill_ignited_revenant",
-  "requirements": [
-    [
-      "kill_ignis"
-    ]
-  ]
+  "rewards": {
+    "experience": 100
+  }
 }

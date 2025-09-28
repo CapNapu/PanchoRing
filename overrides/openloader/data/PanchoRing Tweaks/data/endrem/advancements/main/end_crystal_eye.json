@@ -12,24 +12,16 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.main.end_crystal_eye.description"
     },
     "frame": "goal",
-    "hidden": false,
     "icon": {
       "item": "endrem:end_crystal_eye"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.main.end_crystal_eye.title"
     }
   },
-  "parent": "endrem:main/nether_eye",
-  "requirements": [
-    [
-      "end_crystal_eye"
-    ]
-  ]
+  "parent": "endrem:main/nether_eye"
 }

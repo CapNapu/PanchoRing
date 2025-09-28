@@ -4,7 +4,7 @@
       "item": "iceandfire:dragonbone"
     },
     "I": {
-      "tag": "forge:ingots/iron"
+      "item": "iceandfire:silver_ingot"
     }
   },
   "pattern": [

@@ -9,7 +9,7 @@
 	enableMeleeWeaponTab = true
 	#Add enchantments that should be designated as treasure-only. 
 	#To do so, enter their registry names.
-	treasureOnlyEnchantments = ["dungeons_gear:anima_conduit", "dungeons_gear:enigma_resonator", "dungeons_gear:exploding", "dungeons_gear:gravity", "dungeons_gear:guarding_strike", "dungeons_gear:radiance", "dungeons_gear:soul_siphon", "dungeons_gear:thundering", "dungeons_gear:chain_reaction", "dungeons_gear:exploding_shot", "dungeons_gear:gravity_shot", "dungeons_gear:harpoon_shot", "dungeons_gear:overcharge", "dungeons_gear:radiance_shot", "dungeons_gear:supercharge", "dungeons_gear:burning", "dungeons_gear:death_barter", "dungeons_gear:dodge", "dungeons_gear:fortune_of_the_sea", "dungeons_gear:gravity_pulse", "dungeons_gear:life_steal_aura", "dungeons_gear:melee_aura", "dungeons_gear:potion_aura", "dungeons_gear:potion_barrier", "dungeons_gear:soul_focus", "dungeons_gear:speed_aura", "dungeons_gear:void_dodge", "dungeons_gear:critical_hit", "dungeons_gear:echo", "dungeons_gear:refreshment", "dungeons_gear:shockwave", "dungeons_gear:shock_web", "dungeons_gear:swirling", "dungeons_gear:accelerate", "dungeons_gear:cooldown_shot", "dungeons_gear:freezing_shot", "dungeons_gear:gale_shot", "dungeons_gear:replenish", "dungeons_gear:velocity", "dungeons_gear:wild_rage", "dungeons_gear:acrobat", "dungeons_gear:bag_of_souls", "dungeons_gear:beast_boss", "dungeons_gear:beast_burst", "dungeons_gear:electrified", "dungeons_gear:fire_focus", "dungeons_gear:life_boost", "dungeons_gear:lightning_focus", "dungeons_gear:lucky_explorer", "dungeons_gear:multi_roll", "dungeons_gear:opulent_shield", "dungeons_gear:poison_focus", "dungeons_gear:reckless", "dungeons_gear:recycler"]
+	treasureOnlyEnchantments = ["dungeons_gear:accelerate", "dungeons_gear:acrobat", "dungeons_gear:altruistic", "dungeons_gear:anima_conduit", "dungeons_gear:arrow_hoarder", "dungeons_gear:bag_of_souls", "dungeons_gear:beast_boss", "dungeons_gear:beast_burst", "dungeons_gear:burning", "dungeons_gear:chain_reaction", "dungeons_gear:chilling", "dungeons_gear:cooldown_shot", "dungeons_gear:critical_hit", "dungeons_gear:death_barter", "dungeons_gear:deflect", "dungeons_gear:dodge", "dungeons_gear:echo", "dungeons_gear:electrified", "dungeons_gear:enigma_resonator", "dungeons_gear:exploding_shot", "dungeons_gear:exploding", "dungeons_gear:fire_focus", "dungeons_gear:fortune_of_the_sea", "dungeons_gear:freezing_shot", "dungeons_gear:gale_shot", "dungeons_gear:gravity_pulse", "dungeons_gear:gravity_shot", "dungeons_gear:gravity", "dungeons_gear:guarding_strike", "dungeons_gear:guarding_strike", "dungeons_gear:harpoon_shot", "dungeons_gear:illagers_bane", "dungeons_gear:life_boost", "dungeons_gear:life_steal_aura", "dungeons_gear:lightning_focus", "dungeons_gear:lucky_explorer", "dungeons_gear:masters_call", "dungeons_gear:melee_aura", "dungeons_gear:multi_roll", "dungeons_gear:opulent_shield", "dungeons_gear:overcharge", "dungeons_gear:poison_focus", "dungeons_gear:potion_barrier", "dungeons_gear:radiance_shot", "dungeons_gear:radiance", "dungeons_gear:reckless", "dungeons_gear:recycler", "dungeons_gear:refreshment", "dungeons_gear:replenish", "dungeons_gear:shock_web", "dungeons_gear:shockwave", "dungeons_gear:soul_focus", "dungeons_gear:soul_siphon", "dungeons_gear:speed_aura", "dungeons_gear:swirling", "dungeons_gear:thundering", "dungeons_gear:velocity", "dungeons_gear:wild_rage"]
 	#Enable the addition of Dungeons Gear items to the Minecraft Spawn Bonus chest. 
 	#Theoretically, this can be controlled through the loot tables, this option is added for additional control. [true / false]
 	enableDungeonsGearLootOnBonusChest = true
@@ -52,7 +52,7 @@
 	enableArmorTab = true
 	#Enable Weaponsmith, Fletcher, Armorer and Leatherworker Villagers trading Dungeons Gear items. 
 	#If you have other mods messing with the trades of those professions or simply don't want it, disable this feature. [true / false]
-	enableVillagerTrades = false
+	enableVillagerTrades = true
 	#Enable artifacts appearing in chest loot and trades. 
 	#If you want to disable obtaining this mod's artifacts, disable this feature. [true / false]
 	enableArtifactLoot = true
@@ -64,10 +64,10 @@
 	enableDungeonsGearLoot = true
 	#Add enchantments that should be prevented from being applied to any gear. 
 	#To do so, enter their registry names.
-	enchantmentBlacklist = ["dungeons_gear:critical_hit", "dungeons_gear:echo", "dungeons_gear:refreshment", "dungeons_gear:shockwave", "dungeons_gear:shock_web", "dungeons_gear:swirling", "dungeons_gear:accelerate", "dungeons_gear:cooldown_shot", "dungeons_gear:freezing_shot", "dungeons_gear:gale_shot", "dungeons_gear:replenish", "dungeons_gear:velocity", "dungeons_gear:wild_rage", "dungeons_gear:acrobat", "dungeons_gear:bag_of_souls", "dungeons_gear:beast_boss", "dungeons_gear:beast_burst", "dungeons_gear:electrified", "dungeons_gear:fire_focus", "dungeons_gear:life_boost", "dungeons_gear:lightning_focus", "dungeons_gear:lucky_explorer", "dungeons_gear:multi_roll", "dungeons_gear:opulent_shield", "dungeons_gear:poison_focus", "dungeons_gear:reckless", "dungeons_gear:recycler"]
+	enchantmentBlacklist = ["dungeons_gear:accelerate", "dungeons_gear:acrobat", "dungeons_gear:bag_of_souls", "dungeons_gear:beast_boss", "dungeons_gear:beast_burst", "dungeons_gear:cooldown_shot", "dungeons_gear:critical_hit", "dungeons_gear:echo", "dungeons_gear:electrified", "dungeons_gear:enigma_resonator", "dungeons_gear:fire_focus", "dungeons_gear:freezing_shot", "dungeons_gear:gale_shot", "dungeons_gear:guarding_strike", "dungeons_gear:life_boost", "dungeons_gear:lightning_focus", "dungeons_gear:lucky_explorer", "dungeons_gear:multi_roll", "dungeons_gear:opulent_shield", "dungeons_gear:overcharge", "dungeons_gear:poison_focus", "dungeons_gear:reckless", "dungeons_gear:recycler", "dungeons_gear:refreshment", "dungeons_gear:replenish", "dungeons_gear:shock_web", "dungeons_gear:shockwave", "dungeons_gear:swirling", "dungeons_gear:velocity", "dungeons_gear:wild_rage"]
 	#Enable the salvaging of Dungeons Gear items by shift-right clicking villagers with the item in your hand. 
 	#If you have other mods messing with shift-right clicking villagers or simply don't want it, disable this feature. [true / false]
-	enableSalvaging = true
+	enableSalvaging = false
 	#Enable armors appearing in chest loot and trades. 
 	#If you want to disable obtaining this mod's armors, disable this feature. [true / false]
 	enableArmorLoot = true
@@ -96,32 +96,32 @@
 	#Enter the path of the specific loot table, or the path of the folder containing the loot tables.
 	#You can write an incomplete path, and the mod will add to loot tables containing that incomplete path. 
 	#Make sure to always include a complete namespace (like minecraft) and at least a partial path.
-	commonLootTables = ["minecraft:chests/abandoned_mineshaft", "minecraft:chests/ruined_portal", "minecraft:chests/shipwreck", "minecraft:chests/village/village_armorer", "minecraft:chests/village/village_tannery", "minecraft:chests/village/village_temple", "minecraft:chests/village/village_weaponsmith", "repurposed_structures:chests/mineshaft/birch", "repurposed_structures:chests/mineshaft/crimson", "repurposed_structures:chests/mineshaft/desert", "repurposed_structures:chests/mineshaft/end", "repurposed_structures:chests/mineshaft/icy", "repurposed_structures:chests/mineshaft/jungle", "repurposed_structures:chests/mineshaft/nether", "repurposed_structures:chests/mineshaft/ocean", "repurposed_structures:chests/mineshaft/savanna", "repurposed_structures:chests/mineshaft/stone", "repurposed_structures:chests/mineshaft/dark_forest", "repurposed_structures:chests/mineshaft/swamp", "repurposed_structures:chests/mineshaft/taiga", "repurposed_structures:chests/mineshaft/warped", "repurposed_structures:chests/cities/nether", "repurposed_structures:chests/igloos/grassy_chest", "repurposed_structures:chests/igloos/stone_chest", "repurposed_structures:chests/ruin/nether", "repurposed_structures:chests/ruin/land_hot/large", "repurposed_structures:chests/ruin/land_hot/small", "repurposed_structures:chests/ruin/land_warm/large", "repurposed_structures:chests/ruin/land_warm/small", "repurposed_structures:chests/ruined_portal/large_portal_chest", "repurposed_structures:chests/ruined_portal/small_portal_chest", "repurposed_structures:chests/village/village_crimson_tanner", "repurposed_structures:chests/village/village_crimson_weaponsmith", "repurposed_structures:chests/village/village_warped_tanner", "repurposed_structures:chests/village/village_warped_weaponsmith", "betterdungeons:small_dungeon/chests/loot_piles", "dungeoncrawl:chests/stage_1", "dungeoncrawl:chests/stage_2", "iceandfire:chest/lightning_dragon_roost", "iceandfire:chest/fire_dragon_female_cave", "iceandfire:chest/ice_dragon_male_cave", "iceandfire:chest/ice_dragon_roost", "iceandfire:chest/lightning_dragon_female_cave", "iceandfire:chest/fire_dragon_male_cave", "iceandfire:chest/myrmex_loot_chest", "iceandfire:chest/ice_dragon_female_cave", "iceandfire:chest/fire_dragon_roost", "iceandfire:chest/lightning_dragon_male_cave", "iceandfire:chest/cyclops_cave", "iceandfire:chest/graveyard", "iceandfire:chest/hydra_cave", "totw_reworked:ocean_tower_chest", "totw_reworked:tower_chest", "towers_of_the_wild:chests/tower/ocean/ocean_tower_chest", "towers_of_the_wild:chests/tower/regular/tower_chest", "valhelsia_structures:chests/castle", "valhelsia_structures:chests/castle_ruin", "valhelsia_structures:chests/player_house", "valhelsia_structures:chests/treasure", "valhelsia_structures:chests/witch_hut", "dungeons_plus:chests/bigger_dungeon/husk", "dungeons_plus:chests/bigger_dungeon/stray", "dungeons_plus:chests/leviathan/common", "dungeons_plus:chests/snowy_temple/common", "dungeons_plus:chests/vanilla_dungeon", "dungeons_plus:chests/warped_garden/common"]
-	obsidianLootTables = ["minecraft:chests/bastion", "minecraft:chests/buried_treasure", "minecraft:chests/end_city_treasure", "minecraft:chests/stronghold", "minecraft:chests/woodland_mansion", "repurposed_structures:chests/bastions", "repurposed_structures:chests/mansion/birch", "repurposed_structures:chests/mansion/desert", "repurposed_structures:chests/mansion/jungle", "repurposed_structures:chests/mansion/oak", "repurposed_structures:chests/mansion/savanna", "repurposed_structures:chests/mansion/snowy", "repurposed_structures:chests/mansion/taiga", "repurposed_structures:shulker_boxes/stronghold/end_storage_room", "repurposed_structures:shulker_boxes/stronghold/end_hallway", "repurposed_structures:shulker_boxes/stronghold/end_library", "repurposed_structures:chests/stronghold/nether_storage_room", "repurposed_structures:chests/stronghold/nether_hallway", "repurposed_structures:chests/stronghold/nether_library", "betterstrongholds:chests/armoury", "betterstrongholds:chests/crypt", "betterstrongholds:chests/mess", "betterstrongholds:chests/prison_lg", "betterstrongholds:chests/trap", "betterstrongholds:chests/treasure", "betterstrongholds:chests/end/armoury", "betterstrongholds:chests/end/crypt", "betterstrongholds:chests/end/mess", "betterstrongholds:chests/end/prison_lg", "betterstrongholds:chests/end/trap", "betterstrongholds:chests/end/treasure", "betterstrongholds:chests/nether/mess", "betterstrongholds:chests/nether/armoury", "betterstrongholds:chests/nether/crypt", "betterstrongholds:chests/nether/prison_lg", "betterstrongholds:chests/nether/trap", "betterstrongholds:chests/nether/treasure", "dungeoncrawl:chests/stage_5", "dungeoncrawl:chests/treasure", "iceandfire:chest/mausoleum_chest"]
-	commonLootTablesBlacklist = ["dungeonsplus:_map"]
-	fancyLootTablesBlacklist = ["minecraft:chests/_dispenser", "repurposed_structures:_dispenser", "repurposed_structures:_dispenser", "repurposed_structures:_dispenser", "repurposed_structures:_dispenser", "repurposed_structures:_dispenser", "dungeonsplus:_map"]
-	obsidianLootTableBlacklist = ["dungeonsplus:_map"]
-	fancyLootTables = ["minecraft:chests/desert_pyramid", "minecraft:chests/igloo_chest", "minecraft:chests/jungle_temple", "minecraft:chests/nether_bridge", "minecraft:chests/pillager_outpost", "minecraft:chests/simple_dungeon", "minecraft:chests/underwater_ruin", "repurposed_structures:chests/dungeon/badlands", "repurposed_structures:chests/dungeon/dark_forest", "repurposed_structures:chests/dungeon/desert", "repurposed_structures:chests/dungeon/end", "repurposed_structures:chests/dungeon/jungle", "repurposed_structures:chests/dungeon/mushroom", "repurposed_structures:chests/dungeon/nether", "repurposed_structures:chests/dungeon/ocean", "repurposed_structures:chests/dungeon/snow", "repurposed_structures:chests/dungeon/swamp", "repurposed_structures:chests/fortress/jungle", "repurposed_structures:chests/fortress/jungle", "repurposed_structures:chests/fortress/jungle", "repurposed_structures:chests/outpost/badlands_chest", "repurposed_structures:chests/outpost/birch_chest", "repurposed_structures:chests/outpost/crimson_chest", "repurposed_structures:chests/outpost/desert_chest", "repurposed_structures:chests/outpost/giant_tree_taiga_chest", "repurposed_structures:chests/outpost/icy_chest", "repurposed_structures:chests/outpost/jungle_chest", "repurposed_structures:chests/outpost/nether_brick_chest", "repurposed_structures:chests/outpost/oak_chest", "repurposed_structures:chests/outpost/snowy_chest", "repurposed_structures:chests/outpost/taiga_chest", "repurposed_structures:chests/outpost/warped_chest", "repurposed_structures:chests/outpost/end_shulker_box", "repurposed_structures:chests/pyramid/badlands_chest", "repurposed_structures:chests/pyramid/nether_chest", "repurposed_structures:chests/pyramid/snowy_chest", "repurposed_structures:chests/pyramid/icy_chest", "repurposed_structures:chests/pyramid/jungle_chest", "repurposed_structures:chests/pyramid/mushroom_chest", "repurposed_structures:chests/pyramid/ocean_chest", "repurposed_structures:chests/pyramid/giant_tree_taiga_chest", "repurposed_structures:chests/pyramid/flower_forest_chest", "repurposed_structures:chests/pyramid/end_chest", "repurposed_structures:chests/shipwreck/crimson/", "repurposed_structures:chests/shipwreck/crimson/", "repurposed_structures:chests/shipwreck/crimson/", "repurposed_structures:chests/shipwreck/end/map_chest", "repurposed_structures:chests/shipwreck/end/supply_chest", "repurposed_structures:chests/shipwreck/end/treasure_chest", "repurposed_structures:chests/shipwreck/warped/map_chest", "repurposed_structures:chests/shipwreck/warped/supply_chest", "repurposed_structures:chests/shipwreck/warped/treasure_chest", "repurposed_structures:chests/shipwreck/nether_bricks/treasure_chest", "repurposed_structures:chests/temple/nether_basalt_chest", "repurposed_structures:chests/temple/nether_crimson_chest", "repurposed_structures:chests/temple/nether_soul_chest", "repurposed_structures:chests/temple/nether_warped_chest", "repurposed_structures:chests/temple/nether_warped_trapped_chest", "repurposed_structures:chests/temple/nether_wasteland_chest", "betterstrongholds:chests/common", "betterstrongholds:chests/end/common", "betterstrongholds:chests/nether/common", "betterdungeons:skeleton_dungeon/chests/common", "betterdungeons:skeleton_dungeon/chests/middle", "betterdungeons:skeleton_dungeon/chests/common", "betterdungeons:spider_dungeon/chests/egg_room", "betterdungeons:zombie_dungeon/chests/common", "betterdungeons:zombie_dungeon/chests/special", "betterdungeons:zombie_dungeon/chests/tombstone", "dungeoncrawl:chests/stage_3", "dungeoncrawl:chests/stage_4", "dungeoncrawl:chests/forge", "valhelsia_structures:chests/desert_house", "valhelsia_structures:chests/forge", "valhelsia_structures:chests/spawner_dungeon", "dungeons_plus:chests/soul_prison/common", "dungeons_plus:chests/tower/vex"]
+	commonLootTables = ["awesomedungeonocean:chests/awesome_dungeon", "betterdungeons:small_dungeon/chests/loot_piles", "dungeoncrawl:chests/stage_1", "dungeoncrawl:chests/stage_2", "dungeons_enhanced:chests/castle/armory", "dungeons_enhanced:chests/castle/bedroom", "dungeons_enhanced:chests/castle/cellar", "dungeons_enhanced:chests/castle/coffin", "dungeons_enhanced:chests/castle/kitchen", "dungeons_enhanced:chests/castle/prison", "dungeons_enhanced:chests/castle/quarters", "dungeons_enhanced:chests/castle/spring", "dungeons_enhanced:chests/hay_storage", "dungeons_enhanced:chests/miners_house", "dungeons_enhanced:chests/ruined_building", "dungeons_enhanced:chests/ruined/house", "dungeons_enhanced:chests/tree_house/kitchen", "dungeons_enhanced:chests/tree_house/roof", "dungeons_enhanced:chests/watch_tower", "dungeons_enhanced:chests/witch_tower", "endrem:chests/witch_hut", "iceandfire:chest/ice_dragon_roost", "iceandfire:chest/lightning_dragon_roost", "iceandfire:chest/myrmex_loot_chest", "minecraft:chests/abandoned_mineshaft", "minecraft:chests/ruined_portal", "minecraft:chests/shipwreck_map", "minecraft:chests/shipwreck_supply", "minecraft:chests/simple_dungeon", "minecraft:chests/underwater_ruin_big", "minecraft:chests/underwater_ruin_small", "minecraft:chests/village/village_armorer", "minecraft:chests/village/village_tannery", "minecraft:chests/village/village_temple", "minecraft:chests/village/village_weaponsmith"]
+	obsidianLootTables = ["minecraft:chests/bastion", "minecraft:chests/buried_treasure", "minecraft:chests/end_city_treasure", "minecraft:chests/woodland_mansion", "betterstrongholds:chests/armoury", "betterstrongholds:chests/crypt", "betterstrongholds:chests/mess", "betterstrongholds:chests/prison_lg", "betterstrongholds:chests/trap", "betterstrongholds:chests/treasure", "bosses_of_mass_destruction:chests/lich_tower", "bygonenether:chests/catacomb/treasure_rib", "dungeoncrawl:chests/stage_5", "dungeoncrawl:chests/treasure", "dungeons_enhanced:chests/flying_dutchman", "dungeons_enhanced:chests/jungle_monument/treasure", "dungeons_enhanced:chests/monster_maze/treasure", "dungeons_enhanced:chests/mushroom_house", "dungeons_enhanced:desert_temple_treasure", "endrem:chests/biblio", "endrem:chests/dungeon", "endrem:chests/hided", "endrem:chests/house", "endrem:chests/throne", "endrem:chests/treasure", "majruszs_difficulty:chests/end_island_archer_tower", "majruszs_difficulty:chests/end_island_dungeon", "majruszs_difficulty:chests/end_island_forge", "majruszs_difficulty:chests/end_island_potion", "majruszs_difficulty:chests/end_island_tower", "majruszs_difficulty:chests/end_ship_extra", "majruszs_difficulty:chests/end_ship_military_small", "majruszs_difficulty:chests/end_ship_military", "majruszs_difficulty:chests/end_ship_trader", "majruszs_difficulty:chests/end_ship"]
+	commonLootTablesBlacklist = []
+	fancyLootTablesBlacklist = []
+	obsidianLootTableBlacklist = []
+	fancyLootTables = ["minecraft:chests/desert_pyramid", "minecraft:chests/igloo_chest", "minecraft:chests/jungle_temple", "minecraft:chests/nether_bridge", "minecraft:chests/shipwreck_treasure", "betterdungeons:skeleton_dungeon/chests/common", "betterdungeons:skeleton_dungeon/chests/middle", "betterdungeons:spider_dungeon/chests/egg_room", "betterdungeons:zombie_dungeon/chests/special", "betterdungeons:zombie_dungeon/chests/tombstone", "betterstrongholds:chests/common", "bygonenether:chests/citadel", "dungeoncrawl:chests/forge", "dungeoncrawl:chests/stage_3", "dungeoncrawl:chests/stage_4", "dungeons_enhanced:chests/castle/library", "dungeons_enhanced:chests/castle/throne", "dungeons_enhanced:chests/desert_tomb", "dungeons_enhanced:chests/elders_temple/elder_room", "dungeons_enhanced:chests/elders_temple/main", "dungeons_enhanced:chests/ice_pit/armory", "dungeons_enhanced:chests/ice_pit/bed", "dungeons_enhanced:chests/ice_pit/food", "dungeons_enhanced:chests/ice_pit/garden", "dungeons_enhanced:chests/ice_pit/hall", "dungeons_enhanced:chests/jungle_monument/floor", "dungeons_enhanced:chests/large_dungeon", "dungeons_enhanced:chests/monster_maze/brewery", "dungeons_enhanced:chests/monster_maze/church", "dungeons_enhanced:chests/monster_maze/prison", "dungeons_enhanced:chests/stables", "dungeons_enhanced:chests/pillager_camp/general", "dungeons_enhanced:chests/pillager_camp/kitchen", "dungeons_enhanced:chests/tower_of_the_undead/treasure", "betterdungeons:zombie_dungeon/chests/common", "minecraft:chests/pillager_outpost", "iceandfire:chest/cyclops_cave", "iceandfire:chest/fire_dragon_female_cave", "iceandfire:chest/fire_dragon_male_cave", "iceandfire:chest/fire_dragon_roost", "iceandfire:chest/hydra_cave", "iceandfire:chest/ice_dragon_female_cave", "iceandfire:chest/ice_dragon_male_cave", "iceandfire:chest/lightning_dragon_female_cave", "iceandfire:chest/lightning_dragon_male_cave", "infernalexp:chests/basalt_delta_ruin_chest", "infernalexp:chests/desolate_bastion_outpost_chest", "infernalexp:chests/glowstone_canyon_ruin_chest", "mowziesmobs:barakoa_village_house"]
 
 #Type Loot Table Configuration
 [type_loot_table_configuration]
-	oceanLootTablesBlacklist = ["minecraft:chests/buried_treasure"]
+	oceanLootTablesBlacklist = []
 	basicLootTablesBlacklist = []
-	jungleLootTables = ["minecraft:chests/jungle_temple", "repurposed_structures:chests/mineshaft/jungle", "repurposed_structures:chests/dungeon/jungle", "repurposed_structures:chests/fortress/jungle", "repurposed_structures:chests/fortress/jungle", "repurposed_structures:chests/fortress/jungle", "repurposed_structures:chests/mansion/jungle", "repurposed_structures:chests/outpost/jungle_chest", "repurposed_structures:chests/pyramid/jungle_chest"]
-	desertLootTables = ["minecraft:chests/desert_pyramid", "repurposed_structures:chests/mineshaft/desert", "repurposed_structures:chests/dungeon/desert", "repurposed_structures:chests/mansion/desert", "repurposed_structures:chests/outpost/badlands_chest", "repurposed_structures:chests/outpost/desert_chest", "repurposed_structures:chests/pyramid/badlands_chest", "valhelsia_structures:chests/desert_house", "dungeons_plus:chests/bigger_dungeon/husk", "dungeons_plus:chests/leviathan/common"]
+	jungleLootTables = ["minecraft:chests/jungle_temple", "dungeons_enhanced:chests/jungle_monument/floor", "dungeons_enhanced:chests/jungle_monument/treasure"]
+	desertLootTables = ["minecraft:chests/desert_pyramid", "dungeons_enhanced:chests/desert_tomb", "dungeons_enhanced:desert_temple_coffin", "dungeons_enhanced:desert_temple_coffin", "dungeons_enhanced:desert_temple_floor", "dungeons_enhanced:desert_temple_floor", "dungeons_enhanced:desert_temple_treasure"]
 	#This section determines the type of gear found in loot tables, generally based on biomes and dimensions.
 	#The whitelist allows gear in, the blacklist bans it from getting gear. Blacklist trumps whitelist.
 	#Enter the path of the specific loot table, or the path of the folder containing the loot tables.
 	#You can write an incomplete path, and the mod will add to loot tables containing that incomplete path. 
 	#Make sure to always include a complete namespace (like minecraft) and at least a partial path.
-	basicLootTables = ["minecraft:chests/abandoned_mineshaft", "minecraft:chests/pillager_outpost", "minecraft:chests/simple_dungeon", "minecraft:chests/stronghold", "minecraft:chests/woodland_mansion", "minecraft:chests/village/village_armorer", "minecraft:chests/village/village_tannery", "minecraft:chests/village/village_temple", "minecraft:chests/village/village_weaponsmith", "repurposed_structures:chests/mineshaft/birch", "repurposed_structures:chests/mineshaft/crimson", "repurposed_structures:chests/mineshaft/savanna", "repurposed_structures:chests/mineshaft/stone", "repurposed_structures:chests/mineshaft/dark_forest", "repurposed_structures:chests/mineshaft/swamp", "repurposed_structures:chests/mineshaft/taiga", "repurposed_structures:chests/bastions", "repurposed_structures:chests/dungeon/badlands", "repurposed_structures:chests/dungeon/dark_forest", "repurposed_structures:chests/dungeon/mushroom", "repurposed_structures:chests/dungeon/swamp", "repurposed_structures:chests/igloos/grassy_chest", "repurposed_structures:chests/igloos/stone_chest", "repurposed_structures:chests/mansion/birch", "repurposed_structures:chests/mansion/oak", "repurposed_structures:chests/mansion/savanna", "repurposed_structures:chests/mansion/taiga", "repurposed_structures:chests/outpost/birch_chest", "repurposed_structures:chests/outpost/oak_chest", "repurposed_structures:chests/pyramid/mushroom_chest", "repurposed_structures:chests/pyramid/flower_forest_chest", "repurposed_structures:chests/ruin/land_hot/large", "repurposed_structures:chests/ruin/land_hot/small", "repurposed_structures:chests/ruin/land_warm/large", "repurposed_structures:chests/ruin/land_warm/small", "betterstrongholds:chests/armoury", "betterstrongholds:chests/common", "betterstrongholds:chests/crypt", "betterstrongholds:chests/mess", "betterstrongholds:chests/prison_lg", "betterstrongholds:chests/trap", "betterstrongholds:chests/treasure", "betterdungeons:skeleton_dungeon/chests/common", "betterdungeons:skeleton_dungeon/chests/middle", "betterdungeons:small_dungeon/chests/loot_piles", "betterdungeons:spider_dungeon/chests/egg_room", "betterdungeons:zombie_dungeon/chests/common", "betterdungeons:zombie_dungeon/chests/special", "betterdungeons:zombie_dungeon/chests/tombstone", "dungeoncrawl:chests/stage_1", "dungeoncrawl:chests/stage_2", "dungeoncrawl:chests/stage_3", "dungeoncrawl:chests/stage_4", "dungeoncrawl:chests/stage_5", "dungeoncrawl:chests/treasure", "dungeoncrawl:chests/forge", "iceandfire:chest/lightning_dragon_roost", "iceandfire:chest/fire_dragon_female_cave", "iceandfire:chest/ice_dragon_male_cave", "iceandfire:chest/ice_dragon_roost", "iceandfire:chest/lightning_dragon_female_cave", "iceandfire:chest/fire_dragon_male_cave", "iceandfire:chest/myrmex_loot_chest", "iceandfire:chest/ice_dragon_female_cave", "iceandfire:chest/fire_dragon_roost", "iceandfire:chest/lightning_dragon_male_cave", "iceandfire:chest/mausoleum_chest", "iceandfire:chest/cyclops_cave", "iceandfire:chest/graveyard", "iceandfire:chest/hydra_cave", "totw_reworked:ocean_tower_chest", "totw_reworked:tower_chest", "towers_of_the_wild:chests/tower/ocean/ocean_tower_chest", "towers_of_the_wild:chests/tower/regular/tower_chest", "valhelsia_structures:chests/castle", "valhelsia_structures:chests/castle_ruin", "valhelsia_structures:chests/forge", "valhelsia_structures:chests/player_house", "valhelsia_structures:chests/spawner_dungeon", "valhelsia_structures:chests/treasure", "valhelsia_structures:chests/witch_hut", "dungeons_plus:chests/soul_prison/common", "dungeons_plus:chests/tower/vex", "dungeons_plus:chests/vanilla_dungeon"]
+	basicLootTables = ["minecraft:chests/abandoned_mineshaft", "minecraft:chests/pillager_outpost", "minecraft:chests/village/village_armorer", "minecraft:chests/village/village_tannery", "minecraft:chests/village/village_temple", "minecraft:chests/village/village_weaponsmith", "minecraft:chests/woodland_mansion", "betterdungeons:skeleton_dungeon/chests/common", "betterdungeons:skeleton_dungeon/chests/middle", "betterdungeons:small_dungeon/chests/loot_piles", "betterdungeons:spider_dungeon/chests/egg_room", "betterdungeons:zombie_dungeon/chests/common", "betterdungeons:zombie_dungeon/chests/special", "betterdungeons:zombie_dungeon/chests/tombstone", "betterstrongholds:chests/armoury", "betterstrongholds:chests/common", "betterstrongholds:chests/crypt", "betterstrongholds:chests/mess", "betterstrongholds:chests/prison_lg", "betterstrongholds:chests/trap", "betterstrongholds:chests/treasure", "dungeoncrawl:chests/forge", "dungeoncrawl:chests/stage_1", "dungeoncrawl:chests/stage_2", "dungeoncrawl:chests/stage_3", "dungeoncrawl:chests/stage_4", "dungeoncrawl:chests/stage_5", "dungeoncrawl:chests/treasure", "dungeons_enhanced:chests/castle/armory", "dungeons_enhanced:chests/castle/bedroom", "dungeons_enhanced:chests/castle/cellar", "dungeons_enhanced:chests/castle/coffin", "dungeons_enhanced:chests/castle/kitchen", "dungeons_enhanced:chests/castle/library", "dungeons_enhanced:chests/castle/prison", "dungeons_enhanced:chests/castle/quarters", "dungeons_enhanced:chests/castle/spring","dungeons_enhanced:chests/castle/throne", "dungeons_enhanced:chests/hay_storage", "dungeons_enhanced:chests/large_dungeon", "dungeons_enhanced:chests/miners_house", "dungeons_enhanced:chests/monster_maze/brewery", "dungeons_enhanced:chests/monster_maze/church", "dungeons_enhanced:chests/monster_maze/prison", "dungeons_enhanced:chests/monster_maze/treasure", "dungeons_enhanced:chests/mushroom_house", "dungeons_enhanced:chests/pillager_camp/general", "dungeons_enhanced:chests/pillager_camp/kitchen", "dungeons_enhanced:chests/ruined_building", "dungeons_enhanced:chests/ruined/house", "dungeons_enhanced:chests/stables", "dungeons_enhanced:chests/tower_of_the_undead/treasure", "dungeons_enhanced:chests/tree_house/kitchen", "dungeons_enhanced:chests/tree_house/roof", "dungeons_enhanced:chests/watch_tower", "dungeons_enhanced:chests/witch_tower", "endrem:chests/biblio", "endrem:chests/dungeon", "endrem:chests/hided", "endrem:chests/house", "endrem:chests/throne", "endrem:chests/treasure", "endrem:chests/witch_hut", "iceandfire:chest/cyclops_cave", "iceandfire:chest/fire_dragon_female_cave", "iceandfire:chest/fire_dragon_male_cave", "iceandfire:chest/fire_dragon_roost", "iceandfire:chest/hydra_cave", "iceandfire:chest/ice_dragon_female_cave", "iceandfire:chest/ice_dragon_male_cave", "iceandfire:chest/ice_dragon_roost", "iceandfire:chest/lightning_dragon_female_cave", "iceandfire:chest/lightning_dragon_male_cave", "iceandfire:chest/lightning_dragon_roost", "iceandfire:chest/myrmex_loot_chest", "mowziesmobs:barakoa_village_house"]
 	coldLootTablesBlacklist = []
-	endLootTables = ["minecraft:chests/end_city_treasure", "repurposed_structures:chests/mineshaft/end", "repurposed_structures:chests/dungeon/end", "repurposed_structures:chests/outpost/end_shulker_box", "repurposed_structures:chests/pyramid/end_chest", "repurposed_structures:chests/shipwreck/end/map_chest", "repurposed_structures:chests/shipwreck/end/supply_chest", "repurposed_structures:chests/shipwreck/end/treasure_chest", "repurposed_structures:shulker_boxes/stronghold/end_storage_room", "repurposed_structures:shulker_boxes/stronghold/end_hallway", "repurposed_structures:shulker_boxes/stronghold/end_library", "betterstrongholds:chests/end/armoury", "betterstrongholds:chests/end/common", "betterstrongholds:chests/end/crypt", "betterstrongholds:chests/end/mess", "betterstrongholds:chests/end/prison_lg", "betterstrongholds:chests/end/trap", "betterstrongholds:chests/end/treasure"]
-	oceanLootTables = ["minecraft:chests/buried_treasure", "minecraft:chests/shipwreck", "minecraft:chests/underwater_ruin", "repurposed_structures:chests/mineshaft/ocean", "repurposed_structures:chests/dungeon/ocean", "repurposed_structures:chests/pyramid/ocean_chest"]
+	endLootTables = ["minecraft:chests/end_city_treasure", "majruszs_difficulty:chests/end_island_archer_tower", "majruszs_difficulty:chests/end_island_dungeon", "majruszs_difficulty:chests/end_island_forge", "majruszs_difficulty:chests/end_island_potion", "majruszs_difficulty:chests/end_island_tower", "majruszs_difficulty:chests/end_ship", "majruszs_difficulty:chests/end_ship_extra", "majruszs_difficulty:chests/end_ship_military", "majruszs_difficulty:chests/end_ship_military_small", "majruszs_difficulty:chests/end_ship_trader"]
+	oceanLootTables = ["minecraft:chests/buried_treasure", "minecraft:chests/shipwreck_map", "minecraft:chests/shipwreck_supply", "minecraft:chests/shipwreck_treasure", "minecraft:chests/underwater_ruin_big", "minecraft:chests/underwater_ruin_small", "awesomedungeonocean:chests/awesome_dungeon", "dungeons_enhanced:chests/elders_temple/elder_room", "dungeons_enhanced:chests/elders_temple/main", "dungeons_enhanced:chests/flying_dutchman"]
 	desertLootTablesBlacklist = []
-	netherLootTables = ["minecraft:chests/bastion", "minecraft:chests/nether_bridge", "minecraft:chests/ruined_portal", "repurposed_structures:chests/mineshaft/nether", "repurposed_structures:chests/mineshaft/warped", "repurposed_structures:chests/cities/nether", "repurposed_structures:chests/dungeon/nether", "repurposed_structures:chests/outpost/crimson_chest", "repurposed_structures:chests/outpost/nether_brick_chest", "repurposed_structures:chests/outpost/warped_chest", "repurposed_structures:chests/pyramid/nether_chest", "repurposed_structures:chests/ruin/nether", "repurposed_structures:chests/ruined_portal/large_portal_chest", "repurposed_structures:chests/ruined_portal/small_portal_chest", "repurposed_structures:chests/shipwreck/crimson/", "repurposed_structures:chests/shipwreck/crimson/", "repurposed_structures:chests/shipwreck/crimson/", "repurposed_structures:chests/shipwreck/warped/map_chest", "repurposed_structures:chests/shipwreck/warped/supply_chest", "repurposed_structures:chests/shipwreck/warped/treasure_chest", "repurposed_structures:chests/shipwreck/nether_bricks/treasure_chest", "repurposed_structures:chests/stronghold/nether_storage_room", "repurposed_structures:chests/stronghold/nether_hallway", "repurposed_structures:chests/stronghold/nether_library", "repurposed_structures:chests/temple/nether_basalt_chest", "repurposed_structures:chests/temple/nether_crimson_chest", "repurposed_structures:chests/temple/nether_soul_chest", "repurposed_structures:chests/temple/nether_warped_chest", "repurposed_structures:chests/temple/nether_warped_trapped_chest", "repurposed_structures:chests/temple/nether_wasteland_chest", "repurposed_structures:chests/village/village_crimson_tanner", "repurposed_structures:chests/village/village_crimson_weaponsmith", "repurposed_structures:chests/village/village_warped_tanner", "repurposed_structures:chests/village/village_warped_weaponsmith", "betterstrongholds:chests/nether/common", "betterstrongholds:chests/nether/mess", "betterstrongholds:chests/nether/armoury", "betterstrongholds:chests/nether/crypt", "betterstrongholds:chests/nether/prison_lg", "betterstrongholds:chests/nether/trap", "betterstrongholds:chests/nether/treasure", "betterdungeons:skeleton_dungeon/chests/common", "dungeons_plus:chests/warped_garden/common"]
+	netherLootTables = ["minecraft:chests/bastion", "minecraft:chests/nether_bridge", "minecraft:chests/ruined_portal", "bygonenether:chests/catacomb/treasure_rib", "bygonenether:chests/citadel", "infernalexp:chests/basalt_delta_ruin_chest", "infernalexp:chests/desolate_bastion_outpost_chest", "infernalexp:chests/glowstone_canyon_ruin_chest"]
 	netherLootTablesBlacklist = []
-	coldLootTables = ["minecraft:chests/igloo_chest", "repurposed_structures:chests/mineshaft/icy", "repurposed_structures:chests/dungeon/snow", "repurposed_structures:chests/mansion/snowy", "repurposed_structures:chests/outpost/giant_tree_taiga_chest", "repurposed_structures:chests/outpost/icy_chest", "repurposed_structures:chests/outpost/snowy_chest", "repurposed_structures:chests/outpost/taiga_chest", "repurposed_structures:chests/pyramid/snowy_chest", "repurposed_structures:chests/pyramid/icy_chest", "repurposed_structures:chests/pyramid/giant_tree_taiga_chest", "dungeons_plus:chests/bigger_dungeon/stray", "dungeons_plus:chests/snowy_temple/common"]
+	coldLootTables = ["minecraft:chests/igloo_chest", "bosses_of_mass_destruction:chests/lich_tower", "dungeons_enhanced:chests/ice_pit/armory", "dungeons_enhanced:chests/ice_pit/bed", "dungeons_enhanced:chests/ice_pit/food", "dungeons_enhanced:chests/ice_pit/garden", "dungeons_enhanced:chests/ice_pit/hall"]
 	jungleLootTablesBlacklist = []
 	endLootTablesBlacklist = []
 
@@ -135,10 +135,10 @@
 [enchantment_specific_configuration]
 	#The max stacks for dynamo. [0-10000, default: 20]
 	#Range: 0 ~ 10000
-	dynamoMaxStacks = 3
+	dynamoMaxStacks = 4
 	#The multiplier increase per level for exploding [-5.0-5.0, default: 0.2]
 	#Range: -5.0 ~ 5.0
-	explodingMultiplierPerLevel = 0.1
+	explodingMultiplierPerLevel = 0.15
 	#The amount of damage per trigger of Beast burst. Each trigger causes an explosion around each minion [0-100, default: 5]
 	#Range: 0 ~ 100
 	beastBurstDamagePerLevel = 5
@@ -150,16 +150,16 @@
 	recklessAttackDamageBaseMultiplier = 0.0
 	#Multiplier per level applied to the damage. damage * (1 + (configValue*Stacks)) [0.0-5.0, default: 0.1]
 	#Range: 0.0 ~ 5.0
-	dynamoDamageMultiplierPerStack = 0.1
+	dynamoDamageMultiplierPerStack = 0.25
 	#The decimal base chance for a busy bee to spawn [0.0-1.0, default: 0.1]
 	#Range: 0.0 ~ 1.0
 	busyBeeBaseChance = 0.1
 	#Multiplier per level damage to healing conversion. [0.0-5.0, default: 0.25]
 	#Range: 0.0 ~ 5.0
-	altruisticDamageToHealingPerLevel = 0.15
+	altruisticDamageToHealingPerLevel = 0.25
 	#The decimal chance for Chains to trigger [0.0-1.0, default: 0.3]
 	#Range: 0.0 ~ 1.0
-	chainsChance = 0.3
+	chainsChance = 0.33
 	#The multiplier increase per level for beast boss [0.0-5.0, default: 0.1]
 	#Range: 0.0 ~ 5.0
 	beastBossMultiplierPerLevel = 0.1
@@ -168,25 +168,25 @@
 	recklessAttackDamageMultiplierPerLevel = 0.0
 	#The decimal base multiplier on the victim's max health for leeching [0.0-5.0, default: 0.2]
 	#Range: 0.0 ~ 5.0
-	leechingBaseMultiplier = 0.2
+	leechingBaseMultiplier = 0.25
 	#The decimal base multiplier on the damage for cowardice [0.0-5.0, default: 0.1]
 	#Range: 0.0 ~ 5.0
 	cowardiceBaseMultiplier = 0.1
 	#The decimal chance for rampaging to trigger [0.0-1.0, default: 0.1]
 	#Range: 0.0 ~ 1.0
-	rampagingChance = 0.5
+	rampagingChance = 0.1
 	#The strength increase per level for Gravity Pulse [0.0-5.0, default: 0.1]
 	#Range: 0.0 ~ 5.0
-	gravityPulseStrengthPerLevel = 0.3
+	gravityPulseStrengthPerLevel = 0.33
 	#The multiplier increase per level for Frenzied [0.0-5.0, default: 0.1]
 	#Range: 0.0 ~ 5.0
 	frenziedMultiplierPerLevel = 0.1
 	#The duration in ticks (20ticks = 1 second) per level added for rampaging. [0-10000, default: 100]
 	#Range: 0 ~ 10000
-	rampagingDuration = 60
+	rampagingDuration = 100
 	#The multiplier to max health for reckless. Balanced as a negative number. [-5.0-5.0, default: -0.6]
 	#Range: -5.0 ~ 5.0
-	recklessMaxHealthMultiplier = -0.5
+	recklessMaxHealthMultiplier = 0.0
 	#The decimal base pull strength for Gravity Pulse [0.0-5.0, default: 0.1]
 	#Range: 0.0 ~ 5.0
 	gravityPulseBaseStrength = 1.0
@@ -195,13 +195,13 @@
 	busyBeeChancePerLevel = 0.1
 	#The multiplier increase per level for max damage committed [0.0-5.0, default: 0.25]
 	#Range: 0.0 ~ 5.0
-	committedMultiplierPerLevel = 0.15
+	committedMultiplierPerLevel = 0.25
 	#The amount of souls per trigger of Soul Siphon. Each souls will give a value based on Soul Gathering. [0-100, default: 2]
 	#Range: 0 ~ 100
-	soulSiphonSoulsPerLevel = 3
+	soulSiphonSoulsPerLevel = 2
 	#The duration in ticks of the speed boost applied by Beast Surge. [0-10000, default: 200]
 	#Range: 0 ~ 10000
-	beastSurgeDuration = 180
+	beastSurgeDuration = 200
 	#The application distance in blocks for weakening. [0-10000, default: 5]
 	#Range: 0 ~ 10000
 	weakeningDistance = 5
@@ -213,10 +213,10 @@
 	tumbleBeeChancePerLevel = 0.1
 	#The decimal base multiplier on the damage for max damage committed.  [0.0-5.0, default: 1.25]
 	#Range: 0.0 ~ 5.0
-	committedBaseMultiplier = 1.1
+	committedBaseMultiplier = 1.25
 	#The chance per level for Stunning to trigger [-5.0-5.0, default: 0.25]
 	#Range: -5.0 ~ 5.0
-	stunningChancePerLevel = 0.2
+	stunningChancePerLevel = 0.15
 	#The chance per level for beehive to trigger [-5.0-5.0, default: 0.25]
 	#Range: -5.0 ~ 5.0
 	beehiveChancePerLevel = 0.1
@@ -228,7 +228,7 @@
 	dodgeChancePerLevel = 0.05
 	#The duration in ticks (20ticks = 1 second) for weakening. [0-10000, default: 100]
 	#Range: 0 ~ 10000
-	weakeningDuration = 20
+	weakeningDuration = 50
 	#The base damage for Thundering [0-10000, default: 5]
 	#Range: 0 ~ 10000
 	thunderingBaseDamage = 5
@@ -240,28 +240,28 @@
 	focusMultiplierPerLevel = 1.0
 	#The multiplier increase per level for leeching [0.0-5.0, default: 0.2]
 	#Range: 0.0 ~ 5.0
-	leechingMultiplierPerLevel = 0.2
+	leechingMultiplierPerLevel = 0.25
 	#The duration in ticks (20ticks = 1 second) for freezing. [0-10000, default: 60]
 	#Range: 0 ~ 10000
 	freezingDuration = 60
 	#The chance per level for void dodge to trigger [-5.0-5.0, default: 0.25]
 	#Range: -5.0 ~ 5.0
-	voidDodgeChancePerLevel = 0.1
+	voidDodgeChancePerLevel = 0.25
 	#The decimal chance for Soul Siphon to trigger [0.0-1.0, default: 0.05]
 	#Range: 0.0 ~ 1.0
-	soulSiphonChance = 0.1
+	soulSiphonChance = 0.05
 	#The chance for Poison Cloud to trigger [-5.0-5.0, default: 0.3]
 	#Range: -5.0 ~ 5.0
 	prospectorChancePerLevel = 0.1
 	#The decimal chance for Thundering to trigger [0.0-1.0, default: 0.3]
 	#Range: 0.0 ~ 1.0
-	thunderingChance = 0.3
+	thunderingChance = 0.33
 	#The decimal base duration for Potion Barrier [0-10000, default: 60]
 	#Range: 0 ~ 10000
 	potionBarrierBaseDuration = 60
 	#The duration in ticks (20ticks = 1 second) per level added for rushdown. [0-10000, default: 20]
 	#Range: 0 ~ 10000
-	rushdownDuration = 60
+	rushdownDuration = 20
 	#The duration increase per level for Potion Barrier [0-10000, default: 20]
 	#Range: 0 ~ 10000
 	potionBarrierDurationPerLevel = 20
@@ -269,5 +269,5 @@
 #Artifact Specific Configuration
 [artifact_specific_configuration]
 	#Entities that can not be converted by Love Medallion.
-	loveMedallionBlacklist = ["minecraft:ender_dragon", "minecraft:wither", "cataclysm:ignis", "cataclysm:netherite_monstrosity", "cataclysm:ender_guardian", "alexsmobs:void_worm", "ars_nouveau:wilden_boss", "mowziesmobs:barako", "mowziesmobs:ferrous_wroughtnaut", "mowziesmobs:frostmaw", "bosses_of_mass_destruction:lich", "bosses_of_mass_destruction:gaunlet", "bosses_of_mass_destruction:obsidilith", "bosses_of_mass_destruction:void_blossom"]
+	loveMedallionBlacklist = ["minecraft:ender_dragon", "minecraft:wither", "alexsmobs:void_worm", "alexsmobs:warped_mosco", "ars_nouveau:wilden_boss", "bosses_of_mass_destruction:gaunlet", "bosses_of_mass_destruction:lich", "bosses_of_mass_destruction:obsidilith", "bosses_of_mass_destruction:void_blossom", "cataclysm:ender_golem", "cataclysm:ender_guardian", "cataclysm:ignis", "cataclysm:ignited_revenant", "cataclysm:netherite_monstrosity", "iceandfire:cyclops", "iceandfire:fire_dragon", "iceandfire:hydra", "iceandfire:ice_dragon", "iceandfire:lightning_dragon", "mowziesmobs:barako", "mowziesmobs:ferrous_wroughtnaut", "mowziesmobs:frostmaw"]
 

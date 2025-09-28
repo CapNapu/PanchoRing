@@ -59,17 +59,13 @@
     }
   },
   "display": {
-    "announce_to_chat": true,
     "description": {
       "translate": "advancements.panchoring.dragonsteel_armor.description"
     },
-    "frame": "challenge",
-    "hidden": false,
+    "frame": "goal",
     "icon": {
-      "item": "iceandfire:dragonsteel_fire_chestplate",
-      "nbt": "{Damage:0}"
+      "item": "iceandfire:dragonsteel_fire_chestplate"
     },
-    "show_toast": true,
     "title": {
       "translate": "advancements.panchoring.dragonsteel_armor.title"
     }
@@ -81,8 +77,5 @@
       "dragonsteel_ice_armor",
       "dragonsteel_lightning_armor"
     ]
-  ],
-  "rewards": {
-    "experience": 250
-  }
+  ]
 }

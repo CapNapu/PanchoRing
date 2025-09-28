@@ -3,6 +3,34 @@
     {
       "entries": [
         {
+          "name": "dungeons_gear:diamond_sword",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:diamond_pickaxe",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:masters_call",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:hammer_of_gravity",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:elite_power_bow",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:purple_storm",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:lightning_harp_crossbow",
+          "type": "minecraft:item"
+        },
+        {
           "name": "dungeons_gear:voidcaller",
           "type": "minecraft:item"
         }
