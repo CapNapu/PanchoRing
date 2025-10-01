@@ -2,5 +2,5 @@
 [Enchantato-EnchantmentTableUsage]
 	#If you enable this, the 'DisabledEnchantments' will become 'AllowedEnchantments'
 	InvertedMode = false
-	DisabledEnchantments = ["minecraft:infinity", "minecraft:sweeping", "enchantmenttweak:magic_protection"]
+	DisabledEnchantments = ["minecraft:infinity", "minecraft:sweeping"]
 

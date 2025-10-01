@@ -24,15 +24,15 @@
 	#Additional enchantments to be made usable with crossbows.
 	"Crossbow Enchantments" = []
 	#Swords to be disabled from receiving additional enchantments.
-	"Sword Blacklist" = ["minecraft:mending", "minecraft:sweeping"]
+	"Sword Blacklist" = []
 	#Axes to be disabled from receiving additional enchantments.
-	"Axe Blacklist" = ["minecraft:mending"]
+	"Axe Blacklist" = []
 	#Tridents to be disabled from receiving additional enchantments.
-	"Trident Blacklist" = ["minecraft:mending"]
+	"Trident Blacklist" = []
 	#Bows to be disabled from receiving additional enchantments.
-	"Bow Blacklist" = ["minecraft:infinity", "minecraft:mending"]
+	"Bow Blacklist" = []
 	#Crossbows to be disabled from receiving additional enchantments.
-	"Crossbow Blacklist" = ["minecraft:infinity", "minecraft:mending"]
+	"Crossbow Blacklist" = []
 
 [enchantment_exclusiveness]
 	#Allow infinity and mending to be applied at the same time.

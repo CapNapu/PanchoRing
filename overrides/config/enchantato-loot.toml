@@ -2,5 +2,5 @@
 [Enchantato-Loot]
 	#If you enable this, the 'DisabledEnchantments' will become 'AllowedEnchantments'
 	InvertedMode = false
-	DisabledEnchantments = ["minecraft:infinity", "minecraft:mending", "minecraft:sweeping", "enchantmenttweak:magic_protection", "origins:water_protection"]
+	DisabledEnchantments = ["minecraft:infinity", "minecraft:mending", "minecraft:sweeping", "origins:water_protection"]
 
