@@ -5,13 +5,49 @@
   "trades": [
     {
       "offer": {
-        "itemKey": "projectvibrantjourneys:juniper_berries",
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "alexsmobs:moose_ribs",
+        "amount": 4,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:butcher_emerald_for_moose_ribs"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "alexsmobs:kangaroo_meat",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:butcher_emerald_for_kangaroo_meat"
+    },
+    {
+      "offer": {
+        "itemKey": "bosses_of_mass_destruction:crystal_fruit",
         "amount": 5,
         "priceModifier": 0
       },
       "request": {
         "itemKey": "minecraft:emerald",
-        "amount": 1,
+        "amount": 6,
         "priceModifier": 0
       },
       "tradeExp": 30,
@@ -19,7 +55,7 @@
       "priceMultiplier": 0.05,
       "demand": 0,
       "tradeLevel": 5,
-      "UTID": "minecraft:butcher_juniper_berries_for_emerald"
+      "UTID": "minecraft:butcher_crystal_fruit_for_emerald"
     }
   ]
 }

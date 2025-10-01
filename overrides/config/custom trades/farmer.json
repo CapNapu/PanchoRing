@@ -5,17 +5,53 @@
   "trades": [
     {
       "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "supplementaries:flax",
+        "amount": 15,
+        "priceModifier": 0
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:farmer_emerald_for_cured_jerky"
+    },
+    {
+      "offer": {
+        "itemKey": "supplementaries:pancake",
+        "amount": 8,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:farmer_emerald_for_spirit_eye"
+    },
+    {
+      "offer": {
         "itemKey": "iceandfire:cannoli",
         "amount": 3,
         "priceModifier": 0
       },
       "request": {
         "itemKey": "minecraft:emerald",
-        "amount": 8,
+        "amount": 10,
         "priceModifier": 0
       },
-      "tradeExp": 60,
-      "maxUses": 6,
+      "tradeExp": 30,
+      "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
       "tradeLevel": 5,

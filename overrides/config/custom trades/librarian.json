@@ -5,6 +5,24 @@
   "trades": [
     {
       "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "iceandfire:manuscript",
+        "amount": 4,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:librarian_emerald_for_manuscript"
+    },
+    {
+      "offer": {
         "itemKey": "iceandfire:manuscript",
         "amount": 3,
         "priceModifier": 0
@@ -14,12 +32,30 @@
         "amount": 1,
         "priceModifier": 0
       },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:librarian_manuscript_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "ars_nouveau:warp_scroll",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 12,
+        "priceModifier": 0
+      },
       "tradeExp": 30,
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
       "tradeLevel": 5,
-      "UTID": "minecraft:librarian_manuscript_for_emerald"
+      "UTID": "minecraft:librarian_warp_scroll_for_emerald"
     }
   ]
 }

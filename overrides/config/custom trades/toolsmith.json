@@ -5,14 +5,54 @@
   "trades": [
     {
       "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "iceandfire:copper_ingot",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:toolsmith_emerald_for_copper_ingot"
+    },
+    {
+      "offer": {
         "itemKey": "epicfight:katana",
         "amount": 1,
         "priceModifier": 0
       },
       "request": {
         "itemKey": "minecraft:emerald",
-        "amount": 18,
-        "amountRange": 32,
+        "amount": 24,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 3,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:toolsmith_katana_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "bygonenether:netherite_bell",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 36,
+        "priceModifier": 0
+      },
+      "additionalRequest": {
+        "itemKey": "minecraft:netherite_ingot",
+        "amount": 1,
         "priceModifier": 0
       },
       "tradeExp": 30,
@@ -20,7 +60,7 @@
       "priceMultiplier": 0.05,
       "demand": 0,
       "tradeLevel": 5,
-      "UTID": "minecraft:toolsmith_katana_for_emerald"
+      "UTID": "minecraft:toolsmith_netherite_bell_for_emerald_and_netherite_ingot"
     }
   ]
 }

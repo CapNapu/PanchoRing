@@ -5,13 +5,49 @@
   "trades": [
     {
       "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "infernalexp:cured_jerky",
+        "amount": 4,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:cleric_emerald_for_cured_jerky"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "infernalexp:spirit_eye",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:cleric_emerald_for_spirit_eye"
+    },
+    {
+      "offer": {
         "itemKey": "majruszs_difficulty:recall_potion",
         "amount": 1,
         "priceModifier": 0
       },
       "request": {
         "itemKey": "minecraft:emerald",
-        "amount": 9,
+        "amount": 8,
         "priceModifier": 0
       },
       "tradeExp": 30,

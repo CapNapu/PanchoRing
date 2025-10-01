@@ -5,13 +5,49 @@
   "trades": [
     {
       "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "improvedbackpacks:tanned_leather",
+        "amount": 5,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:leatherworker_emerald_for_tanned_leather"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "majruszs_difficulty:tattered_cloth",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:leatherworker_emerald_for_tattered_cloth"
+    },
+    {
+      "offer": {
         "itemKey": "majruszs_difficulty:hermes_boots",
         "amount": 1,
         "priceModifier": 0
       },
       "request": {
         "itemKey": "minecraft:emerald",
-        "amount": 15,
+        "amount": 16,
         "priceModifier": 0
       },
       "tradeExp": 30,
