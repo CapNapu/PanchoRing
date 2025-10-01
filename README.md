@@ -1,7 +1,9 @@
 # PanchoRing
-*Based on Elden Ring; somehow becomes more like Skyrim*
+*Originally based on Elden Ring; somehow ended being more like Skyrim*
 
 Another Adventure-themed Modpack For Minecraft 1.16.5
+
+Currently in Develpment
 
 # Credits
 
