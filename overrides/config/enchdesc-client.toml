@@ -1,0 +1,13 @@
+
+#General settings for the mod.
+[general]
+	#Should descriptions only be shown on enchanted books?
+	onlyEnchantedBooks = true
+	#Should new/blank lines be added between enchantments?
+	addNewLines = false
+	#Should the mod that owns the enchantment be displayed?
+	showOwner = false
+	#Should players be required to press a keybind in order to see the descriptions?
+	requireKeybind = true
+
+	

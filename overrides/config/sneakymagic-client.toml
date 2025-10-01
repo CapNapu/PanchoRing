@@ -1,0 +1,18 @@
+
+[general]
+	#Makes curse enchantments no longer show right away, making it a lot harder to know when an item is cursed.
+	"Sneaky Curses" = true
+
+[sneaky_curses]
+	#Hide curse enchantments from the item tooltip.
+	"Hide Curses" = true
+	#Hide enchantment glint and remove aqua color from name in case the item is solely enchanted with curses.
+	"Disguise Item" = true
+	#Temporarily disable effects of the "curses" module when a shift key is pressed.
+	"Shift Shows Curses" = false
+	#Cursed items have a red name tag instead of an aqua one.
+	"Color Item Name" = true
+	#Prevent curses from showing on enchanted books if they also hold other enchantments.
+	"Affect Books" = true
+
+	

@@ -1,0 +1,19 @@
+#Keep true if you want to see how long you have been playing underneath the state text.
+timestampEnabled = true
+#This is the name of your uploaded image that you want to be your small image on the application tab > Rich Presence > Art Assets.
+smallImageKey = "mc_logo"
+#Keep true if you want to start the automated chat setup when the mod hasn't been setup yet
+autoChatSetup = true
+#This is the text that will show up when you hover over the large image.
+largeImageText = ""
+#This is the name of your uploaded image that you want to be your large image on the application tab > Rich Presence > Art Assets.
+largeImageKey = "pr_logo"
+#This is the text that will be show underneath the title of your application.
+details = "Minecraft 1.16.5"
+#This is the text that will be show underneath the details.
+state = "PanchoRing 1.0"
+#This is the application ID that you will find in the General Information tab on your application page on https://discord.com/developers/applications/.
+applicationID = "1341689846196076645"
+#This is the text that will show up when you hover over the small image.
+smallImageText = ""
+

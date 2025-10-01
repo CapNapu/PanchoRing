@@ -1,0 +1,331 @@
+
+[model_options]
+	#Shield
+	shield = true
+	#quiver
+	quiver = false
+	#put main and off hand items after x tick to display on the body! 100 tick ~ 5 sec
+	#Range: > 0
+	hidetick = 200
+	#Players can change the position and rotation of the displayed items
+	can_change_pos_and_rot = false
+	#Put in the name, x,y,z, x-y-z rotation values and the slot where to apply the changes 1-9, shield, banner, offhand! Separate items with a space character
+	uniqueitems = "name,0,0,0,0,0,0,0,1 carrot_on_a_stick,25,40,8,-90,-50,90,0,1 carrot_on_a_stick,-55,12,24,90,120,0,0,2 carrot_on_a_stick,-8,35,20,-135,90,0,0,3 carrot_on_a_stick,-8,35,20,-135,90,0,0,4 carrot_on_a_stick,-8,15,30,-100,90,30,0,5 carrot_on_a_stick,-8,15,30,-100,90,30,0,6 carrot_on_a_stick,40,15,8,90,-180,-55,0,7 carrot_on_a_stick,-10,35,8,-85,-80,50,0,8 carrot_on_a_stick,-8,50,10,-150,90,-20,0,9 warped_fungus_on_a_stick,25,40,8,-90,-50,90,0,1 warped_fungus_on_a_stick,-55,12,24,90,120,0,0,2 warped_fungus_on_a_stick,-8,35,20,-135,90,0,0,3 warped_fungus_on_a_stick,-8,35,20,-135,90,0,0,4 warped_fungus_on_a_stick,-8,15,30,-100,90,30,0,5 warped_fungus_on_a_stick,-8,15,30,-100,90,30,0,6 warped_fungus_on_a_stick,40,15,8,90,-180,-55,0,7 warped_fungus_on_a_stick,-10,35,8,-85,-80,50,0,8 warped_fungus_on_a_stick,-8,50,10,-150,90,-20,0,9 chorus_on_a_stick,25,40,8,-90,-50,90,0,1 chorus_on_a_stick,-55,12,24,90,120,0,0,2 chorus_on_a_stick,-8,35,20,-135,90,0,0,3 chorus_on_a_stick,-8,35,20,-135,90,0,0,4 chorus_on_a_stick,-8,15,30,-100,90,30,0,5 chorus_on_a_stick,-8,15,30,-100,90,30,0,6 chorus_on_a_stick,40,15,8,90,-180,-55,0,7 chorus_on_a_stick,-10,35,8,-85,-80,50,0,8 chorus_on_a_stick,-8,50,10,-150,90,-20,0,9 dimensional_carver,25,40,8,-90,-50,90,0,1 dimensional_carver,-55,12,24,90,120,0,0,2 dimensional_carver,-8,35,20,-135,90,0,0,3 dimensional_carver,-8,35,20,-135,90,0,0,4 dimensional_carver,-8,15,30,-100,90,30,0,5 dimensional_carver,-8,15,30,-100,90,30,0,6 dimensional_carver,40,15,8,90,-180,-55,0,7 dimensional_carver,-10,35,8,-85,-80,50,0,8 dimensional_carver,-8,50,10,-150,90,-20,0,9 cockatrice_scepter,25,40,8,-90,-50,90,0,1 cockatrice_scepter,-55,12,24,90,120,0,0,2 cockatrice_scepter,-8,35,20,-135,90,0,0,3 cockatrice_scepter,-8,35,20,-135,90,0,0,4 cockatrice_scepter,-8,15,30,-100,90,30,0,5 cockatrice_scepter,-8,15,30,-100,90,30,0,6 cockatrice_scepter,40,15,8,90,-180,-55,0,7 cockatrice_scepter,-10,35,8,-85,-80,50,0,8 cockatrice_scepter,-8,50,10,-150,90,-20,0,9 dragon_stick,25,40,8,-90,-50,90,0,1 dragon_stick,-55,12,24,90,120,0,0,2 dragon_stick,-8,35,20,-135,90,0,0,3 dragon_stick,-8,35,20,-135,90,0,0,4 dragon_stick,-8,15,30,-100,90,30,0,5 dragon_stick,-8,15,30,-100,90,30,0,6 dragon_stick,40,15,8,90,-180,-55,0,7 dragon_stick,-10,35,8,-85,-80,50,0,8 dragon_stick,-8,50,10,-150,90,-20,0,9 myrmex_desert_staff,25,40,8,-90,-50,90,0,1 myrmex_desert_staff,-55,12,24,90,120,0,0,2 myrmex_desert_staff,-8,35,20,-135,90,0,0,3 myrmex_desert_staff,-8,35,20,-135,90,0,0,4 myrmex_desert_staff,-8,15,30,-100,90,30,0,5 myrmex_desert_staff,-8,15,30,-100,90,30,0,6 myrmex_desert_staff,40,15,8,90,-180,-55,0,7 myrmex_desert_staff,-10,35,8,-85,-80,50,0,8 myrmex_desert_staff,-8,50,10,-150,90,-20,0,9 myrmex_desert_swarm,25,40,8,-90,-50,90,0,1 myrmex_desert_swarm,-55,12,24,90,120,0,0,2 myrmex_desert_swarm,-8,35,20,-135,90,0,0,3 myrmex_desert_swarm,-8,35,20,-135,90,0,0,4 myrmex_desert_swarm,-8,15,30,-100,90,30,0,5 myrmex_desert_swarm,-8,15,30,-100,90,30,0,6 myrmex_desert_swarm,40,15,8,90,-180,-55,0,7 myrmex_desert_swarm,-10,35,8,-85,-80,50,0,8 myrmex_desert_swarm,-8,50,10,-150,90,-20,0,9 myrmex_jungle_staff,25,40,8,-90,-50,90,0,1 myrmex_jungle_staff,-55,12,24,90,120,0,0,2 myrmex_jungle_staff,-8,35,20,-135,90,0,0,3 myrmex_jungle_staff,-8,35,20,-135,90,0,0,4 myrmex_jungle_staff,-8,15,30,-100,90,30,0,5 myrmex_jungle_staff,-8,15,30,-100,90,30,0,6 myrmex_jungle_staff,40,15,8,90,-180,-55,0,7 myrmex_jungle_staff,-10,35,8,-85,-80,50,0,8 myrmex_jungle_staff,-8,50,10,-150,90,-20,0,9 myrmex_jungle_swarm,25,40,8,-90,-50,90,0,1 myrmex_jungle_swarm,-55,12,24,90,120,0,0,2 myrmex_jungle_swarm,-8,35,20,-135,90,0,0,3 myrmex_jungle_swarm,-8,35,20,-135,90,0,0,4 myrmex_jungle_swarm,-8,15,30,-100,90,30,0,5 myrmex_jungle_swarm,-8,15,30,-100,90,30,0,6 myrmex_jungle_swarm,40,15,8,90,-180,-55,0,7 myrmex_jungle_swarm,-10,35,8,-85,-80,50,0,8 myrmex_jungle_swarm,-8,50,10,-150,90,-20,0,9 pixie_wand,25,40,8,-90,-50,90,0,1 pixie_wand,-55,12,24,90,120,0,0,2 pixie_wand,-8,35,20,-135,90,0,0,3 pixie_wand,-8,35,20,-135,90,0,0,4 pixie_wand,-8,15,30,-100,90,30,0,5 pixie_wand,-8,15,30,-100,90,30,0,6 pixie_wand,40,15,8,90,-180,-55,0,7 pixie_wand,-10,35,8,-85,-80,50,0,8 pixie_wand,-8,50,10,-150,90,-20,0,9 slingshot,25,40,8,-90,-50,90,0,1 slingshot,-55,12,24,90,120,0,0,2 slingshot,-8,35,20,-135,90,0,0,3 slingshot,-8,35,20,-135,90,0,0,4 slingshot,-8,15,30,-100,90,30,0,5 slingshot,-8,15,30,-100,90,30,0,6 slingshot,40,15,8,90,-180,-55,0,7 slingshot,-10,35,8,-85,-80,50,0,8 slingshot,-8,50,10,-150,90,-20,0,9 wrench,25,40,8,-90,-50,90,0,1 wrench,-55,12,24,90,120,0,0,2 wrench,-8,35,20,-135,90,0,0,3 wrench,-8,35,20,-135,90,0,0,4 wrench,-8,15,30,-100,90,30,0,5 wrench,-8,15,30,-100,90,30,0,6 wrench,40,15,8,90,-180,-55,0,7 wrench,-10,35,8,-85,-80,50,0,8 wrench,-8,50,10,-150,90,-20,0,9"
+	#Body part attachment to a slot
+	attachment = "1-body,2-body,3-body,4-body,5-body,6-body,7-body,8-body,9-body,shield-body,banner-head,offhand-lleg,quiver-body"
+	#Players can change their whitelist
+	can_change_scale = false
+	#Slot 1
+	s1 = true
+	#Slot 2
+	s2 = true
+	#Slot 3
+	s3 = true
+	#Slot 4
+	s4 = true
+	#Slot 5
+	s5 = true
+	#Which active slot and equipment should move the item model away
+	slot_mover = "none,chest;z;+_none,chest,1;z;+_none,legs;x;-_none,legs;x;+_none,legs,3;x;-_none,legs,4;x;+_none,chest,legs,1,2;z;+_none,shield,1,2,7,chest;z;+_none,legs,3,5;x;-_none;z;-_none;z;-_none,legs,4,6;x;+_none;z;+"
+	#Slot 6
+	s6 = true
+	#Slot 7
+	s7 = true
+	#Slot 8
+	s8 = true
+	#Slot 9
+	s9 = true
+	#off hand
+	off_hand = false
+	#Blacklists item that are normally visible
+	blacklist = "empty,compass,bulwark_of_the_flame,infernal_forge,anchor,battlestaff_of_terror,battlestaff,bone_cudgel,boneclub,broadsword,dancers_sword,encrusted_anchor,fighters_binding,fortune_spear,frost_scythe,frost_slayer,gauntlet,glaive,grave_bane,great_axeblade,great_hammer,growing_staff,hammer_of_gravity,jailors_scythe,mauler,soul_fist,soul_scythe,spear,stormlander,truthseeker,venom_glaive,whispering_spear,knuckle,troll_weapon_axe,troll_weapon_column,troll_weapon_column_forest,troll_weapon_column_frost,troll_weapon_hammer,troll_weapon_trunk,troll_weapon_trunk_frost,blowgun"
+	#Banner
+	banner = true
+	#Players can change the movers of the slots
+	can_change_movers = false
+	#Whitelists item that are normally not visible
+	whitelist = "empty,carrot_on_a_stick,fishing_rod,lingering_potion,potion,splash_potion,totem_of_undying,warped_fungus_on_a_stick,writable_book,written_book,animal_dictionary,chorus_on_a_stick,dimensional_carver,echolocator,endolocator,falconry_glove_hand,lava_bottle,pocket_sand,antique_atlas,curio_bag,potion_flask_amplify,potion_flask_extend_time,potion_flask,charged_ender_pearl,the_incinerator,void_core,cockatrice_scepter,cyclops_eye,dragon_flute,dragon_stick,dread_key,hydra_heart,myrmex_desert_staff,myrmex_desert_swarm,myrmex_jungle_staff,myrmex_jungle_swarm,pixie_wand,siren_flute,undead_battle_standard,barakoa_mask_bliss,barakoa_mask_faith,barakoa_mask_fear,barakoa_mask_fury,barakoa_mask_misery,barakoa_mask_rage,captured_grottol,grant_suns_blessing,ice_crystal,orb_of_origin,guide_book,wrench,slingshot,flute"
+	#Players can change their unique item settings
+	can_change_uit = false
+	#main hand
+	main_hand = false
+	#Players can hide items with the toggle settings
+	canhideitems = false
+	#Players can change the attachment of the slots
+	can_change_attachment = false
+
+	[model_options.positions_rotations]
+		#y rotation37
+		#Range: > -2147483648
+		y_rotation37 = 0
+		#z rotation29
+		#Range: > -2147483648
+		z_rotationn29 = 0
+		#x position33
+		#Range: > -2147483648
+		x_position33 = -2
+		#x position36
+		#Range: > -2147483648
+		x_position36 = 0
+		#x rotation9
+		#Range: > -2147483648
+		x_rotation9 = 0
+		#y position22
+		#Range: > -2147483648
+		y_position22 = 20
+		#y rotation31
+		#Range: > -2147483648
+		y_rotation31 = 0
+		#x rotation6
+		#Range: > -2147483648
+		x_rotation6 = 0
+		#scale10
+		#Range: > -100
+		scale10 = 0
+		#y rotation34
+		#Range: > -2147483648
+		y_rotation34 = 90
+		#scale12
+		#Range: > -100
+		scale12 = 0
+		#scale11
+		#Range: > -100
+		scale11 = 0
+		#x rotation3
+		#Range: > -2147483648
+		x_rotation3 = 0
+		#x position6
+		#Range: > -2147483648
+		x_position6 = -11
+		#y position28
+		#Range: > -2147483648
+		y_position28 = 0
+		#y position25
+		#Range: > -2147483648
+		y_position25 = 50
+		#x position0
+		#Range: > -2147483648
+		x_position0 = 0
+		#x rotation0
+		#Range: > -2147483648
+		x_rotation0 = 0
+		#x position3
+		#Range: > -2147483648
+		x_position3 = 35
+		#z rotation20
+		#Range: > -2147483648
+		z_rotationn20 = -35
+		#x position30
+		#Range: > -2147483648
+		x_position30 = 0
+		#x position9
+		#Range: > -2147483648
+		x_position9 = 44
+		#z rotation23
+		#Range: > -2147483648
+		z_rotationn23 = 45
+		#z rotation26
+		#Range: > -2147483648
+		z_rotationn26 = 20
+		#z rotation17
+		#Range: > -2147483648
+		z_rotationn17 = -30
+		#x position27
+		#Range: > -2147483648
+		x_position27 = 0
+		#y rotation28
+		#Range: > -2147483648
+		y_rotation28 = 0
+		#x position24
+		#Range: > -2147483648
+		x_position24 = -11
+		#y position10
+		#Range: > -2147483648
+		y_position10 = 50
+		#z position14
+		#Range: > -2147483648
+		z_position14 = 10
+		#z position17
+		#Range: > -2147483648
+		z_position17 = 0
+		#y rotation22
+		#Range: > -2147483648
+		y_rotation22 = 0
+		#y rotation25
+		#Range: > -2147483648
+		y_rotation25 = -90
+		#y position19
+		#Range: > -2147483648
+		y_position19 = 34
+		#y position16
+		#Range: > -2147483648
+		y_position16 = 50
+		#x rotation33
+		#Range: > -2147483648
+		x_rotation33 = 110
+		#x rotation30
+		#Range: > -2147483648
+		x_rotation30 = 0
+		#z position11
+		#Range: > -2147483648
+		z_position11 = 12
+		#y position13
+		#Range: > -2147483648
+		y_position13 = 50
+		#z rotation11
+		#Range: > -2147483648
+		z_rotationn11 = 0
+		#x position21
+		#Range: > -2147483648
+		x_position21 = 25
+		#z rotation14
+		#Range: > -2147483648
+		z_rotationn14 = -30
+		#x rotation36
+		#Range: > -2147483648
+		x_rotation36 = 0
+		#x position15
+		#Range: > -2147483648
+		x_position15 = 44
+		#y rotation16
+		#Range: > -2147483648
+		y_rotation16 = -90
+		#x position18
+		#Range: > -2147483648
+		x_position18 = -13
+		#y rotation19
+		#Range: > -2147483648
+		y_rotation19 = 0
+		#x position12
+		#Range: > -2147483648
+		x_position12 = -11
+		#z position26
+		#Range: > -2147483648
+		z_position26 = 20
+		#y rotation10
+		#Range: > -2147483648
+		y_rotation10 = -90
+		#z position29
+		#Range: > -2147483648
+		z_position29 = 0
+		#y rotation13
+		#Range: > -2147483648
+		y_rotation13 = -90
+		#y rotation1
+		#Range: > -2147483648
+		y_rotation1 = 0
+		#x rotation24
+		#Range: > -2147483648
+		x_rotation24 = 0
+		#y rotation7
+		#Range: > -2147483648
+		y_rotation7 = -90
+		#y rotation4
+		#Range: > -2147483648
+		y_rotation4 = 0
+		#x rotation21
+		#Range: > -2147483648
+		x_rotation21 = 0
+		#z position8
+		#Range: > -2147483648
+		z_position8 = 12
+		#z position20
+		#Range: > -2147483648
+		z_position20 = 0
+		#z position23
+		#Range: > -2147483648
+		z_position23 = 0
+		#z position5
+		#Range: > -2147483648
+		z_position5 = 0
+		#z position2
+		#Range: > -2147483648
+		z_position2 = 0
+		#x rotation27
+		#Range: > -2147483648
+		x_rotation27 = 0
+		#z rotation38
+		#Range: > -2147483648
+		z_rotationn38 = 0
+		#z position35
+		#Range: > -2147483648
+		z_position35 = -14
+		#y position31
+		#Range: > -2147483648
+		y_position31 = 0
+		#z position38
+		#Range: > -2147483648
+		z_position38 = 15
+		#z rotation5
+		#Range: > -2147483648
+		z_rotationn5 = 90
+		#scale8
+		#Range: > -100
+		scale8 = 0
+		#x rotation12
+		#Range: > -2147483648
+		x_rotation12 = 0
+		#scale9
+		#Range: > -100
+		scale9 = 0
+		#y position7
+		#Range: > -2147483648
+		y_position7 = 50
+		#scale6
+		#Range: > -100
+		scale6 = 0
+		#scale7
+		#Range: > -100
+		scale7 = 0
+		#scale4
+		#Range: > -100
+		scale4 = 0
+		#scale5
+		#Range: > -100
+		scale5 = 0
+		#z position32
+		#Range: > -2147483648
+		z_position32 = 0
+		#y position37
+		#Range: > -2147483648
+		y_position37 = 0
+		#scale2
+		#Range: > -100
+		scale2 = 0
+		#y position34
+		#Range: > -2147483648
+		y_position34 = 22
+		#z rotation8
+		#Range: > -2147483648
+		z_rotationn8 = 0
+		#scale3
+		#Range: > -100
+		scale3 = 0
+		#y position1
+		#Range: > -2147483648
+		y_position1 = 0
+		#scale0
+		#Range: > -100
+		scale0 = 0
+		#scale1
+		#Range: > -100
+		scale1 = 0
+		#z rotation32
+		#Range: > -2147483648
+		z_rotationn32 = 0
+		#x rotation18
+		#Range: > -2147483648
+		x_rotation18 = 0
+		#z rotation2
+		#Range: > -2147483648
+		z_rotationn2 = 0
+		#z rotation35
+		#Range: > -2147483648
+		z_rotationn35 = 0
+		#x rotation15
+		#Range: > -2147483648
+		x_rotation15 = 0
+		#y position4
+		#Range: > -2147483648
+		y_position4 = 35
+
