@@ -1,0 +1,13 @@
+name = "Campfire Spawn and Tweaks"
+filename = "campfirespawnandtweaks_1.16.5-1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "76eda0d2e3aed34f8654da6db5b552fb77b992c4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3667880
+project-id = 452484

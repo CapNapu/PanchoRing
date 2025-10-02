@@ -1,0 +1,13 @@
+name = "You Died"
+filename = "YouDied-1.16.5-1.0.1.8.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "e7238214d68b6693c4aeb38d2ad69adf4570e55b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4373312
+project-id = 582464

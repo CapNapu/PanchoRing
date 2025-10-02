@@ -1,0 +1,13 @@
+name = "Farsighted Mobs (Forge & NeoForge)"
+filename = "farsightedmobs-forge-1.16-1.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "2451ae2f30227ded95046c041c99debba2c5f954"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3459608
+project-id = 506624

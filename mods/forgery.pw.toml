@@ -1,0 +1,13 @@
+name = "Forgery"
+filename = "forgery-1.16-2.3.0-exp2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "78316671f2d46a1574c3be99060bb2acdb26040b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3566126
+project-id = 434087

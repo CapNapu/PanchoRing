@@ -1,0 +1,13 @@
+name = "Better Fps - Render Distance[Forge]"
+filename = "betterfpsdist-1.2.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "2bbfb89dbfb5275f0c7f31d8739fdd94461a183e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3766033
+project-id = 551520

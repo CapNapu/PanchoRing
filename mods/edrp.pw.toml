@@ -1,0 +1,13 @@
+name = "Easy Discord Rich Presence"
+filename = "easydiscordrichpresence-1.1-1.16.3 to 1.16.5.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "e2092a614fda0930ed64cca51f0752954de8cfcd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3531082
+project-id = 399128

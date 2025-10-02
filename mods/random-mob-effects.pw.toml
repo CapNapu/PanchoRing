@@ -1,0 +1,13 @@
+name = "Random Mob Effects"
+filename = "randommobeffects_1.16.5-2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2805b7279762c8afad81e551657562437b6f1aa9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4074159
+project-id = 445660

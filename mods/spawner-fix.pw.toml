@@ -1,0 +1,13 @@
+name = "Spawner Bug Fix"
+filename = "SpawnerFix-1.16.2-1.0.0.3.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "fbfc8b2d54441f14b780d11c11cb8c000265c9ba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5962957
+project-id = 399022

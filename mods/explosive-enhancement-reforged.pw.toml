@@ -1,0 +1,13 @@
+name = "Explosive Enhancement: Reforged"
+filename = "explosiveenhancement-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "467380efe9827c1b8627a51d7d6361e7718cbf72"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5752142
+project-id = 1036246

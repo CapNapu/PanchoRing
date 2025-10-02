@@ -1,0 +1,13 @@
+name = "FerriteCore ((Neo)Forge)"
+filename = "ferritecore-2.1.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3ae8dbe663156a8dec621d255856356444586905"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4074330
+project-id = 429235

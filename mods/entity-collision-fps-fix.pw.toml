@@ -1,0 +1,13 @@
+name = "Entity Collision FPS Fix"
+filename = "entitycollisionfpsfix-1.16-1.0.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "cb91bd171ee9f8fc3e8ffdacd9d10ce818dc0be0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3809513
+project-id = 628345

@@ -1,0 +1,13 @@
+name = "Francium"
+filename = "francium-1.16.5-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f8add517682662021cd3db50a3b9b86260e479a5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4968100
+project-id = 951140

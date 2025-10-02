@@ -1,0 +1,13 @@
+name = "Architectury API"
+filename = "architectury-1.32.68.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ebd266dd51de8f4dd99c9b4731e35b8340734cda"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4521290
+project-id = 419699

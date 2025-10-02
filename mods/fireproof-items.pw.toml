@@ -1,0 +1,13 @@
+name = "Fireproof Items"
+filename = "fireproofitems-1.0_1.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "20fbe0a3cc1ec28b688d2e7beb039ae42427869e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3330924
+project-id = 394279

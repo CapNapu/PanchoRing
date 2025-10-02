@@ -1,0 +1,13 @@
+name = "Library Ferret - Forge"
+filename = "libraryferret-forge-1.16.5-4.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9ffb79484c06d2fcab80d103a16a6f6b2426d0e6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4435510
+project-id = 532727

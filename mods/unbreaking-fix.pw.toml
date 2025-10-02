@@ -1,0 +1,13 @@
+name = "Unbreaking Fix"
+filename = "unbreakingfix-1.16.5-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "23923f723392446eaa5c2d808918ea63ad7b2311"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3959116
+project-id = 666469

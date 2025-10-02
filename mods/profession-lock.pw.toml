@@ -1,0 +1,13 @@
+name = "Profession Lock"
+filename = "ProfessionLock-1.16.2-1.0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e3e1ba2cd19c7f3bbdc601d06ce4c89345fd83fb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3614890
+project-id = 554689

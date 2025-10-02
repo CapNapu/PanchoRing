@@ -1,0 +1,13 @@
+name = "Chunk Saving Fix"
+filename = "chunksavingfix-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3c2c67cd79b858822843447569f13505713ddd8d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3372148
+project-id = 499571

@@ -1,0 +1,13 @@
+name = "YUNG's Bridges (Forge/NeoForge)"
+filename = "YungsBridges-Forge-1.16.4-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d8ccc49262bb88787dfa11b26bc811685e190551"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3494974
+project-id = 536660

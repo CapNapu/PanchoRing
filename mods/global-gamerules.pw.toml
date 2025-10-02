@@ -1,0 +1,13 @@
+name = "Global GameRules"
+filename = "GlobalGameRules-1.16.5-5.1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "76fb94446cc428e09b4c3738816a751e604ee9ab"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3378657
+project-id = 227657

@@ -1,0 +1,13 @@
+name = "NoChatLag [Fabric & Forge] [1.16-1.18]"
+filename = "NoChatLagForge-1.1.0-1.16.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "570180aad4080f3bf879d867a634a310def3f8dc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3620236
+project-id = 565368

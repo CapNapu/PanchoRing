@@ -1,0 +1,13 @@
+name = "Configurable Conflicts"
+filename = "configurable_conflicts-1.16.5-0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "73a0e36b94d3a08d61c7d1d966f64785485b9ee6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4747795
+project-id = 912125

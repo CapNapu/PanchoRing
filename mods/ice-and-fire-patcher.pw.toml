@@ -1,0 +1,13 @@
+name = "Ice And Fire Patcher"
+filename = "iaf_patcher-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8fb02eed7a4ad82892653792b18f6ad8a6b8cd66"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6954753
+project-id = 1066111

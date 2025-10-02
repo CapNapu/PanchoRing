@@ -1,0 +1,13 @@
+name = "Better Burning"
+filename = "BetterBurning-1.16.5-6.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6e45edd8bd76d527c944d7e91bf93ef677d36602"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3732288
+project-id = 353434

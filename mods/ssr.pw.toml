@@ -1,0 +1,13 @@
+name = "Sparse Structures Reforged"
+filename = "sparsestructuresreforged-1.16.5-0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a0631886c0a11a19c48f8e05747b670a3c69c5b3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5178660
+project-id = 912104

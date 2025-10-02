@@ -1,0 +1,13 @@
+name = "Enchantato - Enchantment Table"
+filename = "enchantato_enchantment_table-1.16.5-0.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e4a13258ac50b27af8a647d5fe9208e03c76735a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4787171
+project-id = 919340
