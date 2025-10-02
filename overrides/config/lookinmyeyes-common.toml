@@ -8,10 +8,10 @@
 	#Range: 0 ~ 100
 	"MobsCheckSoundSourceChance(%)" = 100
 	#If enabled, you will not play any sound when sneaking
-	SneakNoSound = true
+	SneakNoSound = false
 	#If enabled, mobs that don't have target will target the source living entity when attacked
 	#Disable this may cause some strange issues between iron golems and zombies
-	MobsTargetAttacker = false
+	MobsTargetAttacker = true
 	#Deaf entities that fail to hear anything
 	Deaf = ["minecraft:bee", "minecraft:cave_spider", "minecraft:endermite", "minecraft:silverfish", "minecraft:spider", "alexsmobs:centipede_head", "alexsmobs:crimson_mosquito", "alexsmobs:leafcutter_ant", "alexsmobs:lobster", "alexsmobs:mantis_shrimp", "alexsmobs:tarantula_hawk", "alexsmobs:warped_mosco", "cataclysm:endermaptera", "iceandfire:myrmex_queen", "iceandfire:myrmex_royal", "iceandfire:myrmex_sentinel", "iceandfire:myrmex_soldier", "iceandfire:myrmex_swarmer", "iceandfire:myrmex_worker", "infernalexp:glowsquito", "infernalexp:warpbeetle"]
 	#Blind entities that fail to see anything

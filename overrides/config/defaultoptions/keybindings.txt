@@ -32,31 +32,33 @@ key_key.hotbar.6:key.keyboard.6:NONE
 key_key.hotbar.7:key.keyboard.7:NONE
 key_key.hotbar.8:key.keyboard.8:NONE
 key_key.hotbar.9:key.keyboard.9:NONE
+key_extras.zoom.key:key.keyboard.v:NONE
 key_key.dragon_fireAttack:key.keyboard.z:NONE
 key_key.dragon_strike:key.keyboard.x:NONE
 key_key.dragon_down:key.keyboard.left.alt:NONE
 key_key.dragon_change_view:key.keyboard.f7:NONE
-key_key.enchdesc.show:key.keyboard.left.shift:NONE
 key_key.origins.primary_active:key.keyboard.c:NONE
 key_key.origins.secondary_active:key.keyboard.unknown:NONE
 key_key.origins.view_origin:key.keyboard.k:NONE
+key_key.enchdesc.show:key.keyboard.left.shift:NONE
+key_ryoamiclights.key.light_switch:key.keyboard.unknown:NONE
 key_Reload Menu | CTRL + ALT + :key.keyboard.unknown:NONE
 key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.unknown:NONE
-key_key.modernfix.config:key.keyboard.unknown:NONE
-key_placebo.toggleWings:key.keyboard.unknown:NONE
 key_key.weaponmaster_ydm.opengui:key.keyboard.unknown:NONE
+key_placebo.toggleWings:key.keyboard.unknown:NONE
 key_placebo.toggleTrails:key.keyboard.unknown:NONE
-key_equipmentcompare.key.showTooltips:key.keyboard.left.shift:NONE
+key_key.modernfix.config:key.keyboard.unknown:NONE
 key_fpsreducer.key.openGui:key.keyboard.unknown:NONE
 key_fpsreducer.key.forceIdle:key.keyboard.unknown:NONE
-key_key.curios.open.desc:key.keyboard.e:NONE
+key_equipmentcompare.key.showTooltips:key.keyboard.left.shift:NONE
+key_key.itemstitchingfix.open_gui:key.keyboard.unknown:NONE
 key_iris.keybind.reload:key.keyboard.o:NONE
 key_iris.keybind.toggleShaders:key.keyboard.i:NONE
 key_iris.keybind.shaderPackSelection:key.keyboard.p:NONE
-key_key.itemstitchingfix.open_gui:key.keyboard.unknown:NONE
 key_key.dungeons_libraries.curiosintegration.description_slot1:key.keyboard.1:SHIFT
 key_key.dungeons_libraries.curiosintegration.description_slot2:key.keyboard.2:SHIFT
 key_key.dungeons_libraries.curiosintegration.description_slot3:key.keyboard.3:SHIFT
+key_key.curios.open.desc:key.keyboard.e:NONE
 key_key.mapatlases.open_minimap:key.keyboard.m:NONE
 key_sndctrl.text.quickvolumemenu.open:key.keyboard.unknown:NONE
 key_sndctrl.text.soundconfig.open:key.keyboard.unknown:NONE
@@ -98,5 +100,5 @@ key_key.jei.previousPage:key.keyboard.unknown:NONE
 key_key.jei.nextPage:key.keyboard.unknown:NONE
 key_key.jei.previousCategory:key.keyboard.unknown:NONE
 key_key.jei.nextCategory:key.keyboard.unknown:NONE
-key_key.jei.bookmark:key.keyboard.v:NONE
+key_key.jei.bookmark:key.keyboard.b:NONE
 key_key.jei.toggleBookmarkOverlay:key.keyboard.unknown:NONE

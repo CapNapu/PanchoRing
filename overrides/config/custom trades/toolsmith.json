@@ -5,13 +5,13 @@
   "trades": [
     {
       "offer": {
-        "itemKey": "minecraft:emerald",
-        "amount": 1,
+        "itemKey": "iceandfire:copper_ingot",
+        "amount": 3,
         "priceModifier": 0
       },
       "request": {
-        "itemKey": "iceandfire:copper_ingot",
-        "amount": 3,
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
         "priceModifier": 0
       },
       "tradeExp": 10,
@@ -19,7 +19,7 @@
       "priceMultiplier": 0.05,
       "demand": 0,
       "tradeLevel": 2,
-      "UTID": "minecraft:toolsmith_emerald_for_copper_ingot"
+      "UTID": "minecraft:toolsmith_copper_ingot_for_emerald"
     },
     {
       "offer": {

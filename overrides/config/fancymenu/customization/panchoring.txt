@@ -109,11 +109,6 @@ customization {
 }
 
 customization {
-  identifier = %id=9500%
-  action = hidebutton
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
   action = hidebutton
 }
@@ -121,8 +116,8 @@ customization {
 customization {
   orientation = top-left
   hidden = false
-  x = 186
-  width = 268
+  x = 185
+  width = 271
   action = deep_customization_element:title_screen_forge_top
   actionid = 2bcaae71-d78e-41d6-b10c-8709b2562eee1753767855843
   y = 4
@@ -143,8 +138,8 @@ customization {
 customization {
   orientation = top-left
   hidden = false
-  x = 411
-  width = 228
+  x = 406
+  width = 233
   action = deep_customization_element:title_screen_forge_copyright
   actionid = 2d4af253-7b16-45f9-9a72-4b5b159dc5981753767855850
   y = 440
@@ -241,5 +236,10 @@ customization {
   actionid = 794dd2c2-8d56-409b-94a9-5764563b43461759266610492
   y = 25
   height = 50
+}
+
+customization {
+  identifier = %id=9480%
+  action = hidebutton
 }
 
