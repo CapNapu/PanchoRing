@@ -1,0 +1,12 @@
+{
+  "ingredients": [
+    {
+      "item": "cataclysm:ignitium_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "cataclysm:ignitium_ingot"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

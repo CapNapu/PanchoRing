@@ -1,30 +1,10 @@
 {
   "criteria": {
-    "sword": {
+    "axe": {
       "conditions": {
         "items": [
           {
-            "item": "dungeons_gear:sword"
-          }
-        ]
-      },
-      "trigger": "minecraft:inventory_changed"
-    },
-    "katana": {
-      "conditions": {
-        "items": [
-          {
-            "item": "dungeons_gear:katana"
-          }
-        ]
-      },
-      "trigger": "minecraft:inventory_changed"
-    },
-    "cutlass": {
-      "conditions": {
-        "items": [
-          {
-            "item": "dungeons_gear:cutlass"
+            "item": "dungeons_gear:axe"
           }
         ]
       },
@@ -40,51 +20,11 @@
       },
       "trigger": "minecraft:inventory_changed"
     },
-    "rapier": {
+    "cutlass": {
       "conditions": {
         "items": [
           {
-            "item": "dungeons_gear:rapier"
-          }
-        ]
-      },
-      "trigger": "minecraft:inventory_changed"
-    },
-    "spear": {
-      "conditions": {
-        "items": [
-          {
-            "item": "dungeons_gear:spear"
-          }
-        ]
-      },
-      "trigger": "minecraft:inventory_changed"
-    },
-    "glaive": {
-      "conditions": {
-        "items": [
-          {
-            "item": "dungeons_gear:glaive"
-          }
-        ]
-      },
-      "trigger": "minecraft:inventory_changed"
-    },
-    "pickaxe": {
-      "conditions": {
-        "items": [
-          {
-            "item": "dungeons_gear:pickaxe"
-          }
-        ]
-      },
-      "trigger": "minecraft:inventory_changed"
-    },
-    "axe": {
-      "conditions": {
-        "items": [
-          {
-            "item": "dungeons_gear:axe"
+            "item": "dungeons_gear:cutlass"
           }
         ]
       },
@@ -100,6 +40,26 @@
       },
       "trigger": "minecraft:inventory_changed"
     },
+    "glaive": {
+      "conditions": {
+        "items": [
+          {
+            "item": "dungeons_gear:glaive"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "katana": {
+      "conditions": {
+        "items": [
+          {
+            "item": "dungeons_gear:katana"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
     "mace": {
       "conditions": {
         "items": [
@@ -110,11 +70,51 @@
       },
       "trigger": "minecraft:inventory_changed"
     },
+    "pickaxe": {
+      "conditions": {
+        "items": [
+          {
+            "item": "dungeons_gear:pickaxe"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "rapier": {
+      "conditions": {
+        "items": [
+          {
+            "item": "dungeons_gear:rapier"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
     "sickle": {
       "conditions": {
         "items": [
           {
             "item": "dungeons_gear:sickle"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "spear": {
+      "conditions": {
+        "items": [
+          {
+            "item": "dungeons_gear:spear"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "sword": {
+      "conditions": {
+        "items": [
+          {
+            "item": "dungeons_gear:sword"
           }
         ]
       },
@@ -135,18 +135,18 @@
   "parent": "panchoring:smithing_table",
   "requirements": [
     [
-      "sword",
-      "katana",
-      "cutlass",
-      "claymore",
-      "rapier",
-      "spear",
-      "glaive",
-      "pickaxe",
       "axe",
+      "claymore",
+      "cutlass",
       "double_axe",
+      "glaive",
+      "katana",
       "mace",
-      "sickle"
+      "pickaxe",
+      "rapier",
+      "sickle",
+      "spear",
+      "sword"
     ]
   ]
 }

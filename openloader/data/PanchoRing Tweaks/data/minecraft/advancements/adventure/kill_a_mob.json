@@ -1,5 +1,33 @@
 {
   "criteria": {
+    "alexsmobs:bone_serpent": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "alexsmobs:bone_serpent"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "alexsmobs:crimson_mosquito": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "alexsmobs:crimson_mosquito"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
     "alexsmobs:dropbear": {
       "conditions": {
         "entity": [
@@ -596,20 +624,6 @@
             "entity": "this",
             "predicate": {
               "type": "infernalexp:embody"
-            }
-          }
-        ]
-      },
-      "trigger": "minecraft:player_killed_entity"
-    },
-    "infernalexp:shroomloin": {
-      "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "infernalexp:shroomloin"
             }
           }
         ]
@@ -1289,6 +1303,8 @@
   "parent": "minecraft:adventure/root",
   "requirements": [
     [
+      "alexsmobs:bone_serpent",
+      "alexsmobs:crimson_mosquito",
       "alexsmobs:dropbear",
       "alexsmobs:guster",
       "alexsmobs:mimicube",
@@ -1332,7 +1348,6 @@
       "iceandfire:troll",
       "infernalexp:blindsight",
       "infernalexp:embody",
-      "infernalexp:shroomloin",
       "infernalexp:voline",
       "majruszs_difficulty:creeperling",
       "majruszs_difficulty:elite_skeleton",
@@ -1352,8 +1367,8 @@
       "minecraft:husk",
       "minecraft:magma_cube",
       "minecraft:phantom",
-      "minecraft:piglin",
       "minecraft:piglin_brute",
+      "minecraft:piglin",
       "minecraft:pillager",
       "minecraft:ravager",
       "minecraft:shulker",

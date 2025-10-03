@@ -98,6 +98,20 @@
       },
       "trigger": "minecraft:player_killed_entity"
     },
+    "Bone Serpent": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "alexsmobs:bone_serpent"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
     "Cave Spider": {
       "conditions": {
         "entity": [
@@ -162,6 +176,20 @@
             "entity": "this",
             "predicate": {
               "type": "majruszs_difficulty:creeperling"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "Crimson Mosquito": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "alexsmobs:crimson_mosquito"
             }
           }
         ]
@@ -862,20 +890,6 @@
             "entity": "this",
             "predicate": {
               "type": "iceandfire:sea_serpent"
-            }
-          }
-        ]
-      },
-      "trigger": "minecraft:player_killed_entity"
-    },
-    "Shroomloin": {
-      "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "infernalexp:shroomloin"
             }
           }
         ]

@@ -31,7 +31,7 @@
 		ShowGameTime = false
 
 	[EmbeddiumExtras.Misc]
-		Note = true
+		Note = false
 		ShutUpGLError = true
 		PotentialMemoryLeakFix = true
 		FastChest = false

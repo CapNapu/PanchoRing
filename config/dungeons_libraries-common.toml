@@ -6,13 +6,13 @@
 	enableAreaOfEffectOnOtherPlayers = true
 	#Add entities that will never be targeted by aggressive Dungeons effects. 
 	#To do so, enter their registry names.
-	effectTargetBlacklist = ["minecraft:ender_dragon", "minecraft:wither", "alexsmobs:void_worm", "ars_nouveau:wilden_boss", "bosses_of_mass_destruction:gaunlet", "bosses_of_mass_destruction:lich", "bosses_of_mass_destruction:obsidilith", "bosses_of_mass_destruction:void_blossom", "cataclysm:ender_guardian", "cataclysm:ignis", "cataclysm:netherite_monstrosity", "mowziesmobs:barako", "mowziesmobs:ferrous_wroughtnaut", "mowziesmobs:frostmaw"]
+	effectTargetBlacklist = []
 	#Enable two handed weapon. 
 	#If you do not want two handed weapon, disable this feature. [true / false]
 	enableTwoHandedWeapon = false
 	#Add entities that should be targetted, but aren't by aggressive Dungeons effects. 
 	#To do so, enter their registry names.
-	effectTargetWhitelist = []
+	effectTargetWhitelist = ["iceandfire:cockatrice", "iceandfire:cyclops", "iceandfire:fire_dragon", "iceandfire:hydra", "iceandfire:ice_dragon", "iceandfire:lightning_dragon", "iceandfire:myrmex_queen", "iceandfire:myrmex_royal", "iceandfire:myrmex_sentinel", "iceandfire:myrmex_soldier", "iceandfire:myrmex_swarmer", "iceandfire:myrmex_worker", "iceandfire:sea_serpent", "iceandfire:siren", "iceandfire:stymphalian_bird"]
 	#Enable dual wielding. 
 	#If you do not want dual wielding, disable this feature. [true / false]
 	enableDualWielding = false
@@ -20,13 +20,13 @@
 #Souls Configuration
 [souls_configuration]
 	#Enables keeping of souls upon death, disabled by default. [true / false]
-	enableKeepSoulsOnDeath = false
+	enableKeepSoulsOnDeath = true
 
 #Artifact Configuration
 [artifact_configuration]
 	#Set the durability for artifacts. [0-1024, default: 64
 	#Range: 0 ~ 1024
-	artifactDurability = 16
+	artifactDurability = 64
 
 #Elite Mob Configuration
 [elite_mob_configuration]

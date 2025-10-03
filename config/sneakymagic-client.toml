@@ -13,6 +13,6 @@
 	#Cursed items have a red name tag instead of an aqua one.
 	"Color Item Name" = true
 	#Prevent curses from showing on enchanted books if they also hold other enchantments.
-	"Affect Books" = true
+	"Affect Books" = false
 
 	
