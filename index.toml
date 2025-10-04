@@ -618,7 +618,7 @@ hash = "991c71c23b0a891f58e13623106ab12a62556648b002a4d100c486d2354c39aa"
 
 [[files]]
 file = "config/dungeons_libraries-common.toml"
-hash = "58c2350b7cb957cbbe41bad5bfd75b684b04d6696e9001aa2e029595ae5ee624"
+hash = "4ff745b6033476a82e4c5a1a177f3a684ec9663e5e20cbf3c9eb0911ee415724"
 
 [[files]]
 file = "config/easydiscordrichpresence-client.toml"
@@ -630,7 +630,7 @@ hash = "2c7a02fe15c7124e9837cf66ff6a39a9586e4f2efacf4e4ae409116f2151f8ca"
 
 [[files]]
 file = "config/embeddiumextras-client.toml"
-hash = "266941d3f2a595209bf241cd7599ba1643f56274f23a67ddf955465a9395551e"
+hash = "330b4a369f3440643bcb02584d4714c1e76cbde89e1a8114a4516aab0964db38"
 
 [[files]]
 file = "config/enchantato-enchantmentTableUsage.toml"
@@ -665,6 +665,10 @@ file = "config/epicfight.toml"
 hash = "f2cca84b9a9edd18dc125aea4e40d8329112a9bfc325484bfef162fe933b19aa"
 
 [[files]]
+file = "config/equipmentcompare-common.toml"
+hash = "7e976f7bb153cb53ae7f1c083384a08015191874b8f481ac380229019c849563"
+
+[[files]]
 file = "config/extcaves_config.toml"
 hash = "75bc2cf0d1f5465b48c99818626ad3a1d3d3a852527f6cece47d32e9488527b1"
 
@@ -694,11 +698,11 @@ hash = "ac9a119eaa2e460716199f9ae29d02498264db360d6be60c8bb9d275bbeea4fc"
 
 [[files]]
 file = "config/fancymenu/customization/panchoring.txt"
-hash = "fc96f1034adad3d257ea847c0f2b96c4e4678c58eebbeb7f5499fe2ed32a6748"
+hash = "37d2d2f95c9d5516f2a107822e30f02bea51dffc45480ef7a4f2642b0342a955"
 
 [[files]]
 file = "config/fancymenu/customization/panchoring_pause_manu.txt"
-hash = "ff464832d14a80b2d3dffc0aad278b0793b71db488d3708871c29a30c90c2ffb"
+hash = "2cb8c6311f7cc4c9aa0e6943a339f2814a4b12be4cf835b9282d9fc23005b4c3"
 
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
@@ -718,7 +722,7 @@ hash = "cbebedf02b81782ead93eb479a79ed74a0132f1a673ba9803074143f04da9ae9"
 
 [[files]]
 file = "config/forgery/yeet_recipes.ini"
-hash = "fb4e518d11c567553c0eb54fe202e0ed07b9eef7cd85358d20cd7e8547251657"
+hash = "77a51e1171b9bd9af0bd94aac7e5a029dcd41add97de96c39d32275ea90cf385"
 
 [[files]]
 file = "config/fpsreducer/fpsreducer-client.toml"
@@ -846,7 +850,7 @@ hash = "032ebed2dcc475248c8b42dd4283799956f6518f7d01787852930042eb979e0d"
 
 [[files]]
 file = "config/projectvibrantjourneys-common.toml"
-hash = "2d83193f1cb1fb9743b14dc1c4d7ec34dcf691484b8a8ca3bb05023fc34da934"
+hash = "9441af888ef01101553e8df0bcde1d335521e246a83a2d0d958ea0a4a5ee9698"
 
 [[files]]
 file = "config/randommobeffects-common.toml"
@@ -870,7 +874,7 @@ hash = "3c6522ff7920276ea9f45622faf2d147c7f855ad4c5e265715b7f10a16e864ef"
 
 [[files]]
 file = "config/sneakymagic-client.toml"
-hash = "0cad43961b966e24926584b46fd3f96baa70d1eca3f5e97d7a124c29484142fe"
+hash = "871c787b87e2c04a245663f703b43e204dd51b30c259077fab941a33d4f4bb29"
 
 [[files]]
 file = "config/sneakymagic-common.toml"
@@ -3231,6 +3235,14 @@ hash = "a0b9c44c4c86346334224edbffcc81906ed8f3566d25e475351412c428f6eae6"
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/ars_nouveau/recipes/potion_melder.json"
 hash = "bc4831eac63d804ef224cd50e788b9638f945f508b05f7bee05bfc2437d6fecc"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/ars_nouveau/recipes/reactive_2.json"
+hash = "c11bf001658cf104edefab496768de158d03529c7b1d2e08ed0f8dcedda680b5"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/ars_nouveau/recipes/reactive_3.json"
+hash = "c61087480f2f88b69fb869d13a1f592717a6444d7acb767dcb277755d54c574d"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/ars_nouveau/recipes/relay_deposit.json"
@@ -5790,11 +5802,11 @@ hash = "5eac187b6a3f46cfff58593d393cadec8b97c01df7736172490aa53654573945"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/minecraft/advancements/adventure/kill_a_mob.json"
-hash = "92fb6b578f0147517b481e2d266d950eb73f2fd8664f8b723f87af90019e7748"
+hash = "92586c9cb3d3b1b3c454501be07c28770e5c5ed6b4cdce0378c802c8ff7d15cd"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/minecraft/advancements/adventure/kill_all_mobs.json"
-hash = "8a4cad55841c567b1a72385419a986ae2ec0adc4701990544e6a89a7be37e287"
+hash = "8f9e4c1f6b602750024800dbb0ccf0d9551b7765ca53801be2982a4efcccccc2"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/minecraft/advancements/adventure/ol_betsy.json"
@@ -6910,7 +6922,7 @@ hash = "de06f8d577137ec7c142a4e9fb8fded546d1997ac6ad9ab4276e4c5cab5222fb"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/panchoring/advancements/weapon_upgrade.json"
-hash = "ba140c3f7843d3bf0de82eee7b0686e7a2bf2d266a35ab4a06b2268c9a655f6b"
+hash = "7df9d0f8895601b205f26513f9e5ebd90dd07da282362363fadc98d77d0ac6d5"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/panchoring/functions/bestiary.mcfunction"
@@ -7143,6 +7155,10 @@ hash = "8150f252fd2859d252b7a5dadb09083cc17db166449886be70f1bab744c2175f"
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/panchoring/recipes/misc/globe_banner_pattern.json"
 hash = "d54535d87bb3410bd178e5b4e70f9adf55480797f073a1bdd5bd834a15f09f2e"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/panchoring/recipes/misc/ignitium_block.json"
+hash = "5d812e16d45fe6af77d0bcac4f5ef37605b3add501e77579386db7216183a06e"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/panchoring/recipes/misc/mountain_troll_leather_to_leather.json"
@@ -13187,3 +13203,39 @@ hash = "72f72864362ed2b503686439d5f16036064f4f851624642c83d862a06ff94402"
 [[files]]
 file = "openloader/data/WWOO + Addons/pack.png"
 hash = "4287601be3fac638bed47bfcf0a3f22da8a5313ae088ebc2eea0ddb9c8a908fb"
+
+[[files]]
+file = "resources/panchoring/textures/gui/title.png"
+hash = "166068bb254c84a61ca3a7c848106852cc1d9d2b21ce3ddc813bbfb2c7c650a2"
+
+[[files]]
+file = "shaderpacks/[1] MakeUp UltraFast v8.6g [LOW].zip"
+hash = "ce7bc8ce9ba20f7d50c8c87f13f96fa253cc86a02f001ae4cc079aaa10d5013d"
+
+[[files]]
+file = "shaderpacks/[1] MakeUp UltraFast v8.6g [LOW].zip.txt"
+hash = "60acd0dd655a26c5dbeabc704e0929ed4b0c594820c4d57bd684a9049b1b89c2"
+
+[[files]]
+file = "shaderpacks/[2] MakeUp UltraFast v8.6g [MEDIUM].zip"
+hash = "ce7bc8ce9ba20f7d50c8c87f13f96fa253cc86a02f001ae4cc079aaa10d5013d"
+
+[[files]]
+file = "shaderpacks/[2] MakeUp UltraFast v8.6g [MEDIUM].zip.txt"
+hash = "30907b17c6cb034ea1f59336a1f437049e0928e17e90e9450ac47e3456b87cad"
+
+[[files]]
+file = "shaderpacks/[3] MakeUp UltraFast v8.6g [HIGH].zip"
+hash = "ce7bc8ce9ba20f7d50c8c87f13f96fa253cc86a02f001ae4cc079aaa10d5013d"
+
+[[files]]
+file = "shaderpacks/[3] MakeUp UltraFast v8.6g [HIGH].zip.txt"
+hash = "e5beb5da291cdb68bd6acf849270e1c52f9611b4289f3ec2d8e4a79d9a56d099"
+
+[[files]]
+file = "shaderpacks/[4] MakeUp UltraFast v8.6g [ULTRA].zip"
+hash = "ce7bc8ce9ba20f7d50c8c87f13f96fa253cc86a02f001ae4cc079aaa10d5013d"
+
+[[files]]
+file = "shaderpacks/[4] MakeUp UltraFast v8.6g [ULTRA].zip.txt"
+hash = "53f57b17a0ee01311cdd9a7aac7f8d20ba357041c6abbdbce99287c542f2e254"

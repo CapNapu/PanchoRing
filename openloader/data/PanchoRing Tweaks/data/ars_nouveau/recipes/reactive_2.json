@@ -1,0 +1,46 @@
+{
+  "type": "ars_nouveau:enchantment",
+  "enchantment": "ars_nouveau:reactive",
+  "level": 2,
+  "mana": 6000,
+  "item_1": [
+    {
+      "item": "ars_nouveau:marvelous_clay"
+    }
+  ],
+  "item_2": [
+    {
+      "item": "ars_nouveau:marvelous_clay"
+    }
+  ],
+  "item_3": [
+    {
+      "item": "ars_nouveau:marvelous_clay"
+    }
+  ],
+  "item_4": [
+    {
+      "item": "ars_nouveau:marvelous_clay"
+    }
+  ],
+  "item_5": [
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "item_6": [
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "item_7": [
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "item_8": [
+    {
+      "item": "minecraft:diamond"
+    }
+  ]
+}

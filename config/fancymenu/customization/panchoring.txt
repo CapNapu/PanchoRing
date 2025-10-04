@@ -30,10 +30,10 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
-  orientation = top-right
-  x = -25
+  orientation = bottom-left
+  x = 5
   action = movebutton
-  y = 5
+  y = -40
 }
 
 customization {
@@ -70,11 +70,10 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
-  orientation = element
-  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_accessibility_button
-  x = -25
+  orientation = bottom-left
+  x = 30
   action = movebutton
-  y = 0
+  y = -40
 }
 
 customization {
@@ -96,14 +95,14 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
   orientation = top-left
-  x = 5
+  x = 0
   action = movebutton
-  y = 5
+  y = 0
 }
 
 customization {
   identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
-  width = 45
+  width = 50
   action = resizebutton
   height = 20
 }
@@ -116,8 +115,8 @@ customization {
 customization {
   orientation = top-left
   hidden = false
-  x = 185
-  width = 271
+  x = 186
+  width = 268
   action = deep_customization_element:title_screen_forge_top
   actionid = 2bcaae71-d78e-41d6-b10c-8709b2562eee1753767855843
   y = 4
@@ -138,8 +137,8 @@ customization {
 customization {
   orientation = top-left
   hidden = false
-  x = 406
-  width = 233
+  x = 411
+  width = 228
   action = deep_customization_element:title_screen_forge_copyright
   actionid = 2d4af253-7b16-45f9-9a72-4b5b159dc5981753767855850
   y = 440
@@ -236,10 +235,5 @@ customization {
   actionid = 794dd2c2-8d56-409b-94a9-5764563b43461759266610492
   y = 25
   height = 50
-}
-
-customization {
-  identifier = %id=9480%
-  action = hidebutton
 }
 
