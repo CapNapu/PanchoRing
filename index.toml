@@ -894,7 +894,7 @@ hash = "0301ff99e801e87e74b81f547c311a8cd3297331f5e7ca9b465e97d3ebb69a5e"
 
 [[files]]
 file = "config/mowziesmobs-common.toml"
-hash = "e224a896012d0d5e1911f8c260fecc7ca770206dfa9987d55a4f2ff13395f94b"
+hash = "8e4f2e4b8aedf677c0fc0d06e2103a411434dcaf904ce414d329c2c0913072c3"
 
 [[files]]
 file = "config/naturallychargedcreepers-common.toml"
@@ -3586,7 +3586,7 @@ hash = "8f05a208968c01bc559e50aeafe7f710c52dcd0bb1ef0bea26bc7fe3d0dc565b"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/awesomedungeonocean/structures/ocean_cage.nbt"
-hash = "7b0d946c9d94841004144c9b4083587f9eed631acc95327a57f1302cc05431d2"
+hash = "1e1d74c771541bf4175f115047c60c53cfacb3818c2d315e2a7852e251ed4964"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/awesomedungeonocean/structures/ocean_quad.nbt"
@@ -3989,20 +3989,176 @@ file = "openloader/data/PanchoRing Tweaks/data/dungeons_enhanced/loot_tables/che
 hash = "7b907ebeae57e9bbb87880ef2737ff6691e5f2cb807b7ed05321009a65a38138"
 
 [[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/archers_armor.json"
+hash = "2b724c3e06d4458df8314b1297e61f264eaebc14fa53b65b5ce375959915c185"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/arctic_fox_armor.json"
+hash = "339556d420759b4b9c0d44acbe84a5f6a0bc1d47da974af70b2d1c263ddac781"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/battle_robes_armor.json"
+hash = "2fc140fae0a4ad6a81b8bb5256f5baf22ed47d6f07029a6ae57c6ec4c0b89760"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/beehive_armor.json"
+hash = "311e9eeb3922cd150b548b54c79a254fe1053d6256367ab272940043b2c20e0c"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/beenest_armor.json"
+hash = "05ac90b77f908a8e3c15ed0e0ea1a52a07b54cc12983411250f4a465c72fc0d5"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/cave_crawler_armor.json"
+hash = "ca0a1a7e9416184782f29b0cad58b5ab3f63cb9ecb5efa7a04514a73e9f7de01"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/champions_armor.json"
+hash = "5955d65e73c781e4c47d2210466afde41f1ded01bdd8748a921a937ea924a2c2"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/climbing_armor.json"
+hash = "7d2471a09f81dc11d0927838cac1b23bdc2e58bfbaee1057f824ce26a3454e95"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/curious_armor.json"
+hash = "c1a42b7791f3cddac1fd4e77ed62b6b9c2ec7bebe1b064c939336dd80431a0c7"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/dark_armor.json"
+hash = "a0b0e89cc7a003bdc6399e6165f872928cf6746fcc712a03d23e6ade36053cfb"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/ember_robes_armor.json"
+hash = "5f21f26ff34c83f86a8d4cb2a97e6fd913e5011b16134495d815eb5228257215"
+
+[[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/emerald_armor.json"
-hash = "eaf92bcb26711bad28632372c4b13d96274cba3bd283c3c1cad4e955a5a8dc33"
+hash = "56f9b033f72d07103f9e791c64c9782b5646c1128c58f80d54d15848a14dd98f"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/evocation_robes_armor.json"
+hash = "db56dcedd636c6721e0dc2e554a153813b4b99e463f23023519b3616c24dbb1a"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/fox_armor.json"
+hash = "651e8c4d84eeb2671941213350db4bd9aaf82dcb723072c5ad4d41d724e0d1db"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/frost_armor.json"
+hash = "341419d6d58655e8313a8e58a1dcc0f223ecc4bac47022af7120afebb1199c95"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/frost_bite_armor.json"
+hash = "8168e8a6abf223bb0344e63deaf20c1c36e413dacabf15ecd239c8063e90a13c"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/full_metal_armor.json"
+hash = "211fabedee9a840d62aecefdc7357989bb1aaa17b8663235ce1a7b6a68447b11"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/gilded_glory_armor.json"
-hash = "bfa32018066ab67534d1839445bd768d1ec878c6d32233053da2d43da1a7063e"
+hash = "315e1184aca84028ed4e65a2ba3e64b0ef99c723c71cd17a39d7f2d5503e8dcd"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/goat_armor.json"
+hash = "6b59a2e29eb026de50203cfdb50112e2e7381d2780d4959bedc4a66d22e1a7d9"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/grim_armor.json"
+hash = "26aa4319c6faae0ce3d6bdda68b671df718d9900734decc2e47a826cbf7a00bd"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/guards_armor.json"
+hash = "f7e5f9fc991ccf5f01d2bc6148301b97d4e8f28c2dcec320cc903176ed66ea67"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/heros_armor.json"
+hash = "63fa0ad353f941e064d378828aa5d0f3ce46575defaf480b0b144a28f11b287e"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/highland_armor.json"
+hash = "edc29eeb65a207c5ca8300e74934b69d27f192a4fa8538fc09823b75f58d204e"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/hungry_horror_armor.json"
+hash = "82bd41a674b149cd5672d5e36472582d14d4a3bf264cfb6652387062c438fb10"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/hunters_armor.json"
+hash = "778edbddfacda497e53ca54f4a1dd165511180ca5dcbce1fa4176031df7fda06"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/mercenary_armor.json"
+hash = "ae95c25e568497f48327c7b12a1ca54a755e24b6a39bee9006854f0a2fc502d4"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/opulent_armor.json"
-hash = "4cc5630e24b16be1f0080a4da6da5d2d9a40e8d7731aa045d97720e6032b9209"
+hash = "c883db66f46f7d9fdaf60dcb6001ea8eaf09deb88a3c32fc14ba08dc9ff5b7ad"
 
 [[files]]
-file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/shadow_walker_armor.json"
-hash = "a32d7bce6fb6ac489efafea296ebaf4d4c94f406f8b7b2015c8d3fde2962c1da"
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/phantom_armor.json"
+hash = "8f64e4f3a734c71cbf18c56dea20b1e23ae5714f940bbe8b5c644813d1c3c304"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/plate_armor.json"
+hash = "69f8a85e732ae8d87f6851d26f32015e819af89abd690647cf196de6b01a9104"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/reinforced_mail_armor.json"
+hash = "7854f7bf11c70f4ece75602ed85309e432b2f589ed34784a6ba9ab956de99fbc"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/renegade_armor.json"
+hash = "227c80f7a3e262d25bf7209e1da3a504f8d619fdf9b0d12c6053f513e251d680"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/rugged_climbing_armor.json"
+hash = "d808816d823456c18a514ce222d2fa41cafcade2b365942da35909ed09ea2ba3"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/scale_mail_armor.json"
+hash = "4e7a805860ec2d9e67d9b05fef09cbbc78b9fdbd3e14b053c38f2d2a509e79f4"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/snow_armor.json"
+hash = "50e74adc12baf138a59c84768ba2503d7fa7fd807c86f477756fe57c42306bcb"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/soul_armor.json"
+hash = "cb30555d6c15e29a37a3f209e71b0967d9a683de40067c0d84f13b7d0ef13007"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/souldancer_armor.json"
+hash = "f5e66bec4382510b9d64bb11216a67d65f9ac3d6bcc2e571a2e4e06241b0429a"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/spelunker_armor.json"
+hash = "76707f61bd9746e71eef0e8952384395857910a3789aa46d87860b12c314aadf"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/spider_armor.json"
+hash = "2e1ef64be4aef6d26660912c75e2b61e4924e94076c41ff786aca8b37661d516"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/stalwart_armor.json"
+hash = "09a30b20802bacd6121f9499f4c92ed969f762eaa27042359b10573250f31f30"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/thief_armor.json"
+hash = "40dac78f523baf8deb917e9b51a544b2da80b4e35a0b5b27d10e36d7501ec43e"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/titans_shroud_armor.json"
+hash = "2fe600ab166bf69252e6b767e5487b528fbed9f6c37116509079e73fb6a276f9"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/wither_armor.json"
+hash = "5c8d0bf25d0c5f45f5e8f25c52a1940f0cdb72fe19f11b6c89d3ec9339f4d036"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/wolf_armor.json"
+hash = "fccbfd3b36c842dd3fb51c7829f6a5e6ae9ce8e1f8d7814b28e6884962d39edc"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/bow/ancient_bow.json"
@@ -8130,7 +8286,7 @@ hash = "11b1048092a67366efe6a9949a5859e72d017321087dd589e56ecc2adcb8c7db"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/philips_ruins1_16_5/structures/ancient_ruin_soul.nbt"
-hash = "1301e622e98f8cf9fc0f3caf75e64fc3106f82b80a5c6ca1ad1a62e7e15a83be"
+hash = "e60a4dd608aa56bbad17d0b6d7a1b365474eb411654306b570db5d2c72a4b38b"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/philips_ruins1_16_5/structures/ancient_ruin_stone.nbt"
@@ -8158,7 +8314,7 @@ hash = "e36d519f4df7ddf71356ab6dd0eece16c1edd8ab45af922d60235f6ce898b31e"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/philips_ruins1_16_5/structures/ancient_zombie_spawner.nbt"
-hash = "39a59c3d3f8b0c5045fb86b2b068ea99a1b199186ebad0da045897052b588ee3"
+hash = "8f8332bbad7daaf660772eb43fd88541d425171d18d9ad0431f2238b048cd1e3"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/philips_ruins1_16_5/structures/badlands_tomb.nbt"
@@ -8178,7 +8334,7 @@ hash = "a498b34f3af1bfd67b34e2aeafdd48f1217ae236361610fbdb39373d2dcb4e23"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/philips_ruins1_16_5/structures/cobbestone_spawner_ruin.nbt"
-hash = "6cab46982fa58bb63b0ff6ba7797020aca11d425bad0b13b90fb56a3afcfa2bd"
+hash = "ad30ea30af571c32c9b5fe34840d813a6f01ba154ca0d4b4fe0f14c0e45ffa9c"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/philips_ruins1_16_5/structures/cobblestone_ruin_cobwebs.nbt"
@@ -8194,7 +8350,7 @@ hash = "95d060ce142154774928cf20c7abb1c15474f78d48125b8d3303e8986864f8c3"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/philips_ruins1_16_5/structures/drown_ocean_spawner.nbt"
-hash = "6c3ad61d1f99ad33b87984770c7a698f7cf697406657836c01447f6ccda20e0b"
+hash = "addd57094f4b214b78a988aa4d60ba131574e64ed60d2d4902e80049ca80a1f4"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/philips_ruins1_16_5/structures/iron_mine_rock.nbt"
@@ -8242,7 +8398,7 @@ hash = "03bdcf0847e8eedcdfaf77197d64444ae495427d2ea711112e17fd74ae924974"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/philips_ruins1_16_5/structures/small_ancient_ruin4.nbt"
-hash = "50b4afe190633c591ee21e020264ea67dd2cbfe71ee9e772e82916c7507dd4e4"
+hash = "9a13aacc1fe7f44570fd6b478734a83a91fb6a6cf4c472f5305235f7ecc9ee8d"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/philips_ruins1_16_5/structures/small_blacksmith.nbt"
@@ -8338,7 +8494,7 @@ hash = "e5e42ca7f17b962d3bd1c14854d7e1dcc45a66e0d196ef1276298763b1a1dc1d"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/philips_ruins1_16_5/structures/stone_witch_spawner.nbt"
-hash = "c2b89fc4b19dfb25b8239da529d9a8612af8df9cd860c92f7985975a1105025e"
+hash = "8777de58179b183ca0470a2170c845f9c6f101446053f494410809a5d99e3809"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/philips_ruins1_16_5/structures/tree.nbt"
