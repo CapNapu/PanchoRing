@@ -630,7 +630,7 @@ hash = "9db5bcd05b0164cc5563159e37f45b99891ba74adab61db1f236eb64acc8b63c"
 
 [[files]]
 file = "config/custom trades/fisherman.json"
-hash = "c7a48cdda8e214b61a8f9ee6c6034a074dcec98c42f963059954cff01ef74c91"
+hash = "779f328339072e58f9d46b298f2912d919ba28e0cd48a44006d04faaedec6ed2"
 
 [[files]]
 file = "config/custom trades/leatherworker.json"
@@ -638,7 +638,7 @@ hash = "551b64a6b7bcee8065b382ab16db99b9a545b668c7acf176aa924cabbc8aac5a"
 
 [[files]]
 file = "config/custom trades/librarian.json"
-hash = "733103e992e6cba7d864536965b304010c4ea32eb2ac58b449763edc5069e9e3"
+hash = "616c84bb68e7d2d20581a1455cfb9469175cbf22f1ceb786e01923a4ec04587a"
 
 [[files]]
 file = "config/custom trades/mason.json"
@@ -686,7 +686,7 @@ hash = "4324c2656c1375fcdccdb596493cb85b43ffded34350f00641e5a973874cfb15"
 
 [[files]]
 file = "config/dungeons_gear-common.toml"
-hash = "d8f9815547a888ade5d2ef81412d385384a9340d9e386a7156ba8b6b84a2ba85"
+hash = "4be402d13cfef8f600534c77da042081773603be53ac63d335234be4cb5f111f"
 
 [[files]]
 file = "config/dungeons_libraries-common.toml"
@@ -794,7 +794,7 @@ hash = "cbebedf02b81782ead93eb479a79ed74a0132f1a673ba9803074143f04da9ae9"
 
 [[files]]
 file = "config/forgery/yeet_recipes.ini"
-hash = "7a3b11805be8a84ba79a38064c5004d5e74123bc9b7473ddc06d7342221e3b4c"
+hash = "d159217c0607286e80fc52479c44e8bc159e05883f90af7e62d2e03469d07368"
 
 [[files]]
 file = "config/fpsreducer/fpsreducer-client.toml"
@@ -862,7 +862,7 @@ hash = "f07273670fb6fbd2012d7a63e2453826f00e42dd82efb3ea82a4d81894f3b410"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
-hash = "81d556fca380d519e0ae756e634a5b6491c1f6a05e782c54fab1a171ccfce234"
+hash = "7addf9a4b9ec7ead63661c42b14909bc6a866f3e18e019efd0bf308d3f842d43"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
@@ -2034,7 +2034,7 @@ hash = "36e7cc5a2d12e7a0b5909abf1604800b599ff34cfccd562adf201bbbe1fc3285"
 
 [[files]]
 file = "openloader/data/Better Loot Tables/data/minecraft/loot_tables/chests/buried_treasure.json"
-hash = "a42acabe4a96795e3219de9c274e7e652b668f0ff3db4ce2e3a5d61a10d3106b"
+hash = "73801a0bc0c3df93ee45518af823189635b42d1381c4e7173e2afe590ef1d547"
 
 [[files]]
 file = "openloader/data/Better Loot Tables/data/minecraft/loot_tables/chests/desert_pyramid.json"
@@ -2058,7 +2058,7 @@ hash = "9a003f452eb09bbb9b3df2fbd06a7b9ea3cc22c8dbb35fddf37c96bb206a9aee"
 
 [[files]]
 file = "openloader/data/Better Loot Tables/data/minecraft/loot_tables/chests/nether_bridge.json"
-hash = "d8e86698f7b37442c8df74b3fd9968dbe151425febed0bef4a2be09af40442c0"
+hash = "77160d4c5439dbef6ec04fc5c5b340251bd27d43d342cfd8b9f129526e57e8f8"
 
 [[files]]
 file = "openloader/data/Better Loot Tables/data/minecraft/loot_tables/chests/pillager_outpost.json"
@@ -2082,7 +2082,7 @@ hash = "feb3c23dcb0db122bb39eab0ec0b5c7e139118e13733605613c7c3f470983870"
 
 [[files]]
 file = "openloader/data/Better Loot Tables/data/minecraft/loot_tables/chests/simple_dungeon.json"
-hash = "5ebdc92b6a384d8584106e0d5f4a2cef398d1653ff192b8aa1777490efa733c9"
+hash = "0b98848d971f82ee298cfdf3d1b424e674c5784febe541d3a89ec8d9d4e879cd"
 
 [[files]]
 file = "openloader/data/Better Loot Tables/data/minecraft/loot_tables/chests/spawn_bonus_chest.json"
@@ -2142,7 +2142,7 @@ hash = "cc5ff319606fad2b80b5d6cd4c526259c7c2dc1c6a26dc6833fbe06cbe4a4cbf"
 
 [[files]]
 file = "openloader/data/Better Loot Tables/data/minecraft/loot_tables/gameplay/piglin_bartering.json"
-hash = "618a2d9d49fad639ab4cd9eafe08ef461e47c46fde5b19073240e60ba43d30fc"
+hash = "cebdd10b8ccc4762ed4acf83c7fd74606a9687fc83654d80e9b3306473e97ed5"
 
 [[files]]
 file = "openloader/data/Better Loot Tables/data/minecraft/tags/worldgen/structure/bastion_remnant.json"
@@ -3586,7 +3586,7 @@ hash = "0c266c459bf328eaa3a7b62f3cea143a9659b11289ca0fc0f72006cf4af02c2e"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/awesomedungeonocean/loot_tables/chests/awesome_dungeon.json"
-hash = "8f05a208968c01bc559e50aeafe7f710c52dcd0bb1ef0bea26bc7fe3d0dc565b"
+hash = "a82a7692c78e608023ed43c153c6f3c440e0b51547b4701cc950250042c37902"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/awesomedungeonocean/structures/ocean_cage.nbt"
@@ -3874,11 +3874,11 @@ hash = "303e47f932c94d97db172b78d54f44c029761b67868813b542ad0f0fa61a9e28"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeoncrawl/loot_tables/chests/stage_1.json"
-hash = "a8dfa46f0382d10b0fe03f0217d02b5d2c7c356335a9bf0c8d33bd5b0a9f855c"
+hash = "35ba17033a41205e2e1357cb10ba89d7f16498f592f64bb8c5ea0905f27f0f34"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeoncrawl/loot_tables/chests/stage_2.json"
-hash = "a2db1e70e546a3b8768d86fd0e572765c313b01e61c893229eb7c291440e8cad"
+hash = "ce9fd00aac3333f9da76d99597b5411ae5ddb65726d03c55a1128e0f17e3dbf5"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeoncrawl/loot_tables/chests/stage_3.json"
@@ -3894,7 +3894,7 @@ hash = "55b67490dc08bc451b61a08488370d8bf9d7c21b7aeb91dd3257b12e1ac5f4bc"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeoncrawl/loot_tables/chests/supply.json"
-hash = "bfe72b6f86781dc33a9a054ebe8b53e6607553c95991d9afca9f5596f03445ea"
+hash = "694b362b86c44661295901b45fb0c0fbd227677259e6c3311d248701d9126573"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeoncrawl/loot_tables/chests/treasure.json"
@@ -3985,12 +3985,24 @@ file = "openloader/data/PanchoRing Tweaks/data/dungeons_enhanced/loot_tables/che
 hash = "860ec95f78c3290935b59f27d7bf56f8ccfe0483f1bdb51b2ab467748dc5c79c"
 
 [[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_enhanced/loot_tables/chests/stables.json"
+hash = "53f252bdfb6bec69749549246ffaefadb8a4ef808d30959250995cb36678df2d"
+
+[[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_enhanced/loot_tables/chests/tower_of_the_undead/treasure.json"
 hash = "a3de206a2437b491c3c6b7c77d16a636f986f58a67c154c5b55fdd3808c0f835"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_enhanced/loot_tables/chests/watch_tower.json"
 hash = "7b907ebeae57e9bbb87880ef2737ff6691e5f2cb807b7ed05321009a65a38138"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_enhanced/structures/flying_dutchman.nbt"
+hash = "4db185616fd8de8612776d53cabe7f23f229d03f672fba3baf62c46ffaaec898"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_enhanced/structures/stables.nbt"
+hash = "be4b539fd3f57b7c608ce2497395a8824812ba8a5c862191e0b8426767c79ce0"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/archers_armor.json"
@@ -6327,6 +6339,22 @@ hash = "4f6eb5c7dfef59b95e046867d92b66b21f2b30d32da88ea10aa9de0c9c1bcbf1"
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/minecraft/loot_tables/blocks/spruce_leaves.json"
 hash = "259461e7086ac2b69252f8e3c0a1ca5d853cfa4386d484447c6481b470c15942"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/minecraft/loot_tables/chests/bastion_bridge.json"
+hash = "e527629b54160cf2e99c3042bedcaeea1bc8a00eef3cdb27261a5b674d2e2e5e"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/minecraft/loot_tables/chests/bastion_hoglin_stable.json"
+hash = "6e6b94184bb44b144ebc70e05de01847621dcf9ab2c13a0473384d5ef7577ae4"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/minecraft/loot_tables/chests/bastion_other.json"
+hash = "b66dc0c6e407e4c431c76325088492478f2400fed0fdc8fad24cadc5350389cd"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/minecraft/loot_tables/chests/bastion_treasure.json"
+hash = "0ba0cb1287cca8cc51d9d0ae75a9f9a927f09d6423663fcfb25c924244874487"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/minecraft/loot_tables/entities/ender_dragon.json"

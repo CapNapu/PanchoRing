@@ -63,7 +63,7 @@
         {
           "type": "minecraft:item",
           "weight": 8,
-          "name": "dungeons_gear:gold_sword",
+          "name": "dungeons_gear:stone_sword",
           "functions": [
             {
               "function": "minecraft:set_damage",
@@ -87,7 +87,7 @@
         {
           "type": "minecraft:item",
           "weight": 6,
-          "name": "dungeons_gear:gold_axe",
+          "name": "dungeons_gear:gold_sword",
           "functions": [
             {
               "function": "minecraft:set_damage",

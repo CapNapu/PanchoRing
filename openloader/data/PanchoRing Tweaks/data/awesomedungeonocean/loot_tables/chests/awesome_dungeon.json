@@ -31,22 +31,17 @@
                 {
                     "name": "revampedwolf:golden_wolf_armor",
                     "type": "minecraft:item",
-                    "weight": 5
+                    "weight": 3
                 },
                 {
                     "name": "revampedwolf:iron_wolf_armor",
                     "type": "minecraft:item",
-                    "weight": 2
+                    "weight": 5
                 },
                 {
                     "name": "revampedwolf:diamond_wolf_armor",
                     "type": "minecraft:item",
                     "weight": 2
-                },
-                {
-                    "name": "revampedwolf:leather_wolf_armor",
-                    "type": "minecraft:item",
-                    "weight": 5
                 }
             ],
             "rolls": {

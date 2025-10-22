@@ -427,11 +427,6 @@
           "type": "minecraft:item"
         },
         {
-          "name": "minecraft:leather_horse_armor",
-          "type": "minecraft:item",
-          "weight": 2
-        },
-        {
           "name": "minecraft:ender_pearl",
           "type": "minecraft:item"
         },
