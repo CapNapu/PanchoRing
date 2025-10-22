@@ -1,0 +1,13 @@
+name = "AntiqueAtlasEMS"
+filename = "AntiqueAtlasEMS_1.16.5_1.3.1.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "ff71d969439864230def1721dcdd79b8a12c2c44"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3533048
+project-id = 541650

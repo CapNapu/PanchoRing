@@ -1,0 +1,13 @@
+name = "End Remastered Retextured"
+filename = "End remastered Retextured.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "960d6bf8d1ac9c1d22e778ca16786ea1483ba90d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3484873
+project-id = 534966

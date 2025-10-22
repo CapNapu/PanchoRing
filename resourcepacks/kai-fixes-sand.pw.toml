@@ -1,0 +1,13 @@
+name = "Kai Fixes Sand"
+filename = "Kai Fixes Sand - 1.20.1.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "6f3530cdf761cbfe3d69700c000b2de1391c0561"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6423086
+project-id = 1242889

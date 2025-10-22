@@ -1,0 +1,13 @@
+name = "Ars Nouveau Animated Spiraling Arcane Ore"
+filename = "Arcane_Ore.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "fc6aad20ea6b0feb5563c618e76246c992ef96cd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3294832
+project-id = 477681

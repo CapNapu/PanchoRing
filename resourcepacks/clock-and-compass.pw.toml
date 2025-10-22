@@ -1,0 +1,13 @@
+name = "Clock and Compass"
+filename = "Clock and Compass (New Texture Backport).zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "76822a9f30cc591b9d20b7dcb39c5255cf07adf6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3125859
+project-id = 423324

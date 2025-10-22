@@ -1,0 +1,13 @@
+name = "New Ores"
+filename = "New Ores 1.16.5 Version 3.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "1c038536b1b732ef8edb8db890b35a169f511d38"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3238308
+project-id = 448013

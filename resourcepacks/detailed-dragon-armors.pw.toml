@@ -1,0 +1,13 @@
+name = "Detailed dragon Armors"
+filename = "Detailed dragon Armors.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "8425b7a0a3ba17ef752aaf9318e80812b9239999"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4677866
+project-id = 834592

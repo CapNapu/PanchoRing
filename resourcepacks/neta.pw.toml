@@ -1,0 +1,13 @@
+name = "Neko's Enhanced Tools and Armor (NETA)"
+filename = "Nekos Enhanced Tools and Armour Plus V1.1.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "c124c2528edc30a37d320fe97621d6af76cc1654"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6348816
+project-id = 650117

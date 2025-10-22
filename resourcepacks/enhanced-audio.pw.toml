@@ -1,0 +1,13 @@
+name = "Enhanced Audio (Sound Pack)"
+filename = "Enhanced Audio r6.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "32fc714a6bbba27bb8332604b4fbb1998ec446b4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4475426
+project-id = 383269

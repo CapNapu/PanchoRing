@@ -14,7 +14,7 @@ reducedDebugInfo:true
 snooperEnabled:false
 showSubtitles:false
 touchscreen:false
-fullscreen:true
+fullscreen:false
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -33,7 +33,7 @@ graphicsMode:1
 ao:2
 biomeBlendRadius:7
 renderClouds:true
-resourcePacks:["vanilla","mod_resources","loadmyresources.hiddenpack"]
+resourcePacks:["vanilla","mod_resources","file/Pixelated_v1.3.1_EnhancedVisuals(nox_cgt).zip","file/brighter oblivion.zip","file/AntiqueAtlasEMS_1.16.5_1.3.1.zip","file/dungeongearefm-rp.zip","file/GuardEpicTextures1.0.zip","file/EpicFightSoundOverhaul4.0.zip","file/EF_anmation_1.16_v1.6.zip","file/BB\u0027sBOMDTweaks0.2.zip","file/End remastered Retextured.zip","file/Comforts Modernized - V1.1.zip","file/Arcane_Ore.zip","file/Ars Nouveau Refresh 1.1.0.zip","file/Ice and Fire Retextures.zip","file/iaftextureupdate1.16.zip","file/Detailed dragon Armors.zip","file/Chemistry Potions 1.20.1.zip","file/New Ores 1.16.5 Version 3.zip","file/Peeves - 1.16x.zip","file/Farcr\u0027s Better Dirt V1.2.zip","file/Simple Grass Flowers v1.9.5.zip","file/you_died_refresh.zip","file/Mowzies Mobs - Spiced Up-1.0.zip","file/Immortal_Mowzies_V1.zip","file/Enhanced Audio r6.zip","file/Ashen_Custom_Font.zip","file/Better_Enderdragon.zip","file/§9Rails-Reimagined§8-[v1].zip","file/Undopia_3D_Ladder_1.16.2-5_v.1.0.zip","file/Nekos Enhanced Tools and Armour Plus V1.1.zip","file/Refined-Armor-1.0-1.16.zip","file/Clock and Compass (New Texture Backport).zip","file/Spring_Flowers_(1.16.2-1.16.5).zip","file/Diemant\u0027s Prismarine 1.16.2-1.16.5.zip","file/Artisanal Nether Bricks v1.2.0.zip","file/Kai Fixes Quartz - 1.20.1.zip","file/Kai Fixes Granite - 1.20.1.zip","file/Kai Fixes Diorite - 1.20.1.zip","file/Kai Fixes Andesite - 1.20.1.zip","file/Kai Fixes Sand - 1.20.1.zip","file/stonier_stone_bricks-1.16.2-1.16.3.zip","file/PanchoRing - Assets"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us

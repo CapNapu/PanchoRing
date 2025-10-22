@@ -1,0 +1,13 @@
+name = "Rails Reimagined"
+filename = "§9Rails-Reimagined§8-[v1].zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "dc4c65e0cf53fee1c6bbf0ec2778d98f91fc5c75"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3534827
+project-id = 549473

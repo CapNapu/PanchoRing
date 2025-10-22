@@ -1,0 +1,13 @@
+name = "Ender Dragon Revamp"
+filename = "Better_Enderdragon.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "1ced0dd8953d1c27f7a6fe6cb18cea571fb589ae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4333758
+project-id = 621749

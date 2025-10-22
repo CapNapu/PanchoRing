@@ -1,0 +1,13 @@
+name = "Ars Nouveau Refresh"
+filename = "Ars Nouveau Refresh 1.1.0.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "47edda7cecb78426365acdcebbeb95d579eb22a0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5775479
+project-id = 1080571

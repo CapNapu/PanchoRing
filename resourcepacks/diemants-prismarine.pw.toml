@@ -1,0 +1,13 @@
+name = "Diemant's Prismarine"
+filename = "Diemant's Prismarine 1.16.2-1.16.5.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "c3c155cd84a50ee7171d9380ee26e329a4f2dfb2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6048762
+project-id = 1170925

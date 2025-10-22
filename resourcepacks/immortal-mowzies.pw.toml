@@ -1,0 +1,13 @@
+name = "Immortal Mowzies"
+filename = "Immortal_Mowzies_V1.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "e89b785e015d53ef54a9c59db3e00093d4783431"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5940921
+project-id = 1148534

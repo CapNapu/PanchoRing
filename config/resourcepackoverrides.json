@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "failed_reloads_per_session": 5,
+  "default_packs": [
+      "file/Pixelated_v1.3.1_EnhancedVisuals(nox_cgt).zip",
+      "file/brighter oblivion.zip",
+      "file/AntiqueAtlasEMS_1.16.5_1.3.1.zip",
+      "file/GuardEpicTextures1.0.zip",
+      "file/EpicFightSoundOverhaul4.0.zip",
+      "file/EF_anmation_1.16_v1.6.zip",
+      "file/dungeongearefm-rp.zip",
+      "file/End remastered Retextured.zip",
+      "file/Comforts Modernized - V1.1.zip",
+      "file/BB'sBOMDTweaks0.2.zip",
+      "file/Arcane_Ore.zip",
+      "file/Ars Nouveau Refresh 1.1.0.zip",
+      "file/Ice and Fire Retextures.zip",
+      "file/iaftextureupdate1.16.zip",
+      "file/Detailed dragon Armors.zip",
+      "file/Chemistry Potions 1.20.1.zip",
+      "file/New Ores 1.16.5 Version 3.zip",
+      "file/Peeves - 1.16x.zip",
+      "file/Farcr's Better Dirt V1.2.zip",
+      "file/Simple Grass Flowers v1.9.5.zip",
+      "file/you_died_refresh.zip",
+      "file/Mowzies Mobs - Spiced Up-1.0.zip",
+      "file/Immortal_Mowzies_V1.zip",
+      "file/Enhanced Audio r6.zip",
+      "file/Ashen_Custom_Font.zip",
+      "file/Better_Enderdragon.zip",
+      "file/Spring_Flowers_(1.16.2-1.16.5).zip",
+      "file/\u00A79Rails-Reimagined\u00A78-[v1].zip",
+      "file/Undopia_3D_Ladder_1.16.2-5_v.1.0.zip",
+      "file/Clock and Compass (New Texture Backport).zip",
+      "file/Nekos Enhanced Tools and Armour Plus V1.1.zip",
+      "file/Refined-Armor-1.0-1.16.zip",
+      "file/Diemant's Prismarine 1.16.2-1.16.5.zip",
+      "file/Artisanal Nether Bricks v1.2.0.zip",
+      "file/Kai Fixes Quartz - 1.20.1.zip",
+      "file/Kai Fixes Diorite - 1.20.1.zip",
+      "file/Kai Fixes Granite - 1.20.1.zip",
+      "file/Kai Fixes Andesite - 1.20.1.zip",
+      "file/Kai Fixes Sand - 1.20.1.zip",
+      "file/stonier_stone_bricks-1.16.2-1.16.3.zip",
+      "file/PanchoRing - Assets"
+  ],
+  "default_overrides": {
+    "force_compatible": true
+  },
+  "pack_overrides": {
+    "Required": [
+      "file/Pixelated_v1.3.1_EnhancedVisuals(nox_cgt).zip",
+      "file/brighter oblivion.zip",
+      "file/AntiqueAtlasEMS_1.16.5_1.3.1.zip",
+      "file/GuardEpicTextures1.0.zip",
+      "file/EpicFightSoundOverhaul4.0.zip",
+      "file/EF_anmation_1.16_v1.6.zip",
+      "file/dungeongearefm-rp.zip",
+      "file/End remastered Retextured.zip",
+      "file/Comforts Modernized - V1.1.zip",
+      "file/BB'sBOMDTweaks0.2.zip",
+      "file/Arcane_Ore.zip",
+      "file/Ars Nouveau Refresh 1.1.0.zip",
+      "file/Ice and Fire Retextures.zip",
+      "file/iaftextureupdate1.16.zip",
+      "file/Detailed dragon Armors.zip",
+      "file/Chemistry Potions 1.20.1.zip",
+      "file/New Ores 1.16.5 Version 3.zip",
+      "file/Peeves - 1.16x.zip",
+      "file/Farcr's Better Dirt V1.2.zip",
+      "file/Simple Grass Flowers v1.9.5.zip"
+    ],
+    "$Required": {
+      "force_compatible": true,
+      "required": true
+    },
+    "file/PanchoRing - Assets": {
+      "default_position": "TOP",
+      "fixed_position": true,
+      "required": true
+    },
+    "Misc": [
+      "vanilla",
+      "programer_art",
+      "mod_resources",
+      "blur",
+      "file/Infernal Resources.zip"
+    ],
+    "$Misc": {
+      "hidden": true
+    }
+  }
+}

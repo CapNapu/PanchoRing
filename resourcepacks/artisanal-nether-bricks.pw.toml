@@ -1,0 +1,13 @@
+name = "Artisanal Nether Bricks"
+filename = "Artisanal Nether Bricks v1.2.0.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "d6003897f81b1bdda4fe47350b719a79521ac514"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6414550
+project-id = 1060410
