@@ -3,6 +3,6 @@
   "modifier": {
     "attribute": "minecraft:generic.armor",
     "operation": "addition",
-    "value": 15.0
+    "value": 12.0
   }
 }

@@ -54,18 +54,18 @@
 		#Range: 0 ~ 64
 		warpScrollBasicCount = 1
 		warpScroll = true
-		sylphShard = true
-		drygmyShard = true
+		sylphShard = false
+		drygmyShard = false
 		#Range: 0 ~ 64
 		pierceArrowBasicCount = 6
 		#Range: 0 ~ 64
 		splitArrowBasicCount = 4
 		#Range: 0 ~ 64
 		amplifyArrowMaxCount = 16
-		wixieShard = true
+		wixieShard = false
 		#Range: 1 ~ 64
 		warpScrollMaxCount = 2
-		carbuncleShard = true
+		carbuncleShard = false
 		#Range: 0 ~ 64
 		amplifyArrowBasicCount = 8
 		ritualTablets = false

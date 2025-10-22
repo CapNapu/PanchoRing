@@ -13,7 +13,11 @@
   ],
   "built_in_enchantments": [
     {
-      "enchantment": "minecraft:smite",
+      "enchantment": "dungeons_gear:dynamo",
+      "level": 1
+    },
+    {
+      "enchantment": "dungeons_gear:prospector",
       "level": 1
     }
   ],

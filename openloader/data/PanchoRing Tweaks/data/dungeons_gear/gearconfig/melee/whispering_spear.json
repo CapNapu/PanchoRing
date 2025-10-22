@@ -13,6 +13,10 @@
   ],
   "built_in_enchantments": [
     {
+      "enchantment": "dungeons_gear:dynamo",
+      "level": 1
+    },
+    {
       "enchantment": "dungeons_gear:anima_conduit",
       "level": 1
     }

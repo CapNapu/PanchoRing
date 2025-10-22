@@ -3,18 +3,18 @@
     "type": "origins:starting_equipment",
     "stacks": [
         {
+            "item": "dungeons_gear:mercenary_helmet",
+            "tag": "{Damage:103}",
+            "slot": 39
+        },
+        {
             "item": "dungeons_gear:mercenary_chestplate",
             "tag": "{Damage:229}",
             "slot": 38
         },
         {
             "item": "dungeons_gear:gauntlet",
-            "tag": "{Damage:150}",
-            "slot": 40
-        },
-        {
-            "item": "dungeons_gear:gauntlet",
-            "tag": "{Damage:187}",
+            "tag": "{Damage:164}",
             "slot": 23
         },
         {

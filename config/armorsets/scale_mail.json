@@ -1,0 +1,32 @@
+{
+  "armorSetName": "Scale Mail Set",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "dungeons_gear:scale_mail_helmet",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:scale_mail_chestplate",
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:scale_mail_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:scale_mail_boots",
+    "mustBeEmpty": false
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "epicfight:impact",
+      "value": 0.25,
+      "modifierUUID": "af59886f-a275-45a3-ab9f-7b3ebb88c092",
+      "attributeOperation": 1,
+      "interactionType": "self",
+      "hideBonusDescription": true
+    }
+  ],
+  "hideGeneratedTooltip": true
+}

@@ -1,0 +1,31 @@
+{
+  "armorSetName": "Champions's Set",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "dungeons_gear:champions_helmet",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:champions_chestplate",
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:champions_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:champions_boots",
+    "mustBeEmpty": false
+  },
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "name": "minecraft:hero_of_the_village",
+      "value": 0.0,
+      "interactionType": "self",
+      "interactionDuration": 120,
+      "hideBonusDescription": true
+    }
+  ],
+  "hideGeneratedTooltip": true
+}

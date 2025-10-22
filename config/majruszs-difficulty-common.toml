@@ -446,7 +446,7 @@
 	[Features.EndLeggings]
 		#Armor bonus for every enchantment level.
 		#Range: 0.0 ~ 10.0
-		armor_bonus = 0.2
+		armor_bonus = 0.1
 
 	#Pillager spawns in groups with Pillager's Wolves.
 	[Features.PillagerGroup]

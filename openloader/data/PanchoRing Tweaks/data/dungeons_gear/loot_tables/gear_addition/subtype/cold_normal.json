@@ -1,0 +1,90 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "dungeons_gear:fang_of_frost",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:freezing_foil",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:frost_scythe",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:frost_slayer",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:shivering_bow",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:snow_bow",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:winters_touch",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:azure_seeker",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:phantom_helmet",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:phantom_chestplate",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:phantom_leggings",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:phantom_boots",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:frost_bite_helmet",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:frost_bite_chestplate",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:frost_bite_leggings",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:frost_bite_boots",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:frost_helmet",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:frost_chestplate",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:frost_leggings",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:frost_boots",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "minecraft:chest"
+}

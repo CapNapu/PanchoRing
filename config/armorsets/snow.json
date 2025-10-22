@@ -1,0 +1,31 @@
+{
+  "armorSetName": "Snow Set",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "dungeons_gear:snow_helmet",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:snow_chestplate",
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:snow_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:snow_boots",
+    "mustBeEmpty": false
+  },
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "name": "ars_nouveau:spell_damage",
+      "value": 0.0,
+      "interactionType": "self",
+      "interactionDuration": 120,
+      "hideBonusDescription": true
+    }
+  ],
+  "hideGeneratedTooltip": true
+}

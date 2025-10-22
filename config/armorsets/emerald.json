@@ -1,0 +1,31 @@
+{
+  "armorSetName": "Emerald Set",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "dungeons_gear:emerald_helmet",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:emerald_chestplate",
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:emerald_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:emerald_boots",
+    "mustBeEmpty": false
+  },
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "name": "minecraft:luck",
+      "value": 0.0,
+      "interactionType": "self",
+      "interactionDuration": 120,
+      "hideBonusDescription": true
+    }
+  ],
+  "hideGeneratedTooltip": true
+}

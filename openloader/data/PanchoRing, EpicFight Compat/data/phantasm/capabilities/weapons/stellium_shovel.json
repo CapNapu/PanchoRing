@@ -3,7 +3,7 @@
 		"common": {
 			"armor_negation": 15,
 			"damage_bonus": 7,
-			"impact": 3.6
+			"impact": 4.5
 		}
 	},
 	"type": "shovel"

@@ -1,0 +1,31 @@
+{
+  "armorSetName": "Spelunker Set",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "dungeons_gear:spelunker_helmet",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:spelunker_chestplate",
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:spelunker_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:spelunker_boots",
+    "mustBeEmpty": false
+  },
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "name": "minecraft:haste",
+      "value": 0.0,
+      "interactionType": "self",
+      "interactionDuration": 120,
+      "hideBonusDescription": true
+    }
+  ],
+  "hideGeneratedTooltip": true
+}

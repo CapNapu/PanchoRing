@@ -3,10 +3,6 @@
     {
       "entries": [
         {
-          "name": "dungeons_gear:cutlass",
-          "type": "minecraft:item"
-        },
-        {
           "name": "dungeons_gear:dancers_sword",
           "type": "minecraft:item"
         },
@@ -23,11 +19,67 @@
           "type": "minecraft:item"
         },
         {
+          "name": "dungeons_gear:guardian_bow",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:ancient_bow",
+          "type": "minecraft:item"
+        },
+        {
           "name": "dungeons_gear:harpoon_crossbow",
           "type": "minecraft:item"
         },
         {
           "name": "dungeons_gear:nautical_crossbow",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:renegade_helmet",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:renegade_chestplate",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:renegade_leggings",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:renegade_boots",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:scale_mail_helmet",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:scale_mail_chestplate",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:scale_mail_leggings",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:scale_mail_boots",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:highland_helmet",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:highland_chestplate",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:highland_leggings",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:highland_boots",
           "type": "minecraft:item"
         }
       ],

@@ -1,0 +1,18 @@
+{
+  "attributes": [
+    {
+      "amount": 0.0625,
+      "attribute": "minecraft:generic.attack_speed",
+      "operation": 1
+    }
+  ],
+  "built_in_enchantments": [
+    {
+      "enchantment": "dungeons_gear:explorer",
+      "level": 1
+    }
+  ],
+  "material": "dungeons_gear:medium_plate",
+  "rarity": "UNCOMMON",
+  "unique": false
+}

@@ -8,18 +8,18 @@
             "slot": 38
         },
         {
+            "item": "minecraft:chainmail_leggings",
+            "tag": "{Damage:55}",
+            "slot": 37
+        },
+        {
             "item": "dungeons_gear:tempest_knife",
             "tag": "{Damage:206}",
             "slot": 8
         },
         {
-            "item": "minecraft:blaze_powder",
-            "amount": 2,
-            "slot": 28
-        },
-        {
-            "item": "minecraft:nether_wart",
-            "amount": 4,
+            "item": "infernalexp:cured_jerky",
+            "amount": 12,
             "slot": 12
         }
     ]

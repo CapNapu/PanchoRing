@@ -22,7 +22,7 @@
     {
       "type": "effect",
       "name": "minecraft:haste",
-      "value": 1.0,
+      "value": 0.0,
       "interactionType": "self",
       "interactionDuration": 120,
       "hideBonusDescription": true

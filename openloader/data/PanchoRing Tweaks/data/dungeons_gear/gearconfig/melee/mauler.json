@@ -15,6 +15,10 @@
     {
       "enchantment": "dungeons_gear:rampaging",
       "level": 1
+    },
+    {
+      "enchantment": "dungeons_gear:masters_call",
+      "level": 1
     }
   ],
   "combo": 6,

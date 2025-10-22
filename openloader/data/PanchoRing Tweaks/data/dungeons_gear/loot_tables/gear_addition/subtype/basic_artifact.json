@@ -7,10 +7,6 @@
           "type": "minecraft:item"
         },
         {
-          "name": "dungeons_gear:death_cap_mushroom",
-          "type": "minecraft:item"
-        },
-        {
           "name": "dungeons_gear:golem_kit",
           "type": "minecraft:item"
         },
@@ -23,7 +19,7 @@
           "type": "minecraft:item"
         },
         {
-          "name": "dungeons_gear:lightning_rod",
+          "name": "dungeons_gear:gong_of_weakening",
           "type": "minecraft:item"
         },
         {
@@ -39,11 +35,11 @@
           "type": "minecraft:item"
         },
         {
-          "name": "dungeons_gear:harvester",
+          "name": "dungeons_gear:shock_powder",
           "type": "minecraft:item"
         },
         {
-          "name": "dungeons_gear:shock_powder",
+          "name": "dungeons_gear:soul_healer",
           "type": "minecraft:item"
         },
         {
@@ -59,19 +55,11 @@
           "type": "minecraft:item"
         },
         {
-          "name": "dungeons_gear:buzzy_nest",
-          "type": "minecraft:item"
-        },
-        {
           "name": "dungeons_gear:corrupted_pumpkin",
           "type": "minecraft:item"
         },
         {
-          "name": "dungeons_gear:thundering_quiver",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:soul_lantern",
+          "name": "dungeons_gear:satchel_of_snacks",
           "type": "minecraft:item"
         }
       ],

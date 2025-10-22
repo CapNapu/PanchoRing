@@ -3,11 +3,51 @@
     {
       "entries": [
         {
+          "name": "dungeons_gear:nightmares_bite",
+          "type": "minecraft:item"
+        },
+        {
           "name": "dungeons_gear:mauler",
           "type": "minecraft:item"
         },
         {
+          "name": "dungeons_gear:eternal_knife",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:venom_glaive",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:twin_bow",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:the_green_menace",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:soul_crossbow",
+          "type": "minecraft:item"
+        },
+        {
           "name": "dungeons_gear:feral_soul_crossbow",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:opulent_helmet",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:opulent_chestplate",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:opulent_leggings",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:opulent_boots",
           "type": "minecraft:item"
         },
         {

@@ -17,8 +17,8 @@ file = "config/antiqueatlas.json5"
 hash = "cc3e69463cf5140833497ec24b03a0d4342245e11206de5ad00f52ce170b60a1"
 
 [[files]]
-file = "config/armorsets/archer.json"
-hash = "a5f395dbaa4fc0865649b62bd59c54bd7248226f4da1578e1c3549b10045230c"
+file = "config/armorsets/archers.json"
+hash = "3bfd143df205538966ff01e20907e2e41fddb26439b9acdb0b10805fcd6d7346"
 
 [[files]]
 file = "config/armorsets/arctic_fox.json"
@@ -33,32 +33,68 @@ file = "config/armorsets/ars_mage.json"
 hash = "c44e657f45ba3b960184a3334b84fca7e4d3ac443c82c32817e3729d740f319f"
 
 [[files]]
+file = "config/armorsets/battle_robes.json"
+hash = "85135bebb016691ef6b344ff46cfe157ddb4fb540fdb0714607735d9d5a97c2e"
+
+[[files]]
 file = "config/armorsets/beehive.json"
-hash = "3acc6d3cafbfc9a6736147e915bd53a229dbab09d8206c375246210fe1380f5b"
+hash = "3143c343f72ff782b03adea8159e5a524ed10fbecacea2e504ac7c459f246998"
+
+[[files]]
+file = "config/armorsets/beenest.json"
+hash = "60f78538559fa3c0c9f524d3927d8e7abb6d14a5cd1390b7438939608a2925b2"
 
 [[files]]
 file = "config/armorsets/cave_crawler.json"
 hash = "72d480c509e19747452535766a965b4bb60380af85b3978f31d9b65bd107fc9d"
 
 [[files]]
-file = "config/armorsets/curious.json"
-hash = "b51f9e85fd7c6a45ab2dc2a3731d9bddfabb19be58cb1f13ac91f4a0766c4a9c"
+file = "config/armorsets/champions.json"
+hash = "1743f325fbc75617db97ddafa5052b374df26362f5cab8a08eec6362d56b2983"
 
 [[files]]
-file = "config/armorsets/dragonsteel_armors.json"
-hash = "baa8e56df4ec6f8e660b00f660ee04cfa5f2870f8488cf90c9635ec917d784ca"
+file = "config/armorsets/climbing.json"
+hash = "3ff4ec2f08d015d306a53d21255f7335ecdff8df1fd4b3127de9e48eff0e2d81"
+
+[[files]]
+file = "config/armorsets/curious.json"
+hash = "ec2062ed546612a2ba6dc5ff1df4e038a2469a9f562fa247f9cd1494332967a4"
+
+[[files]]
+file = "config/armorsets/dark.json"
+hash = "0e3c89a26ec1d65f7667a8e36a48546d84015b7a03fb1f6b84bd9670174439af"
+
+[[files]]
+file = "config/armorsets/dragonsteel.json"
+hash = "48ab17aca55558aca2ccca94fd7f7c30f773b481ef6aa66ade89217ce7691ab4"
+
+[[files]]
+file = "config/armorsets/dragonsteel_fire.json"
+hash = "e4b1da63e4f309230c01182e0cc44f054d92a1de0a925f07521a6fcc4a1e1634"
+
+[[files]]
+file = "config/armorsets/dragonsteel_ice.json"
+hash = "91f97d18c68b45766fd05199d26a8604c0daa00b70203c0038658ab781833a32"
+
+[[files]]
+file = "config/armorsets/dragonsteel_lightning.json"
+hash = "87e6b4ee0cf161481a4e4d122ac79257d9d35621d9799d8b9ad5b92383d5f6d0"
 
 [[files]]
 file = "config/armorsets/ember_robes.json"
 hash = "1fad60e6b25264f3af461165b0707a684ce151c2a16ab9cefabad7540c0e9b97"
 
 [[files]]
-file = "config/armorsets/enderium.json"
+file = "config/armorsets/emerald.json"
+hash = "debf28ef4dc1a70cb074a9d6e4738deddeb47437d03532f4e36096440e1e8a7a"
+
+[[files]]
+file = "config/armorsets/end.json"
 hash = "533c9554f1501d05de6ed1166b4ac3f4151464678c7d459341889d18d0b86bc5"
 
 [[files]]
-file = "config/armorsets/fire_dragonsteel.json"
-hash = "922c7e821eebfa5b7cf97f2b6b5894d6e7e76ed68e6dd255c8f3ccd529e2c55a"
+file = "config/armorsets/evocation_robes.json"
+hash = "d5e9af4ab1803821a15c695ed7242ed80a8cb1d3bb5e7b6497da1f91cc89b1f4"
 
 [[files]]
 file = "config/armorsets/fox.json"
@@ -69,24 +105,28 @@ file = "config/armorsets/frost.json"
 hash = "4ee5130fd909c244efcf2af7b21617287dd3f618b015249116923e2c8c3b749a"
 
 [[files]]
-file = "config/armorsets/frostbite.json"
-hash = "ee845a75db7c1fd796e9aabdcec0679f0a45a980865a8759c9fbe42afc7a683d"
+file = "config/armorsets/frost_bite.json"
+hash = "9b79d84a0151df4acad2b90f087a65ac49f181fa9ae86950bfa3ea9c05a118b6"
 
 [[files]]
 file = "config/armorsets/full_metal.json"
-hash = "40f321263ee0f84664741e0a66e31b750a29bb64fed298f59b96a17b83f3ee1d"
+hash = "79bbb1ae9e15a82c4e1070256dc3fb4af66330adc5bd6a851ea0b95de2318d02"
 
 [[files]]
 file = "config/armorsets/gilded_glory.json"
 hash = "2b4346119a72b78b92305b487d796b74626ffcfafed05b1212697395a2522523"
 
 [[files]]
-file = "config/armorsets/gilded_netherite.json"
-hash = "4663d8d7703c3179c151ee67474321ba2679ab0f62e4685c087b6807c08e1ef4"
-
-[[files]]
 file = "config/armorsets/goat.json"
 hash = "81dc4508c14f89771d5626f22fd658bf6df371f959898fe4e34f6abc91660beb"
+
+[[files]]
+file = "config/armorsets/grim.json"
+hash = "c4e390695a99dd5a7cef6f23697447c212a5d6c4f7a059a4279156feca398827"
+
+[[files]]
+file = "config/armorsets/guard.json"
+hash = "f5bb67619974fdb7ba7e126c8cc73cc6e32ec670bcf71608b570904a11ca8cfb"
 
 [[files]]
 file = "config/armorsets/heavy_armors_end.json"
@@ -101,84 +141,116 @@ file = "config/armorsets/heavy_armors_overwold.json"
 hash = "46b1978b56a8bf6af860dfbf08a77d599368d0ee5fcc82b1a05ca02a59ca0216"
 
 [[files]]
-file = "config/armorsets/hero.json"
+file = "config/armorsets/heros.json"
 hash = "7191997da74d01592636428227ad93930bcdb0ed3cff27c798b9e57b2f8f08c3"
 
 [[files]]
 file = "config/armorsets/highland.json"
-hash = "69a07498676de9ce9b86a2fa98a6eeef6f781a1e4dc677f18eefeec41bbb0119"
+hash = "0294b7b375b26e2bd8d98cd2cc6c913c16a0f16c842a6c372c314a553d668620"
 
 [[files]]
-file = "config/armorsets/horror.json"
-hash = "092c47b2b2b1007d0b8de39c7dbfcca2c98e50548177fb01c9749b3a5f9ae08b"
+file = "config/armorsets/hungry_horror.json"
+hash = "92a52f16a8729839b8b1b1559634c1de90dbc53b9c651e081616d9c291c0e678"
 
 [[files]]
-file = "config/armorsets/ice_dragonsteel.json"
-hash = "40be509012bfadb08f6b66be964eabb1256286b095f4577b1d6fbd2583818ee3"
+file = "config/armorsets/hunters.json"
+hash = "7ea22a19f38cd2dd16d5a0198e24b88a52ab2ac029e68db89aa0e98ea1676b36"
 
 [[files]]
 file = "config/armorsets/ignitium.json"
-hash = "1199a4e6f724142ae88ec2d5318673c42ab8d461465fc7c140792638356a9542"
+hash = "057dd8036064bb7b91056a7f1b10f5a422daf748a39fb01ed33ce3eca68d3855"
 
 [[files]]
 file = "config/armorsets/ignitium_chestplate.json"
 hash = "5eb8cc62527a72d84f2c48eafbb61de7b584d49f1d22af02ecc4d517776adb1d"
 
 [[files]]
-file = "config/armorsets/lightning_dragonsteel.json"
-hash = "0f3e4f248c296f32295c72763c5628e8185a457f55543f07e9e8e12ad60e5890"
-
-[[files]]
-file = "config/armorsets/myrmex.json"
-hash = "180b5cf534de30c5d52271f8abeed8168c68b7bea624c061c563707d2390f393"
+file = "config/armorsets/mercenary.json"
+hash = "a95781ce48dd6e157741de7602879bb2129c264b9514356b4a6ea34f095d8fd4"
 
 [[files]]
 file = "config/armorsets/opulent.json"
 hash = "1a6bd6d6b6dc96e550f07b5e8b55c9a35e96049917c978d94f2afcf6ddf228e1"
 
 [[files]]
+file = "config/armorsets/phantom.json"
+hash = "887d4e04f578391494c9f3ae2b7a37a01b1913b2b961b454c44acc53befc3b06"
+
+[[files]]
+file = "config/armorsets/plate.json"
+hash = "d80de210f6ec4a1527d31d76f3a1a26b769238018ed5d4a60e8cfb14e70aeea8"
+
+[[files]]
+file = "config/armorsets/reinforced_mail.json"
+hash = "e26e75e7ecbb499aac78459f2c13675f2322c067659f896e5e923f5547a2220f"
+
+[[files]]
 file = "config/armorsets/renegade.json"
-hash = "84f2ce7785c3ceec1fbe2455039863c8b16ca58c5f047bce0ed46d8dd77b4b89"
+hash = "23372458b988c86f8e1af445efd5f9f6654760218bb21197fb1ab99085e30d39"
 
 [[files]]
 file = "config/armorsets/rugged_climbing.json"
-hash = "637d704211ffef61911094cc3c2cebcea27a3d35ebe5984d8a17f9e483ed811c"
+hash = "362a26d48afb8504c3a91602b6f53ed4fe9ae8b2e6c16a5c9abcbf577d67ce2b"
+
+[[files]]
+file = "config/armorsets/scale_mail.json"
+hash = "a92d032a38ee79b1ccc9f8dded10cf96b81c151a2e2052c25d11c6cd160c1ca0"
+
+[[files]]
+file = "config/armorsets/snow.json"
+hash = "64b920dd1617f5417a644bee0ce96612722e6f69495c9c3bb87a9b3d69e891ea"
+
+[[files]]
+file = "config/armorsets/soul.json"
+hash = "f2eaba08b67cc99729bc1654a1a314f0ddba363efd289792f20c8fe834375f4d"
 
 [[files]]
 file = "config/armorsets/souldancer.json"
 hash = "bfc233f9beca9056480f0f21c6a38a121fec9f202c36c32a2e648a0d85b9c5b4"
 
 [[files]]
+file = "config/armorsets/spelunker.json"
+hash = "a9c8131ac37bd2d47cbf6b8bf8db7cd605af23ec0060736d6f799cca8100a0c5"
+
+[[files]]
 file = "config/armorsets/spider.json"
-hash = "c1465a532f2134a359e76f3cc31b8b45c5a8fa26c8b6ca8400b368803a104799"
+hash = "90ebb1dc82fdc9a8001d12d86030740a82146e3f8bf5a2ece6dbe34d1400e33e"
 
 [[files]]
 file = "config/armorsets/stalwart.json"
-hash = "9edfdcb22957843052e923279ace2e933cbcc1ae2fac3770c0ad6ab0c5f14950"
+hash = "2a966375593b5a0db06f0453f6b71c9479e85e91363913dde06766aaa765163b"
 
 [[files]]
 file = "config/armorsets/stellium_end.json"
-hash = "75ad9ba56293416055391e47d36df47661950243772fcd3ab39e105422c5819f"
+hash = "68053a117a377d8346ce802fb0571aa39136a9bbb55033f8397d8dbf9a9d250f"
 
 [[files]]
 file = "config/armorsets/stellium_nether.json"
-hash = "455bd095a204fa7b21985c40564a0a9d8c175b7e36ce2679babde605c44c5a9f"
+hash = "cb027a0d114e084c5253265432a8422a379648fd3bc44d3f2432be63489d94c3"
 
 [[files]]
 file = "config/armorsets/stellium_overworld.json"
-hash = "3d7243225033f598ee4f6b47b9fdd8660d9769590994b4b634492d986024d72e"
+hash = "7270205539473dbd5e31ebb167370a7a4bccd7212881c0522f7b3c1d0ccfc23b"
 
 [[files]]
-file = "config/armorsets/titan.json"
+file = "config/armorsets/thief.json"
+hash = "8f01db18cbd802c195a24bc1d85cdc66d93e69b7a6b8e13d533ba4e6f1d18666"
+
+[[files]]
+file = "config/armorsets/titans_shroud.json"
 hash = "d00615ad94fab2217991dc4a0c826a6b62e6a5773d23d9100874648ca5fc2f34"
 
 [[files]]
 file = "config/armorsets/troll_leather.json"
-hash = "9cb28bc91c57d08291fa218a55ce9e80ca57d015b9b0340260542f06b04f0766"
+hash = "6bbcc3d33f571854f4cf2d8a4c5a5c843508c0573b6d95f59aeefb2bb9150254"
 
 [[files]]
 file = "config/armorsets/wither.json"
-hash = "8457801f2138e78b0635805b1d72951a51bf15f2c6905896676c552584c6bfa5"
+hash = "7b18a415410f922d37c4ca973a0c02b129e30e55f2735e54acb195edb61957e2"
+
+[[files]]
+file = "config/armorsets/wolf.json"
+hash = "57f1d901ce357a245b028f7ef864d95f8ea6eb1aa048580968a9d449fab9b10b"
 
 [[files]]
 file = "config/ars_elemental-common.toml"
@@ -390,7 +462,7 @@ hash = "15b155e07d8829e688423f09e39cf2358082eb7b53855f6c3385070b3b60a0a4"
 
 [[files]]
 file = "config/ars_nouveau/phantom_block.toml"
-hash = "c8a8d4e8d7f8b2b024af1e101cf34e1c62c316328f6365c71178f6277d29ecfe"
+hash = "486ec600697eb07e35770b4e0df48a6e4b009101024f2241b21286f2d5feb024"
 
 [[files]]
 file = "config/ars_nouveau/pickup.toml"
@@ -474,11 +546,11 @@ hash = "59f014ae7c3489243c05df70d010e23c106a57e5477fc04564501e4d004c66b3"
 
 [[files]]
 file = "config/ars_nouveau/touch.toml"
-hash = "f363a6abb1e45bb0712d2eaa14c38d78404eda893e10b5f840fead6de8e260f4"
+hash = "c2a85254e37b80e209a397e73416fcadade3da51396ed5d823b057b3ddacac75"
 
 [[files]]
 file = "config/ars_nouveau/underfoot.toml"
-hash = "59f014ae7c3489243c05df70d010e23c106a57e5477fc04564501e4d004c66b3"
+hash = "c268fe6cc52ed59c61a0d53c28859a5ba88c94d19792414f3954a80ffa3ae12b"
 
 [[files]]
 file = "config/ars_nouveau/wind_shear.toml"
@@ -494,7 +566,7 @@ hash = "130b849fbd884b45db801ebb0edb4d6ac052ec11dbe232e31bf4150b8e170fa7"
 
 [[files]]
 file = "config/battlemusic-client.toml"
-hash = "c5b2c2ee6e9b272b76a29421e1e7f2177bea91fb6f5e852e55526a5c061e8169"
+hash = "ebc9ad68f5278530f23635b243af49e75fe388915619d8326ebaf3ebc5048bfc"
 
 [[files]]
 file = "config/bedbenefits-common.toml"
@@ -522,7 +594,7 @@ hash = "49884a73ddf65b7d18995d58c239cb75236e4ab95aab22b14f40b2b55600fd91"
 
 [[files]]
 file = "config/blockblocker-common.toml"
-hash = "0947652907f37d5d7c4d1be272cb6cfac50ba468ef6763597b72602bfd590308"
+hash = "db3e9ad6c9fe70f84d6d6cb4d2c84e59b53a1c2c0921e9f1b38e31687721c617"
 
 [[files]]
 file = "config/bosses_of_mass_destruction.json5"
@@ -538,7 +610,7 @@ hash = "1920b785752852055e3c0335922bba4d4d6a15b924cb646703ced3b680ad0366"
 
 [[files]]
 file = "config/configurable_conflicts-common.toml"
-hash = "a8609cad0a2e977d57360dbb207bbf601211d1ea93e247d03603aaeccbcb7bdb"
+hash = "76c2834846e715914e0fbd3bfc6b075a457931cf9d74fbde8f40fb9b85943747"
 
 [[files]]
 file = "config/custom trades/butcher.json"
@@ -614,11 +686,11 @@ hash = "4324c2656c1375fcdccdb596493cb85b43ffded34350f00641e5a973874cfb15"
 
 [[files]]
 file = "config/dungeons_gear-common.toml"
-hash = "991c71c23b0a891f58e13623106ab12a62556648b002a4d100c486d2354c39aa"
+hash = "d8f9815547a888ade5d2ef81412d385384a9340d9e386a7156ba8b6b84a2ba85"
 
 [[files]]
 file = "config/dungeons_libraries-common.toml"
-hash = "4ff745b6033476a82e4c5a1a177f3a684ec9663e5e20cbf3c9eb0911ee415724"
+hash = "ddb83d786ab644d2c04c82af4ce456c50181cce441203dce59019fd6d45be9c9"
 
 [[files]]
 file = "config/easydiscordrichpresence-client.toml"
@@ -630,7 +702,7 @@ hash = "2c7a02fe15c7124e9837cf66ff6a39a9586e4f2efacf4e4ae409116f2151f8ca"
 
 [[files]]
 file = "config/embeddiumextras-client.toml"
-hash = "330b4a369f3440643bcb02584d4714c1e76cbde89e1a8114a4516aab0964db38"
+hash = "946b8e4d425233735f2c54644ed5dde1cd5718cb6beeb5427e672c9f0631b29d"
 
 [[files]]
 file = "config/enchantato-enchantmentTableUsage.toml"
@@ -646,7 +718,7 @@ hash = "6d8b0162300eeb597194a70fcf1f2fefcd18f6a0b8417a0a05838369bb2dcdf5"
 
 [[files]]
 file = "config/endrem.toml"
-hash = "4ac6aba577f022711dee1eae08dee5e7e506fa12acd38dc63cc04be4ba8e7f2c"
+hash = "26c6c58501836f058079f253f97022ca8897cca2608e9af9d7c960ea342b94ca"
 
 [[files]]
 file = "config/enhancedvisuals-client.json"
@@ -658,7 +730,7 @@ hash = "a02d6e6ad0e7f99b5f0e00db7150f097616b9c1882ce349664bce1fcb25b8422"
 
 [[files]]
 file = "config/epicfight-client.toml"
-hash = "4d58c94b9aad242eb46e7acaacfaf60f42df46a4bc8cd9f8a98efe9f70fc3b17"
+hash = "5d20ba61591495db9568f3b5e61b1ccb24ad3752815349cb596cd356853c69a7"
 
 [[files]]
 file = "config/epicfight.toml"
@@ -678,7 +750,7 @@ hash = "b4455f09719bfd8cbd9bc4c159140de3691f78e88db7e5f794a58357da93c401"
 
 [[files]]
 file = "config/extragore-property.toml"
-hash = "8afb9a4d59f45dd8c8bf102f7be00c4ba9b6b8bc2288aacfe665805a25c22dfe"
+hash = "a6c331b522955c30de3a57150e5d82bf8385f257175044a449d60c8d9138090d"
 
 [[files]]
 file = "config/fallingleaves-client.toml"
@@ -698,7 +770,7 @@ hash = "ac9a119eaa2e460716199f9ae29d02498264db360d6be60c8bb9d275bbeea4fc"
 
 [[files]]
 file = "config/fancymenu/customization/panchoring.txt"
-hash = "37d2d2f95c9d5516f2a107822e30f02bea51dffc45480ef7a4f2642b0342a955"
+hash = "f2e0d2943d0aa92165dbade33cffc8ff49dc0ddaf1530ade0794b39fdb19a6ae"
 
 [[files]]
 file = "config/fancymenu/customization/panchoring_pause_manu.txt"
@@ -722,7 +794,7 @@ hash = "cbebedf02b81782ead93eb479a79ed74a0132f1a673ba9803074143f04da9ae9"
 
 [[files]]
 file = "config/forgery/yeet_recipes.ini"
-hash = "77a51e1171b9bd9af0bd94aac7e5a029dcd41add97de96c39d32275ea90cf385"
+hash = "7a3b11805be8a84ba79a38064c5004d5e74123bc9b7473ddc06d7342221e3b4c"
 
 [[files]]
 file = "config/fpsreducer/fpsreducer-client.toml"
@@ -750,7 +822,7 @@ hash = "6cefc645cb8623b113442c0e9cfad13473b28be3ee54adfdeed0b25eaab843a4"
 
 [[files]]
 file = "config/iceandfire-common.toml"
-hash = "c3d8e92cc6fc97ba9d2f68c2e6ba36e57bd3f3881b913bec9085cc4a45005f6a"
+hash = "af0d948ba25c1e8a39bef88c0bd58370e2bf289e3f9f73d8443aa1e5e9b7ccca"
 
 [[files]]
 file = "config/improvedbackpacks-common.toml"
@@ -758,11 +830,11 @@ hash = "08ebeae83b99550521ea00ad7e0eded2f4b7d1c313cdd6addecb70713cfa1390"
 
 [[files]]
 file = "config/incontrol/loot.json"
-hash = "a57cec3c618a16ed0817a42e0f9e3662e4de94275cb9054b99c8a987b1a7ac12"
+hash = "23167eba56d2e6cb11786e62cdf69b3a5060f191e1873ee63e5c8c85f36afad4"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "0c16a07bcbd81dd18cffeae3e229360511f42ad5037b444e92c5ff3c4bcfeb29"
+hash = "fa7d6bed160320ba00bcef44e9122600927d0abeec1525d126def561aba8f2c7"
 
 [[files]]
 file = "config/infernalexp-common.toml"
@@ -790,7 +862,7 @@ hash = "f07273670fb6fbd2012d7a63e2453826f00e42dd82efb3ea82a4d81894f3b410"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
-hash = "5bb79eb97f92959c00ef74c2343d320a22a12e442322035e86fa77ab2e1d8390"
+hash = "81d556fca380d519e0ae756e634a5b6491c1f6a05e782c54fab1a171ccfce234"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
@@ -802,7 +874,7 @@ hash = "067b518702e7a58defb97d0c172a5f20d9e6de3b9e7843a3dc490294bddc1981"
 
 [[files]]
 file = "config/lookinmyeyes-common.toml"
-hash = "92452f81e1490ae1d88e9d8b10072f60f92dbdce05bcf1fc0959c03e27c72de7"
+hash = "bd4871858f8b1aadae719c1f7e6fac10784ae87fb44ead8c156bc52941f7d694"
 
 [[files]]
 file = "config/lootbeams-client.toml"
@@ -810,7 +882,7 @@ hash = "75654f9bd96c860820efacbffec15efef294a802d4bfeebcd5501a66d8871d05"
 
 [[files]]
 file = "config/majruszs-difficulty-common.toml"
-hash = "676171a4c07d3819e2739b0845c06712b4de9cf0f690fc0ff31236c359b12461"
+hash = "147f6d11f0c362399fa4e6e151c30e37cee8733801480a3dad8e63a4a0c8a688"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -822,7 +894,7 @@ hash = "0301ff99e801e87e74b81f547c311a8cd3297331f5e7ca9b465e97d3ebb69a5e"
 
 [[files]]
 file = "config/mowziesmobs-common.toml"
-hash = "e538c687cdfc60e5a8a2bfcbcb5bcff6d43838d37c68bb53715e5049446cc099"
+hash = "e224a896012d0d5e1911f8c260fecc7ca770206dfa9987d55a4f2ff13395f94b"
 
 [[files]]
 file = "config/naturallychargedcreepers-common.toml"
@@ -838,7 +910,7 @@ hash = "63d8465d8734f2368ccdd52c2138f23d0e945209108e8f43c139be7c6fd890d6"
 
 [[files]]
 file = "config/opotato/mods/arsNouveau-loot.toml"
-hash = "22c9ecdd82a9faea0432d13da59dfa3d496258a30ff6005b3b74fac5ea473431"
+hash = "4b0b4267aec64a1df5ee58a395f87a113df31127c6a9225b3e6a9eafdb0eb8fa"
 
 [[files]]
 file = "config/opotato/mods/cataclysm-extra.toml"
@@ -858,11 +930,11 @@ hash = "eb3e1467f74d890cbf4b14ae8ac74115dab19df8e419d634a62b80fb817cfb72"
 
 [[files]]
 file = "config/randommobeffects/blacklist.txt"
-hash = "bd7215d4d8c2edaf91cfe37a6c142e809275742a3e2738ac4d65c8ce14f8dc4c"
+hash = "65c3e79efc079fe6dc1d56cfffd4d223c09936dec27c90073ed0dc5a8a0ba4ee"
 
 [[files]]
 file = "config/rarities.json"
-hash = "2e5661b56888a20bf13158f1bdc75be8b9d7c6399a4a689eb3821f0085257fe6"
+hash = "7f4a48423b5e069a2facdd432b3dd18ae71ee7cb81139215124d4e521bbebd63"
 
 [[files]]
 file = "config/responsive-shields.toml"
@@ -878,7 +950,7 @@ hash = "871c787b87e2c04a245663f703b43e204dd51b30c259077fab941a33d4f4bb29"
 
 [[files]]
 file = "config/sneakymagic-common.toml"
-hash = "ee11458833d2222d041064312c4bd5a6189cb5f23b9ec073730c3ef12ac0aab7"
+hash = "19a76acb41512b80c6f543517dc2cd4c9a96712bc491368df76bc7e4cf978897"
 
 [[files]]
 file = "config/starterkit/starterkit.txt"
@@ -894,7 +966,7 @@ hash = "b34e0119efe71d099ce0936922f3f8dd6f363fb9803fa95fc73434ac098efd7c"
 
 [[files]]
 file = "config/supplementaries-registry.toml"
-hash = "36e2a3b4515d4e65d9c718cf0d4e04ab6a798b10a6a64b28b05ef380494fdd01"
+hash = "b84491f5b599dbc71f582aa3363bc6aaa0fccd6cc8665be5b8118f3b2a1fd0c4"
 
 [[files]]
 file = "config/targetato-common.toml"
@@ -918,11 +990,11 @@ hash = "47d9e3d0e81255939cc0f733115dabd79af55a92edcb88d0a7d38e6b8d3367a0"
 
 [[files]]
 file = "config/tslatentitystatus-common.toml"
-hash = "d8c497e62561e017e89aca1b772f6dde5a56327867db1671e20287a4d4f896d7"
+hash = "3254878cf51ca245aebd15da3425cb081a459de57fadff7c2a17da6c82188951"
 
 [[files]]
 file = "config/weaponmaster_ydm-common.toml"
-hash = "171ef34a329405c21126e8e804c36474f1d1375bce2e44ab5e632f53c13db97c"
+hash = "e7b8964fb0bd77ed6767bf3416e9923618f839cde98bbc8f2cd9375597c8f5b8"
 
 [[files]]
 file = "defaultconfigs/comforts-server.toml"
@@ -1131,6 +1203,11 @@ hash = "9a72c463eafc55670c7eef8163e9ddb3dfd6e852873fdb8b9b1c7ef7c1ee9c14"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "28b0489dd6e5f05c5f8e49d18acbec41ae8d239e617e6a038a3d72666a8e7011"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "ab3b3b8545412e263eddf2dc5f77f9099b454f742dc1e21cab2dbed86514438b"
 metafile = true
@@ -1201,18 +1278,13 @@ hash = "7a5904a8127bfeb90edc2503726ed6261388fd9d1248f29b48dc56e4f477264d"
 metafile = true
 
 [[files]]
-file = "mods/eating-animation-forge.pw.toml"
-hash = "c729229a738aa4209917654ae083dae780f0556301816fc1edbdf3ba43e2b8a0"
-metafile = true
-
-[[files]]
 file = "mods/edrp.pw.toml"
 hash = "c3e85b5fa9364ba2c27369a7f52931b774d7b38708ace8694ae4a4716d5dfc83"
 metafile = true
 
 [[files]]
 file = "mods/embeddium-extras.pw.toml"
-hash = "1eef85324836032c3e321ff937347f04f191d330da704b63fbef303bff384e9d"
+hash = "aea39a5796b9639cb160a35305c94a2f543f973404a3792a384edd727a6bd1e3"
 metafile = true
 
 [[files]]
@@ -1366,6 +1438,11 @@ hash = "ab43cecc447e6f572d5c7ee0df2ebd2520695c1fef45d2be6748ffd5560c9991"
 metafile = true
 
 [[files]]
+file = "mods/grassnotfloating.pw.toml"
+hash = "0829d3335adba7c2790a8542f658487e007fb64eb46a02b49074861459da8bff"
+metafile = true
+
+[[files]]
 file = "mods/guard-villagers.pw.toml"
 hash = "e263cab228097dab0b5bc49a1c733306ef7d6a00ecab68f24cd0910d3c2efd2e"
 metafile = true
@@ -1471,11 +1548,6 @@ hash = "6bc16c0ed35087a1eddec8241178e69dfef62097cd6011e26e03852cf43ee611"
 metafile = true
 
 [[files]]
-file = "mods/load-my-resources-forge.pw.toml"
-hash = "8974c5a7b666f26f6c9d41b3d7220baa29d852cecfdab70cdeb8143e47655053"
-metafile = true
-
-[[files]]
 file = "mods/login-protection.pw.toml"
 hash = "081c03bf7560fd5e71a6054d07fdde2fbd9e8c310800d015b5a48a13a00cee83"
 metafile = true
@@ -1541,11 +1613,6 @@ hash = "c7c75962254111faa0101af9c96a72fc9807a1082fc7190e0c1df3a5f3573538"
 metafile = true
 
 [[files]]
-file = "mods/nochatlag.pw.toml"
-hash = "384864ca98d649ca3d9607a8ac4faf75e61cd7ca7e5fb88ee778a13768d95681"
-metafile = true
-
-[[files]]
 file = "mods/notenoughrecipebook.pw.toml"
 hash = "e13c6ebbaf586e815a58f3b38f8e88ead25a6e4a64543d35aa9068d163c28f59"
 metafile = true
@@ -1572,7 +1639,7 @@ metafile = true
 
 [[files]]
 file = "mods/opotato.pw.toml"
-hash = "6a493f72545eb11306e5d314110b3dcb5984b1dcde58f0ec8afb3b2e971562ab"
+hash = "baeea5e01de1372e8c6532e195cb81d7ffdd3367d66723f3f80220270a0cb6d6"
 metafile = true
 
 [[files]]
@@ -1636,6 +1703,11 @@ hash = "d885d1996719d42ec4daafeb8d6a88b3f741bcb118fe7f8e568351a5ec21ac3f"
 metafile = true
 
 [[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "49771f8d0a16f856aebe58ef9bbc7f864b559c9aa947973ef0771b53a6f4507a"
+metafile = true
+
+[[files]]
 file = "mods/respawning-animals.pw.toml"
 hash = "04b4909b2080a6db3819ca4d0a6b64a6581df05d81070c5dda637a84ab26bd25"
 metafile = true
@@ -1676,6 +1748,11 @@ hash = "85ef906e7a2dc255ad3424347e6793ca8e65186f5545011bfd6e85f43a9e3a9e"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "c29a99b8a0d73930d7db458cf979eaa3c29efc50843d6d4e630a7c6fced7b5af"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "b4f9abd219e3affcbfd6d592967ce289c5461c404b0c27a5a97c068205ed4c9b"
 metafile = true
@@ -1713,11 +1790,6 @@ metafile = true
 [[files]]
 file = "mods/spawner-fix.pw.toml"
 hash = "005665043df290c277ac7acb1f72e56f3215702cfb574cbde405cc40031b2f74"
-metafile = true
-
-[[files]]
-file = "mods/ssr.pw.toml"
-hash = "374183cb67e527bfe7c7ec284a1f6db6b41de9fc043934023008766ab8e7def3"
 metafile = true
 
 [[files]]
@@ -2118,7 +2190,7 @@ hash = "6cc3599bc92eefe5cd12f159289d91938945e25d9ab3c84e33830a528e82c4db"
 
 [[files]]
 file = "openloader/data/Death Punishments/data/death/functions/punishments.mcfunction"
-hash = "5842256afd42a0ccae51c4a1a4f34b31fa57b859e22ae2cae61850530e1bc4e4"
+hash = "16923ddead41c98c574e26bc285d83f050a116801f64d712f14f881d734600c4"
 
 [[files]]
 file = "openloader/data/Death Punishments/data/death/functions/setup.mcfunction"
@@ -2701,10 +2773,6 @@ file = "openloader/data/PanchoRing Tweaks/data/alexsmobs/recipes/pocket_sand.jso
 hash = "52569c609ebd083378fb22c4994610ac2e568836d8dbc473d4b796a38b2f3f86"
 
 [[files]]
-file = "openloader/data/PanchoRing Tweaks/data/alexsmobs/recipes/shield_of_the_deep.json"
-hash = "cb1aa14faca844f1496a84f763b8509bfd407470f4361bd1a1d545dfdd798478"
-
-[[files]]
 file = "openloader/data/PanchoRing Tweaks/data/alexsmobs/recipes/straddleboard.json"
 hash = "d8ff38d44746291a00fa76dc5bd91c8dbaecef97689618547ef8cc9a28258296"
 
@@ -2754,7 +2822,7 @@ hash = "db95616c83057cbfb375eb9f4993028bbe3b335b1df32a89351fa51f9bb96886"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/ars_elemental/recipes/conjure_terrain.json"
-hash = "d2ea4cb610c500b871c9478234c95098fa76ad5131b13629985fd9de0ca383db"
+hash = "6f9ff3ddaebae92fa013581931960c711dcc32471b7805371fb49a0a05f5e5a9"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/ars_elemental/recipes/curio_bag.json"
@@ -3922,15 +3990,19 @@ hash = "7b907ebeae57e9bbb87880ef2737ff6691e5f2cb807b7ed05321009a65a38138"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/emerald_armor.json"
-hash = "412c108c460a5b461a17511307f76fd60430c2d05e5e6e6281bf7ca3ebcf1e5d"
+hash = "eaf92bcb26711bad28632372c4b13d96274cba3bd283c3c1cad4e955a5a8dc33"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/gilded_glory_armor.json"
-hash = "d3cddd736e92ee6e6276fe4bbbd72519557d80e1d4c63b060d3c221a2fabeca0"
+hash = "bfa32018066ab67534d1839445bd768d1ec878c6d32233053da2d43da1a7063e"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/opulent_armor.json"
-hash = "cdcc730f4bbb6e7a3cdad8334a368b24e9ba74e65bbd2f8e7cda22343ffc7161"
+hash = "4cc5630e24b16be1f0080a4da6da5d2d9a40e8d7731aa045d97720e6032b9209"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/armor/shadow_walker_armor.json"
+hash = "a32d7bce6fb6ac489efafea296ebaf4d4c94f406f8b7b2015c8d3fde2962c1da"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/bow/ancient_bow.json"
@@ -4078,7 +4150,7 @@ hash = "df1cb210db03eefb3ab660cc3a82ba10b5f1f7c02e7d2b2643e2b8653d3eda3b"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/crossbow/doom_crossbow.json"
-hash = "8344ff04fe4ddab12cdac6e5ff6e69f094b5185b4676fe43f1b29fb748735733"
+hash = "f9a9bdba99918d3d102cbeb39f740679dece0ecf4ce5ca848507bdb723602a65"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/crossbow/exploding_crossbow.json"
@@ -4094,7 +4166,7 @@ hash = "2c9f0812d76d2f297743285764e47ff289fbd08e9fdfd0d860c4c4f8fb6ff3cd"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/crossbow/harp_crossbow.json"
-hash = "d6e9bd15bcfcf202f56b98ede8565553d4212f61189e8419ec0d351c8224b88a"
+hash = "91efd5d5d26f1ee543bac3715d839819e970db195b929fa2cb1ee0fe2ac5aef0"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/crossbow/harpoon_crossbow.json"
@@ -4102,7 +4174,7 @@ hash = "0f5143192e5143c7bfae601955fa2934e01401a37d1c8b232026b764b512cab8"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/crossbow/heavy_crossbow.json"
-hash = "94bc4d2209f029b03cddf7c9e309d32842911d113feb5978e18ce96f68a8581c"
+hash = "f87e31cb9538cb6e4eba444d97704225c5c5447779c788e9ff0a04347f1eff49"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/crossbow/imploding_crossbow.json"
@@ -4110,7 +4182,7 @@ hash = "a6235085cdfa394daf8f698bfd0b0c1831840886ee496d71e07f957183f51ee1"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/crossbow/lightning_harp_crossbow.json"
-hash = "8f7d0da1e7bb6f34b3784e7c2729bba08fa98213e250164752aacb2dbc256163"
+hash = "05c3088be616958be5db9d9cd0e1f5685e49ba2a6912b828607d5fb5c813ddab"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/crossbow/nautical_crossbow.json"
@@ -4122,11 +4194,11 @@ hash = "55976cef6cc4a09be4a52f7a09a321daf01051b538679246da7f31f4a6b1a3f5"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/crossbow/scatter_crossbow.json"
-hash = "f146feb5028e7428a18c2dfef2c4974f596990035f46c40a6416cbe8293b4ba7"
+hash = "c557a286b15f5b6c2a9c26d33909a33be7822650f91fd010fb9a617ebddc32ae"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/crossbow/slayer_crossbow.json"
-hash = "f8acfcbfaa63577fed755ce89f17204d3a558311197df6b54853fc5bb3e7d72c"
+hash = "6453cf4770d2bd22ead24c540cbe5ac028ae9b1c0a9f6bc8552ea3961b4c6544"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/crossbow/soul_crossbow.json"
@@ -4146,7 +4218,7 @@ hash = "5f6c0822674e8c3630577ee83e442056a412e8bad86c58b8f6c5dfe947e0b159"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/anchor.json"
-hash = "82608c0aeddbdb624740dba87b2f431229df57412ddbacd3f9fbd62351ff3205"
+hash = "863b3919199ee72875c43fe8ffb40daf3e1771e2834eb631e267e1f04c0a781e"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/axe.json"
@@ -4158,15 +4230,15 @@ hash = "4a1f9217406876e394e70416a95d38fc6e4f32cb14c50f15f1f3a3965dcb1063"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/battlestaff_of_terror.json"
-hash = "f6f62da921cd72b9630e18100e837e363ea4cec151263e778f8cae839f690f9e"
+hash = "c858dd87dafd67472d9346c79a351a7fb71243fd8294b1d89f5506812c9d53b1"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/bee_stinger.json"
-hash = "3c73c818f933dab4e763c46fef4f150c39d4bad932bd06b4f7736a68eb45ed38"
+hash = "dfde6fbffcd6596659ca49795ef169252b3d5a0a27080bbcf0ea07ac58566837"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/bone_cudgel.json"
-hash = "c6381a53603b3df7085eb1f80c68d3cb0c413e1d9224a838f3ffc0e9a0a77da0"
+hash = "796f81a8b9b47e231662c858e94ea7e26c576c8c91bdb1b6fb6918790ffd2542"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/boneclub.json"
@@ -4174,11 +4246,19 @@ hash = "3dd0394ff22f97e77a56f7b3d0ea66b4f3de1d2c34c9860d8c7e432669486648"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/broadsword.json"
-hash = "e5d0e59382b68eae542c918fe6a8b244743188d5486d53e46b1c58724c6673cf"
+hash = "d80c3f20071faa5c194acf79b95d65ed17f8e50d433258850d3d37d47553ddb9"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/chill_gale_knife.json"
+hash = "a828c17941a156a0d752eda314b763b760300e10095e5ceecd0eca6df898115b"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/claymore.json"
 hash = "69d85a3408fec4567284d4509040351f8986759a71b38ff0288cae06573db9f8"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/cursed_axe.json"
+hash = "a67eeb335df9d3ba5e4144a149c86914704ec442279f2714c316042cafed1cda"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/cutlass.json"
@@ -4189,32 +4269,56 @@ file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/da
 hash = "b44c6e7adace381f9dcf0afb829ee70f12811d6d29085d0fd15cc22db6d7d280"
 
 [[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/dancers_sword.json"
+hash = "21de67ed2bcb329ba8ac9052d96e07abaea11506f3ffbc7c79414098a13b7a68"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/dark_katana.json"
+hash = "223fb7367cc204ef961021b2581899abe3597b5311936fc3c04305e6b7eacd98"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/diamond_pickaxe.json"
+hash = "9b0303338d56fb34e75cca2989e2bf5d955f173b50156bfe03436d0b29aaa3b3"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/diamond_sword.json"
+hash = "e1b3877edf40c906804a7eb791d967c1319d44ee7f733d0c0be01f51b84a05f3"
+
+[[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/double_axe.json"
 hash = "e71efee69a6615ceb95d29d35589d57aa05d12d0e57f47aaf421bd32b7991e4d"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/encrusted_anchor.json"
-hash = "dfbdfa8444fd8c3707f7a51f8b38a8b50a30baf05de5fa74c9ed3adee3b39c61"
+hash = "29c33edaac144efdeb805efa927e6f851285859c319f32365e5d8dca6dd745b2"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/eternal_knife.json"
-hash = "5538427bf2f196cef77208ee2e0e1238844558873173d0debf7def250ebd25df"
+hash = "3b0223b4c7245bac9d26ac30cff7dfd06563621013778482ac8afff98f78303a"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/fang_of_frost.json"
+hash = "ded827374f6530d4c18b02e54eb22e21e9f40f5b58ce652e74a8ee7cb9e1beec"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/fighters_binding.json"
-hash = "cc8b490879bbb12b2496467510c96b2fd01476ec428b7d2289d6d63d1691dbbb"
+hash = "9c8d464f17eb2b7279f776ab5471a6e38c123f568624e29be8deecfe4111bfb3"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/firebrand.json"
+hash = "3ce2b7d3652dc7471fdf5c0ef11b6f474c2398c649ffc952a251fcc068638fe4"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/fortune_spear.json"
-hash = "74daa97bd5affed0c3d02f52d9a700464d874f114ad0012dded528d611a75479"
+hash = "1076a9436b6522ecc51ecbc2ee0a2b37e8930c8321099073118d8a8fc5336975"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/freezing_foil.json"
-hash = "d9cdfd21e812240c465bde930c1c31adb892a63ca70d486e330c59f3febf36dc"
+hash = "24dbd265504e231b3efdba292453770af74ba741d87efdb24827a559b15a8065"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/frost_slayer.json"
-hash = "b7b6d98995d1bf4f9ef4aedb6354d9b761bdbe9fb2103930d178117d0cbbe6e2"
+hash = "67dc00d51e86d55660de3e67b4fc53a83bae8017bc72baeeec0c69bb7dd4e714"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/gauntlet.json"
@@ -4225,12 +4329,20 @@ file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/gl
 hash = "4c4c22bc5a6231480d49c8dbb2f1ec005477f267229869e150cd2c8380922da8"
 
 [[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/gold_axe.json"
+hash = "44da668d8aa78dc9a1c4966d4241b4dfed0018fd717aec94804e67abfd90823f"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/gold_sword.json"
+hash = "c1c0bac0d3fd31e7c0476f2d314eec478dbd16f4c31d80fd49f19ce09880da41"
+
+[[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/grave_bane.json"
-hash = "5ba0d75669ef4ff0a5f5f4990163ec595c79cc3aff453c683fe207f25992a433"
+hash = "aeac49f35278cfdd15b53731b81b9a70b1b0d91403984e7187198ad896add593"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/great_axeblade.json"
-hash = "84236a1f175dcc4cf5786148f18f3879cacf8be40477d9f87318678a6c794062"
+hash = "eb01a2da3c14541bf71f716aa31e429edf411a9a73c97746080d09ed3e119f8a"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/great_hammer.json"
@@ -4238,7 +4350,7 @@ hash = "ec583e04161c68a7f54ad7da476f237a655f0399757f231f9b8b17c0ba14517a"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/growing_staff.json"
-hash = "16c54803b16be97df1347fe52a48ed61e67da48212366ce21f7211ebd9d94efa"
+hash = "1a6039e1a3b55abe47a5c988763109d29f876d445ae228070ffb3b5afb380f36"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/hammer_of_gravity.json"
@@ -4246,11 +4358,15 @@ hash = "b1c5512fcca527677b53ad23a6c314749074450da37eab1dd66f5b0a1fdb8521"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/hawkbrand.json"
-hash = "8506946a5323dcf2faf1a131182659dad9dbf96b88323a4ff3f124d8d20272f3"
+hash = "f87d69a40ad2917c28e2f66bad6c76e9dfaa6aa2ea55aa38c086cc62a89ab87c"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/heartstealer.json"
-hash = "d41e3e7dd94677c4434828e0d2458486ece82288b0d6707ab5d8bd684e24e0b7"
+hash = "e7ba6c339f2a007262f00596c36e25da86e02a748c2ce5d7009ca8c730b77d61"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/highland_axe.json"
+hash = "e1996e234736bfae34953e35e036d95c288bdaaea6c90b1cfed2e7a2dabe7f6b"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/katana.json"
@@ -4262,15 +4378,23 @@ hash = "5a8a34f72089365d10e3ae33d58e252c9512b1537016e3c3abdeb8a88101f53b"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/masters_katana.json"
-hash = "96c70bd83c1756fbcf02e3490be85316453faaa22f5b90fb0e8596435e303cb7"
+hash = "cad2fdbdf63e4044278ef3e2e347a06a0ad4656bffbfd1a269ad33936af77cab"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/mauler.json"
-hash = "63089f0ffebf0395d5883882eb78e67d4cf5a33ea9e83fe9de12eec4d0145754"
+hash = "d3a48a5005cbe2bf5b2c48f929f32f7b741ea0b2c1e47b272ab5fe5443b0cb17"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/moon_dagger.json"
-hash = "f32b6c7da7f2c0fd2f571510e6cba0ba3223d7aab53682fd2390c0d00a679b55"
+hash = "aa9b2bffda2b70652f99b498ad6f154eafd830424afd1d1814c898a50b2c6610"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/nameless_blade.json"
+hash = "4265d6ac6d9d27aa9144e179f6158e92082387e197dbd684467a9d6f354519b5"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/nightmares_bite.json"
+hash = "0b3a50fd199fd7d093ff57989251fbe62dcde80b1a36de240f48d7559c6847d3"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/pickaxe.json"
@@ -4281,8 +4405,12 @@ file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/ra
 hash = "ec730542f5c9ee9012cb1a74207940fe2fd727896f2178eda41b71386e8a2cff"
 
 [[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/resolute_tempest_knife.json"
+hash = "1222becff791258abe6a32a77702b75a62ecf6ba437070d6b20e2fc6af7aa644"
+
+[[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/shear_dagger.json"
-hash = "336b9eea970a3032a9268beda3d4698bf02e1f5f2dd036e43e330ea4917ce717"
+hash = "62ab81f15fd4cd49dbf482e8d2b1fda3f46150bf23d69fcd96091353065ce68d"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/sickle.json"
@@ -4290,15 +4418,19 @@ hash = "46b313a6be4fc5b7770986a82694b4b636c883135eb71362557d2fe7c5ed5032"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/sinister_sword.json"
-hash = "3a769b919f309cfbf97941cf577d4bbb1a3f61be00dba232e00ebaf572b19ffc"
+hash = "35aeb099a82472549d6e22d672ae2abec099f66bca214066b9cb2bdf55b12245"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/soul_fist.json"
-hash = "49c84245ad4a20b6d76dd89d50fc85957b7afc6caceaa057b1e7ec30945e9e98"
+hash = "7bc10a874da702d90c6c029563873425ac684b8b3de324fb1b1fa2f418526d4a"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/spear.json"
 hash = "72b11b1d2b4a4a7bc0b71ab0967deb1796ed67cc2fed32c29b9736ca73acfe6c"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/stone_sword.json"
+hash = "956378f22a34aca1d0e16b7a337fc87cae1613a1cae353eef1d3d7c53ed0b545"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/stormlander.json"
@@ -4306,23 +4438,35 @@ hash = "1c0d97609775d50ccd40ca964f3e0fa4518cc757a7c9e84a7f657712e98dc9e3"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/suns_grace.json"
-hash = "6653fec262207f6910a083fc851ded6b8466e11c5ca6a00e0399b6c668f50106"
+hash = "53abd04e9db2275ff2c5de677ef09d068461a0a8e16a4ee9d92b2fc03f20a7b8"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/sword.json"
 hash = "766ebac751f824203f449f16ab520dd2906a65deeabd4eda887f4f84263f8deb"
 
 [[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/tempest_knife.json"
+hash = "172333f1976a66e23b14ecfb38d3bdf6e6d7e70ef12606ab8f4d1a180440c164"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/the_last_laugh.json"
+hash = "4ed333d4ae31472be0a065e52f4df1271d405257e74ea840cde23f1f9dea1e11"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/truthseeker.json"
+hash = "aa20b08aa229ea690aa0d61a3d7440296fa165c3a1a4c640b4deb02b5dd7eb10"
+
+[[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/venom_glaive.json"
-hash = "cc0822b6acda853d2d66b44b1ead78144d560565b0842d5e58919fa6b6978761"
+hash = "fe53e2b1a2304b17d3cb502e097cfb9aeba06908fc22eff4a3898b7fbb95014c"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/whirlwind.json"
-hash = "d7959d52019c7b5a14b6f0388ce389de953c944dbe4a8a0ea2ce8f610a0fe03d"
+hash = "a454c546b18a2f53cec4b80c8da6476bcd5a82a59b5265fc08b5d35904003f55"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/gearconfig/melee/whispering_spear.json"
-hash = "6b9490782ca7d52261a53f94802f7bfb024b6ae50237fcb61d925db9426532a0"
+hash = "5e61442ef47ecd298a24f7c6660152dde72e058bec1500644f4ac08e4e368e20"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/loot_tables/enchantments/prospector/the_end.json"
@@ -4330,39 +4474,79 @@ hash = "0c02fbe84be2e50588a6b3a7a67edd7b23685714e9b94fc7f6aadd50038bafae"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/loot_tables/gear_addition/subtype/all_artifact.json"
-hash = "f74eac9dd5cd255c7da2e472a42ac4bf9def7174fdc693ece11dbecbe9835f71"
+hash = "02a1f0dcac18320495c654803c24fd6691e042b95cc909877a44de8cceba78d0"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/loot_tables/gear_addition/subtype/all_normal.json"
-hash = "c4153a8da4056fc5dd9adf94a6fbee57d76b467b8bf33b18c2d6c96de100ea00"
+hash = "66c8dc383cd7658bc0822a485c3b2f29011390d6f01e2bd799c06782ce4d0d66"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/loot_tables/gear_addition/subtype/basic_artifact.json"
-hash = "783c3c67eeec3ca3a1a1d795e99049c2c8d2527beedd30ecf514aaa5ce76856a"
+hash = "b5bf9ecaaba75a266a636dbac770bc3b7180a61b805ecc5061514f772cbafd81"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/loot_tables/gear_addition/subtype/basic_normal.json"
+hash = "af57e8e4b12140f6212be57229eaaccf59a9ff348d547f5a9760f55743c5839a"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/loot_tables/gear_addition/subtype/cold_artifact.json"
+hash = "6e3b3fc10963aba070ae654e7ce3fd24c5afe77c1a25c6ccc16ecf02e6007d56"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/loot_tables/gear_addition/subtype/cold_normal.json"
+hash = "fae573c20dec6c8170f580ac4c7234ef1433b8d30cdec2f3513d4334719e3ad7"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/loot_tables/gear_addition/subtype/desert_artifact.json"
-hash = "288106e55c80a03ab83738f157320ef6aad0576c2fedcea0a849b15df596577b"
+hash = "39c3fb4b9defcb42fe79eed4771cdf1972bbd56c04b819f3d817eff80d68c2c2"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/loot_tables/gear_addition/subtype/desert_normal.json"
-hash = "94ff617d6fed6988ef49a37adf56c05fda4ff227da40cf6c75557c57a27abd3e"
+hash = "76b65be53bc8866dc7a119e8fa5a4c8e1cd9d0378be9eec58320a05a2263071d"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/loot_tables/gear_addition/subtype/end_artifact.json"
+hash = "acd283ddcd3102ae12344df6338f55dfa732d695de69ad0b49ac78c2ba3e7a8f"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/loot_tables/gear_addition/subtype/end_normal.json"
-hash = "f2fdc05174a032144440268b342448f3efec0ffcbd1b5ec7f68290012ef70687"
+hash = "60053b41a9463a4c6968d5bce83d697eebd222aab1df9f6e6bab302195bf3721"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/loot_tables/gear_addition/subtype/end_unique.json"
 hash = "f2fdc05174a032144440268b342448f3efec0ffcbd1b5ec7f68290012ef70687"
 
 [[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/loot_tables/gear_addition/subtype/gift_artifact.json"
+hash = "f48583f2c31c968c93e09c05518d7f3b86adf1c59831d656f7d088921d4b6986"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/loot_tables/gear_addition/subtype/gift_normal.json"
+hash = "6559c3a4a9e15e7fa156fa896a6fc26574c0313ea7db0641b5c0c42a9b0b5b4f"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/loot_tables/gear_addition/subtype/jungle_artifact.json"
+hash = "4aaa37711676e515e0a225144a2e40f18baf293bf30d93e04af0838ef5108701"
+
+[[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/loot_tables/gear_addition/subtype/jungle_normal.json"
-hash = "123f73ca374003977c50880b49bcbcb7daf67a33b381220c2f61e73a59cb1fb8"
+hash = "9f8465609f9b70116f199606399d0232fc59b2d3f23c559a8535bb2d97298ae9"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/loot_tables/gear_addition/subtype/nether_artifact.json"
+hash = "aa6f23fb0341578cba5926baf2583046b3edfbf5ab6027e73f2703805b298894"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/loot_tables/gear_addition/subtype/nether_normal.json"
+hash = "6ac0fcfd0b354950cd979a93a96a755b5ba5a51f1d9b2ef89386711234f48953"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/loot_tables/gear_addition/subtype/ocean_artifact.json"
+hash = "15243641a7e6748d4d77ca2b5fa79245d45fc5c794556c5711dc77415278e8d9"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/loot_tables/gear_addition/subtype/ocean_normal.json"
-hash = "a1edf83eb23cd781750e38de02bc3f44677f7995d2d32a208eb070abddd6aa36"
+hash = "a97b8069ccac89788df0e78f0051c6625b5cd62005ad1939b03e264c3ac90dc0"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/material/armor/bone.json"
@@ -4378,7 +4562,7 @@ hash = "222a16e5c087a119f2372cdd96cccfcc143fb7f9e50f36ed3f338454726f6469"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/material/armor/heavy_plate.json"
-hash = "df650932c9c918feca0f3711e80bfb99c0740b020e3386d55b04ea85020997af"
+hash = "31be08586a1d76b8799963480de41e0100b6ce6418773b21ef9b5bbd4f1a0549"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/material/armor/hide.json"
@@ -4386,7 +4570,7 @@ hash = "8c85cce9526ec8b88894aee5e9f9401851d20c0f2150e98de3b428d072720294"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/material/armor/light_plate.json"
-hash = "204004ff1fa02225b2cca65b51046468bac2cab79818fadd71b0594b3538492a"
+hash = "3d17f8ade9cbe4a8ca032a48050f943158cc69489c9fbdb72dbae029bfdd99f1"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/material/armor/medium_plate.json"
@@ -4989,6 +5173,10 @@ file = "openloader/data/PanchoRing Tweaks/data/extcaves/advancements/caves/zombi
 hash = "9065ffafbba96eb5d8df17dc8d84ce8ab1f9cfc21c6cb25aabc41f66c328d6a1"
 
 [[files]]
+file = "openloader/data/PanchoRing Tweaks/data/extcaves/loot_tables/blocks/dirtstone.json"
+hash = "9519049727ff57d4bcf344955e55c440dde8fa5f35633351112ea2da6087aeb4"
+
+[[files]]
 file = "openloader/data/PanchoRing Tweaks/data/extcaves/loot_tables/blocks/treasure_pot.json"
 hash = "02395563e30eb9ba5feee0cf67adabc27019107d84dc1f9367f270a733b0d24d"
 
@@ -4998,11 +5186,11 @@ hash = "c3d11450cf22032b1d19f902062a8d8f14f0650a061fd86e50c350e828d129e2"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/extcaves/loot_tables/blocks/treasure_pot_quartz_long.json"
-hash = "478440a3f84f1e483c0975c6908240b194d0b5afa08d7b7267d8055c46b1ba68"
+hash = "5e6a5ba4222645c376c5c7c712b7ba2a7e27b5744a646ad3591c253ad997f2bd"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/extcaves/loot_tables/blocks/treasure_pot_quartz_short.json"
-hash = "21f4b87ebda20c6fb278b729ec8052c0f7935fcf5f6b15f9d375e2f397807eb4"
+hash = "400b3aa57592d2dc7e70ea1ad6c55123a59d06024c1a245378e0624657b1e246"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/extcaves/loot_tables/blocks/treasure_pot_short.json"
@@ -5142,7 +5330,7 @@ hash = "f1ab8adbb5e9908f62d3f6d9e6a011b46447b7189ddbcdbb7c374a7973ca1a27"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/iceandfire/advancements/iceandfire/kill_myrmex.json"
-hash = "8a6a695f2d8f12a42f9c51295f3d19af9145de3d822fbf114457d167f4c485b8"
+hash = "9065ffafbba96eb5d8df17dc8d84ce8ab1f9cfc21c6cb25aabc41f66c328d6a1"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/iceandfire/advancements/iceandfire/kill_sea_serpent.json"
@@ -5163,6 +5351,10 @@ hash = "cf2aa88a362ab48122104d2ecc96f518a077d3e31b1f7997605cc8971447ebaa"
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/iceandfire/advancements/iceandfire/lectern.json"
 hash = "9065ffafbba96eb5d8df17dc8d84ce8ab1f9cfc21c6cb25aabc41f66c328d6a1"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/iceandfire/advancements/iceandfire/myrmex_resin.json"
+hash = "5010c43563b825d22c922148b5e2ee454954a978e9a7a9b59895fc8718249a5d"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/iceandfire/advancements/iceandfire/pixie_wand.json"
@@ -5250,7 +5442,7 @@ hash = "4f7c844a6fb2285e6ae0a4708e4e627f3c74621167ddd83c266aefd0495f8e21"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/iceandfire/recipes/dragonbone_arrow.json"
-hash = "83f2c34507d131f73096441c8678a7581e5fc3d9465a7431211edcdb907567eb"
+hash = "22b2faa89c288917c0be431780835f7e4129f4df15aa80e72189d629cc94b3c4"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/iceandfire/recipes/dragonforge/dragonsteel_fire_ingot.json"
@@ -5802,11 +5994,11 @@ hash = "5eac187b6a3f46cfff58593d393cadec8b97c01df7736172490aa53654573945"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/minecraft/advancements/adventure/kill_a_mob.json"
-hash = "92586c9cb3d3b1b3c454501be07c28770e5c5ed6b4cdce0378c802c8ff7d15cd"
+hash = "a1d88ac73f0c58a0894c07f586c18dc90b3287097218dade6a5ba1926a5e6bf1"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/minecraft/advancements/adventure/kill_all_mobs.json"
-hash = "8f9e4c1f6b602750024800dbb0ccf0d9551b7765ca53801be2982a4efcccccc2"
+hash = "e7da25799d2e525d9ac34394a4aea04787a32801a460dcc7a7fee05711fe0b42"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/minecraft/advancements/adventure/ol_betsy.json"
@@ -6115,26 +6307,6 @@ hash = "6e0b7bfd726800d1010a230796213bda3ba37693f6472a4a94bf54ff4cca29f7"
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/minecraft/recipes/nether_brick_stairs.json"
 hash = "145801c0ada2fb8306559611b1de5b12bd4cf87646fdbf47b0ee95e46d99ee9a"
-
-[[files]]
-file = "openloader/data/PanchoRing Tweaks/data/minecraft/recipes/netherite_axe_smithing.json"
-hash = "c11830afd5a44a458a8ffcb998fb0d1a88b1009e380f98a5e4913a167597edc4"
-
-[[files]]
-file = "openloader/data/PanchoRing Tweaks/data/minecraft/recipes/netherite_hoe_smithing.json"
-hash = "88edb85702d1d294b62753a31ad033c2b6f9237683f5cdf0dbb3d2cc210f5cdd"
-
-[[files]]
-file = "openloader/data/PanchoRing Tweaks/data/minecraft/recipes/netherite_pickaxe_smithing.json"
-hash = "cc2288d88c48eb87da260cdcb678423a3b18866cfba4526ea17952a3ded7c05b"
-
-[[files]]
-file = "openloader/data/PanchoRing Tweaks/data/minecraft/recipes/netherite_shovel_smithing.json"
-hash = "bc7b61d72fba40d7617301dd28ad1a0aad356acbf3c0459a11921adae71bdc77"
-
-[[files]]
-file = "openloader/data/PanchoRing Tweaks/data/minecraft/recipes/netherite_sword_smithing.json"
-hash = "a989f471dae699e867bc3a0ac1b9a2602282393e657f6481571e1f51ee01aed9"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/minecraft/recipes/oak_stairs.json"
@@ -6837,10 +7009,6 @@ file = "openloader/data/PanchoRing Tweaks/data/panchoring/advancements/music_dis
 hash = "a5b565a90737ffce249c430a2edc26e5b68d16fae1e7aac61dd2d7c97d7a6185"
 
 [[files]]
-file = "openloader/data/PanchoRing Tweaks/data/panchoring/advancements/myrmex_weapon.json"
-hash = "5118a245dc4576f179cb35472b9c24af7483c27a18f17107290a73eb0c8ea8d0"
-
-[[files]]
 file = "openloader/data/PanchoRing Tweaks/data/panchoring/advancements/orb_of_origin.json"
 hash = "e08adf48dc0d32614872a3d7a629d641ebd223cd4491e7173312fe838cbc12ba"
 
@@ -7142,7 +7310,7 @@ hash = "c6fc96c8f47053d5b67a3cd6afaf8058665e073670e59c6d0df6815e4c67d9fa"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/panchoring/recipes/misc/cobbled_dirstone.json"
-hash = "92f5799bc8cc4fa94d230106f8babfb12775c2535bc9f9897831a4b66f36eda4"
+hash = "f5ef67603524bc29af41162c5c17aba82b7a58dca3549024ece1285be43e26c7"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/panchoring/recipes/misc/forest_troll_leather_to_leather.json"
@@ -7165,6 +7333,10 @@ file = "openloader/data/PanchoRing Tweaks/data/panchoring/recipes/misc/mountain_
 hash = "4cca5320fa0d68486a842f6f4c7c87dbd3aa7d6dcb48ad445a9b9e70b1b994c4"
 
 [[files]]
+file = "openloader/data/PanchoRing Tweaks/data/panchoring/recipes/misc/ocean_shield.json"
+hash = "3cd726aa4d50c304da7291894f4105809c0ae78ff87105f88279ee4cf7290341"
+
+[[files]]
 file = "openloader/data/PanchoRing Tweaks/data/panchoring/recipes/misc/orb_of_origin.json"
 hash = "9cc1203b64332f4067623a2827a4bafd2f05d1049f167d4eff66954c4742d11d"
 
@@ -7179,6 +7351,10 @@ hash = "98fa9a9e0d59455dcd18701aad75a3978bfe998997f935fe4f6eac3ad92ea67b"
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/panchoring/recipes/misc/summon_focus_2.json"
 hash = "b0062f3677a4241af821933b8ce53b666a99dbbfa68a187966c308fb818c8106"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/panchoring/recipes/misc/trident.json"
+hash = "af7f221298f2268ebd2555eb807c656e763ab954f1b75ad65ee2448e9c090a20"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/panchoring/recipes/misc/void_lanctern.json"
@@ -7717,14 +7893,6 @@ file = "openloader/data/PanchoRing Tweaks/data/panchoring/recipes/weapons/glaive
 hash = "8da477a241307051489dc2701cb3c1aa66e15bc15ea21a8cdedb5129f71833a8"
 
 [[files]]
-file = "openloader/data/PanchoRing Tweaks/data/panchoring/recipes/weapons/katana.json"
-hash = "dd5804aeb525bd16da32c3b17d47c6dbc40e08b704576d04d5f53f3d4569b816"
-
-[[files]]
-file = "openloader/data/PanchoRing Tweaks/data/panchoring/recipes/weapons/longbow.json"
-hash = "6d7f2d557901bb7c38959f64e791bcc81c23249a1355f64d3f29ba8f2496b4ca"
-
-[[files]]
 file = "openloader/data/PanchoRing Tweaks/data/panchoring/recipes/weapons/mace.json"
 hash = "a0f0bcb0501cf2f1c41237dcf70d1d1b9b7a59fbe29e33eb989eb573a5f29fc2"
 
@@ -7737,10 +7905,6 @@ file = "openloader/data/PanchoRing Tweaks/data/panchoring/recipes/weapons/rapier
 hash = "fd9879c8b13284cfdba3179895ea79fcba3b81fdf87532fff45e18b8f91039b4"
 
 [[files]]
-file = "openloader/data/PanchoRing Tweaks/data/panchoring/recipes/weapons/shortbow.json"
-hash = "a3643a69e8697b65d7bdf38b3adaf03cebd5a596be41a7105ac95e775c514086"
-
-[[files]]
 file = "openloader/data/PanchoRing Tweaks/data/panchoring/recipes/weapons/sickle.json"
 hash = "4471987f0cb9f88fecc8a3c9fb0798873d3a5d555e6cae994f6330d65f07d8f1"
 
@@ -7751,6 +7915,10 @@ hash = "f04f2a3b4043d9c6833204395b23c54f1d219cd567cbf8274b159d83417157f4"
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/panchoring/recipes/weapons/sword.json"
 hash = "837c0fe16b70ea74131037f88fb52796d67c38a4be41a46e1a359bd4383d3c91"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/panchoring/recipes/weapons/tachi.json"
+hash = "dd5804aeb525bd16da32c3b17d47c6dbc40e08b704576d04d5f53f3d4569b816"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/panchoring/recipes/worn_notebook.json"
@@ -7782,7 +7950,7 @@ hash = "bfa4bce4ccbdbd415729afe1ecff521940d9e5d69f7b1a3ae8fdbba787643354"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/panchoring/tags/items/heavy_weapons.json"
-hash = "ae6224155a44b7befb6a008521633b17a889a2ce24c6d2766aeaca335a3b0d5b"
+hash = "76ea3765b2e048b97891239d8784613bf6cd9a89857029564bc02fad478670fa"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/panchoring/tags/items/netherite_boots.json"
@@ -7802,7 +7970,7 @@ hash = "495d7cdcf8d0e6ce67bef6eca147bf0d49d95e3214b35b788355e37320622d9e"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/panchoring/tags/items/superheavy_weapons.json"
-hash = "a8009631f20aca46b8c156b9912a86f8e936ac69c403f04585f75776a444a999"
+hash = "cfc6b065c8256cdc740995ec7ece8b079677713c364533d3fc0f0923a5e995be"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/phantasm/advancements/die_from_ebon_berry.json"
@@ -8317,6 +8485,10 @@ file = "openloader/data/PanchoRing Tweaks/data/projectvibrantjourneys/recipes/ci
 hash = "01cdcde54311e1ec9e0290808e93bb296a7f0fe185cf9b923a9a3b5bf94156cf"
 
 [[files]]
+file = "openloader/data/PanchoRing Tweaks/data/projectvibrantjourneys/recipes/coconut_milk.json"
+hash = "72585421e9023c2880b54b92f4eb403a83f4b42b61b56f53f30f8659cca41370"
+
+[[files]]
 file = "openloader/data/PanchoRing Tweaks/data/projectvibrantjourneys/recipes/cottonwood_stairs.json"
 hash = "095b21734799c4bc30fff19acec7549b5d7b042a330aa3652dcf18725f1c9e9d"
 
@@ -8461,8 +8633,16 @@ file = "openloader/data/PanchoRing Tweaks/pack.mcmeta"
 hash = "686177192fcb54a2b77953b62a92a4b0393b43235e1fe6a0eb33624e6e96cc01"
 
 [[files]]
+file = "openloader/data/PanchoRing, EpicFight Compat/data/alexsmobs/capabilities/weapons/blood_sprayer.json"
+hash = "457eba74f12a93e26b50b454e523998adb18f75163a1d84bd1f6a483db0cdd29"
+
+[[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/alexsmobs/capabilities/weapons/dimensional_carver.json"
 hash = "62bae7023720a479aa30b0ebd2efd6027ab1c7ad10488ac1083507d2fabed20c"
+
+[[files]]
+file = "openloader/data/PanchoRing, EpicFight Compat/data/alexsmobs/capabilities/weapons/hemolymph_blaster.json"
+hash = "457eba74f12a93e26b50b454e523998adb18f75163a1d84bd1f6a483db0cdd29"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/alexsmobs/capabilities/weapons/warped_fungus_on_a_stick.json"
@@ -8566,11 +8746,11 @@ hash = "0d6873ab62a831b07062f2e97cce6d182232724136bc72582c9f29bef7246940"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/cataclysm/capabilities/weapons/gauntlet_of_guard.json"
-hash = "819f880e80d5c9b12169f1990c654f6337a99a53281391db983c810f5a023d39"
+hash = "95ad66b19f285f841837052d3bfa32300d0053d95a1a99ef0698f44b4a30ff0a"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/cataclysm/capabilities/weapons/infernal_forge.json"
-hash = "416bd4405f79f303ff77259ff4ef8e3d48ff6abb7f388ff4d3e62b20adb56598"
+hash = "2b15e8831f1c5d8aea8b43dd449e3128452d0d00d083dc143fb17e502852ba1b"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/cataclysm/capabilities/weapons/the_incinerator.json"
@@ -8578,7 +8758,7 @@ hash = "04a225c591d4113bad01debefa544f3ba3ec2cd8cdbf23d2bc6898e7d4776eb9"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/anchor.json"
-hash = "68ead342049bf0dcdb32e5817ee49d528202634d9013cdffa6a4ac95e8b1c23c"
+hash = "ab3cf190c4faae7e17b704d55aa1a303ebe6607320865e857e9e37028f293c67"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/axe.json"
@@ -8586,43 +8766,43 @@ hash = "6e4b90831b5bdc5bdf39245e58beeb135f10ad443307b300e8cf253dfb656e60"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/battlestaff.json"
-hash = "0888b0cc73a1f1a2336121d2d1256362693dc81f78a097237f890ed3aeb664e3"
+hash = "8f027d9f4e87da74a858a174d4e7f3c73358de429e83d1268866b6e56b747bd8"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/battlestaff_of_terror.json"
-hash = "e723e2608aefe898c151c626023da8a578a459f305fbe9c2e68ecb76aaa00dd0"
+hash = "15e881ae90565919607648efe9164a469206a5c3033a29a6aa4125cd87a898a6"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/bee_stinger.json"
-hash = "8bc50e2ea369b4c638f713a259a9a849f3ea1ebbf0e1815f54f61486f998d5a5"
+hash = "4aafeea049c049a0d8145ddda39a349e4660e54a0688c1d4bec376062d59d208"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/bone_cudgel.json"
-hash = "4d2dfdd2fdbdfca6c1cbe9f34da00bc9a00dd60581c732279fc56d2df7702252"
+hash = "0978462d17991903f4c5899fb81f9005b9c32448a03ae7ed4e2ee8b3ca17468b"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/boneclub.json"
-hash = "ff9a77e0ea3f8d9f65e8ac2d5d2d46e564e7e148e260654336c58d4ec1b62ef6"
+hash = "f499677a8e7cd4dd6fdd9b871e56de435f0e92f32ac4574f27c7f7ef1f6b026a"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/broadsword.json"
-hash = "5839f37eace58c46b2770995331262aea4e23817389162d3036c304fb51c0179"
+hash = "7c0bc3b1716eda8e3a7ba66411d0d1f04299a1a5be46145b3a82c276d3b118be"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/chill_gale_knife.json"
-hash = "501db635ca7cdeedb30f23b5c8ab34a468425d5e6afef2efbdbe743ffa18a2b1"
+hash = "47464a37e43adb245da8c82862e518bdb2860f92a1e115e0f52b99e013afb2d6"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/claymore.json"
-hash = "b401443514f6a3325e89587ab85dca02e36a04efa794bab8a1d8c7738963d2e0"
+hash = "dad0c8dca768f8760f02a99e0fa2478cf97b1ea3a069ded2f64a90c8e62bdad2"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/cursed_axe.json"
-hash = "77f642c36e8ee5886bb8aef7de58096f1b609bc8bb16b7bf2b0dc80512c59b5a"
+hash = "d43aaa18e1b406d725c7cf804fd8063784c0e4b8d93f724888b41af3a83920f7"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/cutlass.json"
-hash = "ea2804eb4e20f4aed9973c54aa79c95062af712da6af1a9bdb426317e336523e"
+hash = "481e9d0ead349ac7a800e8f6c7457a1c63796805b1ce47b1dca4e1c390df3123"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/dagger.json"
@@ -8630,207 +8810,207 @@ hash = "c632054353ce9d98115127a107e6ab03f3d0a000e30f048b2da8825199a11538"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/dancers_sword.json"
-hash = "dbc9efe079b0528c4f02bcb1e564b5b7c6e8e3f2c09862c75b6e91e669ada182"
+hash = "e13e9f31548ed70dd74798291bc385dc2f8f9bc1903ff73d6143183c6f6d38f5"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/dark_katana.json"
-hash = "bca4db96905a87f1f7b8fc13042acf68cdbfdde63bafc3fa4dacd6bfe1e67d16"
+hash = "681cd353f3083dfa8c3759f5121c9e5661a77b1c9c0b538871f246c779a84e15"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/diamond_pickaxe.json"
-hash = "a018c4080ae8ec43a86544df2b6c5bcc2479a595fd453f11844638a7e2083ecb"
+hash = "25f6ca65c9d5ac617dabe933be9887d50ce08d90ecde7bdf53f380cb822e80ae"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/diamond_sword.json"
-hash = "28b4b749251d1d5898cd9f41cce6b85b86bf71cb08978ebbce7b124c5f75d096"
+hash = "86552cf459aacd7c40f8e4314d4affb2962dd3457c1dda0e33fdf3fba075b02a"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/double_axe.json"
-hash = "1e551a9295bdb749d3bc34cabceb7994dafb6a9b6c342ce489047691903ed7d6"
+hash = "a174eac054ad554a6dc1e5e7d724ebd0af8ab2ad6559bed2b4e9b9d8fb9730f7"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/encrusted_anchor.json"
-hash = "07fc3a9249b4bda758237e85f9cfc9e09ff908e519c4ba981d603d7a3218f60f"
+hash = "a70a9178214baa92cf53a11784b8ae5a5abf10711962f19f233a70bdb7e7b2b7"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/eternal_knife.json"
-hash = "35e7881dbef77e8e9dac6f6252da2b6c994f02db0c07552cd5ecb8f78e3962a9"
+hash = "7d688f2ca73b1bc3637f45357d95f9d304b4712e586f546388e3ea2143d45403"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/fang_of_frost.json"
-hash = "992634c940ff7f37bbfbc2ddc00183469e16a16c1ed153a65b1abd9cf57cf0cf"
+hash = "a91e2598b5b602e01a7516b1cc79ff5f5b94dd05b6845b45221888312f754b2d"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/fighters_binding.json"
-hash = "b11f05813b9686728be383c922218acb6fa30a8637f4f8fa28f8d5ba7a848e88"
+hash = "c834cb3a2f150ded22b0dfe53cf25ced9fac38465a218b4745d2afee4dc04a79"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/firebrand.json"
-hash = "508cfcc195ac491026159c3d70412f22a1c2390b0afe549d472a41775c59d530"
+hash = "79d8666cab078fe7752204ec8043e1a7c5dc020eaeab3ef1760276c0a03f9a8c"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/flail.json"
-hash = "1995dc264064400a9fa001597db4969d57604a2fac41d03458e27a12b8d63b9b"
+hash = "9e85f493e30f3564cce16f79b0cbf8fc613d5e19e0b1765d8e69a4515a53348d"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/fortune_spear.json"
-hash = "7f0cdd019a7b1210e3fa4621e01866a5136d48f02145d850b881815f03eebf1e"
+hash = "a3a7d7deece5746a9b63585cfaa36d934ad9bef8cc87f759dc335673f6ef9a54"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/freezing_foil.json"
-hash = "8bc50e2ea369b4c638f713a259a9a849f3ea1ebbf0e1815f54f61486f998d5a5"
+hash = "4aafeea049c049a0d8145ddda39a349e4660e54a0688c1d4bec376062d59d208"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/frost_scythe.json"
-hash = "095b513f842e33d5f5253927932cc832783f739e28cc768b591260a036f834c3"
+hash = "aca93196ced99d92d7f753fc1f763593d4303ff748300d94a77e48d952db9151"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/frost_slayer.json"
-hash = "0e412d5938deeb52462cf590f696e46cb41f57ccc8545a9dc9f3520b4ed13986"
+hash = "7c0bc3b1716eda8e3a7ba66411d0d1f04299a1a5be46145b3a82c276d3b118be"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/gauntlet.json"
-hash = "fe1c568aaee416d4b49482e9d5f281dab86f20b42ac3a570ccc21f4353c782bd"
+hash = "ff769589444676c602ebc14da4ba2bdcc410bcab67a79c6da75abcdb37fcd95d"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/glaive.json"
-hash = "1f4fc6d3fffce281365ee5014d5a0234e545085e844518a65fa61ee37d98d347"
+hash = "ea6b0cb250d7fb08258bc7d7aac5bb29ef1eed35a6d0ff8b59355d7a4d7205d2"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/gold_axe.json"
-hash = "6ec4af665f4a452badf6324daa1706291086d04c6b386991c4c17532dca9f791"
+hash = "ddedc978028ecfd814c4f15d8df9e2c9f1596dda5023894c75e209d45fa24d5b"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/gold_sword.json"
-hash = "87159ac4674abed93267082aad69786d6b0fe317ad681b7915b89d2adbb08854"
+hash = "b0dbcbe45ec593d617a456c0bbf79cb46c5341ec45b8e73e95124a92c5bb82ff"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/grave_bane.json"
-hash = "9633e71b86e248bc70649a451e594b09533ad4fd42bb00da976a1c0541656076"
+hash = "d2e51581e4830ea5f4363ebdbcd93b8515e986aea2ee4ebd6b59b48756669d2b"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/great_axeblade.json"
-hash = "a317882b02c3437bc50315814d869fcb0d8176c5b470fe8e9179adecc0882c5c"
+hash = "7c0bc3b1716eda8e3a7ba66411d0d1f04299a1a5be46145b3a82c276d3b118be"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/great_hammer.json"
-hash = "a5e19d3d509adbad3a194bd4bbcfa5be784e4da90b3caa101931eab824f3fdad"
+hash = "d5575c0ff45af51628cb308ddaf6c6447d359da041ef722c87acc9df8c77bc49"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/growing_staff.json"
-hash = "e723e2608aefe898c151c626023da8a578a459f305fbe9c2e68ecb76aaa00dd0"
+hash = "15e881ae90565919607648efe9164a469206a5c3033a29a6aa4125cd87a898a6"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/hammer_of_gravity.json"
-hash = "167177171b0138aad67a932591c26e5198414601f78aad9442efdace166bb363"
+hash = "516f1d0e31c731fc599f08f19cf5c425ce5c9614c685b340f4c02f6f6ff526cf"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/hawkbrand.json"
-hash = "b7785c3ea7e1ab2664b9a292c46af8368b846ed7823025fce90e748d389c588d"
+hash = "36e54fe7a195735813eea2b91473220154ff90a8ec1f6dcf21b92c5e430b39c9"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/heartstealer.json"
-hash = "46fda627e2c8ca923b4cd551ec77920a64bbf240026e0a4c86514c14d404289b"
+hash = "94858532ccab93b4f402c8bdfcfd0cd705c92f871decb14ba91cf0f701a0d5c8"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/highland_axe.json"
-hash = "e047c71034d11b465f6d500b8ccc903deaf66138d189f90bd85462b11495140d"
+hash = "79d8666cab078fe7752204ec8043e1a7c5dc020eaeab3ef1760276c0a03f9a8c"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/jailors_scythe.json"
-hash = "095b513f842e33d5f5253927932cc832783f739e28cc768b591260a036f834c3"
+hash = "aca93196ced99d92d7f753fc1f763593d4303ff748300d94a77e48d952db9151"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/katana.json"
-hash = "6e5714f00764ee2fe2b1249dcafbb860b78e1003fa622b537d03aaac0b31d440"
+hash = "a8afcd28840101daeb4e0ab4fe11d240ab413daf05e05537ff5db2b92794b5bb"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/mace.json"
-hash = "ae35bfe0fa329291454fc7c7857bdcd10798f4167e114558bb6c8f8eeabdcdde"
+hash = "9ae4ea0f4456bc53dfd16656e703947a14ac6f9e912231420c2713bdbeb8753e"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/masters_katana.json"
-hash = "ce44911a83df019832599b5b434fd4c45e4e58b5005b7ebc8cc4b374dbebe071"
+hash = "38290803b1fac77d7e9d9c3231f416386a7c6fa1f7f29096d6ef68af414474b4"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/mauler.json"
-hash = "5bdae57b7bd015c61f4672a961440a20ea799d833ac505d702cc3c14687d1bfd"
+hash = "25dbb7a95e590d2b89ece420b95a12bda5ca66ad4c7881092e2867c3044e9613"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/moon_dagger.json"
-hash = "56d01abc02568cd8687895b75d629d5667fca347b58379bc57333ae65675e439"
+hash = "bf46da5ed768175823a83919e1201fc5295510a2966dd6133916aa7f6a7c3530"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/nameless_blade.json"
-hash = "dec4295f2e919f55372744fb819031ad1a8d8df78ccb5c1fcbcff3b5c0b28f98"
+hash = "15803b8bb73dc51bca839817a628ae5e0154f37665ffbeea07f7c1b259a7ab93"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/nightmares_bite.json"
-hash = "bfe5ded8f959838115f8027f8ae31b932417648bca8afba829e618772feffb91"
+hash = "4701da4650a5e540974e807ad7a3261cad71617cf0518a23fd78dc48050be91a"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/pickaxe.json"
-hash = "c02f6d8af0d8fcabd1af9d8ac2c9154fa74a55adbd2d648db30202a45d784de6"
+hash = "446559f87aea4c2300fda61ba3ac8d4c794ec6d1e3ce8deaea222139148631ee"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/rapier.json"
-hash = "c37bf4bc0f43faf8a3f19b4eab47008a79a680ca50fe56046f847e9c3acf2119"
+hash = "e0950b97bd16154af1c50bc711938d52cd6be8c5bc5be09659f91d7965b1e302"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/resolute_tempest_knife.json"
-hash = "501db635ca7cdeedb30f23b5c8ab34a468425d5e6afef2efbdbe743ffa18a2b1"
+hash = "47464a37e43adb245da8c82862e518bdb2860f92a1e115e0f52b99e013afb2d6"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/shear_dagger.json"
-hash = "56d01abc02568cd8687895b75d629d5667fca347b58379bc57333ae65675e439"
+hash = "bf46da5ed768175823a83919e1201fc5295510a2966dd6133916aa7f6a7c3530"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/sickle.json"
-hash = "ddcf108ab0f4b19c4dc9223d046ca08f74a3fe1ac00e15e1584739785939452f"
+hash = "e5ea327c4dd7329bcfabe7264785f0dbc4976f44049f2ed42a4818bd59639f24"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/sinister_sword.json"
-hash = "b7785c3ea7e1ab2664b9a292c46af8368b846ed7823025fce90e748d389c588d"
+hash = "36e54fe7a195735813eea2b91473220154ff90a8ec1f6dcf21b92c5e430b39c9"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/soul_fist.json"
-hash = "5bdae57b7bd015c61f4672a961440a20ea799d833ac505d702cc3c14687d1bfd"
+hash = "25dbb7a95e590d2b89ece420b95a12bda5ca66ad4c7881092e2867c3044e9613"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/soul_knife.json"
-hash = "55ccfbdd6c6472c48e7f11fd0e8030e2d4a4614822324fd0613f69f50f37c2ff"
+hash = "992705ef1d61d754c5fe18bd2a99a83fa5203c1f78a7d2b8599a41580ec0116b"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/soul_scythe.json"
-hash = "24fee6e025857d6c8e82c8d88a568badbd5bc78d59d7f76b1816fe82fe7137da"
+hash = "11133f7caa8e2a060475bddc4362e9fa6f0cafaccc4f4c31eb7fa8a184f1a81a"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/spear.json"
-hash = "4c93889130e3d115f813bbf2a012e2b37de16ae66b8ae3d3599aa4ed5a418763"
+hash = "261a6704574775590c26f1e8635472aed5dfb68faad4e8e02fe1896352a71d0f"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/stone_sword.json"
-hash = "841fc5c353e840e45906ab3eea86078afca7ee172909e3ffbfe93f3c5f70782a"
+hash = "122a7ff30170b397a322fcb946501e50bd946dd7581539c37cab491ae2f89fe6"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/stormlander.json"
-hash = "167177171b0138aad67a932591c26e5198414601f78aad9442efdace166bb363"
+hash = "516f1d0e31c731fc599f08f19cf5c425ce5c9614c685b340f4c02f6f6ff526cf"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/suns_grace.json"
-hash = "c9e8fd7527b5d28abd3f67d81b38d1948a87f914f23237673a245b88d517cb6b"
+hash = "4622addd8b9e9eb063f2f7ce729132979f87c1a2662842516bd9f70c0034efba"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/sword.json"
-hash = "3201fd7029980573d762515748a061b751eef98e820d3544680856333b5fecb9"
+hash = "bd7e89b92e6b8cbdb38c693f92ba636f0ef14c5556c3e4434d7488fb6fa6de7d"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/tempest_knife.json"
-hash = "20ee4c578503da3d04500f8cf67a84c7ef87312992536d94e5ededdf6d5f382c"
+hash = "d8d3e3913068add628d9561cac5fae0568b6ef56754609e2be2f949ca5e7eab0"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/the_last_laugh.json"
-hash = "bfe5ded8f959838115f8027f8ae31b932417648bca8afba829e618772feffb91"
+hash = "4701da4650a5e540974e807ad7a3261cad71617cf0518a23fd78dc48050be91a"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/truthseeker.json"
@@ -8838,15 +9018,15 @@ hash = "c5686d3095f6e6cc18ec7cca28047d77b012af4819c714ffea999a6dc6f3c927"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/venom_glaive.json"
-hash = "9633e71b86e248bc70649a451e594b09533ad4fd42bb00da976a1c0541656076"
+hash = "d2e51581e4830ea5f4363ebdbcd93b8515e986aea2ee4ebd6b59b48756669d2b"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/whirlwind.json"
-hash = "77f642c36e8ee5886bb8aef7de58096f1b609bc8bb16b7bf2b0dc80512c59b5a"
+hash = "d43aaa18e1b406d725c7cf804fd8063784c0e4b8d93f724888b41af3a83920f7"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dungeons_gear/capabilities/weapons/whispering_spear.json"
-hash = "632691a4e6e84902fb33bccd3aa5f0267fee4556425a00b19515cde3d872cece"
+hash = "64bd2740144466c4ee37f4879bf6a839c22d3eaa17608446799c56a49e6bc643"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/dustydecor/capabilities/weapons/wedged_cleaver.json"
@@ -8858,27 +9038,31 @@ hash = "7f9f879c18b55a99c6d5a4c6de8456779142861332085c32de3b8e46974c9789"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/endrem/capabilities/weapons/end_crystal_axe.json"
-hash = "252e2734a40d1db1be82f3b9e0c296aa7bebe914b0dc4e4fa5e3dc7581173b57"
+hash = "111749c0026ae3817207e82d318bba00e31f2c3460a90160ea2170ba945a8aae"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/endrem/capabilities/weapons/end_crystal_hoe.json"
-hash = "2b717142b2a5b28161dfe8994d2975f0bc591ee4e1f2cf8bfb32a045c1b054c6"
+hash = "81e75ff0113166344c1d619f70d77c6ae125916aef27c76d5c797e98f71c1261"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/endrem/capabilities/weapons/end_crystal_pickaxe.json"
-hash = "c68c24526583de96a3739e651940861701976a8f5bb7709f34614176c5213189"
+hash = "c0fc461f75aec0ca1010ebcc7af3717a463313e2af03065f383ceeb0b1855653"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/endrem/capabilities/weapons/end_crystal_shovel.json"
-hash = "b799e53b2bc846af4c8f8b15bba710657bfc06dec1ebd337db79b04e8cab97cb"
+hash = "79e24d1cb526c1d4960954ed8ebe43733360ab743de05e5d572d0cd121e96e53"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/endrem/capabilities/weapons/end_crystal_sword.json"
-hash = "047daf5d4d72227a1ad0eea6a6eb8b969cb71fde3e70e802184b354a00d13dab"
+hash = "637e944e6bc952d9b7b42d8c148d4bd5b274fc859344d1ba584b5ee212ee0580"
+
+[[files]]
+file = "openloader/data/PanchoRing, EpicFight Compat/data/epicfight/capabilities/weapons/katana.json"
+hash = "a6ce0284101073261855d584c678123655131a3fd2efafb39474f27b98ac9521"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/epicfight/capabilities/weapons/knuckle.json"
-hash = "8c23889846e7c324e34ce83b539fc88178f596b37f412507671ea50e3f8fb892"
+hash = "b4952407d46307c6eb65ec0314977c54fa8801b4415cc9d4a11c03ffe0481958"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/extcaves/capabilities/weapons/picker_flint.json"
@@ -8918,7 +9102,7 @@ hash = "90a70807e7d81e0339892b3ad2234b00c1f0e5ebe8a12739bb2c69ce21c9acf8"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/amphithere_macuahuitl.json"
-hash = "a80f29f20f132003f6c4b830447f822d45bc9c69cfe04a7c3a4f6e505b8600f3"
+hash = "af9792bd90af7f41f97c5af9009430f3fdb022c7afb4f541fe4936ef42a59c26"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/copper_axe.json"
@@ -8926,7 +9110,7 @@ hash = "1493d82ec3c195f21bc53563fc7a5f87e2262fd3bd46ba836757e4e4bff2877c"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/copper_hoe.json"
-hash = "c68537e1d8a37ad10da9c1743d62c63ef53e025f545f60d6cdfb96a31d4bcc2b"
+hash = "80e685ae9ce3ad49ce5abd16ba3f9432ea3324a719d110b42bc9689cb54572ec"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/copper_pickaxe.json"
@@ -8958,7 +9142,7 @@ hash = "a6400340a29ea30befc6b2a794990c5f75142c1f20b8bde83f8bb814d9c582f4"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/dragonbone_hoe.json"
-hash = "9d8bbf651e3a9ad1bed5d6b4098c52e18d64585d52fd51bfd6684e22a5a06972"
+hash = "021d4705a59e0b3ce73d27f45cf26f248265ccb96decde4f3377fc6833c249d1"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/dragonbone_pickaxe.json"
@@ -8970,151 +9154,91 @@ hash = "1871195b78ccc59e4f1695e9b3c54e6e0e947739ae68c4fe569272eedaaed1a9"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/dragonbone_sword.json"
-hash = "18b1dd78018e38f58b1c081ebe912237b04d0506c04101bb4526601ed686d666"
+hash = "7e610eca3592925c8a0981f3b91d9fe91b8bf4e5cf2ead9ce7889734d9e57bee"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/dragonbone_sword_fire.json"
-hash = "6fab1cb248bbf4442e9224f9ccc3513973f4148242b5e59d369714a5a4ca46ef"
+hash = "1ee4eb4e0cabec91f2583c474a0eb0848928b0860643c7e41cff8b726e7f589c"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/dragonbone_sword_ice.json"
-hash = "6fab1cb248bbf4442e9224f9ccc3513973f4148242b5e59d369714a5a4ca46ef"
+hash = "1ee4eb4e0cabec91f2583c474a0eb0848928b0860643c7e41cff8b726e7f589c"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/dragonbone_sword_lightning.json"
-hash = "6fab1cb248bbf4442e9224f9ccc3513973f4148242b5e59d369714a5a4ca46ef"
+hash = "1ee4eb4e0cabec91f2583c474a0eb0848928b0860643c7e41cff8b726e7f589c"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/dragonsteel_fire_axe.json"
-hash = "ef88d86602dc2e66c9ae0ab8dde69ffb35e220ebb4df63c75acb1fb986f4fccc"
+hash = "4f1562984a50c9934a49a9caf02a3e79eb2adf6c2682bf38cf9bf1d65bceb585"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/dragonsteel_fire_hoe.json"
-hash = "46999054f270e44b21fdfaca78324b469529a559f9afa035dc44c8dda7f52a06"
+hash = "f4f2d3919c97c13a8e34dc282c48c2b56a386d090d7b06b9c4a71be5d3393cc0"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/dragonsteel_fire_pickaxe.json"
-hash = "bf74774077a7909f61b51da7bca19f0146769f10a7b1ee198196c5ef683d8090"
+hash = "0719fb8edebdd45df2432a4a79af4185b66d27a98745a032c35938b6118ed475"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/dragonsteel_fire_shovel.json"
-hash = "506c20f4cf220aadb61dcc07303534dcffcf8703c85b12e8ad9d4693219209c9"
+hash = "4d48592397743c3ff59786b1795410616eae078f30a538c16297210d6accebf1"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/dragonsteel_fire_sword.json"
-hash = "fab497410e2c06252835c91686681e2c39d206ccc89d2fa48eed27d60e4b1b96"
+hash = "728e19e6310f0a031c2e37bf19320ba447cba24d9660aa13dc45ab9df11af1c6"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/dragonsteel_ice_axe.json"
-hash = "ef88d86602dc2e66c9ae0ab8dde69ffb35e220ebb4df63c75acb1fb986f4fccc"
+hash = "4f1562984a50c9934a49a9caf02a3e79eb2adf6c2682bf38cf9bf1d65bceb585"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/dragonsteel_ice_hoe.json"
-hash = "46999054f270e44b21fdfaca78324b469529a559f9afa035dc44c8dda7f52a06"
+hash = "f4f2d3919c97c13a8e34dc282c48c2b56a386d090d7b06b9c4a71be5d3393cc0"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/dragonsteel_ice_pickaxe.json"
-hash = "bf74774077a7909f61b51da7bca19f0146769f10a7b1ee198196c5ef683d8090"
+hash = "0719fb8edebdd45df2432a4a79af4185b66d27a98745a032c35938b6118ed475"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/dragonsteel_ice_shovel.json"
-hash = "506c20f4cf220aadb61dcc07303534dcffcf8703c85b12e8ad9d4693219209c9"
+hash = "4d48592397743c3ff59786b1795410616eae078f30a538c16297210d6accebf1"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/dragonsteel_ice_sword.json"
-hash = "fab497410e2c06252835c91686681e2c39d206ccc89d2fa48eed27d60e4b1b96"
+hash = "728e19e6310f0a031c2e37bf19320ba447cba24d9660aa13dc45ab9df11af1c6"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/dragonsteel_lightning_axe.json"
-hash = "ef88d86602dc2e66c9ae0ab8dde69ffb35e220ebb4df63c75acb1fb986f4fccc"
+hash = "4f1562984a50c9934a49a9caf02a3e79eb2adf6c2682bf38cf9bf1d65bceb585"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/dragonsteel_lightning_hoe.json"
-hash = "46999054f270e44b21fdfaca78324b469529a559f9afa035dc44c8dda7f52a06"
+hash = "f4f2d3919c97c13a8e34dc282c48c2b56a386d090d7b06b9c4a71be5d3393cc0"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/dragonsteel_lightning_pickaxe.json"
-hash = "bf74774077a7909f61b51da7bca19f0146769f10a7b1ee198196c5ef683d8090"
+hash = "0719fb8edebdd45df2432a4a79af4185b66d27a98745a032c35938b6118ed475"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/dragonsteel_lightning_shovel.json"
-hash = "506c20f4cf220aadb61dcc07303534dcffcf8703c85b12e8ad9d4693219209c9"
+hash = "4d48592397743c3ff59786b1795410616eae078f30a538c16297210d6accebf1"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/dragonsteel_lightning_sword.json"
-hash = "fab497410e2c06252835c91686681e2c39d206ccc89d2fa48eed27d60e4b1b96"
+hash = "728e19e6310f0a031c2e37bf19320ba447cba24d9660aa13dc45ab9df11af1c6"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/ghost_sword.json"
-hash = "f2e81422030d2359d13b51605700ffb48641ae343889d825c601ff6c221d8b72"
+hash = "c691905b384ea355cf939aede3996bc5f272d229e13fb8fe52c54295973360f0"
+
+[[files]]
+file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/hippocampus_slapper.json"
+hash = "c8ae79bb36879d5f144ba3a046e23f5b2db882fc44d17703bcb5cfe934b0a33f"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/hippogryph_sword.json"
-hash = "74a83ae984f673f98aa8a391002f50300d3761c3ad199002bef29be5f3bd3a32"
-
-[[files]]
-file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/myrmex_desert_axe.json"
-hash = "20f8ca87ad454dfa1676af6a8beef6b4b27776a62d8c0a114128ae70a9e83f64"
-
-[[files]]
-file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/myrmex_desert_hoe.json"
-hash = "923d6774f29642eb2959ebcc71376ded951274762add6f5306641c25c9cb260b"
-
-[[files]]
-file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/myrmex_desert_pickaxe.json"
-hash = "7fd23dae98eaf9a40eefb1a9abc14f1313df07f98bda6f550e7f1e7927422f84"
-
-[[files]]
-file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/myrmex_desert_shovel.json"
-hash = "7289a15cbcf9d1d98a744bdfd2186b1ebc1b6b2c67bc93743060b0f60c6ba16a"
-
-[[files]]
-file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/myrmex_desert_staff.json"
-hash = "24a8a5f5d76db76e944476bd89e9143372e3417527a3d92f38e22aec279cd004"
-
-[[files]]
-file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/myrmex_desert_swarm.json"
-hash = "24a8a5f5d76db76e944476bd89e9143372e3417527a3d92f38e22aec279cd004"
-
-[[files]]
-file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/myrmex_desert_sword.json"
-hash = "197dbce260d32bfd817dc22f1c15ef1f0b2c74478bdf965a98fff79a11288473"
-
-[[files]]
-file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/myrmex_desert_sword_venom.json"
-hash = "350cdb60da92cabeef7353cf8e77be6e46478c30bf84328d7cf839916159b864"
-
-[[files]]
-file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/myrmex_jungle_axe.json"
-hash = "20f8ca87ad454dfa1676af6a8beef6b4b27776a62d8c0a114128ae70a9e83f64"
-
-[[files]]
-file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/myrmex_jungle_hoe.json"
-hash = "923d6774f29642eb2959ebcc71376ded951274762add6f5306641c25c9cb260b"
-
-[[files]]
-file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/myrmex_jungle_pickaxe.json"
-hash = "7fd23dae98eaf9a40eefb1a9abc14f1313df07f98bda6f550e7f1e7927422f84"
-
-[[files]]
-file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/myrmex_jungle_shovel.json"
-hash = "7289a15cbcf9d1d98a744bdfd2186b1ebc1b6b2c67bc93743060b0f60c6ba16a"
-
-[[files]]
-file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/myrmex_jungle_staff.json"
-hash = "24a8a5f5d76db76e944476bd89e9143372e3417527a3d92f38e22aec279cd004"
-
-[[files]]
-file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/myrmex_jungle_swarm.json"
-hash = "24a8a5f5d76db76e944476bd89e9143372e3417527a3d92f38e22aec279cd004"
-
-[[files]]
-file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/myrmex_jungle_sword.json"
-hash = "197dbce260d32bfd817dc22f1c15ef1f0b2c74478bdf965a98fff79a11288473"
-
-[[files]]
-file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/myrmex_jungle_sword_venom.json"
-hash = "13d465527643e77d44da3d9bf84fdfa7bfba7572ee5943b8ef8a2b2999aae166"
+hash = "dccfbb0c6c5ac5221ed86d24a6b5ec05fd00e39c2b243ac273d3683298aacf02"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/pixie_wand.json"
@@ -9126,7 +9250,7 @@ hash = "e417a0b0f053e385600417baaa07c142bd75faf695b94c10c0d2211f234f2545"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/silver_hoe.json"
-hash = "c68537e1d8a37ad10da9c1743d62c63ef53e025f545f60d6cdfb96a31d4bcc2b"
+hash = "80e685ae9ce3ad49ce5abd16ba3f9432ea3324a719d110b42bc9689cb54572ec"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/silver_pickaxe.json"
@@ -9146,39 +9270,39 @@ hash = "7f9f879c18b55a99c6d5a4c6de8456779142861332085c32de3b8e46974c9789"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/stymphalian_bird_dagger.json"
-hash = "be90e3377a4ae31f7405a88958af700589f57e50bd88fbb4357139c10a0d4437"
+hash = "44f6d0b5f40ec581ea8be070f4444bd72d28d9436e1e815e01bec51ada5314b5"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/tide_trident.json"
-hash = "80344bb82fbcc991e36652b07767852709b518e4b160bc3a2d9cac8ab782e764"
+hash = "7aab5407ed888235175cc5c8dd559021b90ddba7cce19b956349874f9f06de20"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/troll_weapon_axe.json"
-hash = "e6eff57f4e5cf87144e286b31a5d1abc42546965bc5451caf822474ad51fb268"
+hash = "b9fa57073e3472abc14264d4462ae26ce0dc7f51f364890d6673a5e929af216c"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/troll_weapon_column.json"
-hash = "a260f463d157c9e32253df1fc6309332ff94ed20acb4322dde5b5c48a06cf3fd"
+hash = "a792debcdea561ff0caa852b87a173e817df987aaded2df162632a3fdc7766f7"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/troll_weapon_column_forest.json"
-hash = "a260f463d157c9e32253df1fc6309332ff94ed20acb4322dde5b5c48a06cf3fd"
+hash = "a792debcdea561ff0caa852b87a173e817df987aaded2df162632a3fdc7766f7"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/troll_weapon_column_frost.json"
-hash = "a260f463d157c9e32253df1fc6309332ff94ed20acb4322dde5b5c48a06cf3fd"
+hash = "a792debcdea561ff0caa852b87a173e817df987aaded2df162632a3fdc7766f7"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/troll_weapon_hammer.json"
-hash = "e6eff57f4e5cf87144e286b31a5d1abc42546965bc5451caf822474ad51fb268"
+hash = "b9fa57073e3472abc14264d4462ae26ce0dc7f51f364890d6673a5e929af216c"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/troll_weapon_trunk.json"
-hash = "aa4e831f4a8496eb687f88059e568a9b31b34e713cfeba355e0822811f4083fc"
+hash = "e1b857477de068a2d4f316be653c6260756c76a31b08226b719e3765f00cdad1"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/troll_weapon_trunk_frost.json"
-hash = "aa4e831f4a8496eb687f88059e568a9b31b34e713cfeba355e0822811f4083fc"
+hash = "e1b857477de068a2d4f316be653c6260756c76a31b08226b719e3765f00cdad1"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/witherbone.json"
@@ -9186,19 +9310,19 @@ hash = "7f9f879c18b55a99c6d5a4c6de8456779142861332085c32de3b8e46974c9789"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/majruszs_difficulty/capabilities/armors/end_boots.json"
-hash = "e4d481b4b5cddf8c273538340be495483685dd53ab83499d6f4a3c878b85e454"
+hash = "d3660abcbe3e5a9952f759b9c59696eefed1d9246d02b9b8f10bd2e5d13dd460"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/majruszs_difficulty/capabilities/armors/end_chestplate.json"
-hash = "d94e93ed5affbd517b83258cf5c39d52fbbae32741b4c5981f80affbeaed01ff"
+hash = "e345f05c1d5fb0a43cb53103f1ca4243e9891c5258e13f32888b77377cf37a88"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/majruszs_difficulty/capabilities/armors/end_helmet.json"
-hash = "8f503c9f4d7eb733e028779b8ce6d7732000e03900c6f18e0bc416da0dfad590"
+hash = "d3660abcbe3e5a9952f759b9c59696eefed1d9246d02b9b8f10bd2e5d13dd460"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/majruszs_difficulty/capabilities/armors/end_leggings.json"
-hash = "1feea690378fd0d08d25ecc800f324c106644d66ac0ff9d567c7692b2fbed36d"
+hash = "5f56954de6f6413efb4d2b12a6b9ecb5466c9d0c7752d6d010303226170571f4"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/majruszs_difficulty/capabilities/weapons/ocean_shield.json"
@@ -9222,7 +9346,7 @@ hash = "7f9f879c18b55a99c6d5a4c6de8456779142861332085c32de3b8e46974c9789"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/minecraft/capabilities/weapons/diamond_hoe.json"
-hash = "5f707cbe059a496386d5d923c8e2457e11db8445242030c1b0659d06bd664bcf"
+hash = "3928820b3300fd1af1ce9adffe6d54218480a8d62725e0e42249357585fb5b72"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/minecraft/capabilities/weapons/diamond_pickaxe.json"
@@ -9238,7 +9362,7 @@ hash = "f57353073263290d227ca49d5e0e08b7e7db5c8d6d2560d243b9e7a19f7fe33b"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/minecraft/capabilities/weapons/golden_hoe.json"
-hash = "ba1f22ae2bf2fe910e392d8541895e3cd874d00db7d400633938710fe2e921cf"
+hash = "34f9a918b019bcf544078b8b16d887853911c9b519b9483b25f036665bd6ccec"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/minecraft/capabilities/weapons/golden_pickaxe.json"
@@ -9258,7 +9382,7 @@ hash = "da49749155459fcdb5879843b70ee7d74870f1d1c18bea2ed75683095d19b072"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/minecraft/capabilities/weapons/iron_hoe.json"
-hash = "bff0d87224cebb56b305b293df385315e3a62d553a0bfbc5f293610167b9e8e6"
+hash = "f51713dd8294d0ae7f9e82ece9906ea0d4907db380d9f498af3fd80bf8622e72"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/minecraft/capabilities/weapons/iron_pickaxe.json"
@@ -9266,7 +9390,7 @@ hash = "bcfdb9a5d4fe19103a899f17060b729337a5558aa34f94659a176a4d26866c49"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/minecraft/capabilities/weapons/netherite_hoe.json"
-hash = "0a9a389074880a21b0745f18dde51be8af3d8be07d0c18f8563c326309fdd84b"
+hash = "0966e6c032ae18731134f11c7fc7afe754ba230533fd944b779ca57e72813781"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/minecraft/capabilities/weapons/netherite_pickaxe.json"
@@ -9282,7 +9406,7 @@ hash = "b76ef30428dd33ada51c81d484236f1d4a9986f19ed6122bcfcc91cda21a83d5"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/minecraft/capabilities/weapons/stone_hoe.json"
-hash = "7d2e5b58ab7f274dfe51fbf244e7ceeb3ac30ac765a1dc5ebfb1be6f5725ae93"
+hash = "608d5939c8c37efb80f3ab7462d002dc264a6e8c14894cb306546c5d05dd206d"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/minecraft/capabilities/weapons/stone_pickaxe.json"
@@ -9298,7 +9422,7 @@ hash = "79acdffde9537a7584969d2fe818884c788a940d21132a4c6d4f6a331e156705"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/minecraft/capabilities/weapons/trident.json"
-hash = "e6e82935a87c33592670c863fa93c36997efb22ff4069d49e16d7696dbcb2760"
+hash = "970db4e5e72600a1a199b6c5209e08076d3bfde7990770794ed38afd90f4e58f"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/minecraft/capabilities/weapons/warped_fungus_on_a_stick.json"
@@ -9314,11 +9438,11 @@ hash = "5dd931b2e25f8f35cd77651439e4e0f9825647c545d1a74013493b6d9973e2ff"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/mowziesmobs/capabilities/weapons/naga_fang_dagger.json"
-hash = "395e7c8c1f1e34d2294c814ab49209f60cb4226e87b5c3e118818427c521d5fe"
+hash = "f41fd60064a99e5b804a76c36e4d9bca8485e17fdf9e7321394e3c0f16c2f187"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/mowziesmobs/capabilities/weapons/spear.json"
-hash = "b374354fca5fe4a4d514e5a6d2178281df7400f2e1068cd2605c3ecc6c7d2867"
+hash = "36011d347f86181e8779cc70f5efd2a725387e9b15149a4275043e7f06eac9e0"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/phantasm/capabilities/armors/stellium_boots.json"
@@ -9342,7 +9466,7 @@ hash = "b81020072b14b51a3ee667765e842ed4689a22ed2e419bc97da3515c5ddcf2b2"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/phantasm/capabilities/weapons/crystalline_hoe.json"
-hash = "923d6774f29642eb2959ebcc71376ded951274762add6f5306641c25c9cb260b"
+hash = "316ecf98e8c2344889948c6d0045330eadca40e6610d64a7b33a0b0fb628470f"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/phantasm/capabilities/weapons/crystalline_pickaxe.json"
@@ -9358,23 +9482,23 @@ hash = "89f16e98489e376b0282646eff77cc5b612270e1cff44239b72d8c2a525b3f15"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/phantasm/capabilities/weapons/stellium_axe.json"
-hash = "8535faee017278742ca91e5955710edeee493bcb0d06cf677fd9d7e8e20afcc1"
+hash = "2944ffd5b611d56a576ce714ea66c95b1da5a57e272e3faeb75bd5f42cf0af36"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/phantasm/capabilities/weapons/stellium_hoe.json"
-hash = "2976e212110163a6d8a377f7dbfea5f9c89579c14900541e7974c2c7dfb616bc"
+hash = "92d37a97958a3bfb02a877a261b5aa39635528fb03fc138cb09f6665f20b3807"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/phantasm/capabilities/weapons/stellium_pickaxe.json"
-hash = "72247ff7eb4d4fb3d1f3dad319b60be5052591d4d7ef932d6704140a91e427d4"
+hash = "16a0c67c0676599867f59e2e7b120f9f073d87f03ae008fbcc1b5c3eb5da68f8"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/phantasm/capabilities/weapons/stellium_shovel.json"
-hash = "9b38d5d7a034097327a8ca784ad855a8a75ae559589cef3bea95ace36ff9e631"
+hash = "8f49016c8af3ed4b75504e6c54490374d969e590f8920879b8879aa0672c77c7"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/phantasm/capabilities/weapons/stellium_sword.json"
-hash = "ce8ff1f149284c85bf916d986ba91f8537f172291b24e52e220f47924275bbef"
+hash = "b143cef2e0757acd74167fcffca02acf843e786976c1e2afcddd331bcc046e96"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/projectvibrantjourneys/capabilities/weapons/twigs.json"
@@ -9385,12 +9509,8 @@ file = "openloader/data/PanchoRing, EpicFight Compat/data/supplementaries/capabi
 hash = "7f9f879c18b55a99c6d5a4c6de8456779142861332085c32de3b8e46974c9789"
 
 [[files]]
-file = "openloader/data/PanchoRing, EpicFight Compat/data/supplementaries/capabilities/weapons/slingshot.json"
-hash = "7f9f879c18b55a99c6d5a4c6de8456779142861332085c32de3b8e46974c9789"
-
-[[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/supplementaries/capabilities/weapons/wrench.json"
-hash = "03687dd00b366da662c8307e9d9fabdba507e2a5714844a4624eba3528d8d7f4"
+hash = "2ea29c58a4cc65c1dfba0de1d7910c36ab896a695f35fa7eaed940b5038c8201"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/pack.mcmeta"
@@ -9602,7 +9722,7 @@ hash = "be55f64d1010da7eee1d39b415eaff992e4df551beba102d429b400d001adff4"
 
 [[files]]
 file = "openloader/data/RPG Origins, PanchoRing Edition/data/rpg_origins_pr/powers/clumsy.json"
-hash = "15d075495729ab25d89a7bf60fe0ff76f1d0e1bfafaae272c907b81556b1e6b1"
+hash = "f2119ec596f4adaf7ec41ccc3c138b89672d84bb918ce9d4ccfc2c56d4f36780"
 
 [[files]]
 file = "openloader/data/RPG Origins, PanchoRing Edition/data/rpg_origins_pr/powers/determined.json"
@@ -9614,15 +9734,15 @@ hash = "f6430839af1def0a32d49ef812b82891eed5e5193c6731eaa305d24824f10edb"
 
 [[files]]
 file = "openloader/data/RPG Origins, PanchoRing Edition/data/rpg_origins_pr/powers/equipment_archer.json"
-hash = "00b7b47fd8af77dfc2fa581fb1dbf176588570f17edb2c7c148e1f02f8f53964"
+hash = "76c4bf179daca9eb8790b46920dbdc7988a6d805b5f94f9703e75723f5664486"
 
 [[files]]
 file = "openloader/data/RPG Origins, PanchoRing Edition/data/rpg_origins_pr/powers/equipment_brute.json"
-hash = "dbeb3553e0879c6f9d6a28f3a055ff1ac509d3f6e3cdb651187bc8dcce627ee8"
+hash = "9ede39050d94f5dc071663d747a4003b054613156c0c449027dd412a8cff55bf"
 
 [[files]]
 file = "openloader/data/RPG Origins, PanchoRing Edition/data/rpg_origins_pr/powers/equipment_cleric.json"
-hash = "e21053946dd02484fac363d265733b4646526577508d09affca6807e991691a9"
+hash = "887230960acdabfefd01b3a78862da0cd1a87b8b2f7f5cd66c6297bbb0a483b1"
 
 [[files]]
 file = "openloader/data/RPG Origins, PanchoRing Edition/data/rpg_origins_pr/powers/equipment_knight.json"
@@ -9630,7 +9750,7 @@ hash = "161242c70e96cb33190e045cb4f3e826e8c08a3b6e96380adb0e3627681ff2a7"
 
 [[files]]
 file = "openloader/data/RPG Origins, PanchoRing Edition/data/rpg_origins_pr/powers/equipment_mage.json"
-hash = "3cf07b2034a5fa6fba978cdcc34c54ab28b32ed363e5c03cf757c4a836091e7b"
+hash = "cf3bae10ff3be2efabdc59ba5c7f7205472c771b3edaa3e6c2e9b35763aafd6d"
 
 [[files]]
 file = "openloader/data/RPG Origins, PanchoRing Edition/data/rpg_origins_pr/powers/equipment_thief.json"
@@ -9650,11 +9770,11 @@ hash = "68b80aa590b080c449555aa634fa5f3c5a83388acc16cafc24670aa182ba3851"
 
 [[files]]
 file = "openloader/data/RPG Origins, PanchoRing Edition/data/rpg_origins_pr/powers/heavy_weapons.json"
-hash = "7cab7e332480a3123320f123d0cac0441320ae6a3df7dc111abcf255a3bb6605"
+hash = "178dd8d1388cac2777a4a990f99ba0783b220d5cf85859ec7a95d32b8b551825"
 
 [[files]]
 file = "openloader/data/RPG Origins, PanchoRing Edition/data/rpg_origins_pr/powers/heavy_weapons_not.json"
-hash = "ef0fa8c5cb04e4f64953cb9c890658aa7f017378ec49cb9ebb108f4fbadd8d97"
+hash = "507d1f7b81cf7a172eb8c3c7e7b5c74c59f6e56fb5be4eb2f709fe4a69fed32e"
 
 [[files]]
 file = "openloader/data/RPG Origins, PanchoRing Edition/data/rpg_origins_pr/powers/inexperienced.json"
@@ -9686,7 +9806,7 @@ hash = "275cef93ced18ae710821092b4b597d967ceb354988b84672774c5e8bf437579"
 
 [[files]]
 file = "openloader/data/RPG Origins, PanchoRing Edition/data/rpg_origins_pr/powers/natural_armor.json"
-hash = "ef1eee90575703d0f5025884330a17a27e6cd591d0676a56b939e3dcf43cb063"
+hash = "c933522f6a7f34601b968ddede368bae7d8856a61a86322a64eba3a6f72b9cca"
 
 [[files]]
 file = "openloader/data/RPG Origins, PanchoRing Edition/data/rpg_origins_pr/powers/phantomized.json"
@@ -9706,11 +9826,11 @@ hash = "045ab7f97f359921309e2fcc9133ee00e8c40b9de10020f3b4a0de05e977c3a7"
 
 [[files]]
 file = "openloader/data/RPG Origins, PanchoRing Edition/data/rpg_origins_pr/powers/select_targets_strong.json"
-hash = "272663caa3c4e9c06a504dae676536088df2a4d8616fe151e665047651b9a477"
+hash = "877e790992e52fd6ebe64e14497b153a4526491524723a5b3b103259e33b9bad"
 
 [[files]]
 file = "openloader/data/RPG Origins, PanchoRing Edition/data/rpg_origins_pr/powers/select_targets_weak.json"
-hash = "82139b6b0239c935354b5023bc9803e812c7c9ad6f865c2f3defdb416c433a87"
+hash = "5ffe85d33e01235cf2adbd28ce0b841b09b7ea7a33ff32c07a0bedda9066af5c"
 
 [[files]]
 file = "openloader/data/RPG Origins, PanchoRing Edition/data/rpg_origins_pr/powers/speedy.json"
@@ -13203,10 +13323,6 @@ hash = "72f72864362ed2b503686439d5f16036064f4f851624642c83d862a06ff94402"
 [[files]]
 file = "openloader/data/WWOO + Addons/pack.png"
 hash = "4287601be3fac638bed47bfcf0a3f22da8a5313ae088ebc2eea0ddb9c8a908fb"
-
-[[files]]
-file = "resources/panchoring/textures/gui/title.png"
-hash = "166068bb254c84a61ca3a7c848106852cc1d9d2b21ce3ddc813bbfb2c7c650a2"
 
 [[files]]
 file = "shaderpacks/[1] MakeUp UltraFast v8.6g [LOW].zip"

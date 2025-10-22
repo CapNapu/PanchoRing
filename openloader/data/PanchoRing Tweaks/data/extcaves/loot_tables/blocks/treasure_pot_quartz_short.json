@@ -27,7 +27,7 @@
               "function": "minecraft:set_count"
             }
           ],
-          "name": "minecraft:golden_carrot",
+          "name": "minecraft:name_tag",
           "type": "minecraft:item"
         }
       ],
@@ -38,7 +38,7 @@
         {
           "conditions": [
             {
-              "chance": 0.1,
+              "chance": 0.25,
               "condition": "minecraft:random_chance"
             }
           ],
@@ -48,7 +48,7 @@
               "function": "minecraft:set_count"
             }
           ],
-          "name": "minecraft:golden_apple",
+          "name": "minecraft:enchanted_golden_apple",
           "type": "minecraft:item"
         }
       ],

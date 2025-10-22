@@ -1,0 +1,22 @@
+{
+  "attributes": [
+    {
+      "amount": 0.125,
+      "attribute": "dungeons_libraries:soul_gathering",
+      "operation": 1
+    }
+  ],
+  "built_in_enchantments": [
+    {
+      "enchantment": "dungeons_gear:final_shout",
+      "level": 1
+    },
+    {
+      "enchantment": "dungeons_gear:melee_aura",
+      "level": 1
+    }
+  ],
+  "material": "dungeons_gear:heavy_plate",
+  "rarity": "RARE",
+  "unique": true
+}

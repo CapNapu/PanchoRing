@@ -462,90 +462,6 @@
       },
       "trigger": "minecraft:player_killed_entity"
     },
-    "iceandfire:myrmex_queen": {
-      "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "iceandfire:myrmex_queen"
-            }
-          }
-        ]
-      },
-      "trigger": "minecraft:player_killed_entity"
-    },
-    "iceandfire:myrmex_royal": {
-      "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "iceandfire:myrmex_royal"
-            }
-          }
-        ]
-      },
-      "trigger": "minecraft:player_killed_entity"
-    },
-    "iceandfire:myrmex_sentinel": {
-      "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "iceandfire:myrmex_sentinel"
-            }
-          }
-        ]
-      },
-      "trigger": "minecraft:player_killed_entity"
-    },
-    "iceandfire:myrmex_soldier": {
-      "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "iceandfire:myrmex_soldier"
-            }
-          }
-        ]
-      },
-      "trigger": "minecraft:player_killed_entity"
-    },
-    "iceandfire:myrmex_swarmer": {
-      "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "iceandfire:myrmex_swarmer"
-            }
-          }
-        ]
-      },
-      "trigger": "minecraft:player_killed_entity"
-    },
-    "iceandfire:myrmex_worker": {
-      "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "iceandfire:myrmex_worker"
-            }
-          }
-        ]
-      },
-      "trigger": "minecraft:player_killed_entity"
-    },
     "iceandfire:sea_serpent": {
       "conditions": {
         "entity": [
@@ -1336,12 +1252,6 @@
       "iceandfire:hydra",
       "iceandfire:ice_dragon",
       "iceandfire:lightning_dragon",
-      "iceandfire:myrmex_queen",
-      "iceandfire:myrmex_royal",
-      "iceandfire:myrmex_sentinel",
-      "iceandfire:myrmex_soldier",
-      "iceandfire:myrmex_swarmer",
-      "iceandfire:myrmex_worker",
       "iceandfire:sea_serpent",
       "iceandfire:siren",
       "iceandfire:stymphalian_bird",

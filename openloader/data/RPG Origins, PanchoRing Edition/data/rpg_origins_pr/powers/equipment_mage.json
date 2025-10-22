@@ -7,13 +7,12 @@
             "slot": 38
         },
         {
-            "item": "ars_nouveau:novice_spell_book",
-            "slot": 8
+            "item": "ars_nouveau:novice_leggings",
+            "slot": 37
         },
         {
-            "item": "ars_nouveau:mana_gem",
-            "amount": 11,
-            "slot": 20
+            "item": "ars_nouveau:novice_spell_book",
+            "slot": 8
         },
         {
             "item": "patchouli:guide_book",

@@ -97,15 +97,15 @@
 		backstab_damage_mult = 1.0
 		#Duration in ticks of the poison effect (20 ticks = 1 second).
 		#Range: > 0
-		poison_duration = 20
+		poison_duration = 80
 
 		[tools_and_abilities.naga_fang_dagger.tool_config]
 			#Tool attack damage
 			#Range: 0.0 ~ 1.7976931348623157E308
-			attack_damage = 3.0
+			attack_damage = 5.0
 			#Tool attack speed
 			#Range: 0.0 ~ 1.7976931348623157E308
-			attack_speed = 2.0
+			attack_speed = 1.8
 
 	[tools_and_abilities.axe_of_a_thousand_metals]
 		#Set to true for the Axe of a Thousand Metals to have limited durability.

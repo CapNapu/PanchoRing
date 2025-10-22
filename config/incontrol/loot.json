@@ -2,16 +2,10 @@
     {
         "mob": "minecraft:zombie",
         "remove": [
-            "ars_nouveau:apprentice_leggings",
-            "ars_nouveau:apprentice_robes",
             "ars_nouveau:novice_leggings",
             "ars_nouveau:novice_robes",
             "dungeons_gear:mercenary_chestplate",
             "dungeons_gear:mercenary_helmet",
-            "iceandfire:armor_copper_metal_boots",
-            "iceandfire:armor_copper_metal_chestplate",
-            "iceandfire:armor_copper_metal_helmet",
-            "iceandfire:armor_copper_metal_leggings",
             "minecraft:chainmail_chestplate",
             "minecraft:chainmail_leggings"
         ]
@@ -25,8 +19,8 @@
     },
     {
         "mob": [
-            "minecraft:zombie",
-            "minecraft:husk"
+            "minecraft:husk",
+            "minecraft:zombie"
         ],
         "remove": [
             "dungeons_gear:spelunker_chestplate",
@@ -38,15 +32,17 @@
             "minecraft:skeleton"
         ],
         "remove": [
-            "dungeons_gear:hunters_chestplate",
-            "dungeons_gear:hunters_helmet",
             "dungeons_gear:soul_chestplate",
-            "dungeons_gear:soul_helmet"
+            "dungeons_gear:soul_helmet",
+            "minecraft:leather_chestplate",
+            "minecraft:leather_helmet"
         ]
     },
     {
         "mob": "majruszs_difficulty:elite_skeleton",
         "remove": [
+            "dungeons_gear:grim_chestplate",
+            "dungeons_gear:grim_leggings",
             "dungeons_gear:hunters_chestplate",
             "dungeons_gear:hunters_helmet"
         ]
@@ -76,20 +72,6 @@
     },
     {
         "mob": [
-            "bygonenether:wraither",
-            "majruszs_difficulty:elite_skeleton",
-            "minecraft:drowned",
-            "minecraft:husk",
-            "minecraft:piglin",
-            "minecraft:skeleton",
-            "minecraft:stray",
-            "minecraft:zombie",
-            "minecraft:zombified_piglin"
-        ],
-        "remove": "iceandfire:dread_shard"
-    },
-    {
-        "mob": [
             "alexsmobs:soul_vulture",
             "bygonenether:corpor",
             "bygonenether:wither_skeleton_horse",
@@ -108,7 +90,10 @@
         ]
     },
     {
-        "mob": "guardvillagers:guard",
+        "mob": [
+            "guardvillagers:guard",
+            "minecraft:zombie_villager"
+        ],
         "remove": [
             "dungeons_gear:guards_boots",
             "dungeons_gear:guards_chestplate",
@@ -125,15 +110,33 @@
         "mob": "minecraft:wither"
     },
     {
-        "item": "cataclysm:the_incinerator",
-        "mob": "cataclysm:ignis"
-    },
-    {
         "item": "cataclysm:monstrous_horn",
         "mob": "cataclysm:netherite_monstrosity"
     },
     {
-        "item": "minecraft:shulker_shell",
+        "item": "cataclysm:the_incinerator",
+        "mob": "cataclysm:ignis"
+    },
+    {
+        "item": "cataclysm:void_core",
         "mob": "cataclysm:ender_guardian"
+    },
+    {
+        "mob": [
+            "bygonenether:piglin_hunter",
+            "bygonenether:wraither",
+            "epicfight:wither_skeleton_minion",
+            "majruszs_difficulty:elite_skeleton",
+            "minecraft:drowned",
+            "minecraft:husk",
+            "minecraft:piglin",
+            "minecraft:skeleton",
+            "minecraft:stray",
+            "minecraft:wither_skeleton",
+            "minecraft:zombie",
+            "minecraft:zombie_villager",
+            "minecraft:zombified_piglin"
+        ],
+        "remove": "iceandfire:dread_shard"
     }
 ]

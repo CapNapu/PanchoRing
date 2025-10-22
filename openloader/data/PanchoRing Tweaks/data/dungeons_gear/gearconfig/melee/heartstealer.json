@@ -15,6 +15,10 @@
     {
       "enchantment": "dungeons_gear:leeching",
       "level": 1
+    },
+    {
+      "enchantment": "dungeons_gear:gravity",
+      "level": 1
     }
   ],
   "combo": 3,

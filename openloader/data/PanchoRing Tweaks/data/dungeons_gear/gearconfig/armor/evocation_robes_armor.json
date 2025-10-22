@@ -1,0 +1,18 @@
+{
+  "attributes": [
+    {
+      "amount": 0.0625,
+      "attribute": "dungeons_libraries:ranged_damage_multiplier",
+      "operation": 1
+    }
+  ],
+  "built_in_enchantments": [
+    {
+      "enchantment": "dungeons_gear:void_dodge",
+      "level": 1
+    }
+  ],
+  "material": "dungeons_gear:cloth",
+  "rarity": "UNCOMMON",
+  "unique": false
+}

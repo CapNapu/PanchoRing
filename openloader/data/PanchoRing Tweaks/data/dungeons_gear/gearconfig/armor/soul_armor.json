@@ -1,0 +1,18 @@
+{
+  "attributes": [
+    {
+      "amount": 0.125,
+      "attribute": "dungeons_libraries:soul_gathering",
+      "operation": 1
+    }
+  ],
+  "built_in_enchantments": [
+    {
+      "enchantment": "dungeons_gear:fire_trail",
+      "level": 1
+    }
+  ],
+  "material": "dungeons_gear:cloth",
+  "rarity": "UNCOMMON",
+  "unique": false
+}

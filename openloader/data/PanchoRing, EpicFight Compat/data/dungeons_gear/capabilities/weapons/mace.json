@@ -1,9 +1,7 @@
 {
 	"attributes": {
 		"common": {
-			"damage_bonus": 1,
-			"impact": 2.0,
-			"max_strikes": 1
+			"impact": 2.0
 		}
 	},
 	"type": "axe"

@@ -1,0 +1,22 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "dungeons_gear:harpoon_quiver",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:satchel_of_elixirs",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:eye_of_the_guardian",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "minecraft:chest"
+}

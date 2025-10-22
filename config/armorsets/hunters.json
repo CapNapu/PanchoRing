@@ -1,0 +1,32 @@
+{
+  "armorSetName": "Hunter's Set",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "dungeons_gear:hunters_helmet",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:hunters_chestplate",
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:hunters_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:hunters_boots",
+    "mustBeEmpty": false
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "epicfight:staminar",
+      "value": 0.25,
+      "modifierUUID": "60a8c9a7-e79e-4bfd-96f0-041efd41e1e7",
+      "attributeOperation": 1,
+      "interactionType": "self",
+      "hideBonusDescription": true
+    }
+  ],
+  "hideGeneratedTooltip": true
+}

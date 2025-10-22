@@ -35,10 +35,10 @@
 		"Generate Dragon Skeletons" = false
 		#1 out of this number chance per chunk for generation
 		#Range: 1 ~ 10000
-		"Generate Dragon Cave Chance" = 400
+		"Generate Dragon Cave Chance" = 180
 		#1 out of this number chance per chunk for generation
 		#Range: 1 ~ 10000
-		"Generate Dragon Roost Chance" = 200
+		"Generate Dragon Roost Chance" = 360
 		#Whether to generate dragon caves or not
 		"Generate Dragon Caves" = true
 		#Whether to generate dragon roosts or not
@@ -56,7 +56,7 @@
 		"Dangerous World Gen Dist From Spawn" = 1500
 		#How far away dangerous structures(dragon roosts, cyclops caves, etc.) must be from the last generated structure.
 		#Range: 1 ~ 10000
-		"Dangerous World Gen Dist Seperation" = 500
+		"Dangerous World Gen Dist Seperation" = 300
 		#One out of this number chance per chunk to generate a mausoleum.
 		#Range: 1 ~ 10000
 		"Mausoleum Gen Chance" = 10000
@@ -64,14 +64,14 @@
 		"Generate Graveyards" = false
 		#Glacier Spawn Weight. Higher number = more common
 		#Range: 1 ~ 10000
-		"Glacier Spawn Weight" = 1
+		"Glacier Spawn Weight" = 10000
 		#Graveyard rarity.
 		#Range: 2 ~ 10000
 		"Graveyard Chance" = 10000
 		#True if mausoleums are allowed to generate
 		"Generate Mausoleums" = false
 		#Whether to generate glacier biomes or not
-		"Generate Glaciers" = true
+		"Generate Glaciers" = false
 
 [Dragons]
 
@@ -327,9 +327,9 @@
 		"Myrmex Hatch Length" = 35000
 		#One out of this number chance per chunk to generate a myrmex hive.
 		#Range: 1 ~ 10000
-		"Myrmex Colony Gen Chance" = 150
+		"Myrmex Colony Gen Chance" = 10000
 		#True if myrmex colonies are allowed to spawn
-		"Spawn Myrmex" = true
+		"Spawn Myrmex" = false
 		#How many ticks it takes for a Myrmex Queen to produce an egg.
 		#Range: 1 ~ 10000
 		"Myrmex Gestation Length" = 2500
@@ -346,7 +346,7 @@
 	[Mobs.Hippogryph]
 		#Hippogryph spawn weight. Lower = lower chance to spawn.
 		#Range: 1 ~ 10000
-		"Hippogryph Spawn Weight" = 2
+		"Hippogryph Spawn Weight" = 5
 		#Change this to slow down or speed up hippogryph flight.
 		#Range: 0.0 ~ 2.0
 		"Hippogryph Flight Speed Modifier" = 1.0
@@ -443,7 +443,7 @@
 	"Chunk Load Summon Crystal" = true
 	#Default attack strength of a dragonsteel sword.
 	#Range: 5.0 ~ 2.147483647E9
-	"Dragonsteel Sword Base Attack Strength" = 12.0
+	"Dragonsteel Sword Base Attack Strength" = 13.0
 	#True if the dragon bone lightning sword strikes attackers.
 	"Dragon Bone Lightning Abilities" = true
 	#Percentage of critical strike that will disarm with easter egg tinkers material.

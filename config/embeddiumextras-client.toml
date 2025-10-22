@@ -17,6 +17,10 @@
 		TileMaxRenderableHeight = 32
 		#Range: > 0
 		TileMaxRenderableDistanceSquared = 4096
+		#Accept both modID and registry name
+		EntitiesAlwaysRenderable = []
+		#Accept both modID and registry name
+		TilesAlwaysRenderable = []
 
 	[EmbeddiumExtras.FpsDisplay]
 		#Allowed Values: OFF, SIMPLE, ADVANCED
@@ -39,6 +43,8 @@
 		HideJEIItems = false
 		#Removes the banding at the horizon of Vanilla Minecraft
 		EnableClearSkies = false
+		EnableNightVision = false
+		HideNightVisionOptionInVideoSetting = true
 
 	[EmbeddiumExtras.Zoom]
 		EnableZoom = true

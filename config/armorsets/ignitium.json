@@ -20,11 +20,12 @@
   "partialBonusRequiredAmount": 2,
   "partialSetBonuses": [
     {
-      "type": "effect",
-      "name": "minecraft:regeneration",
-      "value": 0.0,
+      "type": "attribute",
+      "name": "minecraft:generic.max_health",
+      "value": 0.2,
+      "modifierUUID": "c740f6ba-9d08-4fed-94f4-d524815790f2",
+      "attributeOperation": 1,
       "interactionType": "self",
-      "interactionDuration": 120,
       "hideBonusDescription": true
     }
   ],

@@ -1,9 +1,16 @@
 {
-  "cookingtime": 200,
-  "experience": 0.1,
-  "ingredient": {
-    "item": "extcaves:dirtstone"
+  "key": {
+    "0": {
+      "item": "extcaves:dirtstone"
+    }
   },
-  "result": "extcaves:dirtstone_cobble",
-  "type": "minecraft:smelting"
+  "pattern": [
+    "00",
+    "00"
+  ],
+  "result": {
+    "count": 4,
+    "item": "extcaves:dirtstone_cobble"
+  },
+  "type": "minecraft:crafting_shaped"
 }

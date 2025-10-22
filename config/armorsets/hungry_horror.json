@@ -1,0 +1,43 @@
+{
+  "armorSetName": "Hungry Horror Set",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "dungeons_gear:hungry_horror_helmet",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:hungry_horror_chestplate",
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:hungry_horror_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:hungry_horror_boots",
+    "mustBeEmpty": false
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "epicfight:impact",
+      "value": 0.25,
+      "modifierUUID": "86304383-b008-4238-be86-82a4b2a4eaf3",
+      "attributeOperation": 1,
+      "interactionType": "self",
+      "hideBonusDescription": true
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "name": "epicfight:stun_immunity",
+      "value": 0.0,
+      "interactionType": "self",
+      "interactionDuration": 120,
+      "hideBonusDescription": true
+    }
+  ],
+  "hideGeneratedTooltip": true
+}

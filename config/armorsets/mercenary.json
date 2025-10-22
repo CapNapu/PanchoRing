@@ -1,0 +1,32 @@
+{
+  "armorSetName": "Mercenary Set",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "dungeons_gear:mercenary_helmet",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:mercenary_chestplate",
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:mercenary_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:mercenary_boots",
+    "mustBeEmpty": false
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "epicfight:staminar",
+      "value": 0.25,
+      "modifierUUID": "f3086458-f62b-48a8-a2ec-40af48ff94ff",
+      "attributeOperation": 1,
+      "interactionType": "self",
+      "hideBonusDescription": true
+    }
+  ],
+  "hideGeneratedTooltip": true
+}

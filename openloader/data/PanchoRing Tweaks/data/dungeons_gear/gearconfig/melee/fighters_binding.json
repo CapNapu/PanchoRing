@@ -11,7 +11,16 @@
       "operation": 0
     }
   ],
-  "built_in_enchantments": [],
+  "built_in_enchantments": [
+    {
+      "enchantment": "dungeons_gear:rampaging",
+      "level": 1
+    },
+    {
+      "enchantment": "dungeons_gear:weakening",
+      "level": 1
+    }
+  ],
   "combo": 9,
   "light": true,
   "material": "minecraft:iron",

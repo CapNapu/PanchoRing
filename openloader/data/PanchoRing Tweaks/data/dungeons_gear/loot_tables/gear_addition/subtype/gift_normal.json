@@ -1,0 +1,13 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "type": "minecraft:empty"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "minecraft:chest"
+}

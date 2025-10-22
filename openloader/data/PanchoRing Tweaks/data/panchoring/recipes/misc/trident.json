@@ -1,0 +1,19 @@
+{
+  "key": {
+    "P": {
+      "item": "minecraft:prismarine_crystals"
+    },
+    "S": {
+      "item": "alexsmobs:shark_tooth"
+    }
+  },
+  "pattern": [
+    "SSS",
+    " P ",
+    " P "
+  ],
+  "result": {
+    "item": "majruszs_difficulty:ocean_shield"
+  },
+  "type": "minecraft:crafting_shaped"
+}

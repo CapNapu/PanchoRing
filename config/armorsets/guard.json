@@ -1,0 +1,32 @@
+{
+  "armorSetName": "Guard's Set",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "dungeons_gear:guards_helmet",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:guards_chestplate",
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:guards_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:guards_boots",
+    "mustBeEmpty": false
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "epicfight:max_strikes",
+      "value": 1.0,
+      "modifierUUID": "1e0047e5-e567-4f5f-93e5-875c4d24a000",
+      "attributeOperation": 0,
+      "interactionType": "self",
+      "hideBonusDescription": true
+    }
+  ],
+  "hideGeneratedTooltip": true
+}

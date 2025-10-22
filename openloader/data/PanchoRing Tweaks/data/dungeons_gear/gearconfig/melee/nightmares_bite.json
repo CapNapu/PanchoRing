@@ -1,0 +1,29 @@
+{
+  "attributes": [
+    {
+      "amount": 4,
+      "attribute": "minecraft:generic.attack_damage",
+      "operation": 0
+    },
+    {
+      "amount": -2.0,
+      "attribute": "minecraft:generic.attack_speed",
+      "operation": 0
+    }
+  ],
+  "built_in_enchantments": [
+    {
+      "enchantment": "dungeons_gear:committed",
+      "level": 1
+    },
+    {
+      "enchantment": "dungeons_gear:poison_cloud",
+      "level": 1
+    }
+  ],
+  "combo": 6,
+  "light": true,
+  "material": "minecraft:iron",
+  "rarity": "RARE",
+  "unique": true
+}

@@ -16,7 +16,7 @@
 	#Additional enchantments to be made usable with swords.
 	"Sword Enchantments" = []
 	#Additional enchantments to be made usable with axes.
-	"Axe Enchantments" = ["minecraft:sharpness", "minecraft:smite", "minecraft:bane_of_arthropods", "minecraft:knockback", "minecraft:looting", "dungeons_gear:committed", "dungeons_gear:illagers_bane"]
+	"Axe Enchantments" = ["minecraft:sharpness", "minecraft:smite", "minecraft:bane_of_arthropods", "minecraft:knockback", "minecraft:looting", "dungeons_gear:committed", "dungeons_gear:dynamo", "dungeons_gear:illagers_bane"]
 	#Additional enchantments to be made usable with tridents.
 	"Trident Enchantments" = ["minecraft:smite", "minecraft:bane_of_arthropods", "minecraft:knockback", "minecraft:looting"]
 	#Additional enchantments to be made usable with bows.
@@ -32,7 +32,7 @@
 	#Bows to be disabled from receiving additional enchantments.
 	"Bow Blacklist" = []
 	#Crossbows to be disabled from receiving additional enchantments.
-	"Crossbow Blacklist" = []
+	"Crossbow Blacklist" = ["dungeons_gear:roll_charge"]
 
 [enchantment_exclusiveness]
 	#Allow infinity and mending to be applied at the same time.

@@ -30,10 +30,7 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
-  orientation = bottom-left
-  x = 5
-  action = movebutton
-  y = -40
+  action = hidebutton
 }
 
 customization {
@@ -70,10 +67,7 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
-  orientation = bottom-left
-  x = 30
-  action = movebutton
-  y = -40
+  action = hidebutton
 }
 
 customization {
@@ -212,7 +206,7 @@ customization {
   enable_scrolling = false
   shadow = true
   scale = 1.0
-  source = Minecraft {"placeholder":"mcversion"} - PanchoRing 1.0
+  source = Minecraft {"placeholder":"mcversion"} - PanchoRing 1.0 [Full]
   text_border = 0
   case_mode = normal
   source_mode = direct
@@ -227,7 +221,7 @@ customization {
 }
 
 customization {
-  path = resources/panchoring/textures/gui/title.png
+  path = resourcepacks/PanchoRing - Assets/assets/panchoring/textures/gui/title.png
   orientation = top-centered
   x = -162
   width = 324

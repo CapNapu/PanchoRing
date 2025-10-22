@@ -3,7 +3,7 @@
 		"common": {
 			"damage_bonus": 2,
 			"impact": 0.8,
-			"speed_bonus": 2.6
+			"speed_bonus": 2.0
 		}
 	},
 	"type": "hoe"

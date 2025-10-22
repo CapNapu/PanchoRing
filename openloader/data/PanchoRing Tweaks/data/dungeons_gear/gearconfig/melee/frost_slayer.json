@@ -13,6 +13,10 @@
   ],
   "built_in_enchantments": [
     {
+      "enchantment": "minecraft:smite",
+      "level": 1
+    },
+    {
       "enchantment": "dungeons_gear:freezing",
       "level": 1
     }

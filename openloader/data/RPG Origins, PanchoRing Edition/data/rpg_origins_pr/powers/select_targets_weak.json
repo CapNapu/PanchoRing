@@ -5,9 +5,19 @@
         "value": -0.75
     },
     "target_condition": {
-        "type": "origins:attribute",
-        "attribute": "generic.max_health",
-        "comparison": "<=",
-        "compare_to": 16
+            "type": "origins:and",
+            "conditions": [
+            {            
+                "type": "origins:attribute",
+                "attribute": "generic.max_health",
+                "comparison": "<=",
+                "compare_to": 16
+            },
+            {
+                "inverted": true,
+                "type": "origins:entity_type",
+                "entity_type": "minecraft:player"
+            }
+        ]
     }
 }

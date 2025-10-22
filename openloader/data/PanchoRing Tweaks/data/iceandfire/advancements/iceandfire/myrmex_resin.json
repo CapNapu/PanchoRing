@@ -1,0 +1,16 @@
+{
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "display": {
+        "description": "",
+        "hidden": true,
+        "icon": {
+            "item": "minecraft:filled_map"
+        },
+        "title": ""
+    },
+    "parent": "awesomedungeonocean:root"
+}

@@ -8,7 +8,7 @@
   ],
   "durability": 18,
   "enchantability": 12,
-  "equip_sound": "minecraft:item.armor.equip_iron",
+  "equip_sound": "minecraft:item.armor.equip_gold",
   "knockback_resistance": 0.0,
   "name": "dungeons_gear:heavy_plate",
   "repair_item": "iceandfire:dread_shard",

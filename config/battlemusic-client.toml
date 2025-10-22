@@ -2,7 +2,7 @@
 ["battlemusic configs"]
 	#Volume of battle music, set to zero to mute
 	#Range: 0.0 ~ 5.0
-	volume = 1.0
+	volume = 0.5
 	#
 	#Whether battle music's volume is affected by the music slider
 	linked_to_music_volume = true
@@ -11,13 +11,13 @@
 	#    > Values below zero shift the pitch down, above zero shift the pitch up
 	#    > Set to zero to disable
 	#Range: -0.5 ~ 1.0
-	health_pitch_amount = 0.05
+	health_pitch_amount = 0.0
 	#
 	#How much the battle music changes in pitch during the second phase of the Ender Dragon fight
 	#    > Values below zero shift the pitch down, above zero shift the pitch up
 	#    > Set to zero to disable
 	#Range: -0.5 ~ 1.0
-	dragon_pitch_amount = 0.05
+	dragon_pitch_amount = 0.0
 	#
 	#At what HP should the battle music shift in pitch
 	#Range: > 1
@@ -34,7 +34,7 @@
 	#    > entity = the entity's ID, eg. "minecraft:pig"
 	#    > song = the song's ID, eg. "battlemusic:mini1"
 	#    > priority = what precedence this song takes over other entity's music, eg. a priority of 1 will fade out and play over a priority of 0.
-		entities_songs = ["minecraft:ender_dragon;panchoring:ender_dragon;4", "minecraft:wither;battlemusic:wither_storm;1", "alexsmobs:void_worm;battlemusic:ghast;3", "alexsmobs:warped_mosco;battlemusic:mini1;0", "ars_nouveau:wilden_boss;battlemusic:ascension;1", "bosses_of_mass_destruction:gauntlet;battlemusic:kermetic;2", "bosses_of_mass_destruction:lich;battlemusic:necromancer;3", "bosses_of_mass_destruction:obsidilith;battlemusic:shattered;2", "bosses_of_mass_destruction:void_blossom;battlemusic:broken_heart_of_ender;2", "cataclysm:ender_golem;battlemusic:mini2;0", "cataclysm:ender_guardian;battlemusic:ancient;2", "cataclysm:ignis;battlemusic:porcus_humungous;2", "cataclysm:ignited_revenant;battlemusic:mini2;0", "cataclysm:netherite_monstrosity;battlemusic:redstone_monstrosity;2", "iceandfire:cyclops;battlemusic:mini1;0", "iceandfire:fire_dragon;battlemusic:menta_menardi;0", "iceandfire:hydra;battlemusic:mini1;0",  "iceandfire:ice_dragon;battlemusic:menta_menardi;0", "iceandfire:lightning_dragon;battlemusic:menta_menardi;0", "mowziesmobs:barako;battlemusic:metaluna;2", "mowziesmobs:ferrous_wroughtnaut;battlemusic:arena1;1",  "mowziesmobs:frostmaw;battlemusic:arena2;2"]
+		entities_songs = ["minecraft:ender_dragon;panchoring:ender_dragon;4", "minecraft:wither;battlemusic:wither_storm;1", "alexsmobs:void_worm;battlemusic:ghast;3", "alexsmobs:warped_mosco;battlemusic:mini1;0", "ars_nouveau:wilden_boss;battlemusic:ascension;1", "bosses_of_mass_destruction:gauntlet;battlemusic:kermetic;2", "bosses_of_mass_destruction:lich;battlemusic:necromancer;3", "bosses_of_mass_destruction:obsidilith;battlemusic:shattered;2", "bosses_of_mass_destruction:void_blossom;battlemusic:broken_heart_of_ender;2", "cataclysm:ender_golem;battlemusic:mini2;0", "cataclysm:ender_guardian;battlemusic:ancient;2", "cataclysm:ignis;battlemusic:porcus_humungous;2", "cataclysm:ignited_revenant;battlemusic:mini2;0", "cataclysm:netherite_monstrosity;battlemusic:redstone_monstrosity;2", "iceandfire:cyclops;battlemusic:mini1;0", "iceandfire:hydra;battlemusic:mini1;0", "mowziesmobs:barako;battlemusic:metaluna;2", "mowziesmobs:ferrous_wroughtnaut;battlemusic:arena1;1",  "mowziesmobs:frostmaw;battlemusic:arena2;2"]
 	#
 	#A generic battle song to play for any other undefined hostile entity
 	#    > Leave blank for no default battle music

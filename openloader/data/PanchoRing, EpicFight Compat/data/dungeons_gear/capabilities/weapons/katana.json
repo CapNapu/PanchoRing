@@ -3,9 +3,9 @@
 		"common": {
 			"armor_negation": 10,
 			"damage_bonus": -2,
-			"impact": 1.7,
-			"max_strikes": 1,
-			"speed_bonus": 0.5
+			"impact": 1.6,
+			"max_strikes": 2,
+			"speed_bonus": 0.3
 		}
 	},
 	"type": "tachi"

@@ -1,0 +1,90 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "dungeons_gear:fighters_binding",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:firebrand",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:cursed_axe",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:bone_cudgel",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:bonebow",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:burst_crossbow",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:corrupted_crossbow",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:soul_hunter_crossbow",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:grim_helmet",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:grim_chestplate",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:grim_leggings",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:grim_boots",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:wither_helmet",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:wither_chestplate",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:wither_leggings",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:wither_boots",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:souldancer_helmet",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:souldancer_chestplate",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:souldancer_leggings",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:souldancer_boots",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "minecraft:chest"
+}

@@ -1,0 +1,22 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "dungeons_gear:harvester",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:powershaker",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:soul_lantern",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "minecraft:chest"
+}

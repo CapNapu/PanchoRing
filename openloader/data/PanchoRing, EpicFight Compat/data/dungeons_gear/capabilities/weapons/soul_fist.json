@@ -2,7 +2,7 @@
 	"attributes": {
 		"common": {
 			"damage_bonus": 2,
-			"impact": 0.7,
+			"impact": 0.4,
 			"speed_bonus": 0.6
 		}
 	},

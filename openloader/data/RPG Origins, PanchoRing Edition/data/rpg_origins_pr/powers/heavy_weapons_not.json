@@ -8,13 +8,28 @@
     },
     "tick_rate": 5,
     "condition": {
-        "type": "origins:equipped_item",
-        "equipment_slot": "mainhand",
-        "item_condition": {
-            "type": "origins:ingredient",
-            "ingredient": {
-                "tag": "panchoring:superheavy_weapons"
+        "type": "origins:or",
+        "conditions": [
+            {            
+                "type": "origins:equipped_item",
+                "equipment_slot": "mainhand",
+                "item_condition": {
+                    "type": "origins:ingredient",
+                    "ingredient": {
+                        "tag": "panchoring:heavy_weapons"
+                    }
+                }
+            },
+            {
+                "type": "origins:equipped_item",
+                "equipment_slot": "offhand",
+                "item_condition": {
+                    "type": "origins:ingredient",
+                    "ingredient": {
+                        "tag": "panchoring:heavy_weapons"
+                    }
+                }
             }
-        }
+        ]
     }
 }

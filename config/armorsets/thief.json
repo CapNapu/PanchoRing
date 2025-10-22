@@ -1,0 +1,32 @@
+{
+  "armorSetName": "Thief Set",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "dungeons_gear:thief_helmet",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:thief_chestplate",
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:thief_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:thief_boots",
+    "mustBeEmpty": false
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "epicfight:max_strikes",
+      "value": 1.0,
+      "modifierUUID": "3e77837e-5154-40cc-a2b9-20a6ffc97e82",
+      "attributeOperation": 1,
+      "interactionType": "self",
+      "hideBonusDescription": true
+    }
+  ],
+  "hideGeneratedTooltip": true
+}

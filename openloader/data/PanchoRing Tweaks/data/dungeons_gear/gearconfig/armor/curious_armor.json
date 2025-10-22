@@ -1,0 +1,22 @@
+{
+  "attributes": [
+    {
+      "amount": -0.1,
+      "attribute": "dungeons_libraries:artifact_cooldown_multiplier",
+      "operation": 1
+    }
+  ],
+  "built_in_enchantments": [
+    {
+      "enchantment": "dungeons_gear:food_reserves",
+      "level": 1
+    },
+    {
+      "enchantment": "dungeons_gear:gravity_pulse",
+      "level": 1
+    }
+  ],
+  "material": "dungeons_gear:light_plate",
+  "rarity": "RARE",
+  "unique": true
+}

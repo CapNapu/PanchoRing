@@ -21,7 +21,7 @@
   "partialSetBonuses": [
     {
       "type": "effect",
-      "name": "alexsmobs:clinging",
+      "name": "minecraft:haste",
       "value": 0.0,
       "interactionType": "self",
       "interactionDuration": 120,

@@ -2,9 +2,8 @@
 	"attributes": {
 		"common": {
 			"damage_bonus": 1,
-			"impact": 1.5,
-			"max_strikes": 1,
-			"speed_bonus": 0.6
+			"impact": 1.1,
+			"max_strikes": 2
 		}
 	},
 	"type": "spear"

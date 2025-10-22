@@ -3,8 +3,7 @@
 		"common": {
 			"armor_negation": 10,
 			"damage_bonus": 12,
-			"impact": 1.4,
-			"speed_bonus": 0.6
+			"impact": 1.8
 		}
 	},
 	"type": "hoe"

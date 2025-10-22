@@ -1,0 +1,20 @@
+{
+  "attributes": [],
+  "built_in_enchantments": [
+    {
+      "enchantment": "dungeons_gear:beehive",
+      "level": 1
+    },
+    {
+      "enchantment": "dungeons_gear:tumblebee",
+      "level": 1
+    },
+    {
+      "enchantment": "dungeons_gear:potion_barrier",
+      "level": 1
+    }
+  ],
+  "material": "dungeons_gear:hard_wood",
+  "rarity": "RARE",
+  "unique": true
+}

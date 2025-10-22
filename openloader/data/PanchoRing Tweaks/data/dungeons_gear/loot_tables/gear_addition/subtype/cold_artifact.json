@@ -1,0 +1,22 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "dungeons_gear:ice_wand",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:wind_horn",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:updraft_tome",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "minecraft:chest"
+}

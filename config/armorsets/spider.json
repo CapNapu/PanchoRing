@@ -20,11 +20,12 @@
   "partialBonusRequiredAmount": 2,
   "partialSetBonuses": [
     {
-      "type": "effect",
-      "name": "alexsmobs:clinging",
-      "value": 0.0,
+      "type": "attribute",
+      "name": "epicfight:max_strikes",
+      "value": 1.0,
+      "modifierUUID": "8d7e87d5-4630-405e-a079-e2e0e37df9e3",
+      "attributeOperation": 1,
       "interactionType": "self",
-      "interactionDuration": 120,
       "hideBonusDescription": true
     }
   ],

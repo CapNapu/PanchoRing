@@ -1,5 +1,5 @@
 {
-  "input": "extcaves:brick_half",
+  "input": "extcaves:moss_humid_ground",
   "output": "ars_nouveau:glyph_conjure_terrain",
   "tier": "ONE",
   "type": "ars_nouveau:glyph_recipe"

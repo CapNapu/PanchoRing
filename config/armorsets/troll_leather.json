@@ -40,7 +40,7 @@
   "fullSetBonuses": [
     {
       "type": "effect",
-      "name": "dungeons_gear:shielding",
+      "name": "majruszs_difficulty:bleeding_immunity",
       "value": 0.0,
       "interactionType": "self",
       "interactionDuration": 120,

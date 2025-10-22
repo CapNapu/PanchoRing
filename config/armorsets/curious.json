@@ -20,11 +20,12 @@
   "partialBonusRequiredAmount": 2,
   "partialSetBonuses": [
     {
-      "type": "effect",
-      "name": "minecraft:slow_falling",
-      "value": 0.0,
+      "type": "attribute",
+      "name": "epicfight:max_strikes",
+      "value": 1.0,
+      "modifierUUID": "fea9de3c-ddfa-47e4-ae30-45931420cb27",
+      "attributeOperation": 0,
       "interactionType": "self",
-      "interactionDuration": 120,
       "hideBonusDescription": true
     }
   ],

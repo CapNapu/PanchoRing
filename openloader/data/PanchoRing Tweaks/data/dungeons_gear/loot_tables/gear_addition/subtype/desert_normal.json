@@ -3,55 +3,15 @@
     {
       "entries": [
         {
-          "name": "dungeons_gear:moon_dagger",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:sickle",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:nightmares_bite",
-          "type": "minecraft:item"
-        },
-        {
           "name": "dungeons_gear:the_last_laugh",
           "type": "minecraft:item"
         },
         {
-          "name": "dungeons_gear:soul_scythe",
+          "name": "dungeons_gear:soul_fist",
           "type": "minecraft:item"
         },
         {
-          "name": "dungeons_gear:jailors_scythe",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:battlestaff",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:battlestaff_of_terror",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:growing_staff",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:soul_knife",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:eternal_knife",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:truthseeker",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:glaive",
+          "name": "dungeons_gear:suns_grace",
           "type": "minecraft:item"
         },
         {
@@ -59,7 +19,67 @@
           "type": "minecraft:item"
         },
         {
-          "name": "dungeons_gear:venom_glaive",
+          "name": "dungeons_gear:soul_bow",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:nocturnal_bow",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:scatter_crossbow",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:harp_crossbow",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:thief_helmet",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:thief_chestplate",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:thief_leggings",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:thief_boots",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:spider_helmet",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:spider_chestplate",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:spider_leggings",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:spider_boots",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:gilded_glory_helmet",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:gilded_glory_chestplate",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:gilded_glory_leggings",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:gilded_glory_boots",
           "type": "minecraft:item"
         }
       ],

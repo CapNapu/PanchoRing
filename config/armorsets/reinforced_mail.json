@@ -1,0 +1,32 @@
+{
+  "armorSetName": "Stalwart Set",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "dungeons_gear:stalwart_helmet",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:stalwart_chestplate",
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:stalwart_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:stalwart_boots",
+    "mustBeEmpty": false
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "epicfight:staminar",
+      "value": 0.25,
+      "modifierUUID": "e4a39640-9cc4-436d-ac33-ac370915a929",
+      "attributeOperation": 1,
+      "interactionType": "self",
+      "hideBonusDescription": true
+    }
+  ],
+  "hideGeneratedTooltip": true
+}

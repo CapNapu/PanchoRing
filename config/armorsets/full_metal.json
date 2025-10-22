@@ -26,14 +26,13 @@
       "modifierUUID": "84e9cd75-bf96-40ef-ac8f-fb78b283ce6b",
       "attributeOperation": 1,
       "interactionType": "self",
-      "interactionDuration": 120,
       "hideBonusDescription": true
     }
   ],
   "fullSetBonuses": [
     {
       "type": "effect",
-      "name": "majruszs_difficulty:bleeding_immunity",
+      "name": "dungeons_gear:shielding",
       "value": 0.0,
       "interactionType": "self",
       "interactionDuration": 120,

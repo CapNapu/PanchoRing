@@ -26,7 +26,6 @@
       "modifierUUID": "01eb2b68-1c72-446b-bad3-a0a3cd1c2e5f",
       "attributeOperation": 1,
       "interactionType": "self",
-      "interactionDuration": 120,
       "hideBonusDescription": true
     }
   ],
@@ -38,7 +37,6 @@
       "modifierUUID": "1ef0a54c-bd2d-4d62-a4f7-3ec75b9cb0ae",
       "attributeOperation": 1,
       "interactionType": "self",
-      "interactionDuration": 120,
       "hideBonusDescription": true
     }
   ],

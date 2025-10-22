@@ -58,7 +58,7 @@
 		safe = true
 		sconce_lever = true
 		#WIP
-		present = true
+		present = false
 		sign_post = true
 		pedestal = true
 		blackboard = true
@@ -87,7 +87,7 @@
 		goblet = true
 		sconce_green = false
 		flute = true
-		pulley_block = true
+		pulley_block = false
 		gold_door = true
 		shulker_shell = true
 

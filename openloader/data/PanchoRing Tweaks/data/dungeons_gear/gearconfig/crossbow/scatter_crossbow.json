@@ -1,7 +1,7 @@
 {
   "built_in_enchantments": [
     {
-      "enchantment": "minecraft:multishot",
+      "enchantment": "dungeons_gear:growing",
       "level": 1
     }
   ],
