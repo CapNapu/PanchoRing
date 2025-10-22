@@ -654,11 +654,11 @@ hash = "eff21fbf79847f26f96d9a54bec904546d1370c52b8d598c0dde5d608f1f5c03"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "52f5f18c37369ea579260643269f965e1fa2d59645002bde96652365ee891094"
+hash = "3bc7650243b4ea2332eccfd4e22095814872aeaf4143b52b0118a39e46ff7049"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "d3d8d14035aa2f0e5ff12172b4d53ebe5df1e777c4d5eed94f28e67d6f785d9a"
+hash = "35a82127166c126a1f1997dbec91f1ed655814992fde1ad1c2ac910188453ff7"
 
 [[files]]
 file = "config/dsurround/dsurround-client.toml"
@@ -935,6 +935,10 @@ hash = "65c3e79efc079fe6dc1d56cfffd4d223c09936dec27c90073ed0dc5a8a0ba4ee"
 [[files]]
 file = "config/rarities.json"
 hash = "7f4a48423b5e069a2facdd432b3dd18ae71ee7cb81139215124d4e521bbebd63"
+
+[[files]]
+file = "config/resourcepackoverrides.json"
+hash = "05b6bd67ec157a70cd29317c7d781a18a0c6bb5650594c541aa769452a3d0174"
 
 [[files]]
 file = "config/responsive-shields.toml"
@@ -13479,6 +13483,206 @@ hash = "72f72864362ed2b503686439d5f16036064f4f851624642c83d862a06ff94402"
 [[files]]
 file = "openloader/data/WWOO + Addons/pack.png"
 hash = "4287601be3fac638bed47bfcf0a3f22da8a5313ae088ebc2eea0ddb9c8a908fb"
+
+[[files]]
+file = "resourcepacks/antiqueatlasems.pw.toml"
+hash = "8cef936ad9ab80076c8deef5c8f0546993c3d1d3d2e6bba7f72803da31db83cf"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ars-nouveau-animated-spiraling-arcane-ore.pw.toml"
+hash = "f36e24592d13da906a50814c8c96a29bc7aae81f6d15487476999530557761fe"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ars-nouveau-refresh.pw.toml"
+hash = "c5bd12006f82b4b48ad769127aad6918ce3fadeaca51d3d926ae94b47aa46e29"
+metafile = true
+
+[[files]]
+file = "resourcepacks/artisanal-nether-bricks.pw.toml"
+hash = "fe537e4785cdf5c6f6476e1ac03891d6a7ae0dad952c4fcb7b365205fa73fe62"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ashen-16x-custom-font.pw.toml"
+hash = "663b19690bd7529fda3419484a694320360abfcfed6429973255ddb6b34e3303"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bbs-bosses-of-mass-destruction-tweaks.pw.toml"
+hash = "b71bd3e3756dfe215c728839541b3ab582cf4640e4f7281dc8a7e33cd9a7821c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/chemistry-potions.pw.toml"
+hash = "9e706e983d91a8df8d6495d59b1bf0840fe654fd1739e86a7f8b0a08c2fc0ec7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/clock-and-compass.pw.toml"
+hash = "4fbc3ad48d67e82ef1e2d900bc27656ccdd4eae54796f1618cad58eef45d4c1d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/comforts-modernized.pw.toml"
+hash = "c7624a18bbccc9ea8e132487beeff0be94a4e5e7ad1f65e79fa5b3490f0f2b41"
+metafile = true
+
+[[files]]
+file = "resourcepacks/detailed-dragon-armors.pw.toml"
+hash = "5564f3b31a74e4397863e7221e35d12a82167ee0daed0aa63132b824598cec01"
+metafile = true
+
+[[files]]
+file = "resourcepacks/diemants-prismarine.pw.toml"
+hash = "5796745ab562866a1ae8431e110a2eaf2a8261f0490820d5ddb1da73e4b23866"
+metafile = true
+
+[[files]]
+file = "resourcepacks/end-remastered-retextured.pw.toml"
+hash = "bcfce526c469ea2a3a219e16aa0c9cccd835932ba68f7102a104af9b234ad7be"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ender-dragon-revamp.pw.toml"
+hash = "146e77b6e3d163c9e10eddd6e12686f72ef6d4aec340437cd29588c93ab00465"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ends-phantasm-brighter-oblivion.pw.toml"
+hash = "d7aaa650aeb756b390ead4c7b3d86fcea42cd3da77f14e477299466c65968c50"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enhanced-audio.pw.toml"
+hash = "311fcd7253ba50af4b859831c0199bccc20e627b0a8a03644536bb2572a94075"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enhancedvisual-pixelated.pw.toml"
+hash = "01245629598a8640f5ca7020c804a984c8f735015b64fe45e2083c82792563aa"
+metafile = true
+
+[[files]]
+file = "resourcepacks/epic-fight-animations.pw.toml"
+hash = "cf8fec2bd88f6341d17c6e2bdeb15b9c578adcf794d9c6530be53e66b136f1a8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/epic-fight-sound-overhaul.pw.toml"
+hash = "d6a6eaa1b74c6fb5f581080dacfef5f5c9ed773b70c70cd46c5bd23daa6878fe"
+metafile = true
+
+[[files]]
+file = "resourcepacks/epic-fight-x-dungeon-gear.pw.toml"
+hash = "d04f41bd29e5ec14b0fd1f2a16f08261ce2b73a32cb82d3cfa1f715fe9dcb926"
+metafile = true
+
+[[files]]
+file = "resourcepacks/farcrs-better-dirt.pw.toml"
+hash = "1f21f5b0c82f3f7800e6829cd64744a5e12177f549f1d1937fdf317871664a5b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/frostbiteandbrimstone.pw.toml"
+hash = "760edf00513b796ecdcaff2257c9a8b344c29a543439b831d3e218ccef89ba96"
+metafile = true
+
+[[files]]
+file = "resourcepacks/guard-epic.pw.toml"
+hash = "64ee2f5e125a054845854aa10923eddca13368a643243085d1a989832af3e2b4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ice-and-fire-retextures.pw.toml"
+hash = "d5d4e70e581895d1e267cd5284ec76888bd9ca27964d317e43c719e0afd466de"
+metafile = true
+
+[[files]]
+file = "resourcepacks/immortal-mowzies.pw.toml"
+hash = "199a804980f33838a1384ef43f574a7c46124de7d1f76bfd8926b532a16a90a4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/kai-fixes-andesite.pw.toml"
+hash = "5f6d605ca6eb064589f85a04f3afdb2712005c93743073d8f3c409eb0d984d27"
+metafile = true
+
+[[files]]
+file = "resourcepacks/kai-fixes-diorite.pw.toml"
+hash = "d21539355b68e82334e484099b494cf52cadfe73aeae3f38abf50237b2c4ee1f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/kai-fixes-granite.pw.toml"
+hash = "8590b01823a3628321a09ae2c4234666607d425a5b7be0c760d155e2768b6da1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/kai-fixes-quartz.pw.toml"
+hash = "e519426c5b20194e495c0465ba0547b181ec3ef2fafef1fe53b193645d33b98c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/kai-fixes-sand.pw.toml"
+hash = "d63f4350a05e7bf1f726d5d02b7647b3ccaafea618c080bb025c6ea01dfb2305"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mowzies-mobs-spiced-up.pw.toml"
+hash = "bb6a6ac3f56b270904ae13955fd5a2656fa5f6b07b6c049d0ebb164f24109bc9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/neta.pw.toml"
+hash = "50f11708aefeb792c089161d4fbb4b9fe1eaf24f12170a9f71b4665efce09431"
+metafile = true
+
+[[files]]
+file = "resourcepacks/new-ores.pw.toml"
+hash = "2bc7c6c58463d4cc609f10f8118208d33d8ce25fe72f2f4ab69b2c6faf91cf07"
+metafile = true
+
+[[files]]
+file = "resourcepacks/peeves.pw.toml"
+hash = "2642738aa5859e1e0213f642c983a15d22deaae399904f1ed1e7010e3ddd093f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rails-reimagined.pw.toml"
+hash = "84e2adec5d4ba30b462369a78f48385bb1a827765399186e664a6fe0695f1eff"
+metafile = true
+
+[[files]]
+file = "resourcepacks/refined-armor.pw.toml"
+hash = "d3e2a21e95259bb5a1a0d2c81567a3f648a48aa511813e5033d39acb1e54da3c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/simple-grass-flowers.pw.toml"
+hash = "5a34e3afb1643fec0bf534124d5038683ab484dfa5c269a4fadfe72443113b74"
+metafile = true
+
+[[files]]
+file = "resourcepacks/spring-flowers.pw.toml"
+hash = "dc3f05bcca625aa5a06d09c9560c54cff97cf8d561f6badc784d43a5a410bb9a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/stonier-stone-bricks.pw.toml"
+hash = "4803cd6b5f2aec84fa069e8da6695646cbcc3e8a3ea4ba2abc421b472901fa83"
+metafile = true
+
+[[files]]
+file = "resourcepacks/undopia-3d-ladder.pw.toml"
+hash = "82e66c0e38bc9d3263b1b34de44fbaa67c5c4ecedae6a3c54dde7e431fbc57f1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/you-died-refreshed.pw.toml"
+hash = "96d1df7b0a4a30f8ece057e010b6edc67bb1bfc817e29f9e3e8824c6a77389cb"
+metafile = true
 
 [[files]]
 file = "shaderpacks/[1] MakeUp UltraFast v8.6g [LOW].zip"
