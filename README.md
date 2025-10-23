@@ -3,7 +3,7 @@
 
 Another Adventure-themed Modpack For Minecraft 1.16.5
 
-Currently in Develpment
+Currently in Development
 
 # Credits
 
