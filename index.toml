@@ -990,7 +990,7 @@ hash = "3254878cf51ca245aebd15da3425cb081a459de57fadff7c2a17da6c82188951"
 
 [[files]]
 file = "config/weaponmaster_ydm-common.toml"
-hash = "e7b8964fb0bd77ed6767bf3416e9923618f839cde98bbc8f2cd9375597c8f5b8"
+hash = "44ae93078337679cf5be75276a1cae23a973e9d5764b514e22d101a7b6e52c7d"
 
 [[files]]
 file = "defaultconfigs/comforts-server.toml"
@@ -4717,10 +4717,6 @@ file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/material/armor/gem_
 hash = "021ef70b43fd0fd98426e1499f0239d0f39991b0688d88d19571ba4a015c522d"
 
 [[files]]
-file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/material/armor/leather.json"
-hash = "cca74e584c9e8e0c261beefbbb78de8c6ea8364e513ac18feb18702c2d05f426"
-
-[[files]]
 file = "openloader/data/PanchoRing Tweaks/data/dungeons_gear/material/armor/leather_plus.json"
 hash = "ec5bff1042b7c72481f123464b92f24cb1bb6a27265b52de4d29413d212846e1"
 
@@ -5787,10 +5783,6 @@ hash = "f6d8fc90c709fbebda2a2a9857a8c00f19e6c05619b5be38e1dfb70d1f61ebf3"
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/iceandfire/recipes/pixie_wand.json"
 hash = "0caf7a66e6722e7e428588045db38223d1025f8d022dd664f04d182a2e51f124"
-
-[[files]]
-file = "openloader/data/PanchoRing Tweaks/data/iceandfire/tags/blocks/myrmex_harvestables.json"
-hash = "4e6302ae9c3adc393ffb27345eb46126db613800b5d4365136db2ff844c6be70"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/iceandfire/tags/entity_types/blinded.json"
@@ -7119,10 +7111,6 @@ hash = "f0d273f8d048c29a99aec35a315ac7ad64cbaf948f2d18a65d0532e6b448bd7f"
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/panchoring/advancements/hippogryph_sword.json"
 hash = "bcb241f28ab83ba1ac11143b19a12ad446a042e33e4323a9f8fe379446b4b3a4"
-
-[[files]]
-file = "openloader/data/PanchoRing Tweaks/data/panchoring/advancements/hydra_heart.json"
-hash = "5f0619af6181c1ea6a28c7c89b76fcfb993fb96444898acc6b49a7b7b00ab828"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/panchoring/advancements/ignitium_armor.json"
@@ -10250,7 +10238,7 @@ hash = "7f1c1c0f37d08c702af41ed400394832c20d65b50604fa4733572b5761f223ff"
 
 [[files]]
 file = "openloader/data/WWOO + Addons/data/minecraft/worldgen/biome/badlands_plateau.json"
-hash = "1ac1ca6316a7ad940eb32d452fb2853be147235cffdbfa7a4781d59bce38921b"
+hash = "5fd400c0a4d6bb06a6412cf9eceb9e32e8278e9e0705d21f89cbc2eb0a2991f6"
 
 [[files]]
 file = "openloader/data/WWOO + Addons/data/minecraft/worldgen/biome/bamboo_jungle.json"
@@ -10374,7 +10362,7 @@ hash = "c76a434b364d8fc6351a7124b8b04a4b124df9f53d93399cbe05256f81d6d32d"
 
 [[files]]
 file = "openloader/data/WWOO + Addons/data/minecraft/worldgen/biome/modified_badlands_plateau.json"
-hash = "9bf3ef8cb0119c7c7be977bd76fbf120d089c85242d9955cd0b3444cae8a7468"
+hash = "8cd0b57a6dbeb980ded8ba61a5de4a408dcc898f99a8f365d16808ca826e5fa9"
 
 [[files]]
 file = "openloader/data/WWOO + Addons/data/minecraft/worldgen/biome/modified_gravelly_mountains.json"

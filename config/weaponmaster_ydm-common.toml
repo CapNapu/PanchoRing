@@ -44,7 +44,7 @@
 	#Players can change the movers of the slots
 	can_change_movers = false
 	#Whitelists item that are normally not visible
-	whitelist = "empty,carrot_on_a_stick,fishing_rod,lingering_potion,potion,splash_potion,totem_of_undying,warped_fungus_on_a_stick,writable_book,written_book,animal_dictionary,chorus_on_a_stick,dimensional_carver,echolocator,endolocator,falconry_glove_hand,lava_bottle,pocket_sand,antique_atlas,curio_bag,potion_flask_amplify,potion_flask_extend_time,potion_flask,charged_ender_pearl,the_incinerator,void_core,cockatrice_scepter,cyclops_eye,dragon_flute,dragon_stick,dread_key,hydra_heart,pixie_wand,undead_battle_standard,barakoa_mask_bliss,barakoa_mask_faith,barakoa_mask_fear,barakoa_mask_fury,barakoa_mask_misery,barakoa_mask_rage,captured_grottol,grant_suns_blessing,ice_crystal,orb_of_origin,guide_book,wrench,slingshot,flute"
+	whitelist = "empty,carrot_on_a_stick,fishing_rod,lingering_potion,potion,splash_potion,totem_of_undying,warped_fungus_on_a_stick,writable_book,written_book,animal_dictionary,chorus_on_a_stick,dimensional_carver,echolocator,endolocator,falconry_glove_hand,lava_bottle,pocket_sand,antique_atlas,curio_bag,potion_flask_amplify,potion_flask_extend_time,potion_flask,charged_ender_pearl,the_incinerator,void_core,cockatrice_scepter,cyclops_eye,dragon_flute,dragon_stick,dread_key,pixie_wand,undead_battle_standard,barakoa_mask_bliss,barakoa_mask_faith,barakoa_mask_fear,barakoa_mask_fury,barakoa_mask_misery,barakoa_mask_rage,captured_grottol,grant_suns_blessing,ice_crystal,orb_of_origin,guide_book,wrench,slingshot,flute"
 	#Players can change their unique item settings
 	can_change_uit = false
 	#main hand

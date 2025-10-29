@@ -69,7 +69,6 @@
     ]
   ],
   "starts": [
-    "minecraft:pillager_outpost",
 	  "minecraft:mineshaft_mesa",
     "minecraft:stronghold",
     "minecraft:ruined_portal_mountain"
