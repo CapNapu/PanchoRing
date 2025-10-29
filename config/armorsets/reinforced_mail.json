@@ -22,7 +22,7 @@
       "type": "attribute",
       "name": "epicfight:staminar",
       "value": 0.25,
-      "modifierUUID": "e4a39640-9cc4-436d-ac33-ac370915a929",
+      "modifierUUID": "98c508e9-8d0a-4e82-8c23-0d0a135616bc",
       "attributeOperation": 1,
       "interactionType": "self",
       "hideBonusDescription": true

@@ -15,6 +15,7 @@
     "description": {
       "translate": "advancements.get_crystal.descr"
     },
+    "hidden": true,
     "icon": {
       "item": "phantasm:crystal_spike_tip"
     },

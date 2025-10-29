@@ -346,7 +346,7 @@
 	[Mobs.Hippogryph]
 		#Hippogryph spawn weight. Lower = lower chance to spawn.
 		#Range: 1 ~ 10000
-		"Hippogryph Spawn Weight" = 5
+		"Hippogryph Spawn Weight" = 2
 		#Change this to slow down or speed up hippogryph flight.
 		#Range: 0.0 ~ 2.0
 		"Hippogryph Flight Speed Modifier" = 1.0

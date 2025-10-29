@@ -66,7 +66,6 @@
     ]
   ],
   "starts": [
-    "wythers:village_pueblo",
     "minecraft:pillager_outpost",
     "minecraft:mineshaft",
     "minecraft:stronghold",

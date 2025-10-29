@@ -92,7 +92,7 @@
 	[Features.Bleeding]
 		#Damage dealt by bleeding every tick.
 		#Range: 0.0 ~ 20.0
-		damage = 1.0
+		damage = 2.0
 		#List of entities that are immune to Bleeding effect. (only human-like mobs and animals)
 		black_list = ["minecraft:ender_dragon", "minecraft:iron_golem", "minecraft:skeleton_horse", "minecraft:skeleton", "minecraft:snow_golem", "minecraft:stray", "minecraft:vex", "minecraft:wither_skeleton", "minecraft:wither", "alexsmobs:bone_serpent_part", "alexsmobs:bone_serpent", "alexsmobs:dropbear", "alexsmobs:soul_vulture", "alexsmobs:void_worm", "alexsmobs:warped_mosco", "ars_elemental:summon_skelehorse", "ars_elemental:summon_vhex", "ars_nouveau:ally_vex", "ars_nouveau:wilden_boss", "bosses_of_mass_destruction:gaunlet", "bosses_of_mass_destruction:lich", "bosses_of_mass_destruction:obsidilith", "bosses_of_mass_destruction:void_blossom", "bygonenether:corpor", "bygonenether:wex", "bygonenether:wither_skeleton_horse", "bygonenether:wither_skeleton_horse", "bygonenether:wraither", "cataclysm:ender_guardian", "cataclysm:ignis", "cataclysm:netherite_monstrosity", "dungeons_gear:soul_wizard", "epicfight:wither_skeleton_minion", "iceandfire:ghost", "infernalexp:embody", "majruszs_difficulty:elite_skeleton", "mowziesmobs:barako", "mowziesmobs:ferrous_wroughtnaut", "mowziesmobs:frostmaw"]
 		#Cooldown between attacking entity.
@@ -109,10 +109,10 @@
 			normal = 0
 			#Expert Mode
 			#Range: 0 ~ 10
-			expert = 1
+			expert = 0
 			#Master Mode
 			#Range: 0 ~ 10
-			master = 2
+			master = 0
 
 	#Touching cactus inflict bleeding.
 	[Features.CactusBleeding]

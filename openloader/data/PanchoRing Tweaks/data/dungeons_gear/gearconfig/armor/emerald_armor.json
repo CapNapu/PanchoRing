@@ -1,8 +1,8 @@
 {
   "attributes": [
     {
-      "amount": 0.0625,
-      "attribute": "minecraft:generic.attack_damage",
+      "amount": -0.0625,
+      "attribute": "dungeons_gear:roll_cooldown",
       "operation": 1
     }
   ],
@@ -12,7 +12,7 @@
       "level": 1
     }
   ],
-  "material": "dungeons_gear:light_plate",
+  "material": "dungeons_gear:gem",
   "rarity": "UNCOMMON",
   "unique": false
 }

@@ -18,7 +18,6 @@
     }
   ],
   "combo": 1,
-  "disables_shield": true,
   "material": "minecraft:iron",
   "rarity": "UNCOMMON",
   "unique": false

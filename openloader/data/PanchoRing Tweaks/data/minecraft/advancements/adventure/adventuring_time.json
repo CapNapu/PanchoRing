@@ -8,6 +8,22 @@
       },
       "trigger": "minecraft:location"
     },
+    "Ancient Taiga": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:giant_spruce_taiga"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Ancient Taiga Hills": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:giant_spruce_taiga_hills"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
     "Archwood Forest": {
       "conditions": {
         "location": {
@@ -32,7 +48,7 @@
       },
       "trigger": "minecraft:location"
     },
-    "Autumnal Coniferous Forest": {
+    "Autumnal Forest": {
       "conditions": {
         "location": {
           "biome": "projectvibrantjourneys:autumnal_coniferous_forest"
@@ -88,7 +104,7 @@
       },
       "trigger": "minecraft:location"
     },
-    "Birch Forest Hills": {
+    "Birch Hills": {
       "conditions": {
         "location": {
           "biome": "minecraft:birch_forest_hills"
@@ -124,6 +140,14 @@
       "conditions": {
         "location": {
           "biome": "minecraft:cold_ocean"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Coniferous Swamp": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:swamp_hills"
         }
       },
       "trigger": "minecraft:location"
@@ -192,10 +216,34 @@
       },
       "trigger": "minecraft:location"
     },
+    "Desert Oasis": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:desert_lakes"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
     "Desert Shrubland": {
       "conditions": {
         "location": {
           "biome": "projectvibrantjourneys:desert_shrubland"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Eroded Badlands": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:eroded_badlands"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Eroded Wooded Badlands": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:modified_wooded_badlands_plateau"
         }
       },
       "trigger": "minecraft:location"
@@ -216,7 +264,15 @@
       },
       "trigger": "minecraft:location"
     },
-    "Giant Tree Taiga": {
+    "Frozen Ocean": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:frozen_ocean"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Giant Taiga": {
       "conditions": {
         "location": {
           "biome": "minecraft:giant_tree_taiga"
@@ -224,10 +280,42 @@
       },
       "trigger": "minecraft:location"
     },
-    "Giant Tree Taiga Hills": {
+    "Giant Taiga Hills": {
       "conditions": {
         "location": {
           "biome": "minecraft:giant_tree_taiga_hills"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Gravelly Mountains": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:gravelly_mountains"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Gravelly Peaks": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:modified_gravelly_mountains"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Haunted Forest": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:dark_forest_hills"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Ice Spikes": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:ice_spikes"
         }
       },
       "trigger": "minecraft:location"
@@ -240,18 +328,18 @@
       },
       "trigger": "minecraft:location"
     },
-    "Jungle Edge": {
-      "conditions": {
-        "location": {
-          "biome": "minecraft:jungle_edge"
-        }
-      },
-      "trigger": "minecraft:location"
-    },
     "Jungle Hills": {
       "conditions": {
         "location": {
           "biome": "minecraft:jungle_hills"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Jungle Mountains": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:modified_jungle"
         }
       },
       "trigger": "minecraft:location"
@@ -296,6 +384,14 @@
       },
       "trigger": "minecraft:location"
     },
+    "Ocean": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:ocean"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
     "Overgrown Spires": {
       "conditions": {
         "location": {
@@ -336,18 +432,18 @@
       },
       "trigger": "minecraft:location"
     },
-    "Redwood Peaks": {
+    "Redwood Taiga": {
       "conditions": {
         "location": {
-          "biome": "projectvibrantjourneys:redwood_peaks"
+          "biome": "projectvibrantjourneys:redwoods"
         }
       },
       "trigger": "minecraft:location"
     },
-    "Redwoods": {
+    "Redwood Taiga Mountains": {
       "conditions": {
         "location": {
-          "biome": "projectvibrantjourneys:redwoods"
+          "biome": "projectvibrantjourneys:redwood_peaks"
         }
       },
       "trigger": "minecraft:location"
@@ -368,6 +464,14 @@
       },
       "trigger": "minecraft:location"
     },
+    "Shattered Savanna": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:shattered_savanna"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
     "Snowy Boreal Forest": {
       "conditions": {
         "location": {
@@ -384,7 +488,7 @@
       },
       "trigger": "minecraft:location"
     },
-    "Snowy Redwoods": {
+    "Snowy Redwood Taiga": {
       "conditions": {
         "location": {
           "biome": "projectvibrantjourneys:snowy_redwoods"
@@ -408,6 +512,14 @@
       },
       "trigger": "minecraft:location"
     },
+    "Snowy Taiga Mountains": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:snowy_taiga_mountains"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
     "Snowy Tundra": {
       "conditions": {
         "location": {
@@ -416,10 +528,10 @@
       },
       "trigger": "minecraft:location"
     },
-    "Stony Fields": {
+    "Sunflower Plains": {
       "conditions": {
         "location": {
-          "biome": "projectvibrantjourneys:stony_fields"
+          "biome": "minecraft:sunflower_plains"
         }
       },
       "trigger": "minecraft:location"
@@ -448,10 +560,50 @@
       },
       "trigger": "minecraft:location"
     },
+    "Taiga Mountains": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:taiga_mountains"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Tall Birch Forest": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:tall_birch_forest"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Tall Birch Hills": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:tall_birch_hills"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Terracota Fields": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:modified_badlands_plateau"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
     "Verdant Sands": {
       "conditions": {
         "location": {
           "biome": "projectvibrantjourneys:verdant_sands"
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "Volcanic Remnants": {
+      "conditions": {
+        "location": {
+          "biome": "minecraft:shattered_savanna_plateau"
         }
       },
       "trigger": "minecraft:location"

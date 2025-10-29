@@ -9,8 +9,8 @@
       "level": 1
     }
   ],
-  "default_charge_time": 30,
+  "default_charge_time": 25,
   "durability": 384,
   "rarity": "RARE",
-  "unique": false
+  "unique": true
 }

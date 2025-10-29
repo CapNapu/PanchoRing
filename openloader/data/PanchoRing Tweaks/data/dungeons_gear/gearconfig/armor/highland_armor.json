@@ -1,7 +1,7 @@
 {
   "attributes": [
     {
-      "amount": 0.0625,
+      "amount": 0.0375,
       "attribute": "minecraft:generic.attack_speed",
       "operation": 1
     }
@@ -16,7 +16,7 @@
       "level": 1
     }
   ],
-  "material": "dungeons_gear:medium_plate",
+  "material": "dungeons_gear:metal_plus",
   "rarity": "RARE",
   "unique": true
 }

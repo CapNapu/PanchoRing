@@ -85,7 +85,7 @@
 		aspen_grove = true
 		prairie = true
 		autumnal_coniferous_forest = true
-		stony_fields = true
+		stony_fields = false
 		redwood_peaks = true
 		overgrown_spires = true
 		redwoods = true

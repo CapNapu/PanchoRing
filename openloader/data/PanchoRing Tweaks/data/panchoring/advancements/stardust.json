@@ -15,6 +15,7 @@
     "description": {
       "translate": "advancements.panchoring.stardust.description"
     },
+    "hidden": true,
     "icon": {
       "item": "phantasm:stardust"
     },

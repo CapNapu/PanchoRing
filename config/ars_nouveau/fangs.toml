@@ -2,7 +2,7 @@
 #General settings
 [general]
 	#Range: 0.0 ~ 2.147483647E9
-	damage = 6.0
+	damage = 5.0
 	#Limits the number of times a given augment may be applied to a given effect
 	#Example entry: "amplify=5"
 	augment_limits = ["amplify=4"]
@@ -15,7 +15,7 @@
 	#Is Starter Glyph?
 	starter = false
 	#Range: 0.0 ~ 2.147483647E9
-	amplify = 3.0
+	amplify = 2.5
 	#Is Enabled?
 	enabled = true
 

@@ -1,0 +1,23 @@
+{
+    "key": {
+        "#": {
+            "item": "minecraft:nether_brick"
+        },
+        "Q": {
+            "item": "cataclysm:ignitium_ingot"
+        },
+        "S": {
+            "item": "minecraft:shield"
+        }
+    },
+    "pattern": [
+        "#Q#",
+        "#S#",
+        "#Q#"
+    ],
+    "result": {
+        "count": 1,
+        "item": "cataclysm:bulwark_of_the_flame"
+    },
+    "type": "minecraft:crafting_shaped"
+}

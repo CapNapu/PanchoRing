@@ -1,6 +1,6 @@
 {
     "type": "origins:multiple",
-    "attack.spd": {
+    "movement.spd": {
         "type": "origins:attribute",
         "modifier": {
             "attribute": "minecraft:generic.movement_speed",
@@ -8,19 +8,26 @@
             "value": -0.2
         }
     },
-    "movement.spd": {
-        "type": "origins:conditioned_attribute",
+    "attack.spd": {
+        "type": "origins:attribute",
         "modifier": {
             "attribute": "minecraft:generic.attack_speed",
             "operation": "multiply_base",
             "value": -0.25
+        }
+    },
+    "attack.spd.heavy": {
+        "type": "origins:conditioned_attribute",
+        "modifier": {
+            "attribute": "minecraft:generic.attack_speed",
+            "operation": "multiply_base",
+            "value": 0.334
         },
         "tick_rate": 5,
         "condition": {
             "type": "origins:or",
             "conditions": [
                 {            
-                    "inverted": true,
                     "type": "origins:equipped_item",
                     "equipment_slot": "mainhand",
                     "item_condition": {
@@ -31,7 +38,6 @@
                     }
                 },
                 {
-                    "inverted": true,
                     "type": "origins:equipped_item",
                     "equipment_slot": "offhand",
                     "item_condition": {

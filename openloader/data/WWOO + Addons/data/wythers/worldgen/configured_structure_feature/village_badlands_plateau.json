@@ -1,7 +1,0 @@
-{
-  "config": {
-    "start_pool": "wythers:village/badlands_plateau/town_centers",
-    "size": 3
-  },
-  "type": "minecraft:village"
-}

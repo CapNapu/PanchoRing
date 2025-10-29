@@ -15,6 +15,7 @@
     "description": {
       "translate": "advancements.panchoring.stellium_nugget.description"
     },
+    "hidden": true,
     "icon": {
       "item": "phantasm:stellium_nugget"
     },

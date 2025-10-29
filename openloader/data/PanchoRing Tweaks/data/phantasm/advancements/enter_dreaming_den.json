@@ -8,6 +8,7 @@
     "description": {
       "translate": "advancements.enter_dreaming_den.descr"
     },
+    "hidden": true,
     "icon": {
       "item": "phantasm:vivid_nihilium"
     },

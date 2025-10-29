@@ -55,7 +55,7 @@
 		# Biomes that should not have any title displayed when the player enters them.
 		# Example: "[minecraft:plains, minecraft:desert]"
 		# Default: "[minecraft:the_end, minecraft:river, minecraft:frozen_river]"
-		"Blacklisted Biomes" = "[minecraft:the_end, minecraft:river, minecraft:frozen_river, minecraft:beach, minecraft:snowy_beach, minecraft:stone_shore, minecraft:mushroom_field_shore, projectvibrantjourneys:gravel_shore, projectvibrantjourneys:windswept_shore]"
+		"Blacklisted Biomes" = "[minecraft:beach, minecraft:frozen_river, minecraft:jungle_edge, minecraft:modified_jungle_edge, minecraft:mushroom_field_shore, minecraft:river, minecraft:snowy_beach, minecraft:stone_shore,minecraft:the_end, projectvibrantjourneys:gravel_shore, projectvibrantjourneys:tropical_beach, projectvibrantjourneys:windswept_shore]"
 		# Traveler's Titles tracks a list of biomes the player most recently visited in order to
 		# prevent the player from being spammed with titles when they move between the same few biomes.
 		# This is the size of that list.

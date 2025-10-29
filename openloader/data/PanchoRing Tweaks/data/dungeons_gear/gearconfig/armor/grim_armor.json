@@ -1,9 +1,9 @@
 {
   "attributes": [
     {
-      "amount": 0.125,
+      "amount": 0.25,
       "attribute": "dungeons_libraries:soul_gathering",
-      "operation": 1
+      "operation": 0
     }
   ],
   "built_in_enchantments": [
@@ -12,7 +12,7 @@
       "level": 1
     }
   ],
-  "material": "dungeons_gear:bone",
+  "material": "dungeons_gear:organic",
   "rarity": "UNCOMMON",
   "unique": false
 }

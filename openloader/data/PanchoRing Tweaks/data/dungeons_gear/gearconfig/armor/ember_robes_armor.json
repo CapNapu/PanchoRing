@@ -1,9 +1,9 @@
 {
   "attributes": [
     {
-      "amount": 0.0625,
-      "attribute": "dungeons_libraries:ranged_damage_multiplier",
-      "operation": 1
+      "amount": 0.5,
+      "attribute": "dungeons_libraries:magic_damage_multiplier",
+      "operation": 0
     }
   ],
   "built_in_enchantments": [
@@ -16,7 +16,7 @@
       "level": 1
     }
   ],
-  "material": "dungeons_gear:cloth",
+  "material": "dungeons_gear:leather_plus",
   "rarity": "RARE",
   "unique": true
 }

@@ -69,7 +69,6 @@
     ]
   ],
   "starts": [
-    "wythers:village_jungle",
     "minecraft:mineshaft",
     "minecraft:stronghold",
     "minecraft:ruined_portal_jungle"

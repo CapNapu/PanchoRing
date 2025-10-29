@@ -1,0 +1,139 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3,
+                "min": 0
+              },
+              "function": "set_count"
+            },
+            {
+              "count": {
+                "max": 1,
+                "min": 0
+              },
+              "function": "looting_enchant"
+            }
+          ],
+          "name": "minecraft:feather",
+          "type": "item",
+          "weight": 1
+        }
+      ],
+      "name": "cockatrice",
+      "rolls": 1
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 2,
+                "min": 0
+              },
+              "function": "set_count"
+            },
+            {
+              "count": {
+                "max": 1,
+                "min": 0
+              },
+              "function": "looting_enchant"
+            }
+          ],
+          "name": "iceandfire:witherbone",
+          "type": "item",
+          "weight": 1
+        }
+      ],
+      "name": "cockatrice",
+      "rolls": 1
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3,
+                "min": 1
+              },
+              "function": "set_count"
+            },
+            {
+              "conditions": [
+                {
+                  "condition": "entity_properties",
+                  "entity": "this",
+                  "properties": {
+                    "on_fire": true
+                  }
+                }
+              ],
+              "function": "furnace_smelt"
+            },
+            {
+              "count": {
+                "max": 1,
+                "min": 0
+              },
+              "function": "looting_enchant"
+            }
+          ],
+          "name": "minecraft:chicken",
+          "type": "item",
+          "weight": 1
+        }
+      ],
+      "name": "cockatrice",
+      "rolls": 1
+    },
+    {
+      "conditions": [
+        {
+          "condition": "killed_by_player"
+        },
+        {
+          "chance": 0.1,
+          "condition": "random_chance_with_looting",
+          "looting_multiplier": 0.03
+        }
+      ],
+      "entries": [
+        {
+          "name": "iceandfire:cockatrice_eye",
+          "type": "item",
+          "weight": 1
+        }
+      ],
+      "name": "cockatrice",
+      "rolls": 1
+    },
+    {
+      "conditions": [
+        {
+          "condition": "killed_by_player"
+        },
+        {
+          "chance": 0.025,
+          "condition": "random_chance_with_looting",
+          "looting_multiplier": 0.01
+        }
+      ],
+      "entries": [
+        {
+          "name": "iceandfire:cockatrice_skull",
+          "type": "item",
+          "weight": 1
+        }
+      ],
+      "name": "cockatrice",
+      "rolls": 1
+    }
+  ]
+}

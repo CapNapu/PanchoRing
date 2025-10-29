@@ -13,7 +13,7 @@
 	#Disable this may cause some strange issues between iron golems and zombies
 	MobsTargetAttacker = true
 	#Deaf entities that fail to hear anything
-	Deaf = ["minecraft:bee", "minecraft:cave_spider", "minecraft:endermite", "minecraft:silverfish", "minecraft:spider", "alexsmobs:centipede_head", "alexsmobs:crimson_mosquito", "alexsmobs:leafcutter_ant", "alexsmobs:lobster", "alexsmobs:mantis_shrimp", "alexsmobs:tarantula_hawk", "alexsmobs:warped_mosco", "cataclysm:endermaptera", "infernalexp:glowsquito", "infernalexp:warpbeetle"]
+	Deaf = ["minecraft:bee", "minecraft:cave_spider", "minecraft:endermite", "minecraft:silverfish", "minecraft:spider", "alexsmobs:centipede_head", "alexsmobs:crimson_mosquito", "alexsmobs:leafcutter_ant", "alexsmobs:lobster", "alexsmobs:mantis_shrimp", "alexsmobs:tarantula_hawk", "alexsmobs:warped_mosco", "cataclysm:endermaptera", "infernalexp:glowsquito", "infernalexp:warpbeetle", "minecraft:piglin", "minecraft:piglin_brute", "bygonenether:piglin_hunter", "bygonenether:piglin_prisoner"]
 	#Blind entities that fail to see anything
 	Blind = []
 

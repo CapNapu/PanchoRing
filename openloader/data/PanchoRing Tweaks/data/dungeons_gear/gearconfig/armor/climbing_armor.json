@@ -1,23 +1,18 @@
 {
   "attributes": [
     {
-      "amount": -0.1,
+      "amount": -0.125,
       "attribute": "dungeons_libraries:artifact_cooldown_multiplier",
-      "operation": 1
-    },
-    {
-      "amount": 0.375,
-      "attribute": "epicfight:stun_armor",
       "operation": 1
     }
   ],
   "built_in_enchantments": [
     {
-      "enchantment": "dungeons_gear:melee_aura",
+      "enchantment": "dungeons_gear:swiftfooted",
       "level": 1
     }
   ],
-  "material": "dungeons_gear:pelt",
+  "material": "dungeons_gear:leather",
   "rarity": "UNCOMMON",
   "unique": false
 }

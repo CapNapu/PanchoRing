@@ -3,5 +3,5 @@
     "start_pool": "wythers:village/wooded_badlands_plateau/town_centers",
     "size": 3
   },
-  "type": "minecraft:village"
+  "type": "minecraft:pillager_outpost"
 }

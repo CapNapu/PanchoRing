@@ -23,10 +23,6 @@
           "type": "minecraft:item"
         },
         {
-          "name": "dungeons_gear:fighters_binding",
-          "type": "minecraft:item"
-        },
-        {
           "name": "dungeons_gear:rapier",
           "type": "minecraft:item"
         },
@@ -303,6 +299,22 @@
           "type": "minecraft:item"
         },
         {
+          "name": "dungeons_gear:battle_robes_helmet",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:battle_robes_chestplate",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:battle_robes_leggings",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:battle_robes_boots",
+          "type": "minecraft:item"
+        },
+        {
           "name": "dungeons_gear:champions_helmet",
           "type": "minecraft:item"
         },
@@ -428,38 +440,6 @@
         },
         {
           "name": "dungeons_gear:hungry_horror_boots",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:ocelot_helmet",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:ocelot_chestplate",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:ocelot_leggings",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:ocelot_boots",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:shadow_walker_helmet",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:shadow_walker_chestplate",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:shadow_walker_leggings",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:shadow_walker_boots",
           "type": "minecraft:item"
         },
         {
@@ -751,19 +731,19 @@
           "type": "minecraft:item"
         },
         {
-          "name": "dungeons_gear:battle_robes_helmet",
+          "name": "dungeons_gear:thief_helmet",
           "type": "minecraft:item"
         },
         {
-          "name": "dungeons_gear:battle_robes_chestplate",
+          "name": "dungeons_gear:thief_chestplate",
           "type": "minecraft:item"
         },
         {
-          "name": "dungeons_gear:battle_robes_leggings",
+          "name": "dungeons_gear:thief_leggings",
           "type": "minecraft:item"
         },
         {
-          "name": "dungeons_gear:battle_robes_boots",
+          "name": "dungeons_gear:thief_boots",
           "type": "minecraft:item"
         },
         {
@@ -1039,15 +1019,15 @@
           "type": "minecraft:item"
         },
         {
-          "name": "dungeons_gear:gold_sword",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:gold_axe",
+          "name": "dungeons_gear:fighters_binding",
           "type": "minecraft:item"
         },
         {
           "name": "dungeons_gear:firebrand",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:cursed_axe",
           "type": "minecraft:item"
         },
         {

@@ -4,7 +4,7 @@
         "type": "origins:modify_damage_dealt",
         "modifier": {
             "operation": "multiply_base",
-            "value": -0.33
+            "value": -0.334
         },
         "condition": {
             "type": "origins:dimension",
@@ -15,7 +15,7 @@
         "type": "origins:modify_projectile_damage",
         "modifier": {
             "operation": "multiply_base",
-            "value": -0.33
+            "value": -0.334
         },
         "condition": {
             "type": "origins:dimension",
@@ -26,7 +26,7 @@
         "type": "origins:modify_damage_taken",
         "modifier": {
             "operation": "multiply_base",
-            "value": 0.33
+            "value": 0.334
         },
         "condition": {
             "type": "origins:dimension",

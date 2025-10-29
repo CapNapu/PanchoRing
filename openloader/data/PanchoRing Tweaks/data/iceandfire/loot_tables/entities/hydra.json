@@ -1,0 +1,73 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 8,
+                "min": 4
+              },
+              "function": "set_count"
+            },
+            {
+              "count": {
+                "max": 2,
+                "min": 0
+              },
+              "function": "looting_enchant"
+            }
+          ],
+          "name": "iceandfire:hydra_fang",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 4,
+                "min": 1
+              },
+              "function": "set_count"
+            },
+            {
+              "count": {
+                "max": 1,
+                "min": 0
+              },
+              "function": "looting_enchant"
+            }
+          ],
+          "name": "minecraft:rotten_flesh",
+          "type": "item",
+          "weight": 1
+        }
+      ],
+      "name": "hydra",
+      "rolls": 3
+    },
+    {
+      "conditions": [
+        {
+          "condition": "killed_by_player"
+        },
+        {
+          "chance": 0.025,
+          "condition": "random_chance_with_looting",
+          "looting_multiplier": 0.01
+        }
+      ],
+      "entries": [
+        {
+          "name": "iceandfire:hydra_skull",
+          "type": "item",
+          "weight": 1
+        }
+      ],
+      "name": "hydra",
+      "rolls": 1
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "attributes": [
     {
-      "amount": 0.5,
-      "attribute": "epicfight:stun_armor",
+      "amount": -0.125,
+      "attribute": "dungeons_libraries:artifact_cooldown_multiplier",
       "operation": 1
     }
   ],
@@ -16,7 +16,7 @@
       "level": 1
     }
   ],
-  "material": "dungeons_gear:pelt",
+  "material": "dungeons_gear:leather_plus",
   "rarity": "RARE",
   "unique": true
 }

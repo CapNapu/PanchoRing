@@ -10,26 +10,8 @@
         "priceModifier": 0
       },
       "request": {
-        "itemKey": "extcaves:sedimentstone",
-        "amount": 18,
-        "priceModifier": 0
-      },
-      "tradeExp": 10,
-      "maxUses": 16,
-      "priceMultiplier": 0.05,
-      "demand": 0,
-      "tradeLevel": 2,
-      "UTID": "minecraft:mason_emerald_for_sedimentstone"
-    },
-    {
-      "offer": {
-        "itemKey": "minecraft:emerald",
-        "amount": 1,
-        "priceModifier": 0
-      },
-      "request": {
         "itemKey": "extcaves:lavastone",
-        "amount": 15,
+        "amount": 12,
         "priceModifier": 0
       },
       "tradeExp": 10,
@@ -41,8 +23,8 @@
     },
     {
       "offer": {
-        "itemKey": "bygonenether:withered_blackstone",
-        "amount": 3,
+        "itemKey": "supplementaries:daub",
+        "amount": 4,
         "priceModifier": 0
       },
       "request": {
@@ -50,9 +32,27 @@
         "amount": 1,
         "priceModifier": 0
       },
+      "tradeExp": 15,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:mason_daub_for_emerald"
+    },
+    {
+      "offer": {
+        "itemKey": "bygonenether:withered_blackstone",
+        "amount": 4,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3,
+        "priceModifier": 0
+      },
       "additionalRequest": {
         "itemKey": "iceandfire:witherbone",
-        "amount": 3,
+        "amount": 2,
         "priceModifier": 0
       },
       "tradeExp": 30,

@@ -3,10 +3,10 @@
 [general]
 	#Base heal amount
 	#Range: 0.0 ~ 1.7976931348623157E308
-	base_heal = 3.0
+	base_heal = 4.0
 	#Limits the number of times a given augment may be applied to a given effect
 	#Example entry: "amplify=5"
-	augment_limits = ["dampen=0"]
+	augment_limits = ["amplify=4", "dampen=0"]
 	#Cost
 	#Range: > -2147483648
 	cost = 225

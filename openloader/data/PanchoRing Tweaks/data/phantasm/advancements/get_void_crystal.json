@@ -15,6 +15,7 @@
     "description": {
       "translate": "advancements.get_void_crystal.descr"
     },
+    "hidden": true,
     "icon": {
       "item": "phantasm:void_crystal_spike_tip"
     },

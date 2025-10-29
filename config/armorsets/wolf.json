@@ -22,7 +22,7 @@
       "type": "attribute",
       "name": "epicfight:impact",
       "value": 0.25,
-      "modifierUUID": "c740f6ba-9d08-4fed-94f4-d524815790f2",
+      "modifierUUID": "940bf8ec-af7d-424d-99e4-9a55919ec203",
       "attributeOperation": 1,
       "interactionType": "self",
       "hideBonusDescription": true

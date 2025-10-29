@@ -8,6 +8,7 @@
     "description": {
       "translate": "advancements.enter_underisland.descr"
     },
+    "hidden": true,
     "icon": {
       "item": "phantasm:oblivion"
     },

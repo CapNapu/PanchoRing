@@ -8,6 +8,7 @@
     "description": {
       "translate": "advancements.drink_purity_brew.descr"
     },
+    "hidden": true,
     "icon": {
       "item": "phantasm:crystalily"
     },

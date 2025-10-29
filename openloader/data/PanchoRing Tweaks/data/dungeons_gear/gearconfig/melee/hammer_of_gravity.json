@@ -22,7 +22,6 @@
     }
   ],
   "combo": 1,
-  "disables_shield": true,
   "material": "minecraft:iron",
   "rarity": "RARE",
   "unique": true

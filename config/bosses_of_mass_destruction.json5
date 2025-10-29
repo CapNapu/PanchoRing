@@ -1,7 +1,7 @@
 {
 	"lichConfig": {
 		"eternalNighttime": true,
-		"experienceDrop": 1000,
+		"experienceDrop": 200,
 		"idleHealingPerTick": 0.20000000298023224,
 		"health": 425.0,
 		"missile": {
@@ -16,34 +16,26 @@
 		"summonMechanic": {
 			"isEnabled": true,
 			"entitiesThatCountToSummonCounter": [
-				"minecraft:skeleton",
-				"majruszs_difficulty:elite_skeleton",
-				"minecraft:phantom",
-				"minecraft:zoglin",
-				"minecraft:zombified_piglin",
-				"epicfight:wither_skeleton_minion",
+				"minecraft:vex",
 				"minecraft:wither_skeleton",
-				"minecraft:husk",
-				"bygonenether:wraither",
-				"minecraft:skeleton_horse",
+				"alexsmobs:soul_vulture",
+				"alexsmobs:warped_mosco",
 				"bygonenether:corpor",
+				"bygonenether:wex",
 				"bygonenether:wither_skeleton_horse",
-				"infernalexp:embody",
-				"minecraft:stray",
-				"minecraft:zombie_horse",
-				"minecraft:zombie",
-				"minecraft:drowned",
-				"minecraft:zombie_villager"
+				"bygonenether:wraither",
+				"iceandfire:ghost",
+				"infernalexp:embody"
 			],
-			"numEntitiesKilledToDropSoulStar": 250
+			"numEntitiesKilledToDropSoulStar": 50
 		}
 	},
 	"obsidilithConfig": {
 		"health": 475.0,
-		"armor": 20.0,
+		"armor": 14.0,
 		"attack": 16.0,
 		"idleHealingPerTick": 0.5,
-		"experienceDrop": 1000,
+		"experienceDrop": 200,
 		"spawnPillarOnDeath": true,
 		"anvilAttackExplosionStrength": 4.0,
 		"arenaGeneration": {
@@ -52,22 +44,22 @@
 	},
 	"gauntletConfig": {
 		"health": 325.0,
-		"armor": 15.0,
+		"armor": 8.0,
 		"attack": 16.0,
 		"idleHealingPerTick": 0.5,
-		"experienceDrop": 1000,
+		"experienceDrop": 200,
 		"spawnAncientDebrisOnDeath": true,
 		"energizedPunchExplosionSize": 4.5,
 		"normalPunchExplosionMultiplier": 1.5
 	},
 	"voidBlossomConfig": {
 		"health": 400.0,
-		"armor": 10.0,
+		"armor": 6.0,
 		"attack": 12.0,
 		"idleHealingPerTick": 0.5,
-		"experienceDrop": 1000
+		"experienceDrop": 200
 	},
 	"generalConfig": {
-		"tableOfElevationRadius": 3
+		"tableOfElevationRadius": 12
 	}
 }

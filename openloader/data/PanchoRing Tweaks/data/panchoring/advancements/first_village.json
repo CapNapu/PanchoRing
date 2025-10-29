@@ -1,81 +1,8 @@
 {
   "criteria": {
-    "badlands_pueblo_1": {
+    "village": {
       "conditions": {
         "location": {
-          "biome": "badlands",
-          "feature": "village"
-        }
-      },
-      "trigger": "minecraft:location"
-    },
-    "badlands_pueblo_2": {
-      "conditions": {
-        "location": {
-          "biome": "eroded_badlands",
-          "feature": "village"
-        }
-      },
-      "trigger": "minecraft:location"
-    },
-    "desert_village": {
-      "conditions": {
-        "location": {
-          "biome": "desert",
-          "feature": "village"
-        }
-      },
-      "trigger": "minecraft:location"
-    },
-    "jungle_village_1": {
-      "conditions": {
-        "location": {
-          "biome": "jungle",
-          "feature": "village"
-        }
-      },
-      "trigger": "minecraft:location"
-    },
-    "jungle_village_2": {
-      "conditions": {
-        "location": {
-          "biome": "bamboo_jungle",
-          "feature": "village"
-        }
-      },
-      "trigger": "minecraft:location"
-    },
-    "plains_village": {
-      "conditions": {
-        "location": {
-          "biome": "plains",
-          "feature": "village"
-        }
-      },
-      "trigger": "minecraft:location"
-    },
-    "savanna_village": {
-      "conditions": {
-        "location": {
-          "biome": "savanna",
-          "feature": "village"
-        }
-      },
-      "trigger": "minecraft:location"
-    },
-    "snowy_village": {
-      "conditions": {
-        "location": {
-          "biome": "snowy_tundra",
-          "feature": "village"
-        }
-      },
-      "trigger": "minecraft:location"
-    },
-    "taiga_village": {
-      "conditions": {
-        "location": {
-          "biome": "taiga",
           "feature": "village"
         }
       },
@@ -93,18 +20,5 @@
       "translate": "advancements.panchoring.first_village.title"
     }
   },
-  "parent": "supplementaries:adventure/way_sign",
-  "requirements": [
-    [
-      "badlands_pueblo_1",
-      "badlands_pueblo_2",
-      "desert_village",
-      "jungle_village_1",
-      "jungle_village_2",
-      "plains_village",
-      "savanna_village",
-      "snowy_village",
-      "taiga_village"
-    ]
-  ]
+  "parent": "supplementaries:adventure/way_sign"
 }

@@ -20,5 +20,5 @@
   "combo": 3,
   "material": "minecraft:iron",
   "rarity": "UNCOMMON",
-  "unique": true
+  "unique": false
 }

@@ -65,8 +65,7 @@
     ]
   ],
   "starts": [
-    "wythers:village_badlands_plateau",
-	  "wythers:outpost_badlands_plateau",
+    "minecraft:pillager_outpost",
 	  "minecraft:mineshaft_mesa",
     "minecraft:stronghold",
     "minecraft:ruined_portal_mountain"

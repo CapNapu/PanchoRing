@@ -10,7 +10,7 @@
 		# Entries must have the mod namespace included.
 		# For example: "[minecraft:plains, byg:alps]"
 		# Default: "[minecraft:ocean, minecraft:frozen_ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:beach, minecraft:snowy_beach, minecraft:river, minecraft:frozen_river, minecraft:deep_warm_ocean]"
-		"Skeleton Dungeon Blacklisted Biomes" = "[minecraft:beach, minecraft:cold_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_ocean, minecraft:deep_warm_ocean, minecraft:frozen_ocean, minecraft:frozen_river, minecraft:lukewarm_ocean, minecraft:mushroom_field_shore, minecraft:ocean, minecraft:river, minecraft:snowy_beach, minecraft:stone_shore, minecraft:warm_ocean, projectvibrantjourneys:gravel_shore, projectvibrantjourneys:windswept_shore]"
+		"Skeleton Dungeon Blacklisted Biomes" = "[minecraft:beach, minecraft:cold_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_ocean, minecraft:deep_warm_oceanminecraft:frozen_ocean, minecraft:frozen_river, minecraft:jungle_edge, minecraft:lukewarm_ocean, minecraft:modified_jungle_edge, minecraft:mushroom_field_shore, minecraft:ocean, minecraft:river, minecraft:snowy_beach, minecraft:stone_shore, minecraft:warm_ocean, projectvibrantjourneys:gravel_shore, projectvibrantjourneys:tropical_beach, projectvibrantjourneys:windswept_shore]"
 		# Whether or not Skeleton Dungeons from Better Dungeons should spawn.
 		# Default: true
 		"Spawn Skeleton Dungeons" = true
@@ -63,7 +63,7 @@
 		# Entries must have the mod namespace included.
 		# For example: "[minecraft:plains, byg:alps]"
 		# Default: "[minecraft:ocean, minecraft:frozen_ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:beach, minecraft:snowy_beach, minecraft:river, minecraft:frozen_river, minecraft:deep_warm_ocean]"
-		"Zombie Dungeon Blacklisted Biomes" = "[minecraft:beach, minecraft:cold_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_ocean, minecraft:deep_warm_ocean, minecraft:frozen_ocean, minecraft:frozen_river, minecraft:lukewarm_ocean, minecraft:mushroom_field_shore, minecraft:ocean, minecraft:river, minecraft:snowy_beach, minecraft:stone_shore, minecraft:warm_ocean, projectvibrantjourneys:gravel_shore, projectvibrantjourneys:windswept_shore]"
+		"Zombie Dungeon Blacklisted Biomes" = "[minecraft:beach, minecraft:cold_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_ocean, minecraft:deep_warm_oceanminecraft:frozen_ocean, minecraft:frozen_river, minecraft:jungle_edge, minecraft:lukewarm_ocean, minecraft:modified_jungle_edge, minecraft:mushroom_field_shore, minecraft:ocean, minecraft:river, minecraft:snowy_beach, minecraft:stone_shore, minecraft:warm_ocean, projectvibrantjourneys:gravel_shore, projectvibrantjourneys:tropical_beach, projectvibrantjourneys:windswept_shore]"
 		# The maximum y-value at which the STARTING POINT of the zombie dungeon can spawn.
 		# Note that this point is the bottom of the zombie dungeon, so the various pieces of the dungeon can extend below it.
 		# Default: 51
@@ -78,7 +78,7 @@
 		# Entries must have the mod namespace included.
 		# For example: "[minecraft:plains, byg:alps]"
 		# Default: "[minecraft:ocean, minecraft:frozen_ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:beach, minecraft:snowy_beach, minecraft:river, minecraft:frozen_river, minecraft:deep_warm_ocean]"
-		"Spider Dungeon Blacklisted Biomes" = "[minecraft:beach, minecraft:cold_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_ocean, minecraft:deep_warm_ocean, minecraft:frozen_ocean, minecraft:frozen_river, minecraft:lukewarm_ocean, minecraft:mushroom_field_shore, minecraft:ocean, minecraft:river, minecraft:snowy_beach, minecraft:stone_shore, minecraft:warm_ocean, projectvibrantjourneys:gravel_shore, projectvibrantjourneys:windswept_shore]"
+		"Spider Dungeon Blacklisted Biomes" = "[minecraft:beach, minecraft:cold_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_ocean, minecraft:deep_warm_oceanminecraft:frozen_ocean, minecraft:frozen_river, minecraft:jungle_edge, minecraft:lukewarm_ocean, minecraft:modified_jungle_edge, minecraft:mushroom_field_shore, minecraft:ocean, minecraft:river, minecraft:snowy_beach, minecraft:stone_shore, minecraft:warm_ocean, projectvibrantjourneys:gravel_shore, projectvibrantjourneys:tropical_beach, projectvibrantjourneys:windswept_shore]"
 		# List of dimensions that will have Spider Dungeons.
 		# List must be comma-separated values enclosed in square brackets.
 		# Entries must have the mod namespace included.
@@ -138,7 +138,7 @@
 		# Entries must have the mod namespace included.
 		# For example: "[minecraft:plains, byg:alps]"
 		# Default: "[minecraft:ocean, minecraft:frozen_ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:beach, minecraft:snowy_beach, minecraft:river, minecraft:frozen_river, minecraft:deep_warm_ocean]"
-		"Small Dungeon Blacklisted Biomes" = "[minecraft:ocean, minecraft:frozen_ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:beach, minecraft:snowy_beach, minecraft:river, minecraft:frozen_river, minecraft:deep_warm_ocean, minecraft:mushroom_field_shore, projectvibrantjourneys:gravel_shore, projectvibrantjourneys:windswept_shore]"
+		"Small Dungeon Blacklisted Biomes" = "[minecraft:beach, minecraft:cold_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_ocean, minecraft:deep_warm_oceanminecraft:frozen_ocean, minecraft:frozen_river, minecraft:jungle_edge, minecraft:lukewarm_ocean, minecraft:modified_jungle_edge, minecraft:mushroom_field_shore, minecraft:ocean, minecraft:river, minecraft:snowy_beach, minecraft:stone_shore, minecraft:warm_ocean, projectvibrantjourneys:gravel_shore, projectvibrantjourneys:tropical_beach, projectvibrantjourneys:windswept_shore]"
 		# The minimum number of chests that are guaranteed to spawn in a single small dungeon.
 		# Default: 1
 		"Small Dungeon Min Chest Count" = 1

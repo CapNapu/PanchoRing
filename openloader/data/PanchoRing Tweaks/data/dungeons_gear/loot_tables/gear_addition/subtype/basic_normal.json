@@ -51,6 +51,10 @@
           "type": "minecraft:item"
         },
         {
+          "name": "dungeons_gear:gold_sword",
+          "type": "minecraft:item"
+        },
+        {
           "name": "dungeons_gear:hawkbrand",
           "type": "minecraft:item"
         },
@@ -79,15 +83,15 @@
           "type": "minecraft:item"
         },
         {
+          "name": "dungeons_gear:gold_axe",
+          "type": "minecraft:item"
+        },
+        {
           "name": "dungeons_gear:highland_axe",
           "type": "minecraft:item"
         },
         {
           "name": "dungeons_gear:double_axe",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:cursed_axe",
           "type": "minecraft:item"
         },
         {
@@ -295,6 +299,22 @@
           "type": "minecraft:item"
         },
         {
+          "name": "dungeons_gear:battle_robes_helmet",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:battle_robes_chestplate",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:battle_robes_leggings",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:battle_robes_boots",
+          "type": "minecraft:item"
+        },
+        {
           "name": "dungeons_gear:champions_helmet",
           "type": "minecraft:item"
         },
@@ -420,38 +440,6 @@
         },
         {
           "name": "dungeons_gear:hungry_horror_boots",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:ocelot_helmet",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:ocelot_chestplate",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:ocelot_leggings",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:ocelot_boots",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:shadow_walker_helmet",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:shadow_walker_chestplate",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:shadow_walker_leggings",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:shadow_walker_boots",
           "type": "minecraft:item"
         },
         {

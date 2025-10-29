@@ -1,8 +1,8 @@
 {
   "attributes": [
     {
-      "amount": 0.0625,
-      "attribute": "minecraft:generic.attack_speed",
+      "amount": 0.075,
+      "attribute": "minecraft:generic.attack_damage",
       "operation": 1
     }
   ],
@@ -16,7 +16,7 @@
       "level": 1
     }
   ],
-  "material": "dungeons_gear:light_plate",
+  "material": "dungeons_gear:leather_plus",
   "rarity": "RARE",
   "unique": true
 }

@@ -17,7 +17,7 @@
 	starter = false
 	#Potion duration, in seconds
 	#Range: > 0
-	potion_time = 15
+	potion_time = 30
 	#Is Enabled?
 	enabled = true
 

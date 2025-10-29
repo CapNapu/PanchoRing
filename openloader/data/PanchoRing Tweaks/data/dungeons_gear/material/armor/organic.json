@@ -1,0 +1,17 @@
+{
+  "base_type": "metal",
+  "damage_reduction_amounts": [
+    3,
+    6,
+    8,
+    3
+  ],
+  "durability": 15,
+  "enchantability": 10,
+  "equip_sound": "minecraft:item.armor.equip_turtle",
+  "knockback_resistance": 0.0,
+  "name": "dungeons_gear:organic",
+  "repair_item": "iceandfire:dread_shard",
+  "toughness": 0.0,
+  "type": "dungeons_libraries:dungeons_armor_material"
+}

@@ -1,7 +1,7 @@
 {
   "attributes": [
     {
-      "amount": 0.0625,
+      "amount": 0.075,
       "attribute": "minecraft:generic.attack_speed",
       "operation": 1
     }
@@ -16,7 +16,7 @@
       "level": 1
     }
   ],
-  "material": "minecraft:leather",
+  "material": "dungeons_gear:leather_plus",
   "rarity": "RARE",
   "unique": true
 }

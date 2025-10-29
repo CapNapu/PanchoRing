@@ -1,0 +1,52 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 1,
+                "min": 0
+              },
+              "function": "set_count"
+            },
+            {
+              "count": {
+                "max": 1,
+                "min": 0
+              },
+              "function": "looting_enchant"
+            }
+          ],
+          "name": "iceandfire:ectoplasm",
+          "type": "item",
+          "weight": 1
+        }
+      ],
+      "name": "if_ghost",
+      "rolls": 1
+    },
+    {
+      "conditions": [
+        {
+          "condition": "killed_by_player"
+        },
+        {
+          "chance": 0.01,
+          "condition": "random_chance_with_looting",
+          "looting_multiplier": 0.03
+        }
+      ],
+      "entries": [
+        {
+          "name": "iceandfire:ghost_ingot",
+          "type": "item",
+          "weight": 1
+        }
+      ],
+      "name": "if_ghost",
+      "rolls": 1
+    }
+  ]
+}

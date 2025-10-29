@@ -1,0 +1,32 @@
+{
+  "ingredients": [
+    {
+      "item": "phantasm:stellium_nugget"
+    },
+    {
+      "item": "phantasm:stellium_nugget"
+    },
+    {
+      "item": "phantasm:stellium_nugget"
+    },
+    {
+      "item": "phantasm:stellium_nugget"
+    },
+    {
+      "item": "iceandfire:silver_ingot"
+    },
+    {
+      "item": "iceandfire:silver_ingot"
+    },
+    {
+      "item": "iceandfire:silver_ingot"
+    },
+    {
+      "item": "iceandfire:silver_ingot"
+    }
+  ],
+  "result": {
+    "item": "phantasm:stellium_ingot"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

@@ -1,0 +1,127 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 10,
+                "min": 1
+              },
+              "function": "set_count"
+            },
+            {
+              "count": {
+                "max": 2,
+                "min": 0
+              },
+              "function": "looting_enchant"
+            }
+          ],
+          "name": "minecraft:leather",
+          "type": "item",
+          "weight": 1
+        }
+      ],
+      "name": "cyclops",
+      "rolls": 1
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 10,
+                "min": 0
+              },
+              "function": "set_count"
+            },
+            {
+              "count": {
+                "max": 2,
+                "min": 0
+              },
+              "function": "looting_enchant"
+            }
+          ],
+          "name": "minecraft:mutton",
+          "type": "item",
+          "weight": 1
+        }
+      ],
+      "name": "cyclops",
+      "rolls": 1
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 5,
+                "min": 0
+              },
+              "function": "set_count"
+            },
+            {
+              "count": {
+                "max": 2,
+                "min": 0
+              },
+              "function": "looting_enchant"
+            }
+          ],
+          "name": "minecraft:white_wool",
+          "type": "item",
+          "weight": 1
+        }
+      ],
+      "name": "cyclops",
+      "rolls": 1
+    },
+    {
+      "conditions": [
+        {
+          "condition": "killed_by_player"
+        },
+        {
+          "chance": 0.25,
+          "condition": "random_chance_with_looting",
+          "looting_multiplier": 0.1
+        }
+      ],
+      "entries": [
+        {
+          "name": "iceandfire:cyclops_eye",
+          "type": "item",
+          "weight": 1
+        }
+      ],
+      "name": "cyclops",
+      "rolls": 1
+    },
+    {
+      "conditions": [
+        {
+          "condition": "killed_by_player"
+        },
+        {
+          "chance": 0.025,
+          "condition": "random_chance_with_looting",
+          "looting_multiplier": 0.01
+        }
+      ],
+      "entries": [
+        {
+          "name": "iceandfire:cyclops_skull",
+          "type": "item",
+          "weight": 1
+        }
+      ],
+      "name": "cyclops",
+      "rolls": 1
+    }
+  ]
+}
