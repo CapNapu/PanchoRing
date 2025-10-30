@@ -1,0 +1,44 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "conditions": [
+            {
+              "chance": 0.5,
+              "condition": "minecraft:random_chance"
+            }
+          ],
+          "name": "majruszs_difficulty:end_shard_locator",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1
+    },
+    {
+      "entries": [
+        {
+          "name": "minecraft:experience_bottle",
+          "type": "minecraft:item",
+          "weight": 35
+        },
+        {
+          "name": "minecraft:dragon_breath",
+          "type": "minecraft:item",
+          "weight": 30
+        },
+        {
+          "name": "minecraft:end_crystal",
+          "type": "minecraft:item",
+          "weight": 10
+        }
+      ],
+      "rolls": {
+        "max": 12.0,
+        "min": 6.0,
+        "type": "minecraft:uniform"
+      }
+    }
+  ],
+  "type": "minecraft:gift"
+}

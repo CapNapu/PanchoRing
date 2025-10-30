@@ -12,7 +12,7 @@
 	enableTwoHandedWeapon = false
 	#Add entities that should be targetted, but aren't by aggressive Dungeons effects. 
 	#To do so, enter their registry names.
-	effectTargetWhitelist = ["iceandfire:cockatrice", "iceandfire:cyclops", "iceandfire:fire_dragon", "iceandfire:hydra", "iceandfire:ice_dragon", "iceandfire:lightning_dragon", "iceandfire:sea_serpent", "iceandfire:siren", "iceandfire:stymphalian_bird"]
+	effectTargetWhitelist = ["iceandfire:cockatrice", "iceandfire:cyclops", "iceandfire:fire_dragon", "iceandfire:hydra", "iceandfire:ice_dragon", "iceandfire:lightning_dragon", "iceandfire:sea_serpent", "iceandfire:siren", "iceandfire:stymphalian_bird", "majruszs_difficulty:pillager_wolf"]
 	#Enable dual wielding. 
 	#If you do not want dual wielding, disable this feature. [true / false]
 	enableDualWielding = false

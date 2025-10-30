@@ -22,7 +22,7 @@
     {
       "type": "attribute",
       "name": "minecraft:generic.max_health",
-      "value": 0.2,
+      "value": 0.25,
       "modifierUUID": "c740f6ba-9d08-4fed-94f4-d524815790f2",
       "attributeOperation": 1,
       "interactionType": "self",

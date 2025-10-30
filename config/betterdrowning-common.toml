@@ -19,7 +19,7 @@
 	[general.stronger-drowning]
 		#The amount of damage to do per block below the safe depth.
 		#Range: 0.0 ~ 1.7976931348623157E308
-		damage = 0.2
+		damage = 0.5
 		#The depth players can safely dive without this effect applying.
 		#Range: > 0
 		safe-depths = 10

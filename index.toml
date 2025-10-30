@@ -154,7 +154,7 @@ hash = "7ea22a19f38cd2dd16d5a0198e24b88a52ab2ac029e68db89aa0e98ea1676b36"
 
 [[files]]
 file = "config/armorsets/ignitium.json"
-hash = "6b2296250a80a0e684a59f69a6ca6c5a3dbb95847f77fec2a8e370e003a3d31d"
+hash = "32a55a99175e73ca03707240d2e772311d1fee5b79bc5b9f6451f17d7aacd128"
 
 [[files]]
 file = "config/armorsets/ignitium_chestplate.json"
@@ -218,7 +218,7 @@ hash = "2a966375593b5a0db06f0453f6b71c9479e85e91363913dde06766aaa765163b"
 
 [[files]]
 file = "config/armorsets/stellium_end.json"
-hash = "27f6517460b4cdce1ccfe1c372837a1e17fcc677d0201190ca3b2f529a2b0f3f"
+hash = "1b1eba1e26f271d3da40fc30be545e84c0f870240e97933df493e01105f4ffc5"
 
 [[files]]
 file = "config/armorsets/stellium_nether.json"
@@ -574,7 +574,7 @@ hash = "255bbad14ec1d92f1ade3eff5fb02109688ee900ed27bf524d401d1134acdc06"
 
 [[files]]
 file = "config/betterdrowning-common.toml"
-hash = "6f9432a173ae13992c2371e3ccb0359c76983385e7921e40195cf4175519a4d3"
+hash = "2003ce2c7a737be53f4c66137b0acb53aaa5c6cd29067fa3048d88dd9d6a09c9"
 
 [[files]]
 file = "config/betterdungeons-forge-1_16.toml"
@@ -686,7 +686,7 @@ hash = "4be402d13cfef8f600534c77da042081773603be53ac63d335234be4cb5f111f"
 
 [[files]]
 file = "config/dungeons_libraries-common.toml"
-hash = "ddb83d786ab644d2c04c82af4ce456c50181cce441203dce59019fd6d45be9c9"
+hash = "f5164e0262c2b0f70056d231df6f6eeb37579da7ffbd5ad84e42ae2730f3db71"
 
 [[files]]
 file = "config/easydiscordrichpresence-client.toml"
@@ -809,6 +809,10 @@ file = "config/hardernaturalhealing-common.toml"
 hash = "80279efc359dfe3ffdc738deea87f921f8431724a235d0365fafbea440180eed"
 
 [[files]]
+file = "config/harderspawners-common.toml"
+hash = "e53a31abe0772f55e2ebf972bc143a3c40686f8a5c6ae7cb04f5065121dce42e"
+
+[[files]]
 file = "config/healingcampfire-common.toml"
 hash = "fe18b5e7c1d6c08fbff56a86e1c725900f600fc42968a98fe16013fd1d2914c1"
 
@@ -926,7 +930,7 @@ hash = "65c3e79efc079fe6dc1d56cfffd4d223c09936dec27c90073ed0dc5a8a0ba4ee"
 
 [[files]]
 file = "config/rarities.json"
-hash = "4bec5a4cbf2c0d08bf044b14b129ec2a41dde6c8fe4eb941c1336b82f8b539ca"
+hash = "cba66eb98675897438ccc94618ef7c07407f2c87ef5615aa3a229d92d9c5ac0f"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
@@ -1424,6 +1428,11 @@ hash = "35962469594aca5c1e2b4c80d6f6e521a629859378873f66d53684d40490ae19"
 metafile = true
 
 [[files]]
+file = "mods/friendly-fire.pw.toml"
+hash = "7c4d0388d34c3a43e79f321313a8e22ecd11b56a9cfccd577c42c667064f1ae1"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "f1785b6fb4b3bd26594e173737a653a237f9e9e9c0d330faa56bdf0225217d75"
 metafile = true
@@ -1781,11 +1790,6 @@ metafile = true
 [[files]]
 file = "mods/spawner-fix.pw.toml"
 hash = "005665043df290c277ac7acb1f72e56f3215702cfb574cbde405cc40031b2f74"
-metafile = true
-
-[[files]]
-file = "mods/ssr.pw.toml"
-hash = "374183cb67e527bfe7c7ec284a1f6db6b41de9fc043934023008766ab8e7def3"
 metafile = true
 
 [[files]]
@@ -5418,7 +5422,7 @@ hash = "e554dcb7dad77f032fda5070b12e4b58d80d8633dab978a8ff40f802d71fbabf"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/fireproofitems/tags/items/fire_proof_items.json"
-hash = "a67abcb51e313e7d826c1e40de5fb8ef5da64e14d786687b6a75ee2bc02b12da"
+hash = "9cd8ee5b0242e1bb15b04146790917b135b78c83fa3662e1464a2f1a33c0cd57"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/forge/tags/blocks/glass.json"
@@ -6194,7 +6198,7 @@ hash = "5010c43563b825d22c922148b5e2ee454954a978e9a7a9b59895fc8718249a5d"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/majruszs_difficulty/loot_modifiers/double_loot.json"
-hash = "fc5dfa26957b6f7e96a035a6bd2b132b2adf6ea6e525d6887de1f397d5f5c4d1"
+hash = "3f471053cb216304e4027dc31b0fbbc23d4f02dcbf84b3aac18e990be6f292f0"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/majruszs_difficulty/loot_tables/chests/end_island_archer_tower.json"
@@ -6235,6 +6239,10 @@ hash = "91569b60db6cc45006104f850df8d82667b13f014c96a92dbe9fcde19b0192cc"
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/majruszs_difficulty/loot_tables/chests/end_ship_trader.json"
 hash = "4f1979c370c8b2b7c1ef79df95ea744c1a82941f5ba1e1a644ce5a7382d58d4c"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/majruszs_difficulty/loot_tables/gameplay/ender_dragon_treasure_loot.json"
+hash = "2bd7409dcd982dd932033c6d41d61f14eb9eed2a613d65c9decd5851d9320d5b"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/majruszs_difficulty/loot_tables/gameplay/fishing_treasure_loot.json"
@@ -10182,7 +10190,7 @@ hash = "e885655164fb60a603a2935ee199ecedbc813945a16e95f581d65ab2d610bab1"
 
 [[files]]
 file = "openloader/data/Useful Snowmen/data/damagingsnowmen/functions/holdingorb_5t.mcfunction"
-hash = "def33934eabe57527bb9c33d2f0f7b66c5c2e77f15d7177ca721682fd862809b"
+hash = "ffb53a2f4c146092fa619e48a685285f34c90ad47be031ec641fd0db971ca33b"
 
 [[files]]
 file = "openloader/data/Useful Snowmen/data/damagingsnowmen/functions/init.mcfunction"

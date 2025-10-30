@@ -21,7 +21,8 @@
             "cataclysm:ignitium_helmet",
             "cataclysm:ignitium_ingot",
             "cataclysm:ignitium_leggings",
-            "cataclysm:infernal_forge"
+            "cataclysm:infernal_forge",
+            "minecraft:dragon_egg"
         ]
     },
     "Legendary": {
