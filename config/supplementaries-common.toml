@@ -251,7 +251,7 @@
 		#Range: 0 ~ 20
 		cost = 2
 		#Allow bottling up xp by using a bottle on an enchanting table
-		enabled = false
+		enabled = true
 
 	[tweaks.bells_tweaks]
 		#Ring a bell by clicking on a chain that's connected to it

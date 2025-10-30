@@ -58,7 +58,7 @@
               "function": "minecraft:set_count"
             }
           ],
-          "name": "bygonenether:soul_stone",
+          "name": "infernalexp:soul_stone",
           "type": "minecraft:item",
           "weight": 10
         },

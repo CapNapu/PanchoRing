@@ -958,7 +958,7 @@ hash = "9623c8d1847834b93181a352683c263ca3f516235cc889e175176d2547f511d8"
 
 [[files]]
 file = "config/supplementaries-common.toml"
-hash = "b34e0119efe71d099ce0936922f3f8dd6f363fb9803fa95fc73434ac098efd7c"
+hash = "f84eb44a34c5aabc7de08a7b472a36c97c20818cb6a15158ef215696e73f8bc6"
 
 [[files]]
 file = "config/supplementaries-registry.toml"
@@ -2845,6 +2845,10 @@ file = "openloader/data/PanchoRing Tweaks/data/ars_elemental/recipes/water_focus
 hash = "dd00c324b84f0c0294545c7236fab52f11412093631a7dba09c25d157a15bebe"
 
 [[files]]
+file = "openloader/data/PanchoRing Tweaks/data/ars_nouveau/loot_tables/blocks/archwood_slab.json"
+hash = "8fecc2c5b0d95ad41362f4f2d2984f373cc4968d105ad9e33938a4b1a6cb0dd7"
+
+[[files]]
 file = "openloader/data/PanchoRing Tweaks/data/ars_nouveau/loot_tables/blocks/blue_archwood_leaves.json"
 hash = "f9bbbc3c8c9b787b8c07a8997546e6300b58e398bb72f2df59cd0480c446746f"
 
@@ -3738,7 +3742,7 @@ hash = "59b7c3ee58130cadbf95439749d17c52770b63b63c13e8e2c237d010aaf0d4d5"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/bygonenether/loot_tables/chests/catacomb/treasure_rib.json"
-hash = "5f59b3bdcbaac24a97a58bab7447bd8a8f01b928e6b303bdacc1d7cc7d2a49ac"
+hash = "9ee53f724a9dde34852953c9cdf5cce0819d02a7f30bd7afcf9b11033129713f"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/bygonenether/loot_tables/chests/citadel.json"
@@ -5321,8 +5325,36 @@ file = "openloader/data/PanchoRing Tweaks/data/extcaves/advancements/caves/zombi
 hash = "9065ffafbba96eb5d8df17dc8d84ce8ab1f9cfc21c6cb25aabc41f66c328d6a1"
 
 [[files]]
+file = "openloader/data/PanchoRing Tweaks/data/extcaves/loot_tables/blocks/bricks_ice_slab.json"
+hash = "7517a52e24de95c1936270b174cae59645e7fb0a08b7ab5a7ad662e23a96cb47"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/extcaves/loot_tables/blocks/bricks_snow_slab.json"
+hash = "a57e7cc121d6cbee5cdc0a5ac4ce1e9f920e023242e5d1a7e38b107aadc5de5e"
+
+[[files]]
 file = "openloader/data/PanchoRing Tweaks/data/extcaves/loot_tables/blocks/dirtstone.json"
 hash = "9519049727ff57d4bcf344955e55c440dde8fa5f35633351112ea2da6087aeb4"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/extcaves/loot_tables/blocks/dirtstone_cobble_slab.json"
+hash = "7fa2f94cc974a0477876e90221014d9e0e095494c583cd5088e73f349f8f39f1"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/extcaves/loot_tables/blocks/dirtstone_slab.json"
+hash = "675bc7d0e9ae07abeaf1592bcbda2ecbcc477ab832df05d0ae612c743fcf1e3c"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/extcaves/loot_tables/blocks/lavastone_slab.json"
+hash = "931eb45f60cd59df371aa8f678a468995c8c89daaeb8fd5a43f1f4f5eeee915e"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/extcaves/loot_tables/blocks/polished_lavastone_slab.json"
+hash = "49ad3618248a7357fc9f8a09cba8e0aaeb915490572a94b601325012943c7a9d"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/extcaves/loot_tables/blocks/sedimentstone_slab.json"
+hash = "f26ed2eb5403906d1d9475d1a3524cf1476522c8f05fd59f5451ec90faba399d"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/extcaves/loot_tables/blocks/treasure_pot.json"
@@ -5879,6 +5911,78 @@ hash = "80c2acf81533d22f1f4f1ffba21ba1b200ec39c151dde195221c168021e1b603"
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/improvedbackpacks/recipes/tiny_pocket.json"
 hash = "772ab6a60527c7aa20350085ebb2f50f36465be693082eecea1d4221dd93395a"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/infernalexp/loot_tables/blocks/basalt_brick_slab.json"
+hash = "cc81816d965e034683b40baec97a1b561a64de99bbe919f165f69755bca32336"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/infernalexp/loot_tables/blocks/basalt_cobbled_slab.json"
+hash = "aaa8c979a50779874c08bf334f477bc2e1ca3587c689fd6dbe7d0fe55cd2e5b4"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/infernalexp/loot_tables/blocks/basalt_slab.json"
+hash = "af22ff3f32a0d3815594ae5998b5ce7e842e283b79a108f067a329feab3f6ca4"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/infernalexp/loot_tables/blocks/dimstone_brick_slab.json"
+hash = "159add71ade90dd2be65bb5fb562ac6b3f4bf8b42cb53ff94e19913bacd6c58a"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/infernalexp/loot_tables/blocks/dullstone_brick_slab.json"
+hash = "1674cb17a6cacb51501cffc510eb82d2c108495613f440fe724fd03cb4940762"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/infernalexp/loot_tables/blocks/glowdust_stone_brick_slab.json"
+hash = "149f8e2cfd5aba3f78d02e0b2fbb0cf4fa15dfe8b3ecfb715125df43b424d1d0"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/infernalexp/loot_tables/blocks/glowdust_stone_slab.json"
+hash = "b0e470b9dd2e906c5408bf1f8f0d06b3f0a56d1769e67923f98bfd4a037e5131"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/infernalexp/loot_tables/blocks/glowstone_brick_slab.json"
+hash = "e89cb9227834083c15ba31fc360e1cd3ed47d9f1f97962cfe508d2bac4e5b545"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/infernalexp/loot_tables/blocks/polished_basalt_tiles_slab.json"
+hash = "1c5797a218b3b28b45383329d87247197e42004bbeb31b0a3864479191737832"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/infernalexp/loot_tables/blocks/smooth_dimstone_slab.json"
+hash = "f53d78742bd443e54e65eab2162d62584ea1bd976ee64dd444ae3d008d44495a"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/infernalexp/loot_tables/blocks/smooth_dullstone_slab.json"
+hash = "fca523c871fa0148ad9176545a635dfe8f43f63ff6c2a266f5e10feb48f33324"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/infernalexp/loot_tables/blocks/smooth_glowstone_slab.json"
+hash = "618ba1d48a12e27cc4df715d09bc39e388e2bb59445b769e40749c9c97fdf37e"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/infernalexp/loot_tables/blocks/soul_sand_slab.json"
+hash = "be430478e3bc9d2495011a153b887f906677331fe1c36b495a9c91845d29f7c6"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/infernalexp/loot_tables/blocks/soul_slate_brick_slab.json"
+hash = "39f4cb98c98589c58b3afffc1bbcf7e5e1ba38d229b3560f3566fea9daf5d6b7"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/infernalexp/loot_tables/blocks/soul_slate_slab.json"
+hash = "dd336b30424bd7d5559cd8c9cf716c239e187f11b383313f56c3055883a3b7ce"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/infernalexp/loot_tables/blocks/soul_soil_slab.json"
+hash = "1e5b0fd962b125255c674c1f4b77a70916e91a25aa31fa47bd91246cd38a51cf"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/infernalexp/loot_tables/blocks/soul_stone_brick_slab.json"
+hash = "5e01bc5c9f449981eecfb97a9f93abfd28e604944073fc9214caf1c4679b587a"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/infernalexp/loot_tables/blocks/soul_stone_slab.json"
+hash = "24e39d6c308f043b0c33931798c8ee4568c27e0f0e5f92e90b37d49d21882704"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/infernalexp/recipes/crafting/crafting_shaped/basalt_brick_slab.json"
@@ -6470,11 +6574,11 @@ hash = "26d4978a55496896de71d4c5da23dc7023ef99f0dc6f939c9b4542ba01a11d2c"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/minecraft/recipes/iron_nugget_from_blasting.json"
-hash = "baf686a3f2e1ce854e64f58d28e9a5d77f88b68d0c37b264a5a9ec93ec880f10"
+hash = "71c6eb1f5668d8896ca98c63f968582c556dfa91cd5c213d84ce280b76283f40"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/minecraft/recipes/iron_nugget_from_smelting.json"
-hash = "42ade8269af7aaf29083e2f9732458c1c8c90215cd3c3277ce58b75a99bed1ee"
+hash = "e44fa30daa2cf6b4112505701791bd8270ac10991dfcff8252a70a94e56fa35b"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/minecraft/recipes/jungle_stairs.json"
