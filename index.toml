@@ -674,7 +674,7 @@ hash = "a40ff3fe9b1145286a4ff92bd183187c3799fa8f4c732daf5d9c11d131d97d0c"
 
 [[files]]
 file = "config/dungeon_crawl.toml"
-hash = "04f8f71851536cd5bf1f352be0c6b63aa5cb41f7da40a8cd501ec3786dc0c787"
+hash = "ce5b534eb3fde8087f95be0506cc0347be786415e31652c909d58f806b8ddc03"
 
 [[files]]
 file = "config/dungeons_enhanced-common.toml"
@@ -810,7 +810,7 @@ hash = "80279efc359dfe3ffdc738deea87f921f8431724a235d0365fafbea440180eed"
 
 [[files]]
 file = "config/harderspawners-common.toml"
-hash = "e53a31abe0772f55e2ebf972bc143a3c40686f8a5c6ae7cb04f5065121dce42e"
+hash = "8132256f50b189316440547acc6f4fd22c9e52da9bdcde8e784b1cc283936c6c"
 
 [[files]]
 file = "config/healingcampfire-common.toml"
@@ -2030,7 +2030,7 @@ hash = "2630c26aa2bbbb555c4ec23c4c73c46ea7a18b7239c7c25660db8acd4acfbac0"
 
 [[files]]
 file = "openloader/data/Better Loot Tables/data/minecraft/loot_tables/chests/end_city_treasure.json"
-hash = "d6eeab8039f05cb073cd3810a0d7cf76547417de53b52f4d934995b2a735642d"
+hash = "f8e0990f0284cc1abd203ca9cdb6fd9e6d817fb83b46b443142ec0092e58a4d3"
 
 [[files]]
 file = "openloader/data/Better Loot Tables/data/minecraft/loot_tables/chests/igloo_chest.json"

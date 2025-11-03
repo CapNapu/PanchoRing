@@ -14,7 +14,7 @@
 	destroyLightRange = 4
 	#Spawner Break Speed Modifier: 0 = Off, 1 = 50% slower, 2-11 times slower
 	#Range: 0 ~ 11
-	spawnerBreakSpeedMultiplier = 4
+	spawnerBreakSpeedMultiplier = 1
 	#Spawner Revenge Level: 0 = Off, Over 1 spawner takes revenge on player.
 	#Range: 0 ~ 11
 	spawnerRevengeLevel = 1

@@ -28,8 +28,8 @@
         },
         {
           "type": "minecraft:item",
-          "weight": 12,
-          "quality": 2,
+          "weight": 16,
+          "quality": 1,
           "name": "phantasm:stellium_nugget",
           "functions": [
             {
