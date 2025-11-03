@@ -1,7 +1,7 @@
 {
   "profession": "minecraft:farmer",
   "removeOtherTrades": false,
-  "maxTrades": 3,
+  "maxTrades": 2,
   "trades": [
     {
       "offer": {

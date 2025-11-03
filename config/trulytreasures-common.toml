@@ -15,7 +15,7 @@
 	#Enable the salvaging of Dungeons Gear items by shift-right clicking villagers with the item in your hand. 
 	#Defines the maximum number of times you can buy from the same book trade
 	#Range: 1 ~ 100
-	"Max book trades" = 1
+	"Max book trades" = 3
 	#Defines whether it is possible for wandering traders to sell curse enchantments or not
 	"Wandering traders should sell curses" = false
 	#Disabling this will completely prevent wandering traders from selling any treasure enchantments

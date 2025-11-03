@@ -51,22 +51,6 @@
           "type": "minecraft:item"
         },
         {
-          "name": "dungeons_gear:beenest_helmet",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:beenest_chestplate",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:beenest_leggings",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:beenest_boots",
-          "type": "minecraft:item"
-        },
-        {
           "name": "dungeons_gear:beehive_helmet",
           "type": "minecraft:item"
         },

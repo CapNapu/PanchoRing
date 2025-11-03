@@ -62,19 +62,14 @@
           "weight": 3
         },
         {
-          "name": "dungeons_gear:spear",
+          "name": "dungeons_gear:mace",
           "type": "minecraft:item",
-          "weight": 2
+          "weight": 3
         },
         {
-          "name": "dungeons_gear:glaive",
+          "name": "dungeons_gear:sickle",
           "type": "minecraft:item",
-          "weight": 2
-        },
-        {
-          "name": "dungeons_gear:dagger",
-          "type": "minecraft:item",
-          "weight": 2
+          "weight": 3
         },
         {
           "name": "iceandfire:armor_copper_metal_helmet",

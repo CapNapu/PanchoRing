@@ -30,7 +30,7 @@
 #Range: -500.0 ~ 500.0
 Range = 48.0
 #Range: -500.0 ~ 500.0
-"Guard Health" = 20.0
+"Guard Health" = 24.0
 #Range: -500.0 ~ 500.0
 "Guard speed" = 0.5
 #Range: -500.0 ~ 500.0

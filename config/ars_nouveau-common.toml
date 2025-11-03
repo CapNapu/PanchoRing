@@ -78,7 +78,7 @@
 	manaBoost = 50
 	#Regen bonus per potion level
 	#Range: > 0
-	potionRegen = 2
+	potionRegen = 4
 	#Max mana bonus per glyph
 	#Range: > 0
 	glyphmax = 20
@@ -87,7 +87,7 @@
 	manaRegenEnchantment = 1
 	#Base max mana
 	#Range: > 0
-	baseMax = 200
+	baseMax = 250
 	#Regen bonus per glyph
 	#Range: 0.0 ~ 2.147483647E9
 	glyphRegen = 0.0

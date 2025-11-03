@@ -5,6 +5,6 @@
         "value": 0.334
     },
     "condition": {
-        "type": "origins:exposed_to_sun"
+        "type": "origins:daytime"
     }
 }

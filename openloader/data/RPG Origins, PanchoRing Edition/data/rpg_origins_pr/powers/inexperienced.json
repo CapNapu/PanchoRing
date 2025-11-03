@@ -5,8 +5,23 @@
         "value": -0.334
     },
     "damage_condition": {
-        "inverted": true,
-        "type": "origins:name",
-        "name": "explosion.player"
+        "type": "origins:or",
+        "conditions": [
+            {            
+                "inverted": true,
+                "type": "origins:name",
+                "name": "explosion.player"
+            },
+            {            
+                "inverted": true,
+                "type": "origins:name",
+                "name": "magic"
+            },
+            {
+                "inverted": true,
+                "type": "origins:name",
+                "name": "indirect_magic"
+            }
+        ]
     }
 }

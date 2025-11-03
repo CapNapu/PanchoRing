@@ -507,6 +507,22 @@
           "type": "minecraft:item"
         },
         {
+          "name": "dungeons_gear:scale_mail_helmet",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:scale_mail_chestplate",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:scale_mail_leggings",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:scale_mail_boots",
+          "type": "minecraft:item"
+        },
+        {
           "name": "dungeons_gear:snow_helmet",
           "type": "minecraft:item"
         },
@@ -699,6 +715,22 @@
           "type": "minecraft:item"
         },
         {
+          "name": "dungeons_gear:beenest_helmet",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:beenest_chestplate",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:beenest_leggings",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "dungeons_gear:beenest_boots",
+          "type": "minecraft:item"
+        },
+        {
           "name": "dungeons_gear:the_last_laugh",
           "type": "minecraft:item"
         },
@@ -824,22 +856,6 @@
         },
         {
           "name": "dungeons_gear:opulent_boots",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:beenest_helmet",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:beenest_chestplate",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:beenest_leggings",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:beenest_boots",
           "type": "minecraft:item"
         },
         {
@@ -984,22 +1000,6 @@
         },
         {
           "name": "dungeons_gear:renegade_boots",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:scale_mail_helmet",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:scale_mail_chestplate",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:scale_mail_leggings",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:scale_mail_boots",
           "type": "minecraft:item"
         },
         {

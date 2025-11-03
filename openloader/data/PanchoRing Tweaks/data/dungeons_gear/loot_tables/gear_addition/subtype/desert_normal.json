@@ -35,22 +35,6 @@
           "type": "minecraft:item"
         },
         {
-          "name": "dungeons_gear:thief_helmet",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:thief_chestplate",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:thief_leggings",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:thief_boots",
-          "type": "minecraft:item"
-        },
-        {
           "name": "dungeons_gear:spider_helmet",
           "type": "minecraft:item"
         },

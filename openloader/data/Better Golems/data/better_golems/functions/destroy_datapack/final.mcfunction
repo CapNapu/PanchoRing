@@ -1,1 +1,1 @@
-datapack disable "file/better-golems-v3.3a.zip"
+datapack disable "file/better-golems-v3.4a.zip"

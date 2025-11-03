@@ -5,12 +5,12 @@
         {
           "name": "majruszs_difficulty:bandage",
           "type": "minecraft:item",
-          "weight": 20
+          "weight": 10
         },
         {
           "name": "dungeons_gear:arrow_bundle",
           "type": "minecraft:item",
-          "weight": 5
+          "weight": 10
         },
         {
           "name": "majruszs_difficulty:hermes_boots",
@@ -25,7 +25,7 @@
           ],
           "name": "minecraft:book",
           "type": "minecraft:item",
-          "weight": 5
+          "weight": 10
         }
       ],
       "rolls": {

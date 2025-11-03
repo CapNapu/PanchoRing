@@ -4,7 +4,7 @@
       "item": "minecraft:stick"
     },
     "~": {
-      "item": "minecraft:string"
+      "item": "minecraft:bow"
     },
     "$": {
       "item": "minecraft:tripwire_hook"
@@ -14,9 +14,9 @@
     }
   },
   "pattern": [
-    "#A#",
-    "~$~",
-    " # "
+    " $ ",
+    "#~#",
+    "#A#"
   ],
   "result": {
     "item": "minecraft:crossbow"

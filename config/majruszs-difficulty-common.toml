@@ -64,7 +64,7 @@
 			normal = 20
 			#Expert Mode
 			#Range: 3 ~ 100
-			expert = 15
+			expert = 20
 			#Master Mode
 			#Range: 3 ~ 100
 			master = 10
@@ -120,7 +120,7 @@
 		is_enabled = true
 		#Effect duration in seconds.
 		#Range: 1.0 ~ 600.0
-		duration = 10.0
+		duration = 15.0
 		#Chance of this feature to happen. 
 		#Range: 0.0 ~ 1.0
 		chance = 0.1
@@ -446,7 +446,7 @@
 	[Features.EndLeggings]
 		#Armor bonus for every enchantment level.
 		#Range: 0.0 ~ 10.0
-		armor_bonus = 0.1
+		armor_bonus = 0.085
 
 	#Pillager spawns in groups with Pillager's Wolves.
 	[Features.PillagerGroup]
@@ -581,7 +581,7 @@
 	player_scale = 0.75
 	#Required amount of killed undead to start the Undead Army.
 	#Range: 10 ~ 1000
-	kill_requirement = 75
+	kill_requirement = 100
 	#The maximum duration before Undead Army will end if there is no player. (in seconds) (requires game/world restart!) 
 	#Range: 300.0 ~ 3200.0
 	inactive_duration = 900.0
@@ -605,13 +605,13 @@
 	[UndeadArmy.Experience]
 		#Normal Mode
 		#Range: 4 ~ 1000
-		normal = 40
+		normal = 50
 		#Expert Mode
 		#Range: 4 ~ 1000
-		expert = 60
+		expert = 100
 		#Master Mode
 		#Range: 4 ~ 1000
-		master = 120
+		master = 200
 
 	#Treasure Bags for each player after defeating the Undead Army.
 	[UndeadArmy.TreasureBags]
@@ -620,10 +620,10 @@
 		normal = 1
 		#Expert Mode
 		#Range: 1 ~ 5
-		expert = 1
+		expert = 2
 		#Master Mode
 		#Range: 1 ~ 5
-		master = 2
+		master = 3
 
 	#Chance of the undead to have armor piece. (separate for each armor piece)
 	[UndeadArmy.ArmorChance]

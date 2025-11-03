@@ -32,7 +32,7 @@
 	},
 	"obsidilithConfig": {
 		"health": 475.0,
-		"armor": 14.0,
+		"armor": 20.0,
 		"attack": 16.0,
 		"idleHealingPerTick": 0.5,
 		"experienceDrop": 200,
@@ -44,7 +44,7 @@
 	},
 	"gauntletConfig": {
 		"health": 325.0,
-		"armor": 8.0,
+		"armor": 12.0,
 		"attack": 16.0,
 		"idleHealingPerTick": 0.5,
 		"experienceDrop": 200,
@@ -54,7 +54,7 @@
 	},
 	"voidBlossomConfig": {
 		"health": 400.0,
-		"armor": 6.0,
+		"armor": 10.0,
 		"attack": 12.0,
 		"idleHealingPerTick": 0.5,
 		"experienceDrop": 200

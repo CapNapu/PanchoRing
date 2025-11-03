@@ -4,11 +4,11 @@
         "type": "origins:spawn_effect_cloud",
         "radius": 5,
         "radius_on_use": -0.2,
-        "wait_time": 0,
+        "wait_time": 10,
         "effect": {
             "effect": "minecraft:regeneration",
             "duration": 30,
-            "amplifier": 2,
+            "amplifier": 4,
             "show_particles": true,
             "show_icon": true
         }

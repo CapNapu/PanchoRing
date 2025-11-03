@@ -1,0 +1,1 @@
+schedule function panchoring:custom_attributes 1s

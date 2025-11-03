@@ -5,6 +5,7 @@
     "duration_per_stack": 400,
     "effect": {
         "effect": "minecraft:hero_of_the_village",
+        "amplifier": 1,
         "is_ambient": true,
         "show_particles": false,
         "show_icon": true

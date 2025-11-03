@@ -20,7 +20,7 @@
 			infernalForgeAttackKnockBackStrength = 0.1
 			#Take a look at Minecraft Wiki to learn more about EnchantmentValue (aka Enchantability) based on item tiers (Pay attention to that table.): https://minecraft.fandom.com/wiki/Tiers
 			#Range: > 1
-			infernalForgeEnchantmentValue = 16
+			infernalForgeEnchantmentValue = 22
 			#Right click Infernal Forge to trigger Earth Quake, and here is its radius.
 			#Range: 1.0 ~ 1.7976931348623157E308
 			infernalForgeEarthQuakeRadius = 6.0
@@ -31,7 +31,7 @@
 			infernalForgeCoolDown = 300
 			#When the player's health is below half of their maximum health, Infernal Forge's attack will set them on fire.
 			#Range: > 1
-			infernalForgeFireSeconds = 4
+			infernalForgeFireSeconds = 5
 
 		[CataclysmExtraConfig.Items.Zweiender]
 			zweienderCanBeDamaged = false
@@ -39,8 +39,8 @@
 
 		[CataclysmExtraConfig.Items.GauntletOfGuard]
 			#Range: 0.0 ~ 1.7976931348623157E308
-			gauntletOfGuardEntitiesDetectionRadius = 12.0
-			gauntletOfGuardIsEnchantable = true
+			gauntletOfGuardEntitiesDetectionRadius = 32.0
+			gauntletOfGuardIsEnchantable = false
 			#Take a look at Minecraft Wiki to learn more about EnchantmentValue (aka Enchantability) based on item tiers (Pay attention to that table.): https://minecraft.fandom.com/wiki/Tiers
 			#Range: > 0
 			gauntletOfGuardEnchantmentValue = 16
@@ -49,7 +49,7 @@
 			gauntletOfGuardCanDisableShield = true
 
 		[CataclysmExtraConfig.Items.TheIncinerator]
-			showStatusMessageWhenIncineratorFlameStrikeIsReady = true
+			showStatusMessageWhenIncineratorFlameStrikeIsReady = false
 			#Take a look at Minecraft Wiki to learn more about EnchantmentValue (aka Enchantability) based on item tiers (Pay attention to that table.): https://minecraft.fandom.com/wiki/Tiers
 			#Range: > 1
 			incineratorEnchantmentValue = 1

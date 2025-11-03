@@ -75,7 +75,7 @@
               "function": "minecraft:set_count"
             }
           ],
-          "name": "minecraft:chainmail_helmet",
+          "name": "minecraft:iron_helmet",
           "type": "minecraft:item",
           "weight": 3
         },
@@ -86,7 +86,7 @@
               "function": "minecraft:set_count"
             }
           ],
-          "name": "minecraft:chainmail_chestplate",
+          "name": "minecraft:iron_chestplate",
           "type": "minecraft:item",
           "weight": 3
         },
@@ -97,7 +97,7 @@
               "function": "minecraft:set_count"
             }
           ],
-          "name": "minecraft:chainmail_leggings",
+          "name": "minecraft:iron_leggings",
           "type": "minecraft:item",
           "weight": 3
         },
@@ -108,7 +108,7 @@
               "function": "minecraft:set_count"
             }
           ],
-          "name": "minecraft:chainmail_boots",
+          "name": "minecraft:iron_boots",
           "type": "minecraft:item",
           "weight": 3
         }

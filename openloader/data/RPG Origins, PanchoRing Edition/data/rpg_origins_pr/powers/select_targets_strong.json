@@ -10,8 +10,8 @@
             {            
                 "type": "origins:attribute",
                 "attribute": "generic.max_health",
-                "comparison": ">=",
-                "compare_to": 48
+                "comparison": ">",
+                "compare_to": 50
             },
             {
                 "inverted": true,

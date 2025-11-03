@@ -51,22 +51,6 @@
           "type": "minecraft:item"
         },
         {
-          "name": "dungeons_gear:scale_mail_helmet",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:scale_mail_chestplate",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:scale_mail_leggings",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:scale_mail_boots",
-          "type": "minecraft:item"
-        },
-        {
           "name": "dungeons_gear:highland_helmet",
           "type": "minecraft:item"
         },

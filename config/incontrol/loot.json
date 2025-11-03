@@ -2,35 +2,41 @@
     {
         "mob": "minecraft:zombie",
         "remove": [
+            "ars_nouveau:novice_boots",
+            "ars_nouveau:novice_hood",
             "ars_nouveau:novice_leggings",
             "ars_nouveau:novice_robes",
             "dungeons_gear:mercenary_chestplate",
-            "dungeons_gear:mercenary_helmet",
+            "dungeons_gear:mercenary_leggings",
+            "dungeons_gear:spelunker_boots",
+            "dungeons_gear:spelunker_chestplate",
+            "dungeons_gear:spelunker_helmet",
+            "dungeons_gear:spelunker_leggings",
+            "iceandfire:armor_silver_metal_boots",
+            "iceandfire:armor_silver_metal_chestplate",
+            "iceandfire:armor_silver_metal_helmet",
+            "iceandfire:armor_silver_metal_leggings",
             "minecraft:chainmail_chestplate",
-            "minecraft:chainmail_leggings"
+            "minecraft:chainmail_leggings",
+            "minecraft:iron_boots",
+            "minecraft:iron_chestplate",
+            "minecraft:iron_helmet",
+            "minecraft:iron_leggings"
         ]
     },
     {
         "mob": "minecraft:husk",
         "remove": [
             "dungeons_gear:thief_chestplate",
-            "dungeons_gear:thief_helmet"
+            "dungeons_gear:thief_helmet",
+            "minecraft:golden_boots",
+            "minecraft:golden_chestplate",
+            "minecraft:golden_helmet",
+            "minecraft:golden_leggings"
         ]
     },
     {
-        "mob": [
-            "minecraft:husk",
-            "minecraft:zombie"
-        ],
-        "remove": [
-            "dungeons_gear:spelunker_chestplate",
-            "dungeons_gear:spelunker_helmet"
-        ]
-    },
-    {
-        "mob": [
-            "minecraft:skeleton"
-        ],
+        "mob": "minecraft:skeleton",
         "remove": [
             "dungeons_gear:soul_chestplate",
             "dungeons_gear:soul_helmet",
@@ -57,6 +63,18 @@
             "epicfight:stray_hat",
             "epicfight:stray_pants",
             "epicfight:stray_robe"
+        ]
+    },
+    {
+        "mob": [
+            "guardvillagers:guard",
+            "minecraft:zombie_villager"
+        ],
+        "remove": [
+            "dungeons_gear:guards_boots",
+            "dungeons_gear:guards_chestplate",
+            "dungeons_gear:guards_helmet",
+            "dungeons_gear:guards_leggings"
         ]
     },
     {
@@ -87,18 +105,6 @@
             "bygonenether:corpor",
             "bygonenether:wither_skeleton_horse",
             "bygonenether:wraither"
-        ]
-    },
-    {
-        "mob": [
-            "guardvillagers:guard",
-            "minecraft:zombie_villager"
-        ],
-        "remove": [
-            "dungeons_gear:guards_boots",
-            "dungeons_gear:guards_chestplate",
-            "dungeons_gear:guards_helmet",
-            "dungeons_gear:guards_leggings"
         ]
     },
     {

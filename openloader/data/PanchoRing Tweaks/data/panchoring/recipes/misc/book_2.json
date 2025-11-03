@@ -1,0 +1,17 @@
+{
+  "ingredients": [
+    {
+      "item": "iceandfire:manuscript"
+    },
+    {
+      "item": "iceandfire:manuscript"
+    },
+    {
+      "item": "minecraft:leather"
+    }
+  ],
+  "result": {
+    "item": "minecraft:book"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

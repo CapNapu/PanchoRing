@@ -35,22 +35,6 @@
           "type": "minecraft:item"
         },
         {
-          "name": "dungeons_gear:phantom_helmet",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:phantom_chestplate",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:phantom_leggings",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "dungeons_gear:phantom_boots",
-          "type": "minecraft:item"
-        },
-        {
           "name": "dungeons_gear:frost_bite_helmet",
           "type": "minecraft:item"
         },

@@ -4,18 +4,7 @@
         "type": "origins:modify_damage_dealt",
         "modifier": {
             "operation": "multiply_base",
-            "value": -0.334
-        },
-        "condition": {
-            "type": "origins:dimension",
-            "dimension": "minecraft:the_nether"
-        }
-    },
-    "ranged.dmg": {
-        "type": "origins:modify_projectile_damage",
-        "modifier": {
-            "operation": "multiply_base",
-            "value": -0.334
+            "value": -0.5
         },
         "condition": {
             "type": "origins:dimension",
@@ -26,8 +15,21 @@
         "type": "origins:modify_damage_taken",
         "modifier": {
             "operation": "multiply_base",
-            "value": 0.334
+            "value": 0.5
         },
+        "condition": {
+            "type": "origins:dimension",
+            "dimension": "minecraft:the_nether"
+        }
+    },
+    "movement.spd": {
+        "type": "origins:conditioned_attribute",
+        "modifier": {
+            "attribute": "minecraft:generic.movement_speed",
+            "operation": "multiply_base",
+            "value": -0.2
+        },
+        "tick_rate": 5,
         "condition": {
             "type": "origins:dimension",
             "dimension": "minecraft:the_nether"
