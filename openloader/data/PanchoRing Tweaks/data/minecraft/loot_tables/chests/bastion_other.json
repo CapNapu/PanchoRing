@@ -164,7 +164,7 @@
               "function": "minecraft:enchant_randomly"
             }
           ],
-          "name": "dungeons_gear:stone_sword",
+          "name": "majruszs_difficulty:wither_sword",
           "type": "minecraft:item",
           "weight": 2
         },

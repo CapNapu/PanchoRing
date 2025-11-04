@@ -1,5 +1,5 @@
 #Illagers In Raids Attack Animals?
-"Illagers in raids attack animals?" = false
+"Illagers in raids attack animals?" = true
 #Witches Attack Villagers?
 "Witches attack villagers?" = true
 #This will make Illusioners get involved in raids
@@ -21,7 +21,7 @@
 #This makes guards form a phalanx
 "Have guards form a phalanx?" = true
 #This will make guards attempt to avoid friendly fire.
-"Have guards attempt to avoid firing into other friendlies? (Experimental)" = true
+"Have guards attempt to avoid firing into other friendlies? (Experimental)" = false
 #This will make it so villagers will only be converted into guards if the player has hero of the village
 "Make it so players have to have hero of the village to convert villagers into guards?" = true
 "Have it so blacksmiths heal golems under 60 health?" = true

@@ -63,7 +63,7 @@
         {
           "type": "minecraft:item",
           "weight": 8,
-          "name": "dungeons_gear:stone_sword",
+          "name": "majruszs_difficulty:wither_sword",
           "functions": [
             {
               "function": "minecraft:set_damage",

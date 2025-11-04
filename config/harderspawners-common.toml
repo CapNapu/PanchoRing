@@ -14,13 +14,13 @@
 	destroyLightRange = 4
 	#Spawner Break Speed Modifier: 0 = Off, 1 = 50% slower, 2-11 times slower
 	#Range: 0 ~ 11
-	spawnerBreakSpeedMultiplier = 1
+	spawnerBreakSpeedMultiplier = 4
 	#Spawner Revenge Level: 0 = Off, Over 1 spawner takes revenge on player.
 	#Range: 0 ~ 11
 	spawnerRevengeLevel = 1
 	#Explode percentage when Spawners Break
 	#Range: 0.0 ~ 100.0
-	spawnersExplodePercentage = 33.0
+	spawnersExplodePercentage = 100.0
 
 ["No Break Mobs Values 6464"]
 	#Trail Block String 6464

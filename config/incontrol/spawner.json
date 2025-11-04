@@ -1,0 +1,14 @@
+[
+    {
+        "amount": {
+            "maximum": 4,
+            "minimum": 1
+        },
+        "attempts": 10,
+        "conditions": {
+            "dimension": "minecraft:the_nether"
+        },
+        "mob": "bygonenether:wraither",
+        "persecond": 0.5
+    }
+]

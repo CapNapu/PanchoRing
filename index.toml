@@ -714,7 +714,7 @@ hash = "6d8b0162300eeb597194a70fcf1f2fefcd18f6a0b8417a0a05838369bb2dcdf5"
 
 [[files]]
 file = "config/endrem.toml"
-hash = "26c6c58501836f058079f253f97022ca8897cca2608e9af9d7c960ea342b94ca"
+hash = "7a0c5e7a428bc0fd13e214baf64097d6c8a0b326f1ab533c014a5d1216532b47"
 
 [[files]]
 file = "config/enhancedvisuals-client.json"
@@ -802,7 +802,7 @@ hash = "d574e55b9399289a2183a375129e43e3d7a2d54146ab73f727c27f196fa55c4b"
 
 [[files]]
 file = "config/guardvillagers-common.toml"
-hash = "c1c39ed8c0d64269649d3ff49819fbbc1b9c932b585dc9a96fbb79e20604a292"
+hash = "569ce4c7a9393f8b730df94ccd533995a71f43f66599a426ed04df9d28819961"
 
 [[files]]
 file = "config/hardernaturalhealing-common.toml"
@@ -810,7 +810,7 @@ hash = "80279efc359dfe3ffdc738deea87f921f8431724a235d0365fafbea440180eed"
 
 [[files]]
 file = "config/harderspawners-common.toml"
-hash = "8132256f50b189316440547acc6f4fd22c9e52da9bdcde8e784b1cc283936c6c"
+hash = "2822aa32328549d6e2836f9fc113f37d2b6115cca849479fdecd8ec32d996a92"
 
 [[files]]
 file = "config/healingcampfire-common.toml"
@@ -822,7 +822,7 @@ hash = "6cefc645cb8623b113442c0e9cfad13473b28be3ee54adfdeed0b25eaab843a4"
 
 [[files]]
 file = "config/iceandfire-common.toml"
-hash = "037858e5a99a449d155f50bbbfac8f66f3c4de6b6723c129f9a623cfc5384a7e"
+hash = "1e7de3097dbe953259c3eb5464c000dcc8d821dbe2361328b2c8442219c618bf"
 
 [[files]]
 file = "config/improvedbackpacks-common.toml"
@@ -834,7 +834,11 @@ hash = "0a9fdb493bb5226d2088be7144276d496e90ff887f128dabb3a99469eef4efbf"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "f7ca57ac3268d281954406c5ebf3985310f6d12dc1e37e208233e488e3334c92"
+hash = "34b0942064a9b91ecf0dcda8be770ae9de2bc944b1a8930d2d489852a1dcc244"
+
+[[files]]
+file = "config/incontrol/spawner.json"
+hash = "6d8d3d0f8fa391f53185175abf96c04b8b8ba5f7b3c9e9f913a5d3f28895b121"
 
 [[files]]
 file = "config/infernalexp-common.toml"
@@ -878,7 +882,7 @@ hash = "75654f9bd96c860820efacbffec15efef294a802d4bfeebcd5501a66d8871d05"
 
 [[files]]
 file = "config/majruszs-difficulty-common.toml"
-hash = "49ff0cdb2a8bce19105164eaf980c80b5324dd212e7f3e738a9cccaa6c5522c5"
+hash = "7a21567c5b9e3026d3995884c226716101e0856e8a9d0c92c67f5b94f425d8d3"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -1398,11 +1402,6 @@ hash = "e03980eb81eaabcb5b8be4f7d44f4d9f15b5b4f8c42f3cfd00f7ed16dab62c70"
 metafile = true
 
 [[files]]
-file = "mods/fluidium.pw.toml"
-hash = "f10e47e0d24068bbf034e1643d940de067c8f26268d0c63fee7d7e4522a83ca5"
-metafile = true
-
-[[files]]
 file = "mods/food-effects.pw.toml"
 hash = "5601bbc2173601dc2335eb184ad9c731420b1d797d312e9ec1ab899489ba3f77"
 metafile = true
@@ -1793,6 +1792,11 @@ hash = "005665043df290c277ac7acb1f72e56f3215702cfb574cbde405cc40031b2f74"
 metafile = true
 
 [[files]]
+file = "mods/ssr.pw.toml"
+hash = "374183cb67e527bfe7c7ec284a1f6db6b41de9fc043934023008766ab8e7def3"
+metafile = true
+
+[[files]]
 file = "mods/starter-kit.pw.toml"
 hash = "c1f256449f8b26e46de35df2c38a9a16a77d57785f975b05970a795e8ad88523"
 metafile = true
@@ -2046,7 +2050,7 @@ hash = "9a003f452eb09bbb9b3df2fbd06a7b9ea3cc22c8dbb35fddf37c96bb206a9aee"
 
 [[files]]
 file = "openloader/data/Better Loot Tables/data/minecraft/loot_tables/chests/nether_bridge.json"
-hash = "77160d4c5439dbef6ec04fc5c5b340251bd27d43d342cfd8b9f129526e57e8f8"
+hash = "9f1c7076d30bb127df3ad152dfd78bf3963020c2a28057b7fb2563abb539619f"
 
 [[files]]
 file = "openloader/data/Better Loot Tables/data/minecraft/loot_tables/chests/pillager_outpost.json"
@@ -5465,6 +5469,30 @@ file = "openloader/data/PanchoRing Tweaks/data/forge/tags/items/stone.json"
 hash = "e5b95583871cf69524b48139c989ba756708b5c711c4d4e8d4890ac5636bdf80"
 
 [[files]]
+file = "openloader/data/PanchoRing Tweaks/data/guardvillagers/loot_tables/entities/guard_chestplate.json"
+hash = "6538d4476c5efeb5bb11dca9a090b099c8bd1389a446eeb201b7acf7eecae0a1"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/guardvillagers/loot_tables/entities/guard_feet.json"
+hash = "2b4a93c283744f012bdafb36ab4eaac6212609dc11ed61129f835b3b6359ec01"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/guardvillagers/loot_tables/entities/guard_helmet.json"
+hash = "1c5a8e16a0128c6b1d20e7c087016fbb11836a0c56ef73a4f0c821aef27e7ad5"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/guardvillagers/loot_tables/entities/guard_legs.json"
+hash = "c703515dc06d973daee1c1e44304f3e66c418fbae92bb7977f9a580b903e73bc"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/guardvillagers/loot_tables/entities/guard_main_hand.json"
+hash = "54269ba490bb6db9cd636280d3413d6de6e6d2d806d6497bbd56f4b399ccd2ac"
+
+[[files]]
+file = "openloader/data/PanchoRing Tweaks/data/guardvillagers/loot_tables/entities/guard_off_hand.json"
+hash = "90a70807e7d81e0339892b3ad2234b00c1f0e5ebe8a12739bb2c69ce21c9acf8"
+
+[[files]]
 file = "openloader/data/PanchoRing Tweaks/data/iceandfire/advancements/iceandfire/bestiary.json"
 hash = "9065ffafbba96eb5d8df17dc8d84ce8ab1f9cfc21c6cb25aabc41f66c328d6a1"
 
@@ -6466,7 +6494,7 @@ hash = "6e6b94184bb44b144ebc70e05de01847621dcf9ab2c13a0473384d5ef7577ae4"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/minecraft/loot_tables/chests/bastion_other.json"
-hash = "b66dc0c6e407e4c431c76325088492478f2400fed0fdc8fad24cadc5350389cd"
+hash = "2dc64b9e2e666723751eb1ea4f6347166b003804eb30e44b815d91c3e0fabe04"
 
 [[files]]
 file = "openloader/data/PanchoRing Tweaks/data/minecraft/loot_tables/chests/bastion_treasure.json"
@@ -9399,30 +9427,6 @@ hash = "eedbf40ce85e0f8553efc1e20a159be1d016424390735cb2fe4b785d87ce1204"
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/guardvillagers/epicfight_mobpatch/guard.json"
 hash = "12986113930d99f504b079f139eedee4da6c20ca56eff04ec2a8b0a78ddebd0b"
-
-[[files]]
-file = "openloader/data/PanchoRing, EpicFight Compat/data/guardvillagers/loot_tables/entities/guard_chestplate.json"
-hash = "6538d4476c5efeb5bb11dca9a090b099c8bd1389a446eeb201b7acf7eecae0a1"
-
-[[files]]
-file = "openloader/data/PanchoRing, EpicFight Compat/data/guardvillagers/loot_tables/entities/guard_feet.json"
-hash = "2b4a93c283744f012bdafb36ab4eaac6212609dc11ed61129f835b3b6359ec01"
-
-[[files]]
-file = "openloader/data/PanchoRing, EpicFight Compat/data/guardvillagers/loot_tables/entities/guard_helmet.json"
-hash = "1c5a8e16a0128c6b1d20e7c087016fbb11836a0c56ef73a4f0c821aef27e7ad5"
-
-[[files]]
-file = "openloader/data/PanchoRing, EpicFight Compat/data/guardvillagers/loot_tables/entities/guard_legs.json"
-hash = "c703515dc06d973daee1c1e44304f3e66c418fbae92bb7977f9a580b903e73bc"
-
-[[files]]
-file = "openloader/data/PanchoRing, EpicFight Compat/data/guardvillagers/loot_tables/entities/guard_main_hand.json"
-hash = "54269ba490bb6db9cd636280d3413d6de6e6d2d806d6497bbd56f4b399ccd2ac"
-
-[[files]]
-file = "openloader/data/PanchoRing, EpicFight Compat/data/guardvillagers/loot_tables/entities/guard_off_hand.json"
-hash = "90a70807e7d81e0339892b3ad2234b00c1f0e5ebe8a12739bb2c69ce21c9acf8"
 
 [[files]]
 file = "openloader/data/PanchoRing, EpicFight Compat/data/iceandfire/capabilities/weapons/amphithere_macuahuitl.json"

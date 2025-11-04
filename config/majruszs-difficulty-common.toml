@@ -38,10 +38,10 @@
 	#Wither Skeleton spawns with Wither Sword.
 	[Features.WitherSkeletonSword]
 		#Is this feature enabled?
-		is_enabled = true
+		is_enabled = false
 		#Chance of this feature to happen. (this value is scaled by Clamped Regional Difficulty)
 		#Range: 0.0 ~ 1.0
-		chance = 0.75
+		chance = 0.0
 
 	#Animals, zombies and spiders inflict bleeding.
 	[Features.BiteBleeding]
@@ -381,10 +381,10 @@
 	#Drowned attacks with trident spawn lightning bolt.
 	[Features.DrownedLightning]
 		#Is this feature enabled?
-		is_enabled = true
+		is_enabled = false
 		#Chance of this feature to happen. (this value is scaled by Clamped Regional Difficulty)
 		#Range: 0.0 ~ 1.0
-		chance = 0.33
+		chance = 0.0
 
 	#Skeleton spawns in groups.
 	[Features.SkeletonGroup]
